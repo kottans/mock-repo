@@ -17,3 +17,5 @@ Here you can see [How does the Internet work](https://www.youtube.com/watch?v=qE
 
 
 What's up?
+
++![Screenshot](gif/DeveloperBedtimeParadox.jpg)
