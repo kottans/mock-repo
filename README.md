@@ -20,4 +20,6 @@ Here you can see [How does the Internet work](https://www.youtube.com/watch?v=qE
 
 What's up?
 
+Oops, someone pushed first. This line is already taken.
+
 ![Screenshot](gif/DeveloperBedtimeParadox.jpg)
