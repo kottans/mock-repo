@@ -1,9 +1,9 @@
-Hi,
+﻿Hi,
 
 this is a training repository for [Kottans web course](https://github.com/Kottans/web). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like - for example, fixing a typo in README.md. Consider this phrase, for example:
 
-*internationally misspelled phrase*
+*choko-brocko*
 
 Try it! It’s fun, we promise :)
 
