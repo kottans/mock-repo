@@ -13,6 +13,8 @@ By the way, creating issues is fun too!
 
 **NB! You pull-request may not be reviewed very quickly, please have patience.**
 
+If you are impatient use [chat](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) with other to make fun from conversation.
+
 ----------
 
 Here you can see [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM) or play some funny [game](http://spielzeugz.de/html5/liquid-particles/)
