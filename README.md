@@ -1,9 +1,9 @@
 ﻿Hi,
 
-this is a training repository for [Kottans web course](https://github.com/Kottans/web). You can try sending pull-requests to this repository proposing a change.
-The change can be anything you like - for example, fixing a typo in README.md. Consider this phrase, for example:
+This is a training repository for [Kottans web course](https://github.com/Kottans/web). You can try sending pull-requests to this repository proposing a change.
+The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
-*internationaally misspelled phrase*
+*Internationally misspelled phrase*
 
 Try it! It’s fun, we promise :)
 
