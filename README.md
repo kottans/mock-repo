@@ -34,3 +34,9 @@ Hi)
 
 Hello)
 Resolve conflict
+
+----------
+
+Hi there!
+
+![Refactoring cat](gif/refactoring.gif)
