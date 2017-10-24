@@ -13,7 +13,10 @@ By the way, creating issues is fun too!
 
 **NB! You pull-request may not be reviewed very quickly, please have patience.**
 
-If you are impatient use [chat](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) with other to make fun from conversation.
+If you are impatient use
+[web course chat](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+or [frontend course chat](https://gitter.im/Kottans/frontend)
+with other to make fun from conversation.
 
 ----------
 
