@@ -38,7 +38,9 @@ Hi)
 Hello)
 Resolve conflict
 
-----------
+Hey. How do you like this cat?
+
+![Screenshot](gif/tail.gif)
 
 Hi there!
 
