@@ -34,6 +34,8 @@ Hi!
 
 Hi)
 
+Kottans unite! We must seize the world of frontend)
+
 
 Hello)
 Resolve conflict
