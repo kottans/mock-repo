@@ -50,9 +50,8 @@ Hi there!
 
 Hello everybody!)
 
-
-Hello, World and Kottans!
-
 Hi guys =) 
 
 <b>Hello all.</b>
+
+Hello, World and Kottans!
