@@ -34,7 +34,7 @@ Hi!
 
 Hi)
 
-Cats unite! We must seize the world of frontend)
+Kottans unite! We must seize the world of frontend)
 
 
 Hello)
