@@ -47,3 +47,5 @@ Hi there!
 ![Refactoring cat](gif/refactoring.gif)
 
 Hello everybody!)
+
+Hi guys =) 
