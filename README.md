@@ -58,3 +58,5 @@ Hello, World and Kottans!
 - [x] Hello!
 
 __Hi there.__ Hm, didn`t know about *markdown* in README.md 
+
+Hello everyone!
