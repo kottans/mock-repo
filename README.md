@@ -60,3 +60,11 @@ Hello, World and Kottans!
 __Hi there.__ Hm, didn't know about *markdown* in README.md 
 
 Hello everyone!
+
+How do you do, fellow kottans?
+
+(Did I screw up the ascii logo already?)
+
+      /\_/\
+    =(/\./\)=
+     (")_(") 
