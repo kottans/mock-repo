@@ -79,7 +79,7 @@ Here is my checklist for now:
 
 Here is your checklist for today:
 
-- [ ] Merge Anna's pull request with changes for the README.md file
+- [x] Merge Anna's pull request with changes for the README.md file
 
 :sweat_smile:
 ----------
