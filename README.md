@@ -68,3 +68,18 @@ How do you do, fellow kottans?
       /\_/\
     =(/\./\)=
      (")_(") 
+
+----------
+
+Hi everybody! I'm Anna. Pleased to meet all of you!
+
+Here is my checklist for now:
+
+- [x] Task_0
+
+Here is your checklist for today:
+
+- [ ] Merge Anna's pull request with changes for the README.md file
+
+:sweat_smile:
+----------
