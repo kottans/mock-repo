@@ -50,14 +50,14 @@ Hi there!
 
 Hello everybody!)
 
-Hi guys =) 
+Hi guys =)
 
 <b>Hello all.</b>
 
 Hello, World and Kottans!
 - [x] Hello!
 
-__Hi there.__ Hm, didn't know about *markdown* in README.md 
+__Hi there.__ Hm, didn't know about *markdown* in README.md
 
 Hello everyone!
 
@@ -74,4 +74,23 @@ How do you do, fellow kottans?
                     /    \   /    \   /     \
                    |      | |      | |       |
                    \__  __/ \__  __/ \__  __/
+
+----------
+
+Hi everybody! I'm Anna. Pleased to meet all of you!
+
+Here is my checklist for now:
+
+- [x] Task_0
+
+Here is your checklist for today:
+
+- [x] Merge Anna's pull request with changes for the README.md file
+
+:sweat_smile:
+----------
+Hello, guys! ˆˆ
+
+-----------------------------
+┏(-_-)┛┗(-_-﻿ )┓┗(-_-)┛┏(-_-)┓
 
