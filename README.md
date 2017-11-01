@@ -50,14 +50,14 @@ Hi there!
 
 Hello everybody!)
 
-Hi guys =) 
+Hi guys =)
 
 <b>Hello all.</b>
 
 Hello, World and Kottans!
 - [x] Hello!
 
-__Hi there.__ Hm, didn't know about *markdown* in README.md 
+__Hi there.__ Hm, didn't know about *markdown* in README.md
 
 Hello everyone!
 
@@ -67,7 +67,7 @@ How do you do, fellow kottans?
 
       /\_/\
     =(/\./\)=
-     (")_(") 
+     (")_(")
 
 ----------
 
@@ -84,3 +84,6 @@ Here is your checklist for today:
 :sweat_smile:
 ----------
 Hello, guys! ˆˆ
+
+-----------------------------
+┏(-_-)┛┗(-_-﻿ )┓┗(-_-)┛┏(-_-)┓
