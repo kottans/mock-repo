@@ -101,3 +101,5 @@ Hi there. Really happy to be a part of this.
 
 *Good luck to all.*
 
+![Screenshot](gif/browser's_anatomy.jpg)
+
