@@ -106,3 +106,5 @@ Hi there. Really happy to be a part of this.
 ![Cat Bro](gif/cat-bro.gif)
 -------------------------------------------------
 HI!! =^..^=
+-------------------------------------------------
+Hello everybody! I'm glad to join the learning!
