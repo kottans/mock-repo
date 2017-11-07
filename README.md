@@ -119,3 +119,6 @@ HOW ARE YOU GENTLEMEN !!
 This cat is ready for start, so be like him.
 
 ![This cat is ready](gif/ready.gif)
+
+HELLO FRONT-END WORLD!!!
+HELLO KOTTANS!!!
