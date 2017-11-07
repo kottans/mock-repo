@@ -115,6 +115,10 @@ Puss in the boots :)
 HOW ARE YOU GENTLEMEN !!
 
 ![ALL YOUR BASE ARE BELONG TO US.](gif/0000_AllYourBaseAreBelongToCats-Black.png)
-----------
+
+This cat is ready for start, so be like him.
+
+![This cat is ready](gif/ready.gif)
+
 Meow! I'm with you, cats  
 ![1](https://www.catgifpage.com/gifs/306.gif)
