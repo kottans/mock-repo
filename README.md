@@ -131,3 +131,4 @@ Hello everybody! I'm glad to join the learning!
 ------------------------------------------
 ![OMMM  Something interesting](gif/ooo_cat.gif)
 
+![My cat](gif/ForKottans.gpg)
