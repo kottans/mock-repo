@@ -107,7 +107,6 @@ Hi there. Really happy to be a part of this.
 -------------------------------------------------
 HI!! =^..^=
 
-
 Puss in the boots :)
 
 ![Puss in the boots](gif/05acde699668f9087bd191c5ff30a5d9_395.gif)
@@ -122,3 +121,13 @@ This cat is ready for start, so be like him.
 
 HELLO FRONT-END WORLD!!!
 HELLO KOTTANS!!!
+
+Meow! I'm with you, cats  
+![1](https://www.catgifpage.com/gifs/306.gif)
+-------------------------------------------------
+Hi. This just for completing task 0, so never mind.
+-------------------------------------------------
+Hello everybody! I'm glad to join the learning!
+------------------------------------------
+![OMMM  Something interesting](gif/ooo_cat.gif)
+
