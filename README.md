@@ -118,7 +118,8 @@ HOW ARE YOU GENTLEMEN !!
 This cat is ready for start, so be like him.
 
 ![This cat is ready](gif/ready.gif)
-
+-------------------------------------------------
+Hi. This just for completing task 0, so never mind.
 -------------------------------------------------
 Hello everybody! I'm glad to join the learning!
 ------------------------------------------
