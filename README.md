@@ -118,6 +118,9 @@ HOW ARE YOU GENTLEMEN !!
 This cat is ready for start, so be like him.
 
 ![This cat is ready](gif/ready.gif)
+
+Meow! I'm with you, cats  
+![1](https://www.catgifpage.com/gifs/306.gif)
 -------------------------------------------------
 Hi. This just for completing task 0, so never mind.
 -------------------------------------------------
