@@ -106,5 +106,18 @@ Hi there. Really happy to be a part of this.
 ![Cat Bro](gif/cat-bro.gif)
 -------------------------------------------------
 HI!! =^..^=
+
+Puss in the boots :)
+
+![Puss in the boots](gif/05acde699668f9087bd191c5ff30a5d9_395.gif)
+
+HOW ARE YOU GENTLEMEN !!
+
+![ALL YOUR BASE ARE BELONG TO US.](gif/0000_AllYourBaseAreBelongToCats-Black.png)
+
+This cat is ready for start, so be like him.
+
+![This cat is ready](gif/ready.gif)
+
 -------------------------------------------------
 Hello everybody! I'm glad to join the learning!
