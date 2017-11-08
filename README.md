@@ -119,6 +119,9 @@ This cat is ready for start, so be like him.
 
 ![This cat is ready](gif/ready.gif)
 
+HELLO FRONT-END WORLD!!!
+HELLO KOTTANS!!!
+
 Meow! I'm with you, cats  
 ![1](https://www.catgifpage.com/gifs/306.gif)
 -------------------------------------------------
