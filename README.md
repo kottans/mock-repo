@@ -131,4 +131,4 @@ Hello everybody! I'm glad to join the learning!
 ------------------------------------------
 ![OMMM  Something interesting](gif/ooo_cat.gif)
 
-![Task0 cat](gif/Task0-cat.jpg)
+![Task0 cat](gif/Task0-cat.jpg =150x)
