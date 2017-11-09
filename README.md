@@ -131,3 +131,5 @@ Hello everybody! I'm glad to join the learning!
 ------------------------------------------
 ![OMMM  Something interesting](gif/ooo_cat.gif)
 
+HI THERE)) Good luck to all and let's have some fun!
+
