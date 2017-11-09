@@ -139,6 +139,8 @@ Hello everybody! I'm glad to join the learning!
  We need more dogs
  ![Image](http://i.piccy.info/i9/e1c2201e0ab51674f0672e6d57235108/1510174294/122490/1194919/Shiba_Inu_Profile.jpg)
 
+It's a fiasco, bro!
+
 HI THERE)) Good luck to all and let's have some fun!
 
 Hi everyone!
