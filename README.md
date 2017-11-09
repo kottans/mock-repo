@@ -135,3 +135,6 @@ Hello everybody! I'm glad to join the learning!
  Its my pull-request 
  We need more dogs
  ![Image](http://i.piccy.info/i9/e1c2201e0ab51674f0672e6d57235108/1510174294/122490/1194919/Shiba_Inu_Profile.jpg)
+
+HI THERE)) Good luck to all and let's have some fun!
+
