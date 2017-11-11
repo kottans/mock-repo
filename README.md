@@ -144,3 +144,6 @@ It's a fiasco, bro!
 HI THERE)) Good luck to all and let's have some fun!
 
 Hi everyone!
+
+![When I see legacy code](gif/face.png)
+
