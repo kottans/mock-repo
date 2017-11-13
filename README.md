@@ -152,3 +152,8 @@ hi there !
 ![When we start kottans_frontend course](gif/up-down-cats.gif)
 
 **Hello fellas and girls**
+
+<hr>
+**Hi guys! I'm Olga!**
+
+This is my first pull request. Hope to  catch you up with all these tasks. 
