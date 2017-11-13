@@ -154,6 +154,10 @@ hi there !
 **Hello fellas and girls**
 
 <hr>
-**Hi guys! I'm Olga!**
+<h3>Hi guys! I'm Olga!</h3>
 
-This is my first pull request. Hope to  catch you up with all these tasks. 
+This is my first pull-request. Good luck to all of you! Hope I will  catch you up with all these tasks. This is me when I read Kottans/frontend chat at gitter
+
+![](https://user-images.githubusercontent.com/17572746/32748185-22c23e20-c8c4-11e7-94d3-2d40ef014d2b.jpg)
+
+<hr>
