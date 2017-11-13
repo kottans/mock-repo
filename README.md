@@ -147,5 +147,8 @@ Hi everyone!
 
 ![When I see legacy code](gif/face.png)
 
-**Hello fellas and girls**
+hi there !
 
+![When we start kottans_frontend course](gif/up-down-cats.gif)
+
+**Hello fellas and girls**
