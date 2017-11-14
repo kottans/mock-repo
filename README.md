@@ -147,6 +147,9 @@ Hi everyone!
 
 ![When I see legacy code](gif/face.png)
 
+One more cat here.
+
+![When I start kottans course](gif/kottan.gif)
 hi there !
 
 ![When we start kottans_frontend course](gif/up-down-cats.gif)
