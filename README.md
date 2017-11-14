@@ -161,3 +161,7 @@ This is my first pull-request. Good luck to all of you! Hope I will  catch you u
 ![](https://user-images.githubusercontent.com/17572746/32748185-22c23e20-c8c4-11e7-94d3-2d40ef014d2b.jpg)
 
 <hr>
+
+Hello everyone. My lazy commit for being part of this great community.
+
+<hr>
