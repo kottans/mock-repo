@@ -150,3 +150,22 @@ Hi everyone!
 One more cat here.
 
 ![When I start kottans course](gif/kottan.gif)
+hi there !
+
+![When we start kottans_frontend course](gif/up-down-cats.gif)
+
+**Hello fellas and girls**
+
+<hr>
+<h3>Hi guys! I'm Olga!</h3>
+
+This is my first pull-request. Good luck to all of you! Hope I will  catch you up with all these tasks. This is me when I read Kottans/frontend chat at gitter
+
+![](https://user-images.githubusercontent.com/17572746/32748185-22c23e20-c8c4-11e7-94d3-2d40ef014d2b.jpg)
+
+<hr>
+Hello everyone, I'm Helen. 
+
+Hello everyone. My lazy commit for being part of this great community.
+
+<hr>
