@@ -1,4 +1,4 @@
-Hi,
+﻿Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
@@ -174,3 +174,7 @@ Hello everyone. My lazy commit for being part of this great community.
 ![](http://www.cutecatgifs.com/wp-content/uploads/2014/04/Itzfridaaay.gif)
 
 <hr>
+ 
+Hi guys!
+Be careful it`s the karate-cat!
+ ![](https://media.giphy.com/media/xTiTnhrtwnfn89UgQo/giphy.gif)
