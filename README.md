@@ -178,3 +178,6 @@ Hello everyone. My lazy commit for being part of this great community.
 Hi guys!
 Be careful it`s the karate-cat!
  ![](https://media.giphy.com/media/xTiTnhrtwnfn89UgQo/giphy.gif)
+ Hi, there's double:)
+ 
+ ![Screenshot](1501247915156259551[1].gif)
