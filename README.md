@@ -176,7 +176,7 @@ Hello everyone. My lazy commit for being part of this great community.
 <hr>
  
 Hi guys!
-Be careful it`s the karate-cat!
+Be careful it's the karate-cat!
  ![](https://media.giphy.com/media/xTiTnhrtwnfn89UgQo/giphy.gif)
  
  <hr>
@@ -184,3 +184,8 @@ Be careful it`s the karate-cat!
  Hi, there's double:)
  
  ![Screenshot](https://cs6.pikabu.ru/post_img/2017/07/28/8/1501247915156259551.gif)
+
+<hr>
+ 
+Hey, people! Let's dance =)
+ ![](https://media.giphy.com/media/AIyd2sGs3UtS8/giphy.gif)
