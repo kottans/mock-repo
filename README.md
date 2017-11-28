@@ -193,3 +193,6 @@ Hey, people! Let's dance =)
  <hr>
  Hi :alien:s! You are awesome! Here one more ![kitty](gif/200w_d.gif))
  
+ Hello to fellow kottans. Ready to depart!
+ 
+ ![captainkitty](gif/captainkitty.jpg)
