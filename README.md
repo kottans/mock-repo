@@ -196,3 +196,8 @@ Hey, people! Let's dance =)
  Hello to fellow kottans. Ready to depart!
  
  ![captainkitty](gif/captainkitty.jpg)
+ 
+ <hr>
+ 
+ Hi everyone :wave: !
+ :smiley_cat: Tried to find the best cat's gif but just spend few hours on 9gag :sweat_smile:
