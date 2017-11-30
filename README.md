@@ -201,3 +201,8 @@ Hey, people! Let's dance =)
  
  Hi everyone :wave: !
  :smiley_cat: Tried to find the best cat's gif but just spend few hours on 9gag :sweat_smile:
+ 
+ <hr>
+ 
+ **Hello everybody!)** :smiley_cat:
+ I'm glad to be part of such a great community! :smiley:
