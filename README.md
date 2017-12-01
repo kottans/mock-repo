@@ -214,3 +214,12 @@ Hey, people! Let's dance =)
  Hi everybody from the Down Under! (^_-)Y
 
 ![I'm coding](gif/WHnuA2O.gif)
+
+
+ <hr>
+
+ **** Hi! **** 
+ I'm Ira. It's very cool to be here! You're awesome!
+![](gif/cat.png)
+
+ <hr>
