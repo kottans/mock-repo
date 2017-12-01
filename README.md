@@ -122,7 +122,7 @@ This cat is ready for start, so be like him.
 HELLO FRONT-END WORLD!!!
 HELLO KOTTANS!!!
 
-Meow! I'm with you, cats  
+Meow! I'm with you, cats
 ![1](https://www.catgifpage.com/gifs/306.gif)
 -------------------------------------------------
 Hi. This just for completing task 0, so never mind.
@@ -135,7 +135,7 @@ Hello everybody! I'm glad to join the learning!
 ![Task0 cat](gif/Task0-cat.jpg)
 
  HELLO KOTTANS!!
- Its my pull-request 
+ Its my pull-request
  We need more dogs
  ![Image](http://i.piccy.info/i9/e1c2201e0ab51674f0672e6d57235108/1510174294/122490/1194919/Shiba_Inu_Profile.jpg)
 
@@ -164,7 +164,7 @@ This is my first pull-request. Good luck to all of you! Hope I will  catch you u
 ![](https://user-images.githubusercontent.com/17572746/32748185-22c23e20-c8c4-11e7-94d3-2d40ef014d2b.jpg)
 
 <hr>
-Hello everyone, I'm Helen. 
+Hello everyone, I'm Helen.
 
 Hello everyone. My lazy commit for being part of this great community.
 
@@ -174,39 +174,43 @@ Hello everyone. My lazy commit for being part of this great community.
 ![](http://www.cutecatgifs.com/wp-content/uploads/2014/04/Itzfridaaay.gif)
 
 <hr>
- 
+
 Hi guys!
 Be careful it's the karate-cat!
  ![](https://media.giphy.com/media/xTiTnhrtwnfn89UgQo/giphy.gif)
- 
+
  <hr>
- 
+
  Hi, there's double:)
- 
+
  ![Screenshot](https://cs6.pikabu.ru/post_img/2017/07/28/8/1501247915156259551.gif)
 
 <hr>
- 
+
 Hey, people! Let's dance =)
  ![](https://media.giphy.com/media/AIyd2sGs3UtS8/giphy.gif)
- 
+
  <hr>
  Hi :alien:s! You are awesome! Here one more ![kitty](gif/200w_d.gif))
- 
+
  Hello to fellow kottans. Ready to depart!
- 
+
  ![captainkitty](gif/captainkitty.jpg)
- 
+
  <hr>
- 
+
  Hi everyone :wave: !
  :smiley_cat: Tried to find the best cat's gif but just spend few hours on 9gag :sweat_smile:
- 
+
  <hr>
- 
+
  **Hello everybody!)** :smiley_cat:
  I'm glad to be part of such a great community! :smiley:
- 
+
  <hr>
- 
+
  Hi! It's nice to meet you!
+ __________________________________________
+ Hi everybody from the Down Under! (^_-)Y
+
+![I'm coding](gif/WHnuA2O.gif)
