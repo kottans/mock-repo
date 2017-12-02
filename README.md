@@ -223,3 +223,13 @@ Hey, people! Let's dance =)
 ![](gif/cat.png)
 
  <hr>
+ 
+ Hi everyone!
+ 
+ I am glad I am joining the cource.
+ 
+ ![](gif/giphy.gif)
+ 
+ <hr>
+ 
+ 
