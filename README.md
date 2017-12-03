@@ -224,12 +224,10 @@ Hey, people! Let's dance =)
 
  <hr>
  
- Hi everyone!
+Hi everyone!
  
- I am glad I am joining the cource.
+I am glad I am joining the cource.
  
- ![](gif/giphy.gif)
+![](gif/giphy.gif)
  
- <hr>
- 
- 
+<hr>
