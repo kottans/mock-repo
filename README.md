@@ -209,6 +209,9 @@ Hey, people! Let's dance =)
 
  <hr>
 
+Heya kottans! 
+Let's make this world better
+
  Hi! It's nice to meet you!
  __________________________________________
  Hi everybody from the Down Under! (^_-)Y
@@ -223,11 +226,6 @@ Hey, people! Let's dance =)
 ![](gif/cat.png)
 
  <hr>
- 
-Hi everyone!
- 
-I am glad I am joining the cource.
- 
-![](gif/giphy.gif)
- 
-<hr>
+
+Hi everybody!
+
