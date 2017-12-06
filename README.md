@@ -238,5 +238,3 @@ Hi everybody!
 
 Hi, Kottans!
 
----------------
-Hello people
