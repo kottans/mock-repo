@@ -209,7 +209,7 @@ Hey, people! Let's dance =)
 
  <hr>
 
-Heya kottans! 
+Heya kottans!
 Let's make this world better
 
  Hi! It's nice to meet you!
@@ -221,7 +221,7 @@ Let's make this world better
 
  <hr>
 
- **** Hi! **** 
+ **** Hi! ****
  I'm Ira. It's very cool to be here! You're awesome!
 ![](gif/cat.png)
 
@@ -231,7 +231,7 @@ Hi everybody!
 
 <hr>
 
- **** Hi everyone! **** 
+ **** Hi everyone! ****
 =======
 
  <hr>
@@ -240,3 +240,6 @@ Hi, Kottans!
 
 *********
 Hello people
+
+> Hello cats! 🔥
+![cats](gif/cats.jpg)
