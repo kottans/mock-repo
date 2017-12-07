@@ -248,3 +248,11 @@ Hello people
 
 > Hello cats! 🔥
 ![cats](gif/cats.jpg)
+
+
+<hr>
+
+Hi Kottans! Let's be friends :)
+![Kottan](gif/fridy_hacker.jpg)
+
+<hr>
