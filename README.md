@@ -256,3 +256,11 @@ Hi Kottans! Let's be friends :)
 ![Kottan](gif/fridy_hacker.jpg)
 
 <hr>
+
+I'm interesting, can i send pull request from master branch to another
+master branch?
+
+---
+## Hi everybody! 
+![cats](gif/kotred.gif)
+---
