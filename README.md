@@ -249,6 +249,14 @@ Hello people
 > Hello cats! 🔥
 ![cats](gif/cats.jpg)
 
+
+<hr>
+
+Hi Kottans! Let's be friends :)
+![Kottan](gif/fridy_hacker.jpg)
+
+<hr>
+
 I'm interesting, can i send pull request from master branch to another
 master branch?
 
