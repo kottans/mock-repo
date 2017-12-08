@@ -249,7 +249,7 @@ Hello people
 > Hello cats! 🔥
 ![cats](gif/cats.jpg)
 
-=====
-* Hi everybody! *
+---
+## Hi everybody! 
 ![cats](gif/kotred.gif)
-=====
+---
