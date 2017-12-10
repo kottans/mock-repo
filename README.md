@@ -265,7 +265,3 @@ master branch?
 ![cats](gif/kotred.gif)
 ---
 Hello everyone! What's up?!
----
-
-Hello everyone... 
-![cat and doc](gif/CAT&doc.gif)
