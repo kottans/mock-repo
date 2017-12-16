@@ -276,3 +276,7 @@ Ladies... Gentlemen...
 
 Hello everyone!
 ![](gif/kote.gif)
+
+---
+
+Thx Kottans! My first PR =)
