@@ -275,7 +275,7 @@ Ladies... Gentlemen...
 ---
 
 Hello everyone!
-![](gif/kote.gif
+![](gif/kote.gif)
 
 ---
 
