@@ -281,4 +281,4 @@ Hello everyone!
 
 ## ~~Hello, world~~ **Hello, Kottans** :cat:
 
-![](gif/puss_new_year)
+![](gif/puss_new_year.gif)
