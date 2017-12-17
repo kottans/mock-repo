@@ -277,6 +277,9 @@ Ladies... Gentlemen...
 Hello everyone!
 ![](gif/kote.gif)
 
+---
+
+Thx Kottans! My first PR =)
 Hi there! 
 First pull-request!
 ---
