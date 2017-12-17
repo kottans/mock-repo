@@ -287,3 +287,9 @@ First pull-request!
 ## ~~Hello, world~~ **Hello, Kottans** :cat:
 
 ![](gif/puss_new_year.gif)
+
+
+**Hello Kottans**
+
+My name is Nadia, and I hope that I'm not the last one with want join to this cours:)
+
