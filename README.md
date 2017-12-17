@@ -280,3 +280,10 @@ Hello everyone!
 ---
 
 Thx Kottans! My first PR =)
+Hi there! 
+First pull-request!
+---
+
+## ~~Hello, world~~ **Hello, Kottans** :cat:
+
+![](gif/puss_new_year.gif)
