@@ -277,6 +277,8 @@ Ladies... Gentlemen...
 Hello everyone!
 ![](gif/kote.gif)
 
+Hi there! 
+First pull-request!
 ---
 
 ## ~~Hello, world~~ **Hello, Kottans** :cat:
