@@ -276,3 +276,9 @@ Ladies... Gentlemen...
 
 Hello everyone!
 ![](gif/kote.gif)
+
+---
+
+## ~~Hello, world~~ **Hello, Kottans** :cat:
+
+![](gif/puss_new_year.gif)
