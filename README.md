@@ -287,3 +287,10 @@ First pull-request!
 ## ~~Hello, world~~ **Hello, Kottans** :cat:
 
 ![](gif/puss_new_year.gif)
+
+----
+#### Hey there! I’m Kostya :smiley:
+##### I like IT-Universe and started to learn HTML/CSS and JS.
+##### Want to be a part of your cool team! :smiley_cat: :smiley_cat: :smiley_cat:
+#### Good luck for all! 
+----
