@@ -294,3 +294,9 @@ First pull-request!
 ##### Want to be a part of your cool team! :smiley_cat: :smiley_cat: :smiley_cat:
 #### Good luck for all! 
 ----
+```
+ Hello there I'm wanna be a part of KottansCommunity.
+ My name is Alexey I begin learning deeper in FE and u can contact me via telegram @alexeysalfetkin
+```
+
+----
