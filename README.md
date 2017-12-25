@@ -261,15 +261,15 @@ I'm interesting, can i send pull request from master branch to another
 master branch?
 
 ---
-## Hi everybody! 
+## Hi everybody!
 ![cats](gif/kotred.gif)
 ---
-Hello everyone! What's up?! 
+Hello everyone! What's up?!
 
 ---
 
-Hello! 
-Ladies... Gentlemen... 
+Hello!
+Ladies... Gentlemen...
 ![](gif/CAT&doc.gif)
 
 ---
@@ -280,7 +280,7 @@ Hello everyone!
 ---
 
 Thx Kottans! My first PR =)
-Hi there! 
+Hi there!
 First pull-request!
 ---
 
@@ -292,7 +292,7 @@ First pull-request!
 #### Hey there! I’m Kostya :smiley:
 ##### I like IT-Universe and started to learn HTML/CSS and JS.
 ##### Want to be a part of your cool team! :smiley_cat: :smiley_cat: :smiley_cat:
-#### Good luck for all! 
+#### Good luck for all!
 ----
 ```
  Hello there I'm wanna be a part of KottansCommunity.
@@ -300,3 +300,10 @@ First pull-request!
 ```
 
 ----
+
+Hi)  
+My name is Lisa and now I'm not scared about using git  
+But I was  
+And it is really exciting for me because  I  often heard smt like "I make a commitment" but don't understand how it works  
+And this small thing gives me filing like I can learn anything that I don't have before  
+So I'm really gratful your community for this inspiration and I hope that I have a chance to continue my education with you <3
