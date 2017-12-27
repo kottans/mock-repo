@@ -301,3 +301,8 @@ First pull-request!
 
 ----
 #### Hello everyone! ^^ 
+
+---
+## Howdy ya'll! Hopefully, me and Neko here can become true Kottans! Cheers!
+![Neko](gif/GOPROKOTTAN.JPG)
+---
