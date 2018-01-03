@@ -327,3 +327,8 @@ Hello everyone. My name is Yaroslav Cherenyk!
 
 Hello kottans! Good luck!
 ------------------------
+
+Hi guys! I'm Daria.
+Now you read the text that I thought up 15 minutes)
+
+-------------------------
