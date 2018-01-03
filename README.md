@@ -327,3 +327,5 @@ Hello everyone. My name is Yaroslav Cherenyk!
 
 Hello kottans! Good luck!
 ------------------------
+Hello every one! I'm Mary, nice to meet you, Kottans! I have a pug, is it okay?
+------------------------
