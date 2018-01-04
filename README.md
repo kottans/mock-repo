@@ -341,4 +341,5 @@ Hello everybody! I am Sergey. Eager to join the communty :)
 ---
 
 Grats to Kottans community! =^.^=
-![Give me a five](gif/give_me_da_five.gif)
+![Give me a five!](https://media.giphy.com/media/uuocoePH1mkVy/giphy.gif)
+
