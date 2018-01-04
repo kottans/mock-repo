@@ -329,3 +329,4 @@ Hello kottans! Good luck!
 ------------------------
 Hello every one! I'm Mary, nice to meet you, Kottans! I have a pug, is it okay?
 ------------------------
+Hello everybody! I am Sergey. Eager to join the communty :)
