@@ -1,4 +1,4 @@
-Hi,
+﻿Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
@@ -327,6 +327,14 @@ Hello everyone. My name is Yaroslav Cherenyk!
 
 Hello kottans! Good luck!
 ------------------------
+
+Hi guys! I'm Daria.
+Now you read the text that I thought up 15 minutes)
+
+-------------------------
+
 Hello every one! I'm Mary, nice to meet you, Kottans! I have a pug, is it okay?
+
 ------------------------
 Hello everybody! I am Sergey. Eager to join the communty :)
+
