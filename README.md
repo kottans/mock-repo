@@ -9,7 +9,7 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
-+![Screenshot](gif/jump.gif)
+![Screenshot](gif/jump.gif)
 
 **NB! Your pull-request may not be reviewed very quickly, please have patience.**
 
@@ -191,7 +191,9 @@ Hey, people! Let's dance =)
  ![](https://media.giphy.com/media/AIyd2sGs3UtS8/giphy.gif)
 
  <hr>
- Hi :alien:s! You are awesome! Here one more ![kitty](gif/200w_d.gif))
+ Hi :alien:s! You are awesome! Here one more
+ 
+ ![kitty](gif/200w_d.gif)
 
  Hello to fellow kottans. Ready to depart!
 
