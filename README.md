@@ -350,3 +350,8 @@ Grats to Kottans community! =^.^=
 ##### Hello Kottans!
 ![](gif/mabel-kottans.gif)
 ------------------------
+#### Hey!  What's up !?
+I'm Sasha from Kiev.
+You have done a great work to create this course !
+I think it will be fun, and this is a good chance to improve skills ! :smile:
+![](gif/funny-cat.gif)
