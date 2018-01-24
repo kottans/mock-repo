@@ -355,3 +355,10 @@ I'm Sasha from Kiev.
 You have done a great work to create this course !
 I think it will be fun, and this is a good chance to improve skills ! :smile:
 ![](gif/funny-cat.gif)
+
+
+### Hi, Kottans! :+1
+
+My name is Victoria!
+Good luck everyone and me. I hope this course give all of us new opportunity and lots of new friends! and of course a lot of sleepless nights )))) **Good Luck!!!**
+
