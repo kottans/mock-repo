@@ -20,6 +20,12 @@ with other to make fun from conversation.
 
 ----------
 
+Hi all! This is Selyodka and she is enjoying my first commit!
+
+![Selyodka_the_cat](gif/Selyodka.jpg)
+
+----------
+
 Here you can see [How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM) or play some funny [game](http://spielzeugz.de/html5/liquid-particles/)
 
 
