@@ -19,6 +19,9 @@ or [frontend course chat](https://gitter.im/Kottans/frontend)
 with other to make fun from conversation.
 
 ----------
+I'm just trying to create my first commit.
+
+----------
 
 Hi all! This is Selyodka and she is enjoying my first commit!
 
