@@ -19,7 +19,8 @@ or [frontend course chat](https://gitter.im/Kottans/frontend)
 with other to make fun from conversation.
 
 ----------
-I'm just trying to create my first commit.
+
+Hello World! I'm just trying to create my first commit.:)
 
 ----------
 
