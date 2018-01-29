@@ -20,6 +20,10 @@ with other to make fun from conversation.
 
 ----------
 
+Hello World! I'm just trying to create my first commit.:)
+
+----------
+
 Hi all! This is Selyodka and she is enjoying my first commit!
 
 ![Selyodka_the_cat](gif/Selyodka.jpg)
