@@ -372,3 +372,4 @@ I think it will be fun, and this is a good chance to improve skills ! :smile:
 My name is Victoria!
 Good luck everyone and me. I hope this course give all of us new opportunity and lots of new friends! and of course a lot of sleepless nights )))) **Good Luck!!!**
 
+### Hi, I'm waiting for the interesting Frontend trip!!###
