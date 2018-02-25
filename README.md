@@ -382,5 +382,5 @@ The interesting journey begins!
 -------------------------------
 # Hi. everybody!
 I'm Yuriy.
-# Here is  markdown wiki []https://ru.wikipedia.org/wiki/Markdown
-and link to my git []https://github.com/yuraer/
+# Here is  markdown  [wiki](https://ru.wikipedia.org/wiki/Markdown)
+and link to my [git](https://github.com/yuraer/)
