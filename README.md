@@ -1,4 +1,12 @@
-﻿Hi,
+
+Hello World! I'm just trying to create my first PR.
+
+
+____________________________________________________________________________________________________________________________________________
+
+
+
+Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
