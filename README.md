@@ -1,10 +1,8 @@
+Hello World! I'm Alexander Nikandrov.
 
-Hello World! I'm just trying to create my first PR.
+*It was an intentionally misspelled phrase*
 
-
-____________________________________________________________________________________________________________________________________________
-
-
+--------
 
 Hi,
 
