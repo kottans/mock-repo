@@ -1,9 +1,3 @@
-Hello World! I'm Alexander Nikandrov.
-
-*It was an intentionally misspelled phrase*
-
---------
-
 Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
@@ -390,3 +384,9 @@ The interesting journey begins!
 I'm Yuriy.
 # Here is  markdown  [wiki](https://ru.wikipedia.org/wiki/Markdown)
 and link to my [git](https://github.com/yuraer/)
+
+_______________________________
+
+Hello World! I'm Alexandr Nikandrov from Kiev.
+
+*It was an intentionally misspelled phrase*
