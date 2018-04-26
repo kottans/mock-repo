@@ -395,9 +395,9 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 
 _______________________________
 
-# Hey, kottans community =^.^= !
+# Hey, kottans  =^.^= !
 
- I'm Olena and I'm glad to be
+ I'm Olena and I'm glad to become a part of this incredible community!
 
 ![cats](gif/cute-cat.gif)
 
