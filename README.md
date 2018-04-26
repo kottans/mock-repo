@@ -390,3 +390,16 @@ _______________________________
 Hello World! I'm Alexandr Nikandrov from Kiev.
 
 *It was an intentionally misspelled phrase*
+
+
+
+_______________________________
+
+# Hey, kottans community =^.^= !
+
+ I'm Olena and I'm glad to be
+
+![cats](gif/cute-cat.gif)
+
+# <> May the Code be with us! </>
+
