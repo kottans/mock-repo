@@ -403,5 +403,20 @@ _______________________________
 
 # <> May the Code be with us! </>
 
-Hello Kottans! Aspiring to join your community!
+Hello Kottans! Aspiring to join your community
 
+________________________________
+
+============================================
+********************************************
+
+Hi, kottans!
+
+I'm Olga, glad to meet you!
+
+Ready to work hard and not to sleep at night
+
+![](gif/hard-worker.gif)
+
+============================================
+********************************************
