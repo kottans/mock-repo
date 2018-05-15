@@ -202,7 +202,7 @@ Hey, people! Let's dance =)
 
  <hr>
  Hi :alien:s! You are awesome! Here one more
- 
+
  ![kitty](gif/200w_d.gif)
 
  Hello to fellow kottans. Ready to depart!
@@ -273,15 +273,15 @@ I'm interesting, can i send pull request from master branch to another
 master branch?
 
 ---
-## Hi everybody! 
+## Hi everybody!
 ![cats](gif/kotred.gif)
 ---
-Hello everyone! What's up?! 
+Hello everyone! What's up?!
 
 ---
 
-Hello! 
-Ladies... Gentlemen... 
+Hello!
+Ladies... Gentlemen...
 ![](gif/CAT&doc.gif)
 
 ---
@@ -292,7 +292,7 @@ Hello everyone!
 ---
 
 Thx Kottans! My first PR =)
-Hi there! 
+Hi there!
 First pull-request!
 ---
 
@@ -304,7 +304,7 @@ First pull-request!
 #### Hey there! I’m Kostya :smiley:
 ##### I like IT-Universe and started to learn HTML/CSS and JS.
 ##### Want to be a part of your cool team! :smiley_cat: :smiley_cat: :smiley_cat:
-#### Good luck for all! 
+#### Good luck for all!
 ----
 ```
  Hello there I'm wanna be a part of KottansCommunity.
@@ -312,7 +312,7 @@ First pull-request!
 ```
 
 ----
-#### Hello everyone! ^^ 
+#### Hello everyone! ^^
 
 ---
 ## Howdy ya'll! Hopefully, me and Neko here can become true Kottans! Cheers!
@@ -332,7 +332,7 @@ Hello everyone. My name is Yaroslav Cherenyk!
 ------------
 ### Hey!
 ### It seems it is a good chance to make my mark on this file.
-### So the mission is completed. 
+### So the mission is completed.
 ### Good luck for everyone!
 ------------
 
@@ -375,7 +375,7 @@ Good luck everyone and me. I hope this course give all of us new opportunity and
 ### Hi, I'm waiting for the interesting Frontend trip!!###
 
 ------------------------------
-Hi, everybody! 
+Hi, everybody!
 Happy to be here!
 The interesting journey begins!
 ![](gif/cateyes.gif)
@@ -420,3 +420,8 @@ Ready to work hard and not to sleep at night
 
 ============================================
 ********************************************
+============================================
+********************************************
+Hello, Kotans!
+Glad to be here)
+============================================
