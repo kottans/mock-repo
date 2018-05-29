@@ -425,3 +425,11 @@ Ready to work hard and not to sleep at night
 Hello, Kotans!
 Glad to be here)
 ============================================
+
+{}{}{{}{}{}{}{{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
+
+Hi everybody!!!!! i`m ready to study i want to learn something new and fresh!!!!!
+i want to be in your team!!!!!!
+![](gif/ready.gif) 
+
+{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
