@@ -1,4 +1,4 @@
-Hi,
+﻿Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
@@ -425,3 +425,17 @@ Ready to work hard and not to sleep at night
 Hello, Kotans!
 Glad to be here)
 ============================================
+
+
+
+Hello, Kottans! How wonderful that I found you!
+===============================================
+ ^----^
+ |(|)(|)|
+/ ~~v~~  \
+| _____  |
+\  ( (   /
+  ------
+    ||    __
+   /  \  /  \
+   \||/_/
