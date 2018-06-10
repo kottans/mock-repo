@@ -430,17 +430,7 @@ Glad to be here)
 
 Hello, Kottans! How wonderful that I found you!
 ===============================================
+![catfish](gif/catfish.gif)
 
 
-                 
-   
-                      
-        
- ((      /|_/|
-  \\.._.'  , ,\
-  /\ | '.__ v / 
- (_ .   /   "         
-  ) _)._  _ /
- '.\ \|( / ( mrf
-   '' ''\\ \\
 
