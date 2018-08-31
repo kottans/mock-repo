@@ -441,6 +441,6 @@ i want to be in your team!!!!!!
 
 Hi Kottans! Excited to join!
 
-![come_human](gif/come_human.jpg)
+![come_human](gif/come_human.gif)
 
 ----------
