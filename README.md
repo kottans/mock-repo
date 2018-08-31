@@ -436,3 +436,12 @@ Hello, Kottans! How wonderful that I found you!
 Hi everybody!!!!! i`m ready to study i want to learn something new and fresh!!!!!
 i want to be in your team!!!!!!
 ![](gif/ready.gif) 
+
+----------
+
+Hi Kottans! Excited to join =^.^=
+===============================================
+
+![come_human](gif/come_human.gif)
+
+----------
