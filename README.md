@@ -459,3 +459,7 @@ Hi guys!!! I am begginer in programming world! This is my first pull-request.
 Hi, kottans. Feels like should be here.
 
 ![Anime picture](gif/Sh.jpg)
+----------
+Hi, Kottans! Just finished a Git and GitHub course at Udacity.
+Thank you so much for this tip!
+----------
