@@ -467,3 +467,9 @@ Thank you so much for this tip!
 
 ![ninja](gif/ninja.gif)
 ----------
+h1, all!
+```
+while(true) {
+  learning();
+}
+```
