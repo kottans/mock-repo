@@ -463,7 +463,7 @@ Hi, kottans. Feels like should be here.
 Hi, Kottans! Just finished a Git and GitHub course at Udacity.
 Thank you so much for this tip!
 ----------
-Hi, dear Kottans! I'm so happy i'm not alone one my way to becoming a frontend ninja! Let's do it! ❤️
+## **Hi, dear Kottans! I'm so happy i'm not alone one my way to becoming a frontend ninja! Let's do it!** ❤️
 
 ![ninja](gif/ninja.gif)
 ----------
