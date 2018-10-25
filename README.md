@@ -465,5 +465,5 @@ Thank you so much for this tip!
 ----------
 Hi, dear Kottans! I'm so happy i'm not alone one my way to becoming a frontend ninja! Have a wonderful day and week and life! ❤️
 
-![crazycat](mycat.gif)
+![crazycat](gif/mycat.gif)
 ----------
