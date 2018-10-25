@@ -468,7 +468,7 @@ Thank you so much for this tip!
 ![ninja](gif/ninja.gif)
 ----------
 h1, all!
-```
+```javascript
 while(true) {
   learning();
 }
