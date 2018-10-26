@@ -480,4 +480,5 @@ while(true) {
 <Andrey, Odessa/>
 ****************
 
+*first-time on the kottans pre-course:*
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
