@@ -476,8 +476,8 @@ while(true) {
 
 ## **Hello, Kottans! Thank you a lot for the opportunity and knowledge, people who invest their time in this breathtaking community, be worth a great respect!**
 
-----------
-Andrey, Odessa
-----------
+****************
+<Andrey, Odessa/>
+****************
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
