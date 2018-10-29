@@ -4,7 +4,11 @@ This is a training repository for both [Kottans web course](https://github.com/K
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
+<<<<<<< HEAD
 *This is an internationally missspelled phprase*
+=======
+*This is an internationally misspelled phrase*
+>>>>>>> 780e485ddba913b59731912aa18bd7536915769c
 
 Try it! It’s fun, we promise :)
 
@@ -492,3 +496,7 @@ I think it should be here.
 *first-time on the kottans pre-course:*
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
+
+## **Hi, guys) I'm looking forward to start learning frontend.**
+
+![catty-gif](gif/catty.gif)
