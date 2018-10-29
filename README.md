@@ -496,8 +496,12 @@ I think it should be here.
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
 
+
+## **Hello, guys! Want to start my path in Frontend.**
+
+![catty-gif](gif/catty.gif)
+=======
 ### Hello,kottans! You're beautiful. Wish you best [coding](https://github.com/)
 
 ## **Hello, hope to join the course, really excited**
 ![another cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
-
