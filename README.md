@@ -493,9 +493,6 @@ I think it should be here.
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
 
-
-
-
 ## **Hello, hope to join the course, really excited**
 ![cat typing](giphy.gif)
 
