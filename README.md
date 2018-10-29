@@ -4,7 +4,7 @@ This is a training repository for both [Kottans web course](https://github.com/K
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
-*This was an intentionally misspelled phrase*
+*This is an internationally misspelled phrase*
 
 Try it! It’s fun, we promise :)
 
@@ -451,6 +451,8 @@ Hi guys!!! I am begginer in programming world! This is my first pull-request.
 
 ----------
 
+
+
 - Holla everybody! =^.^=
 
 ===============================================
@@ -459,3 +461,38 @@ Hi guys!!! I am begginer in programming world! This is my first pull-request.
 Hi, kottans. Feels like should be here.
 
 ![Anime picture](gif/Sh.jpg)
+----------
+Hi, Kottans! Just finished a Git and GitHub course at Udacity.
+Thank you so much for this tip!
+----------
+## **Hi, dear Kottans! I'm so happy i'm not alone one my way to becoming a frontend ninja! Let's do it!** ❤️
+
+![ninja](gif/ninja.gif)
+----------
+h1, all!
+```javascript
+while(true) {
+  learning();
+}
+```
+
+Ooops! File changed. This line can be removed.
+----------------------------------------------
+##Hello! I'm Anton! I'm so happy to be in your team.
+I think it should be here. 
+![Screenshot](gif/dancer.jpg)
+
+
+## **Hello, Kottans! Thank you a lot for the opportunity and knowledge, people who invest their time in this breathtaking community, be worth a great respect!**
+
+****************
+<Andrey, Odessa/>
+****************
+
+*first-time on the kottans pre-course:*
+
+![first-time on the kottans pre-course](gif/first-time-kottans.gif)
+
+## **Hi, guys) I'm looking forward to start learning frontend.
+
+![catty-gif](gif/catty.gif)
