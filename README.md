@@ -25,7 +25,6 @@ By the way, creating issues is fun too!
 
 If you are impatient use
 [FE Students chat](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA)
-or [Kottans chat](https://t.me/kottans)
 with other to make fun from conversation.
 
 Where all postings before March 2018 has gone to?
