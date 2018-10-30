@@ -19,7 +19,7 @@ By the way, creating issues is fun too!
  - **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
    **posting in [FE Students chat](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA)**
    **a message `#help_wanted` + link to your pull request,**
-   **e.g. https://github.com/kottans/mock-repo/pull/145 **
+   **e.g. https://github.com/kottans/mock-repo/pull/145 .**
 
 If you are impatient use
 [FE Students chat](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA)
