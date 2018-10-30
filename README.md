@@ -141,6 +141,7 @@ I think it should be here.
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
 
+=======
 
 ## **Hello, guys! Want to start my path in Frontend.**
 
@@ -150,3 +151,7 @@ I think it should be here.
 
 ## **Hello, hope to join the course, really excited**
 ![another cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
+
+...........................
+
+Hey everyone! Happy to be a part of such a great team! You're awesome ^-^
