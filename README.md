@@ -1,4 +1,6 @@
-﻿Hi,
+﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+
+Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
@@ -27,7 +29,8 @@ or [Kottans chat](https://t.me/kottans)
 with other to make fun from conversation.
 
 Where all postings before March 2018 has gone to?
-[Here they are](https://github.com/kottans/mock-repo/tree/v.2017-2018).
+[Here they are!](archive.2017-2018/README.md)
+(git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ----------
 
