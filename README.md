@@ -492,3 +492,7 @@ I think it should be here.
 *first-time on the kottans pre-course:*
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
+
+...........................
+
+Hey everyone! Happy to be a part of such a great team! You're awesome ^-^
