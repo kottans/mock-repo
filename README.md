@@ -160,3 +160,8 @@ Hey everyone! Happy to be a part of such a great team! You're awesome ^-^
 
 -----
 Hello kottans. I will hope that with the second attempt I will cope with this course))
+--------------------
+
+## Hi, everyone! I'm Olena. It's so exciting - join to your team. I hope complete stage 0 and have the opportunity to work with such cool community.
+
+![junior kottan with mentor](gif/junior-with-mentor.gif)
