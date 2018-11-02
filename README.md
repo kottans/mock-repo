@@ -177,7 +177,6 @@ hey there
 ![tisha](gif/tisha.jpg)
 
 
-### How it is look like, when you dive into first Udacity course about Git 
-### and try to understand all this new information, furthermore, given in english...
+## How it is look like, when you dive into first Udacity course about Git and try to understand all this new information, furthermore, given in english...
 
-![i-gont-get-itttttttt](https://media.giphy.com/media/CrA66TnJqNFaU/giphy.gif)
+![i-gont-get-ittt](gif/i-dont-get-ittt.gif)
