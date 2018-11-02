@@ -172,3 +172,6 @@ My cat's name is Houston, it's not any fun, but it became when I adopted lady-ca
 
 hey there
 
+# Hi there. I'm Viktoria. And this is my cat - Tisha. We really hope will become part of kottans family.
+
+![tisha](gif/tisha.jpg)
