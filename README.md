@@ -175,3 +175,6 @@ hey there
 ## Hi, my names Sergey. I'm from Mukachevo.
  I am pleased to participate in this course.
 
+# Hi there. I'm Viktoria. And this is my cat - Tisha. We really hope will become part of kottans family.
+
+![tisha](gif/tisha.jpg)
