@@ -175,3 +175,9 @@ hey there
 # Hi there. I'm Viktoria. And this is my cat - Tisha. We really hope will become part of kottans family.
 
 ![tisha](gif/tisha.jpg)
+
+
+### How it is look like, when you dive into first Udacity course about Git 
+### and try to understand all this new information, furthermore, given in english...
+
+![i-gont-get-itttttttt](https://media.giphy.com/media/CrA66TnJqNFaU/giphy.gif)
