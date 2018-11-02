@@ -1,4 +1,6 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+ Hi, my names Sergey. I'm from Mukachevo.
+ I am pleased to participate in this course.
 
 Hi,
 
