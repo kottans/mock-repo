@@ -175,3 +175,8 @@ hey there
 # Hi there. I'm Viktoria. And this is my cat - Tisha. We really hope will become part of kottans family.
 
 ![tisha](gif/tisha.jpg)
+
+-----
+## Privetiki, kottans! 
+I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
+![naughty-cat](gif/307.gif)
