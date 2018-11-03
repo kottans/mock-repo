@@ -1,5 +1,5 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
- 
+
 Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
@@ -81,7 +81,7 @@ Hello, Kottans! How wonderful that I found you!
 
 Hi everybody!!!!! i`m ready to study i want to learn something new and fresh!!!!!
 i want to be in your team!!!!!!
-![](gif/ready.gif) 
+![](gif/ready.gif)
 
 ----------
 
@@ -127,7 +127,7 @@ while(true) {
 Ooops! File changed. This line can be removed.
 ----------------------------------------------
 ##Hello! I'm Anton! I'm so happy to be in your team.
-I think it should be here. 
+I think it should be here.
 ![Screenshot](gif/dancer.jpg)
 
 
@@ -180,6 +180,13 @@ hey there
 ![tisha](gif/tisha.jpg)
 
 -----
-## Privetiki, kottans! 
-I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
+## Privetiki, kottans!
+I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day!
 ![naughty-cat](gif/307.gif)
+
+
+-----------------------------------------------------------
+##Hey, kottans)
+My name is Vanya, and I am glad to be part of the team.
+(I feel myself now like - )
+![god-coding](gif/god-coding.gif)
