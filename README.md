@@ -187,4 +187,4 @@ I'm Maks and it's a pleasure for me to join this community. Good luck for everyo
 -----
 ## Hello there, community!
 I'm Denis and... Ow, all these gifs! Just get one more :)
-![naughty-cat](gif/yawners.gif)
+![Two cat-yawners](gif/yawners.gif)
