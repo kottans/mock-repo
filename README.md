@@ -183,3 +183,8 @@ hey there
 ## Privetiki, kottans! 
 I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
 ![naughty-cat](gif/307.gif)
+
+-----
+## Hello there, community!
+I'm Denis and... Ow, all these gifs! Just get one more :)
+![naughty-cat](gif/yawners.gif)
