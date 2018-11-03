@@ -183,3 +183,7 @@ hey there
 ## Privetiki, kottans! 
 I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
 ![naughty-cat](gif/307.gif)
+
+## Hello, experienced young padawans-kottans!
+My name is Andrey. I am from Ekaterinburg, and I'm very excited to join this powerful community. I wish all of you a good luck in your path of front-end. May the force of jedi kottans be with you ^__^!!!
+![jedi-cat](gif/jedi-cat.gif)  
