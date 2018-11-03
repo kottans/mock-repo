@@ -1,5 +1,5 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
-
+ 
 Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
@@ -171,6 +171,9 @@ Hello kottans. I will hope that with the second attempt I will cope with this co
 My cat's name is Houston, it's not any fun, but it became when I adopted lady-cat whose name is Whitney.
 
 hey there
+----------
+## Hi, my names Sergey. I'm from Mukachevo.
+ I am pleased to participate in this course.
 
 # Hi there. I'm Viktoria. And this is my cat - Tisha. We really hope will become part of kottans family.
 
