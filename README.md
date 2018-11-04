@@ -183,3 +183,9 @@ hey there
 ## Privetiki, kottans! 
 I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
 ![naughty-cat](gif/307.gif)
+
+-----------------------------------------------------------------
+## Hello, Kottans!
+
+Like Dota-2 players says "Good luck, have fun!"
+-----------------------------------------------------------------
