@@ -193,3 +193,8 @@ I'm Maks and it's a pleasure for me to join this community. Good luck for everyo
 Like Dota-2 players says "Good luck, have fun!"
 -----------------------------------------------------------------
 
+-----
+## Hello there, community!
+I'm Denis and... Ow, all these gifs! Just get one more :)
+![Two cat-yawners](gif/yawners.gif)
+
