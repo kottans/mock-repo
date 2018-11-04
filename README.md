@@ -149,7 +149,7 @@ I think it should be here.
 =======
 ### Hello,kottans! You're beautiful. Wish you best [coding](https://github.com/)
 
-## **Hello, hope to join the course, really excited**
+`## **Hello, hope to join the course, really excited**
 ![another cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 ...........................
@@ -203,3 +203,6 @@ I'm Denis and... Ow, all these gifs! Just get one more :)
 My name is Vanya, and I am glad to be part of the team.
 (I feel myself now like - )
 ![god-coding](gif/god-coding.gif)
+
+----------------------------------------------------------------
+Hi everyone :)
