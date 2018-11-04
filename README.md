@@ -1,5 +1,5 @@
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
- 
+
 Hi,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
@@ -81,7 +81,7 @@ Hello, Kottans! How wonderful that I found you!
 
 Hi everybody!!!!! i`m ready to study i want to learn something new and fresh!!!!!
 i want to be in your team!!!!!!
-![](gif/ready.gif) 
+![](gif/ready.gif)
 
 ----------
 
@@ -127,7 +127,7 @@ while(true) {
 Ooops! File changed. This line can be removed.
 ----------------------------------------------
 ##Hello! I'm Anton! I'm so happy to be in your team.
-I think it should be here. 
+I think it should be here.
 ![Screenshot](gif/dancer.jpg)
 
 
@@ -179,7 +179,22 @@ hey there
 
 ![tisha](gif/tisha.jpg)
 
+## Privetiki, kottans!
+I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day!
+![naughty-cat](gif/307.gif)
+
+## How it is look like, when you dive into first Udacity course about Git and try to understand all this new information, furthermore, given in english..
+
+![i-gont-get-ittt](gif/i-dont-get-ittt.gif)
+
+-----------------------------------------------------------------
+## Hello, Kottans!
+
+Like Dota-2 players says "Good luck, have fun!"
+-----------------------------------------------------------------
+
 -----
+
 ## Privetiki, kottans! 
 I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
 ![naughty-cat](gif/307.gif)
@@ -188,5 +203,13 @@ I'm Maks and it's a pleasure for me to join this community. Good luck for everyo
  Hello, everyone! I'm Artem from Kiev.
  This is my first pull-request. That's fun.
  
- 
- 
+## Hello there, community!
+I'm Denis and... Ow, all these gifs! Just get one more :)
+![Two cat-yawners](gif/yawners.gif)
+
+---------------------------------------
+##Hey, kottans)
+My name is Vanya, and I am glad to be part of the team.
+(I feel myself now like - )
+![god-coding](gif/god-coding.gif)
+
