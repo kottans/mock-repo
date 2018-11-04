@@ -178,3 +178,9 @@ hey there
 # Hi there. I'm Viktoria. And this is my cat - Tisha. We really hope will become part of kottans family.
 
 ![tisha](gif/tisha.jpg)
+
+---------------------------------------
+##Hey, kottans)
+My name is Vanya, and I am glad to be part of the team.
+(I feel myself now like - )
+![god-coding](gif/god-coding.gif)
