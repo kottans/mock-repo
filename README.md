@@ -179,13 +179,17 @@ hey there
 
 ![tisha](gif/tisha.jpg)
 
------
 ## Privetiki, kottans! 
 I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
 ![naughty-cat](gif/307.gif)
+
+## How it is look like, when you dive into first Udacity course about Git and try to understand all this new information, furthermore, given in english..
+
+![i-gont-get-ittt](gif/i-dont-get-ittt.gif)
 
 -----------------------------------------------------------------
 ## Hello, Kottans!
 
 Like Dota-2 players says "Good luck, have fun!"
 -----------------------------------------------------------------
+
