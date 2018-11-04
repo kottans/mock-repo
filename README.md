@@ -205,6 +205,7 @@ My name is Vanya, and I am glad to be part of the team.
 ![god-coding](gif/god-coding.gif)
 
 --------
-##Hi, guys
+## Hi, guys
+
 ![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
 
