@@ -186,3 +186,10 @@ I'm Maks and it's a pleasure for me to join this community. Good luck for everyo
 ## How it is look like, when you dive into first Udacity course about Git and try to understand all this new information, furthermore, given in english..
 
 ![i-gont-get-ittt](gif/i-dont-get-ittt.gif)
+
+-----------------------------------------------------------------
+## Hello, Kottans!
+
+Like Dota-2 players says "Good luck, have fun!"
+-----------------------------------------------------------------
+
