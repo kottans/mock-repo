@@ -38,6 +38,14 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 *It was an intentionally misspelled phrase*
 
 
+============================================
+
+
+# Hi, kottans! I'm Dima from Kiev.
+
+I am very glad to join you =^.^=
+
+![Screenshot](gif/Cat_js.gif)
 
 _______________________________
 
@@ -195,14 +203,14 @@ Like Dota-2 players says "Good luck, have fun!"
 
 -----
 
-## Privetiki, kottans! 
-I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
+## Privetiki, kottans!
+I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day!
 ![naughty-cat](gif/307.gif)
 
 
  Hello, everyone! I'm Artem from Kiev.
  This is my first pull-request. That's fun.
- 
+
 ## Hello there, community!
 I'm Denis and... Ow, all these gifs! Just get one more :)
 ![Two cat-yawners](gif/yawners.gif)
