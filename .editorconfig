@@ -9,3 +9,4 @@ indent_size = 2
 tab_width = 2
 charset = utf-8
 trim_trailing_whitespace = true
+
