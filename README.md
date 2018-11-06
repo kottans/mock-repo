@@ -219,5 +219,11 @@ My name is Vanya, and I am glad to be part of the team.
 ## Hi, guys
 
 ![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
+-----------------------------------------------------------------
+## HI, Dudes!
+I'm new in your community,you all are cool^^
+### Together - we are force!!!!
+
+-----------------------------------------------------------------
 
 
