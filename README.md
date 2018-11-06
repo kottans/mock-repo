@@ -228,14 +228,7 @@ I'm new in your community,you all are cool^^
 ### In force we trust!
 ![cat-force](gif/force.gif)
 
-
 ## Hi, Kottans!
 Happy to become a part of this great community!
 ### Let's the training begin!!! ;)
-
-
-
 -----------------------------------------------------------------
-
-
-
