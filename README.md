@@ -226,4 +226,8 @@ I'm new in your community,you all are cool^^
 
 -----------------------------------------------------------------
 
+## Hi, Kottans!
+Happy to become a part of this great community!
+### Let's the training begin!!! ;)
+
 
