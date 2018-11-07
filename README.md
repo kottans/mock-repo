@@ -246,4 +246,8 @@ Happy to become a part of this great community!
 ### Let's the training begin!!! ;)
 -----------------------------------------------------------------
 
+## Hi guys,
 
+My name is Vania and I'd like to join your team :)
+![happyCat](gif/happyCat.gif)
+-----------------------------------------------------------------
