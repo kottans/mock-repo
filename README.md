@@ -254,3 +254,7 @@ Natalie Reshetnikova
 ![cat-pirate](http://gif-finder.com/wp-content/uploads/2015/10/Pirate-Cat.gif)
 -----------------------------------------------------------------
 
+## Hi! I'm cat sheriff
+
+![cat-sheriff](gif/meow.png)
+-----------------------------------------------------------------
