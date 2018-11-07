@@ -246,4 +246,11 @@ Happy to become a part of this great community!
 ### Let's the training begin!!! ;)
 -----------------------------------------------------------------
 
+##Hi, there!
+I really loved to learn about Git and GitHub from Udacity course and I will recommend it to others! To my consideration, Kottans made a great job on sharing the valuable knowledge with others) Hope to try the whole frontend-course!
+Best wishes,
+Natalie Reshetnikova
+![cat-pirate] http://gif-finder.com/wp-content/uploads/2015/10/Pirate-Cat.gif
+
+----------------------------
 
