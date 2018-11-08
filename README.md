@@ -258,3 +258,7 @@ Natalie Reshetnikova
 My name is Vania and I'd like to join your team :)
 ![happyCat](gif/happyCat.gif)
 -----------------------------------------------------------------
+
+## Hello, kottans ^_^
+![superCat](gif/superCat.gif)
+-----------------------------------------------------------------
