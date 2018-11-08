@@ -76,7 +76,7 @@ Ready to work hard and not to sleep at night
 ********************************************
 ============================================
 ********************************************
-Hello, Kotans!
+Hello, Kottans!
 Glad to be here)
 ============================================
 
@@ -255,6 +255,6 @@ Natalie Reshetnikova
 -----------------------------------------------------------------
 
 ## Hi guys,
-My name is Vania and I'd like to join your team :)  
+My name is Vania and I'd like to join your team :)
 ![happyCat](gif/happyCat.gif)
 -----------------------------------------------------------------
