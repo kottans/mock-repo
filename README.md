@@ -254,3 +254,7 @@ Natalie Reshetnikova
 ![cat-pirate](http://gif-finder.com/wp-content/uploads/2015/10/Pirate-Cat.gif)
 -----------------------------------------------------------------
 
+## Hi guys,
+My name is Vania and I'd like to join your team :)  
+![happyCat](gif/happyCat.gif)
+-----------------------------------------------------------------
