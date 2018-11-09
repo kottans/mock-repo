@@ -265,7 +265,7 @@ My name is Vania and I'd like to join your team :)
 
 -----------------------------------------------------------------
 
-## Hello everybody, I'm really satisfied to de here. Separately thank =^.^= for that opportunity!!!
+## Hello everybody, I'm really satisfied to be here. Separately thank =^.^= for that opportunity!!!
 ![gif](gif/giphy.gif)
 
 -----------------------------------------------------------------
