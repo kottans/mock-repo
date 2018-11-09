@@ -259,6 +259,12 @@ My name is Vania and I'd like to join your team :)
 ![happyCat](gif/happyCat.gif)
 -----------------------------------------------------------------
 
+
+## Hi Everyone!
+Let the party start!
+Igor K
+
+
 ## Hello, kottans ^_^
 ![superCat](gif/superCat.gif)
 
@@ -269,3 +275,14 @@ My name is Vania and I'd like to join your team :)
 ![gif](gif/giphy.gif)
 
 -----------------------------------------------------------------
+
+-----------------------------------------------------------------
+
+## Hello there, kottans :hugging_face:
+I'm Michail and I'm freaking curious about the outcome of your project for myself. 
+Have fun and be :cat:
+
+![curious cat](https://i.giphy.com/media/5i7umUqAOYYEw/giphy.webp)
+
+-----------------------------------------------------------------
+
