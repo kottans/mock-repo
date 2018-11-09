@@ -269,3 +269,10 @@ Igor K
 ![superCat](gif/superCat.gif)
 -----------------------------------------------------------------
 
+## Hello there, kottans :hugging_face:
+I'm Michail and I'm freaking curious about the outcome of your project for myself. 
+Have fun and be :cat:
+
+![curious cat](https://i.giphy.com/media/5i7umUqAOYYEw/giphy.webp)
+-----------------------------------------------------------------
+
