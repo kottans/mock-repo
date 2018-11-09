@@ -259,6 +259,13 @@ My name is Vania and I'd like to join your team :)
 ![happyCat](gif/happyCat.gif)
 -----------------------------------------------------------------
 
+
+## Hi Everyone!
+Let the party start!
+Igor K
+
+=======
 ## Hello, kottans ^_^
 ![superCat](gif/superCat.gif)
 -----------------------------------------------------------------
+
