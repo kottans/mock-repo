@@ -286,3 +286,6 @@ Have fun and be :cat:
 
 -----------------------------------------------------------------
 
+## Hello Kottans!  
+I'm excited that I open this community. I would like to be part of that amazing team)
+![excited_cat](gif/omg-cat.gif)
