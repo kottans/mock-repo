@@ -41,6 +41,20 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 ============================================
 
 
+# kottans-frontend
+
+## HI, THERE!
+
+I'm glad to join kottans community!
+
+Best wishes, Vitaliy  :)
+
+![cat-in-office](http://i.imgur.com/U0jmb.gif)
+
+
+__________________________________________________________________________
+
+
 # Hi, kottans! I'm Dima from Kiev.
 
 I am very glad to join you =^.^=
