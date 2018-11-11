@@ -314,3 +314,12 @@ I'm excited that I opened this community. I would like to be part of that amazin
 
 -----------------------------------------------------------------
 
+## Hi there!
+I'm Nataly, nice to join you!
+Let's get prepared!
+
+![black cat](gif/blackcat.gif)
+
+-----------------------------------------------------------------
+
+
