@@ -310,3 +310,11 @@ I'm excited that I opened this community. I would like to be part of that amazin
 ![excited_cat](https://thumbs.gfycat.com/VillainousQueasyBats-small.gif)
 
 -----------------------------------------------------------------
+
+## Hi there!
+I'm Nataly, nice to join you!
+Let's get prepared!
+
+![blach cat](gif/blackcat.gif)
+
+-----------------------------------------------------------------
