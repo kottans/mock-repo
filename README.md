@@ -305,6 +305,9 @@ Have fun and be :cat:
 
 -----------------------------------------------------------------
 
+
+Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
+
 ## Hello Kottans!  
 I'm excited that I opened this community. I would like to be part of that amazing team)
 ![excited_cat](https://thumbs.gfycat.com/VillainousQueasyBats-small.gif)
