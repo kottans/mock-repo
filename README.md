@@ -41,6 +41,20 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 ============================================
 
 
+# kottans-frontend
+
+## HI, THERE!
+
+I'm glad to join kottans community!
+
+Best wishes, Vitaliy  :)
+
+![cat-in-office](http://i.imgur.com/U0jmb.gif)
+
+
+__________________________________________________________________________
+
+
 # Hi, kottans! I'm Dima from Kiev.
 
 I am very glad to join you =^.^=
@@ -254,6 +268,11 @@ Natalie Reshetnikova
 ![cat-pirate](http://gif-finder.com/wp-content/uploads/2015/10/Pirate-Cat.gif)
 -----------------------------------------------------------------
 
+## Hi! I'm cat sheriff
+
+![cat-sheriff](gif/meow.png)
+
+-----------------------------------------------------------------
 ## Hi guys,
 My name is Vania and I'd like to join your team :)
 ![happyCat](gif/happyCat.gif)
@@ -279,11 +298,19 @@ Igor K
 -----------------------------------------------------------------
 
 ## Hello there, kottans :hugging_face:
-I'm Michail and I'm freaking curious about the outcome of your project for myself. 
+I'm Michail and I'm freaking curious about the outcome of your project for myself.
 Have fun and be :cat:
 
 ![curious cat](https://i.giphy.com/media/5i7umUqAOYYEw/giphy.webp)
 
 -----------------------------------------------------------------
 
+
 Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
+
+## Hello Kottans!  
+I'm excited that I opened this community. I would like to be part of that amazing team)
+![excited_cat](https://thumbs.gfycat.com/VillainousQueasyBats-small.gif)
+
+-----------------------------------------------------------------
+
