@@ -286,3 +286,7 @@ Have fun and be :cat:
 
 -----------------------------------------------------------------
 
+## Hello comunity :D
+I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working". 
+
+![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg
