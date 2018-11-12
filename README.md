@@ -322,4 +322,9 @@ Let's get prepared!
 
 -----------------------------------------------------------------
 
+## Hello, Kottans! 
+I'm really into your course and community.
+
+![developer cat](gif/devcat.png)
+
 
