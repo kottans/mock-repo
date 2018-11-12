@@ -31,6 +31,12 @@ Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+______________
+
+![nicecat](https://user-images.githubusercontent.com/29075777/48380240-9c596580-e6df-11e8-9882-4be825b32c2f.png)
+
+Nice kitten, by the way
+
 ----------
 
 Hello World! I'm Alexandr Nikandrov from Kiev.
