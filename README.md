@@ -345,4 +345,10 @@ I'm really into your course and community.
 
 **I'm Ed and I'm ready to study!**
 
+-----------------------------------------------------------------
+
+## Hellooo
+I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kottans community. All success and good mood!
+
+[Hello](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
