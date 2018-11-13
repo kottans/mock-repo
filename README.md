@@ -338,4 +338,11 @@ I'm really into your course and community.
 
 ![developer cat](gif/devcat.png)
 
+-----------------------------------------------------------------
+# Hello to all KOTTANS
+
+![my cat](https://vignette.wikia.nocookie.net/warriors-cats/images/c/ce/%D0%9C%D1%8F%D1%83.gif/revision/latest?cb=20170417133748&path-prefix=ru)
+
+**I'm Ed and I'm ready to study!**
+
 
