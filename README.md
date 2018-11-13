@@ -45,7 +45,12 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 
 
 ============================================
+_________________________________________________
 
+# Hello Kottans!
+![giphy](https://user-images.githubusercontent.com/44728742/48383883-67a1da00-e6f0-11e8-9a5b-1a60866dba51.gif)
+
+_________________________________________________
 
 # kottans-frontend
 
