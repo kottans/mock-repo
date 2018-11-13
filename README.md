@@ -338,4 +338,10 @@ I'm really into your course and community.
 
 ![developer cat](gif/devcat.png)
 
+-----------------------------------------------------------------
 
+# Hello to all KOTTANS <h1>
+
+![alt text](https://www.downloadfeast.com/wp-content/uploads/2016/05/cats/catcat-cat.gif "My picture")
+
+**I'm Ed and I'm really interested in your course!**
