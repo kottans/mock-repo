@@ -31,6 +31,12 @@ Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+______________
+
+![nicecat](https://user-images.githubusercontent.com/29075777/48380240-9c596580-e6df-11e8-9882-4be825b32c2f.png)
+
+Nice kitten, by the way
+
 ----------
 
 Hello World! I'm Alexandr Nikandrov from Kiev.
@@ -38,6 +44,33 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 *It was an intentionally misspelled phrase*
 
 
+============================================
+_________________________________________________
+
+# Hello Kottans!
+![giphy](https://user-images.githubusercontent.com/44728742/48383883-67a1da00-e6f0-11e8-9a5b-1a60866dba51.gif)
+
+_________________________________________________
+
+# kottans-frontend
+
+## HI, THERE!
+
+I'm glad to join kottans community!
+
+Best wishes, Vitaliy  :)
+
+![cat-in-office](http://i.imgur.com/U0jmb.gif)
+
+
+__________________________________________________________________________
+
+
+# Hi, kottans! I'm Dima from Kiev.
+
+I am very glad to join you =^.^=
+
+![Screenshot](gif/Cat_js.gif)
 
 _______________________________
 
@@ -68,7 +101,7 @@ Ready to work hard and not to sleep at night
 ********************************************
 ============================================
 ********************************************
-Hello, Kotans!
+Hello, Kottans!
 Glad to be here)
 ============================================
 
@@ -195,14 +228,14 @@ Like Dota-2 players says "Good luck, have fun!"
 
 -----
 
-## Privetiki, kottans! 
-I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day! 
+## Privetiki, kottans!
+I'm Maks and it's a pleasure for me to join this community. Good luck for everyone and have a nice day!
 ![naughty-cat](gif/307.gif)
 
 
  Hello, everyone! I'm Artem from Kiev.
  This is my first pull-request. That's fun.
- 
+
 ## Hello there, community!
 I'm Denis and... Ow, all these gifs! Just get one more :)
 ![Two cat-yawners](gif/yawners.gif)
@@ -245,6 +278,88 @@ My name is Ivan.
 
 ![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
 -----------------------------------------------------------------
+=======
+## Hi, there!
+I really loved to learn about Git and GitHub from Udacity course and I will recommend it to others! To my consideration, Kottans made a great job on sharing the valuable knowledge with others) Hope to try the whole frontend-course!
+Best wishes,
+Natalie Reshetnikova
 
+![cat-pirate](http://gif-finder.com/wp-content/uploads/2015/10/Pirate-Cat.gif)
+-----------------------------------------------------------------
+
+## Hi! I'm cat sheriff
+
+![cat-sheriff](gif/meow.png)
+
+-----------------------------------------------------------------
+## Hi guys,
+My name is Vania and I'd like to join your team :)
+![happyCat](gif/happyCat.gif)
+-----------------------------------------------------------------
+
+
+## Hi Everyone!
+Let the party start!
+Igor K
+
+
+## Hello, kottans ^_^
+![superCat](gif/superCat.gif)
+
+
+-----------------------------------------------------------------
+
+## Hello everybody, I'm really satisfied to be here. Separately thank =^.^= for that opportunity!!!
+![gif](gif/giphy.gif)
+
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+
+## Hello there, kottans :hugging_face:
+I'm Michail and I'm freaking curious about the outcome of your project for myself.
+Have fun and be :cat:
+
+![curious cat](https://i.giphy.com/media/5i7umUqAOYYEw/giphy.webp)
+
+-----------------------------------------------------------------
+
+
+Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
+
+## Hello Kottans!  
+I'm excited that I opened this community. I would like to be part of that amazing team)
+![excited_cat](https://thumbs.gfycat.com/VillainousQueasyBats-small.gif)
+
+-----------------------------------------------------------------
+
+## Hi there!
+I'm Nataly, nice to join you!
+Let's get prepared!
+
+![black cat](gif/blackcat.gif)
+
+-----------------------------------------------------------------
+
+## Hello, Kottans! 
+I'm really into your course and community.
+
+![developer cat](gif/devcat.png)
+
+-----------------------------------------------------------------
+# Hello to all KOTTANS
+
+![my cat](https://vignette.wikia.nocookie.net/warriors-cats/images/c/ce/%D0%9C%D1%8F%D1%83.gif/revision/latest?cb=20170417133748&path-prefix=ru)
+
+**I'm Ed and I'm ready to study!**
+
+-----------------------------------------------------------------
+
+## Hellooo
+I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kottans community. All success and good mood!
+
+[Hello](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+
+----------------------------------------------------------------
 ## Hi, everyone
 It was very hard and informative PR)
