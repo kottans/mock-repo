@@ -244,4 +244,7 @@ My name is Ivan.
 
 
 ![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
+-----------------------------------------------------------------
 
+## Hi, everyone
+It was very hard and informative PR)
