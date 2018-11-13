@@ -182,7 +182,7 @@ I think it should be here.
 =======
 ### Hello,kottans! You're beautiful. Wish you best [coding](https://github.com/)
 
-## **Hello, hope to join the course, really excited**
+`## **Hello, hope to join the course, really excited**
 ![another cat](https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif)
 
 ...........................
@@ -246,11 +246,11 @@ My name is Vanya, and I am glad to be part of the team.
 (I feel myself now like - )
 ![god-coding](gif/god-coding.gif)
 
+----------------------------------------------------------------
+## Hi everyone :)
 
-
---------
+------------------------------------------
 ## Hi, guys
-
 ![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
 -----------------------------------------------------------------
 ## HI, Dudes!
@@ -271,6 +271,14 @@ Happy to become a part of this great community!
 ### Let's the training begin!!! ;)
 -----------------------------------------------------------------
 
+## Hi everybody ;)
+My name is Ivan.
+-----------------------------------------------------------------
+
+
+![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
+-----------------------------------------------------------------
+=======
 ## Hi, there!
 I really loved to learn about Git and GitHub from Udacity course and I will recommend it to others! To my consideration, Kottans made a great job on sharing the valuable knowledge with others) Hope to try the whole frontend-course!
 Best wishes,
@@ -352,3 +360,6 @@ I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kot
 
 [Hello](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
+----------------------------------------------------------------
+## Hi, everyone
+It was very hard and informative PR)
