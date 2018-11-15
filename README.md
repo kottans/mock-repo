@@ -363,3 +363,12 @@ I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kot
 ----------------------------------------------------------------
 ## Hi, everyone
 It was very hard and informative PR)
+
+--------------------------------------------------------------------
+
+## Hello, Kottans! 
+I'm glad to be a part of this community!
+
+![excited_cat_man](gif/excited_cat_man.gif)
+
+
