@@ -363,3 +363,11 @@ I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kot
 ----------------------------------------------------------------
 ## Hi, everyone
 It was very hard and informative PR)
+
+----------------------------------------------------------------
+
+## Hi, Kottans! 
+
+The Fridy hacker cat breaks into the Kottans company again! Let's be friends! :)
+
+![Kottan](gif/fridy_hacker.jpg)
