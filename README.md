@@ -372,3 +372,8 @@ I'm glad to be a part of this community!
 ![excited_cat_man](gif/excited_cat_man.gif)
 
 
+### Hi to all Kottans ^..^
+happy to be a part of your community
+![cat_in_a_hat](http://www.grindd.com/blog/wp-content/uploads/2013/07/nerd_cat.jpg)
+
+
