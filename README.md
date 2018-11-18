@@ -389,4 +389,12 @@ The Fridy hacker cat breaks into the Kottans company again! Let's be friends! :)
 
 ![Kottan](gif/fridy_hacker.jpg)
 
+----------------------------------------------------------------
+
+## Hi! Let's do it!
+
+Don't stop, go, go, go! :)
+
+![Don't wait, lets go](gif/cat40.jpg)
+
 
