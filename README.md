@@ -380,3 +380,13 @@ happy to be a part of your community
  --------------------------------------------------------------------
 
 ## Hello Kottans. Glad to invite this community
+
+----------------------------------------------------------------
+
+## Hi, Kottans! 
+
+The Fridy hacker cat breaks into the Kottans company again! Let's be friends! :)
+
+![Kottan](gif/fridy_hacker.jpg)
+
+
