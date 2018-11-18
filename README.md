@@ -380,3 +380,6 @@ happy to be a part of your community
  --------------------------------------------------------------------
 
 ## Hello Kottans. Glad to invite this community
+
+### Hi Kottans!
+[![giphy.gif](https://i.postimg.cc/xTHKwHgS/giphy.gif)](https://postimg.cc/4mf7tYr8
