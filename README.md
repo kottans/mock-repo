@@ -364,6 +364,23 @@ I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kot
 ## Hi, everyone
 It was very hard and informative PR)
 
+--------------------------------------------------------------------
+
+## Hello, Kottans! 
+I'm glad to be a part of this community!
+
+![excited_cat_man](gif/excited_cat_man.gif)
+
+
+### Hi to all Kottans ^..^
+happy to be a part of your community
+
+![cat_in_a_hat](http://www.grindd.com/blog/wp-content/uploads/2013/07/nerd_cat.jpg)
+
+ --------------------------------------------------------------------
+
+## Hello Kottans. Glad to invite this community
+
 ----------------------------------------------------------------
 
 ## Hi, Kottans! 
@@ -371,3 +388,5 @@ It was very hard and informative PR)
 The Fridy hacker cat breaks into the Kottans company again! Let's be friends! :)
 
 ![Kottan](gif/fridy_hacker.jpg)
+
+
