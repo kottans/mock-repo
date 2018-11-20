@@ -405,6 +405,14 @@ Make frontend great!
 
 ![great-cat](https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
+----------------------------------------------------------------
+
+## Hi! Kottans!
+
+I'm Nick, nice to join you!
+
+![fluffy_cat](gif/fluffy_cat.jpg)
+
 
 
 
