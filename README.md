@@ -397,6 +397,10 @@ Don't stop, go, go, go! :)
 
 ![Don't wait, lets go](gif/cat40.jpg)
 
+
+***********
+Hi, Kottans !
+
 ----------------------------------------------------------------
 
 ## Hello, Cuties! 
@@ -412,7 +416,4 @@ Make frontend great!
 I'm Nick, nice to join you!
 
 ![fluffy_cat](gif/fluffy_cat.jpg)
-
-
-
 
