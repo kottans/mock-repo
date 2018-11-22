@@ -432,3 +432,6 @@ I'm glad to join!
 
 ![kottans_team](http://www.catgifpage.com/gifs/291.gif)
 
+## Hi to all
+
+I'm Maryna, and I'm glad to join your Kottans community.
