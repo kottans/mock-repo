@@ -427,5 +427,8 @@ Have fun!
 
 ---------------------------------------------------------------
 ## Hello Kottans
+
+I'm glad to join!
+
 ![kottans_team](http://www.catgifpage.com/gifs/291.gif)
 
