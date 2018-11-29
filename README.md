@@ -443,3 +443,6 @@ I'm Anton from Kiev, nice to be part of Kottans community.
 
 ![cat_cat](https://vk.vkfaces.com/627522/v627522673/298de/Y29WmwuRWBc.jpg)
 
+## Hello friends
+
+I'm Igor, and I'm willing to learn
