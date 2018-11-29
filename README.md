@@ -446,3 +446,8 @@ I'm Anton from Kiev, nice to be part of Kottans community.
 ## Hello friends
 
 I'm Igor, and I'm willing to learn
+---------------------------------------------------------------
+## Hi! Kottans!
+
+I'm Anton, nice to join you!
+---------------------------------------------------------------
