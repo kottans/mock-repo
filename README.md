@@ -451,3 +451,8 @@ I'm Igor, and I'm willing to learn
 
 I'm Anton, nice to join you!
 ---------------------------------------------------------------
+
+Hi guys, it's nice to join you.
+Happy coding!
+
+![programming_cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
