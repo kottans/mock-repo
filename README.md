@@ -451,3 +451,7 @@ I'm Igor, and I'm willing to learn
 
 I'm Anton, nice to join you!
 ---------------------------------------------------------------
+## Hi guys!! Cool to join you community!!
+
+![Random kitty](https://loremflickr.com/640/360)
+---------------------------------------------------------------
