@@ -456,5 +456,7 @@ I wish everyone to have fun and keep in mind: "Fail is integral part of success.
 ![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
 
 ---------------------------------------------------------------
+## Hi guys!! Cool to join you community!!
 
-
+![Random kitty](https://loremflickr.com/640/360)
+---------------------------------------------------------------
