@@ -33,6 +33,12 @@ Where all postings before March 2018 has gone to?
 
 ______________
 
+# Kottans, I just want to say Hi!
+
+![cat](gif/blackcat.gif)
+
+______________
+
 ![nicecat](https://user-images.githubusercontent.com/29075777/48380240-9c596580-e6df-11e8-9882-4be825b32c2f.png)
 
 Nice kitten, by the way
