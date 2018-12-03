@@ -324,7 +324,6 @@ Have fun and be :cat:
 
 -----------------------------------------------------------------
 
-
 Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
 
 ## Hello Kottans!  
@@ -450,6 +449,16 @@ I'm Igor, and I'm willing to learn
 ## Hi! Kottans!
 
 I'm Anton, nice to join you!
+---------------------------------------------------------------
+## Hello comunity :D
+I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working". 
+
+![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
+
+---------------------------------------------------------------
+## Hi guys!! Cool to join you community!!
+
+![Random kitty](https://loremflickr.com/640/360)
 ---------------------------------------------------------------
 
 Hi guys, it's nice to join you.
