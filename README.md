@@ -460,3 +460,8 @@ I wish everyone to have fun and keep in mind: "Fail is integral part of success.
 
 ![Random kitty](https://loremflickr.com/640/360)
 ---------------------------------------------------------------
+
+Hi guys, it's nice to join you.
+Happy coding!
+
+![programming_cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
