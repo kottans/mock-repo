@@ -454,6 +454,6 @@ I'm Anton, nice to join you!
 ## kottans-frontendо from Mandzia Bohdan, Kyiv
 
 GitHub очень ценная штука, сохранение новых версий, внесение изменений, решение конфликтов реализовано очень чётко. Надеюсь использование данного ресурса в дальнейшем не вызовет у меня трудностей.
-Данная отметка от Богдана г.Киев
-<img src="bobcat.jpg" width="225" height="225"/>
+Данная отметка от Богдана г.Киев<br>
+<img src="kottans-frontend/bobcat.jpg" width="225" height="225"/>
       
