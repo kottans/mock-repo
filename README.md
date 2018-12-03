@@ -450,7 +450,6 @@ I'm Igor, and I'm willing to learn
 
 I'm Anton, nice to join you!
 ---------------------------------------------------------------
-=======
 ## Hello comunity :D
 I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working". 
 
