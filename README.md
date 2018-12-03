@@ -455,5 +455,5 @@ I'm Anton, nice to join you!
 
 GitHub очень ценная штука, сохранение новых версий, внесение изменений, решение конфликтов реализовано очень чётко. Надеюсь использование данного ресурса в дальнейшем не вызовет у меня трудностей.
 Данная отметка от Богдана г.Киев<br>
-<img src="kottans-frontend/bobcat.jpg" width="225" height="225"/>
+<img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
       
