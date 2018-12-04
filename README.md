@@ -456,6 +456,12 @@ I'm Igor, and I'm willing to learn
 
 I'm Anton, nice to join you!
 ---------------------------------------------------------------
+## kottans-frontendо from Mandzia Bohdan, Kyiv
+
+GitHub очень ценная штука, сохранение новых версий, внесение изменений, решение конфликтов реализовано очень чётко. Надеюсь использование данного ресурса в дальнейшем не вызовет у меня трудностей.<br>
+Данная отметка от Богдана г.Киев<br>
+<img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
+---------------------------------------------------------------
 ## Hello comunity :D
 I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working". 
 
