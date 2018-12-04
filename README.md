@@ -477,3 +477,8 @@ Hi guys, it's nice to join you.
 Happy coding!
 
 ![programming_cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
+
+---------------------------------------------------------------
+## Hello, kottans 
+ ![rkitty](http://www.autofish.net/mirrors/images/animals/cats/bubees.jpg)
+ 
