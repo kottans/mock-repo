@@ -33,6 +33,12 @@ Where all postings before March 2018 has gone to?
 
 ______________
 
+# Kottans, I just want to say Hi!
+
+![cat](gif/blackcat.gif)
+
+______________
+
 ![nicecat](https://user-images.githubusercontent.com/29075777/48380240-9c596580-e6df-11e8-9882-4be825b32c2f.png)
 
 Nice kitten, by the way
@@ -324,7 +330,6 @@ Have fun and be :cat:
 
 -----------------------------------------------------------------
 
-
 Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
 
 ## Hello Kottans!  
@@ -456,4 +461,19 @@ I'm Anton, nice to join you!
 GitHub очень ценная штука, сохранение новых версий, внесение изменений, решение конфликтов реализовано очень чётко. Надеюсь использование данного ресурса в дальнейшем не вызовет у меня трудностей.<br>
 Данная отметка от Богдана г.Киев<br>
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
-      
+---------------------------------------------------------------
+## Hello comunity :D
+I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working". 
+
+![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
+
+---------------------------------------------------------------
+## Hi guys!! Cool to join you community!!
+
+![Random kitty](https://loremflickr.com/640/360)
+---------------------------------------------------------------
+
+Hi guys, it's nice to join you.
+Happy coding!
+
+![programming_cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
