@@ -483,3 +483,8 @@ Happy coding!
 I am Vlad from Kyiv, and I'm excited to enroll in this frontend course :D
 
 ![OMG](gif/omg-cat.gif)
+
+## Hi everyone!
+
+[I'm](https://github.com/DJStar77) glade to join Kottans Team!
+![Cat in Internet](gif/cat.jpg)
