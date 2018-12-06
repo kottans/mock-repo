@@ -477,3 +477,9 @@ Hi guys, it's nice to join you.
 Happy coding!
 
 ![programming_cat](https://brokelyn.com/app/uploads/2014/07/cat-computer.jpg)
+
+## Hello!
+
+I am Vlad from Kyiv, and I'm excited to enroll in this frontend course :D
+
+![OMG](gif/omg-cat.gif)
