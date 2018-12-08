@@ -495,3 +495,8 @@ I am Vlad from Kyiv, and I'm excited to enroll in this frontend course :D
 [I'm](https://github.com/DJStar77) glade to join Kottans Team!
 ![Cat in Internet](gif/cat.jpg)
 
+## Hi, friends!
+
+I`m Alex from Kiev!
+
+![alt text](https://i1.wp.com/www.betameme.com/wp-content/uploads/2018/02/congrats-memes-on-cat.jpg?resize=294%2C293)
