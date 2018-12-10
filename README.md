@@ -500,3 +500,15 @@ I am Vlad from Kyiv, and I'm excited to enroll in this frontend course :D
 ## Hello everyone :)
 
 I'm Tania. Nice to join you!
+
+=======
+## Hello!
+
+I am Leonid. I would like to working on this course remotely.
+I hope you will make the following tasks and some lectures available online.
+
+## Hi, friends!
+
+I`m Alex from Kiev!
+
+![alt text](https://i1.wp.com/www.betameme.com/wp-content/uploads/2018/02/congrats-memes-on-cat.jpg?resize=294%2C293)
