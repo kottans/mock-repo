@@ -495,6 +495,13 @@ I am Vlad from Kyiv, and I'm excited to enroll in this frontend course :D
 [I'm](https://github.com/DJStar77) glade to join Kottans Team!
 ![Cat in Internet](gif/cat.jpg)
 
+---------------------------------------------------------------
+
+## Hello everyone :)
+
+I'm Tania. Nice to join you!
+
+=======
 ## Hello!
 
 I am Leonid. I would like to working on this course remotely.
