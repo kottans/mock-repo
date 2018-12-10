@@ -512,3 +512,9 @@ I hope you will make the following tasks and some lectures available online.
 I`m Alex from Kiev!
 
 ![alt text](https://i1.wp.com/www.betameme.com/wp-content/uploads/2018/02/congrats-memes-on-cat.jpg?resize=294%2C293)
+--------------------------------------------------------------------
+
+## Hi team
+[I'm](https://github.com/V1taliy) Vitaliy from Kiev and I want to join Kottans Team!
+##
+![Cat meeting](https://media.giphy.com/media/eXTue7sCt6ZvG/giphy.gif)
