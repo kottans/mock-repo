@@ -6,7 +6,7 @@ This is a training repository for both [Kottans web course](https://github.com/K
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
-*This is an internationally missspelled phprase*
+*This is an intentionally misspelled phrase*
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -30,6 +30,12 @@ with other to make fun from conversation.
 Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
+
+______________
+
+# Hello there, Kottans!
+
+![giphy-hat](gif/giphy-hat.gif)
 
 ______________
 
