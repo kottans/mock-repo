@@ -6,7 +6,7 @@ This is a training repository for both [Kottans web course](https://github.com/K
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
-*This is an intentionally misspelled phrase*
+*This is an internationally missspelled phprase*
 
 Tell other kottans a couple of words and add a fancy picture.
 
