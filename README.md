@@ -338,7 +338,7 @@ Have fun and be :cat:
 
 Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
 
-## Hello Kottans!  
+## Hello Kottans!
 I'm excited that I opened this community. I would like to be part of that amazing team)
 ![excited_cat](https://thumbs.gfycat.com/VillainousQueasyBats-small.gif)
 
@@ -352,7 +352,7 @@ Let's get prepared!
 
 -----------------------------------------------------------------
 
-## Hello, Kottans! 
+## Hello, Kottans!
 I'm really into your course and community.
 
 ![developer cat](gif/devcat.png)
@@ -377,7 +377,7 @@ It was very hard and informative PR)
 
 --------------------------------------------------------------------
 
-## Hello, Kottans! 
+## Hello, Kottans!
 I'm glad to be a part of this community!
 
 ![excited_cat_man](gif/excited_cat_man.gif)
@@ -394,7 +394,7 @@ happy to be a part of your community
 
 ----------------------------------------------------------------
 
-## Hi, Kottans! 
+## Hi, Kottans!
 
 The Fridy hacker cat breaks into the Kottans company again! Let's be friends! :)
 
@@ -414,9 +414,9 @@ Hi, Kottans !
 
 ----------------------------------------------------------------
 
-## Hello, Cuties! 
+## Hello, Cuties!
 
-Make frontend great! 
+Make frontend great!
 
 ![great-cat](https://images.pexels.com/photos/248280/pexels-photo-248280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 
@@ -469,7 +469,7 @@ GitHub очень ценная штука, сохранение новых ве�
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
 ---------------------------------------------------------------
 ## Hello comunity :D
-I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working". 
+I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working".
 
 ![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
 
@@ -486,9 +486,9 @@ Happy coding!
 
 
 ---------------------------------------------------------------
-## Hello, kottans 
+## Hello, kottans
  ![rkitty](http://www.autofish.net/mirrors/images/animals/cats/bubees.jpg)
- 
+
 
 ## Hello!
 
@@ -524,3 +524,7 @@ I`m Alex from Kiev!
 [I'm](https://github.com/V1taliy) Vitaliy from Kiev and I want to join Kottans Team!
 ##
 ![Cat meeting](https://media.giphy.com/media/eXTue7sCt6ZvG/giphy.gif)
+
+## Hi all!
+I'm Viktor from Zhytomyr. Please [read](http://modx.ws) my blog and [follow](https://github.com/Viktorminator) me, because I'm real ninja :point_down::point_down::point_down:!
+![real ninja](https://media.giphy.com/media/xUA7b58H4xoE6c6mk0/giphy.gif)
