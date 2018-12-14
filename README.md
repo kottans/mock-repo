@@ -526,5 +526,5 @@ I`m Alex from Kiev!
 ![Cat meeting](https://media.giphy.com/media/eXTue7sCt6ZvG/giphy.gif)
 
 ## Hi all!
-I'm Viktor from Zhytomyr. Please [read](http://modx.ws) my blog and [follow](https://github.com/Viktorminator) me, because I'm real ninja :point_down::point_down::point_down:!
+I'm Viktor from Zhytomyr! I'm real ninja :point_down::point_down::point_down:!
 ![real ninja](https://media.giphy.com/media/xUA7b58H4xoE6c6mk0/giphy.gif)
