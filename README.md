@@ -32,6 +32,10 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ______________
+## Hey Frontenders!! Happy holidays and a happy new season of this course!!
+My name is Mitya, soon we all will be really good in doing things right!
+
+![funny cat](gif/Funny-Cat-Gifs-11.gif)
 
 # Hello there, Kottans!
 
