@@ -533,3 +533,7 @@ I`m Alex from Kiev!
 ## Hi all!
 I'm Viktor from Zhytomyr! I'm real ninja :point_down::point_down::point_down:!
 ![real ninja](https://media.giphy.com/media/xUA7b58H4xoE6c6mk0/giphy.gif)
+
+## Hello there!
+I'm Max I'm from Kyiv 
+![Wilfred](https://pbs.twimg.com/media/DsDvgVfXcAAoO1p.jpg:large)
