@@ -1,7 +1,6 @@
-﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
-##### H E L L O! 
-:smirk_cat:
+Hello,
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
@@ -33,6 +32,10 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ______________
+## Hey Frontenders!! Happy holidays and a happy new season of this course!!
+My name is Mitya, soon we all will be really good in doing things right!
+
+![funny cat](gif/Funny-Cat-Gifs-11.gif)
 
 # Hello there, Kottans!
 
@@ -339,7 +342,7 @@ Have fun and be :cat:
 
 Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
 
-## Hello Kottans!
+## Hello Kottans!  
 I'm excited that I opened this community. I would like to be part of that amazing team)
 ![excited_cat](https://thumbs.gfycat.com/VillainousQueasyBats-small.gif)
 
@@ -531,7 +534,7 @@ I'm Viktor from Zhytomyr! I'm real ninja :point_down::point_down::point_down:!
 ![real ninja](https://media.giphy.com/media/xUA7b58H4xoE6c6mk0/giphy.gif)
 
 ## Hello there!
-I'm Max I'm from Kyiv 
+I'm Max I'm from Kyiv
 ![Wilfred](https://pbs.twimg.com/media/DsDvgVfXcAAoO1p.jpg:large)
 
 ## Hello, everybody!
