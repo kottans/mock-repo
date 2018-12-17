@@ -384,3 +384,8 @@ The interesting journey begins!
 I'm Yuriy.
 # Here is  markdown  [wiki](https://ru.wikipedia.org/wiki/Markdown)
 and link to my [git](https://github.com/yuraer/)
+
+------------------------------
+Hi, kottans!
+
+![](gif/giphy-catt.gif)
