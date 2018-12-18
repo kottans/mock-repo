@@ -543,3 +543,9 @@ I'm Max I'm from Kyiv
 #Hi, kottans!
 
 ![](gif/giphy-catt.gif)
+
+#Hi kottans family!
+I'm Svitlana from Vasylkiv
+Hope we have a good start here ^^
+
+![.](https://proglib.io/wp-content/uploads/2018/06/junior_vs_senior.png)
