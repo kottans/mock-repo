@@ -543,3 +543,8 @@ I'm Max I'm from Kyiv
 #Hi, kottans!
 
 ![](gif/giphy-catt.gif)
+
+------------------------------
+#Hi, all!
+
+![cat](gif/tisha.jpg)
