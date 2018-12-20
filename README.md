@@ -548,6 +548,7 @@ I'm Max I'm from Kyiv
 ![](gif/giphy-catt.gif)
 
 
+
 ------------------------------
 # Hola, kottans!
 I'm Sergey from Kiev. Very glad to join 
@@ -567,3 +568,10 @@ I'm Vitalii.
 #Hello, everyone!
 
 Good luck in learning!
+
+
+#Hi kottans family!
+I'm Svitlana from Vasylkiv
+Hope we have a good start here ^^
+
+![.](https://proglib.io/wp-content/uploads/2018/06/junior_vs_senior.png)
