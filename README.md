@@ -552,3 +552,8 @@ I'm Max I'm from Kyiv
 # Hola, kottans!
 I'm Sergey from Kiev. Very glad to join 
 ![](https://66.media.tumblr.com/79c6421db8419dff4239bd25aa1e1eb0/tumblr_ol22bl3ly91ums2ddo1_640.jpg)
+
+------------------------------
+#Hi, all!
+
+![cat](gif/tisha.jpg)
