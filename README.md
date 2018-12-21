@@ -575,3 +575,7 @@ I'm Svitlana from Vasylkiv
 Hope we have a good start here ^^
 
 ![.](https://proglib.io/wp-content/uploads/2018/06/junior_vs_senior.png)
+
+
+#Hi, this is Denys from Kyiv
+This is gonna be fun!
