@@ -579,3 +579,9 @@ Hope we have a good start here ^^
 
 #Hi, this is Denys from Kyiv
 This is gonna be fun!
+
+
+#Hi Kottans!
+My name is Kharchenko Andrew.
+I want to learn more about FE!
+![cat](https://github.com/Drynka/kottans-frontend/raw/master/kottan.gif)
