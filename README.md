@@ -581,7 +581,7 @@ Hope we have a good start here ^^
 This is gonna be fun!
 
 
-#Hi Kottans!
+# Hi Kottans!
 My name is Kharchenko Andrew.
 I want to learn more about FE!
 ![cat](https://github.com/Drynka/kottans-frontend/raw/master/kottan.gif)
