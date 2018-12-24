@@ -583,3 +583,13 @@ This is gonna be fun!
 ## Hello, kottans! I'm Sasha from Kiev.
 I hope for fruitful work with you:cat:  
 ![cat](gif/cat-eats-cookie.gif)  
+
+# Hi Kottans!
+My name is Kharchenko Andrew.
+I want to learn more about FE!
+![cat](https://github.com/Drynka/kottans-frontend/raw/master/kottan.gif)
+
+
+# Hello Kottans!
+Thank you for your community!
+![](gif/i_am_programmer.jpg)
