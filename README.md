@@ -580,6 +580,9 @@ Hope we have a good start here ^^
 ## Hi, this is Denys from Kyiv
 This is gonna be fun!
 
+## Hello, kottans! I'm Sasha from Kiev.
+I hope for fruitful work with you:cat:  
+![cat](gif/cat-eats-cookie.gif)  
 
 # Hi Kottans!
 My name is Kharchenko Andrew.
