@@ -611,9 +611,9 @@ Thank you for your community!
 # Hi, Kottans-Frontend Club!
 <br>
 Nice to meet you! I'm Peter. Thank you for opportunity to learn this course and to communicate with others. 
-I have interested *Udacity* git course especially for building excelent concept map of Git. 
-I have enjoyed course [*try.githab.io*](http://try.githab.io) for excellent materials, such as learning git 
-branching with graphical view of git commits as a tree, github learning lab with interactive activities.
+I have interested Udacity git course especially for building excelent concept map of Git. 
+I have enjoyed course *try.githab.io* for studying materials, such as *learning git 
+branching* with graphical view of git commits as a tree, *github learning lab* with interactive activities.
 <br>
 
 
