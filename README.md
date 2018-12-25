@@ -593,3 +593,13 @@ I want to learn more about FE!
 # Hello Kottans!
 Thank you for your community!
 ![](gif/i_am_programmer.jpg)
+
+
+
+# Hello, everyone!
+<br>
+<b>Are you ready for a new experience?</b>
+
+<img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635" />
+<br>
+
