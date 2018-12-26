@@ -77,6 +77,10 @@ _________________________________________________
 
 _________________________________________________
 
+# Hello Kottans!
+HOLIDAY GREETINGS!!!!
+![It's a dog, ha!](https://github.com/DariyaZ/git-test/blob/master/sebek.jpg)
+
 # kottans-frontend
 
 ## HI, THERE!
@@ -608,8 +612,15 @@ Thank you for your community!
 <img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635" />
 <br>
 
----------------------------------------------------------------
+# Hi, Kottans-Frontend Club!
+<br>
+Nice to meet you! I'm Peter. Thank you for opportunity to learn this course and to communicate with others. 
+I have interested Udacity git course especially for building excelent concept map of Git. 
+I have enjoyed course *try.githab.io* for studying materials, such as *learning git 
+branching* with graphical view of git commits as a tree, *github learning lab* with interactive activities.
+<br>
 
 # Hi Kottans!
 I'm Sviat from Kyiv. I like sphinxes.
 ![cat sphynx](https://github.com/sortedlist/kottans-frontend/blob/master/img/1.jpg)
+
