@@ -77,6 +77,10 @@ _________________________________________________
 
 _________________________________________________
 
+# Hello Kottans!
+HOLIDAY GREETINGS!!!!
+![It's a dog, ha!](https://github.com/DariyaZ/git-test/blob/master/sebek.jpg)
+
 # kottans-frontend
 
 ## HI, THERE!
