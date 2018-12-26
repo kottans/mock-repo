@@ -620,4 +620,7 @@ I have enjoyed course *try.githab.io* for studying materials, such as *learning 
 branching* with graphical view of git commits as a tree, *github learning lab* with interactive activities.
 <br>
 
+# Hi Kottans!
+I'm Sviat from Kyiv. I like sphinxes.
+![cat sphynx](https://github.com/sortedlist/kottans-frontend/blob/master/img/1.jpg)
 
