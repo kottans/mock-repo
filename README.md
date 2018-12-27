@@ -3,7 +3,7 @@
 
 Hi, kottans! Nice to meet you!
 
-##### H E L L O! 
+##### H E L L O!
 :smirk_cat:
 
 This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
@@ -547,7 +547,7 @@ I'm Viktor from Zhytomyr! I'm real ninja :point_down::point_down::point_down:!
 ![real ninja](https://media.giphy.com/media/xUA7b58H4xoE6c6mk0/giphy.gif)
 
 ## Hello there!
-I'm Max I'm from Kyiv 
+I'm Max I'm from Kyiv
 ![Wilfred](https://pbs.twimg.com/media/DsDvgVfXcAAoO1p.jpg:large)
 
 
@@ -560,7 +560,7 @@ I'm Max I'm from Kyiv
 
 ------------------------------
 # Hola, kottans!
-I'm Sergey from Kiev. Very glad to join 
+I'm Sergey from Kiev. Very glad to join
 ![](https://66.media.tumblr.com/79c6421db8419dff4239bd25aa1e1eb0/tumblr_ol22bl3ly91ums2ddo1_640.jpg)
 
 ------------------------------
@@ -590,8 +590,8 @@ Hope we have a good start here ^^
 This is gonna be fun!
 
 ## Hello, kottans! I'm Sasha from Kiev.
-I hope for fruitful work with you:cat:  
-![cat](gif/cat-eats-cookie.gif)  
+I hope for fruitful work with you:cat:
+![cat](gif/cat-eats-cookie.gif)
 
 # Hi Kottans!
 My name is Kharchenko Andrew.
@@ -614,9 +614,9 @@ Thank you for your community!
 
 # Hi, Kottans-Frontend Club!
 <br>
-Nice to meet you! I'm Peter. Thank you for opportunity to learn this course and to communicate with others. 
-I have interested Udacity git course especially for building excelent concept map of Git. 
-I have enjoyed course *try.githab.io* for studying materials, such as *learning git 
+Nice to meet you! I'm Peter. Thank you for opportunity to learn this course and to communicate with others.
+I have interested Udacity git course especially for building excelent concept map of Git.
+I have enjoyed course *try.githab.io* for studying materials, such as *learning git
 branching* with graphical view of git commits as a tree, *github learning lab* with interactive activities.
 <br>
 
@@ -624,3 +624,5 @@ branching* with graphical view of git commits as a tree, *github learning lab* w
 I'm Sviat from Kyiv. I like sphinxes.
 ![cat sphynx](https://github.com/sortedlist/kottans-frontend/blob/master/img/1.jpg)
 
+# Hi guys!
+Would be great to join you!
