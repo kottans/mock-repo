@@ -626,3 +626,10 @@ I'm Sviat from Kyiv. I like sphinxes.
 
 # Hi guys!
 Would be great to join you!
+
+# Hey, Kottans!
+<br>
+Happy New Year!
+<br>
+<img height="300px" src="https://i.redd.it/oto64ta1d1501.jpg" />
+<br>
