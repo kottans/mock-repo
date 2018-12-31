@@ -681,8 +681,8 @@ I'm Sviat from Kyiv. I like sphinxes.
 
 ## Would be great to join you!
 
+---
+
 # hello, my name is Victor.
 
 ## Happy NY!
-
-!(Darth Vader)[https://media.vanityfair.com/photos/5852ca58972218dd20575570/master/w_1920,c_limit/rogue-one-darth-vader-02.jpg]
