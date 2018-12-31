@@ -685,4 +685,4 @@ I'm Sviat from Kyiv. I like sphinxes.
 
 ## Happy NY!
 
-!(Darth Vader)[https://res.cloudinary.com/jerrick/image/upload/f_auto,fl_progressive,q_auto,c_fit,w_1100/zfamgvolrk8s7z0yenro]
+!(Darth Vader)[https://media.vanityfair.com/photos/5852ca58972218dd20575570/master/w_1920,c_limit/rogue-one-darth-vader-02.jpg]
