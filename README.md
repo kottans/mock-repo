@@ -1,4 +1,4 @@
-﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
 Hi, kottans! Nice to meet you!
@@ -651,4 +651,9 @@ Thank you for such great courses!!)
 ## Hello there!
 I'm Vladyslav. I'm from Kyiv  
 ![cat](https://img.buzzfeed.com/buzzfeed-static/static/2014-06/4/15/enhanced/webdr07/anigif_enhanced-17465-1401909433-8.gif)
+
+## Hi!
+My name is Yulia. Nice to meet you, guys!
+<br />
+![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
