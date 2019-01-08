@@ -654,5 +654,5 @@ I'm Vladyslav. I'm from Kyiv
 
 ## Hi!
 My name is Yulia. Nice to meet you, guys!
-![cat](https://gph.is/1w6mM6h)
+![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
