@@ -676,6 +676,17 @@ I hope I can get to the outgoing train.
 Oh, those cats..
 ![tajx](https://user-images.githubusercontent.com/35102255/51133681-52efd880-183e-11e9-8428-df7512d743b2.gif)
 
+_______________________________
+
+
+# Hello, kottans! I'm glad to see you all here ))).
+
+It's great that I can be part of your community.
+
+![Study](gif/study.gif)
+
+_______________________________
+
 ## Hi guys!
 I'm in disguise.
 
