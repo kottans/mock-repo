@@ -697,4 +697,4 @@ _______________________________________________
 
 ## Hi, kottans!
 I'm late, but I hope, I'll can study with you!
-![epic fail](https://i.pinimg.com/originals/f6/94/e7/f694e70960dd8e594359fd7d315e575c.gif)
+![epic fail](gif/epic-fail.gif)
