@@ -692,3 +692,11 @@ I'm in disguise.
 
 
 ![santa](https://www.catgifpage.com/gifs/314.gif)
+
+_______________________________________________
+
+## Hi, kottans!
+I'm late, but I hope, I'll can study with you!
+
+
+![epic fail](gif/epic_fail.gif)
