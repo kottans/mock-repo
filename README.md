@@ -700,3 +700,11 @@ I'm late, but I hope, I'll can study with you!
 
 
 ![epic fail](gif/epic_fail.gif)
+
+_______________________________
+
+## Hi, my names Sergey. I'm from Kiev.
+ I am pleased to participate in this course.
+
+
+![Two cat-yawners](gif/yawners.gif)
