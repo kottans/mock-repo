@@ -397,7 +397,7 @@ I'm really into your course and community.
 -----------------------------------------------------------------
 
 ## Hellooo
-I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kottans community. All success and good mood!
+I'm Ruslan. I came from Siberia, but now I live in Kiev. After exploring the Kottans community. All success and good mood!
 
 [Hello](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
