@@ -10,7 +10,7 @@ This is a training repository for both [Kottans web course](https://github.com/K
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
-*This is an internationally missspelled phprase*
+*This is an internationally misspelled phrases*
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -700,3 +700,11 @@ I'm late, but I hope, I'll can study with you!
 
 
 ![epic fail](gif/epic_fail.gif)
+
+_______________________________
+
+## Hi, my names Sergey. I'm from Kiev.
+ I am pleased to participate in this course.
+
+
+![Two cat-yawners](gif/yawners.gif)
