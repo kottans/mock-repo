@@ -708,3 +708,12 @@ _______________________________
 
 
 ![Two cat-yawners](gif/yawners.gif)
+
+_______________________________
+
+## Hello there
+ I'm Georgiy and I came here to study.
+
+ ![Walking cat](gif/walking-cat.gif)
+
+ 
