@@ -38,6 +38,11 @@ Where all postings before March 2018 has gone to?
 
 __________________________________________________________________________
 
+# Hi, Kottans people!
+
+My name is Julia and I want to greet all of you and to wish you productive work!
+
+__________________________________________________________________________
 
 # Hi, kottans! I'm Max and that's my cat - Juja. 
 
