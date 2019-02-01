@@ -726,5 +726,12 @@ _______________________________
 I started to learn kottans course.
 
 ![tetor](gif/tenor.gif)
-_______________________________
- 
+  _________________________________
+ ## Hi, everyone!
+My name is Serhii.
+
+Happy to discover your community.
+
+Thanks for p2p.
+
+![stalone cat](gif/newcat.jpg)
