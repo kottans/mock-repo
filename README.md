@@ -720,5 +720,14 @@ _______________________________
  I'm Georgiy and I came here to study.
 
  ![Walking cat](gif/walking-cat.gif)
+ _______________________________
+ 
+## Hi, I am madmax.
 
+I started to learn kottans course.
+
+
+![tetor](gif/tenor.gif)
+
+_______________________________
  
