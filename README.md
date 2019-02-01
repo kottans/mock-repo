@@ -723,11 +723,8 @@ _______________________________
  _______________________________
  
 ## Hi, I am madmax.
-
 I started to learn kottans course.
 
-
 ![tetor](gif/tenor.gif)
-
 _______________________________
  
