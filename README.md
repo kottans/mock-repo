@@ -730,3 +730,12 @@ Happy to discover your community.
 Thanks for p2p.
 
 ![stalone cat](gif/newcat.jpg)
+_________________________________
+
+## Greetings!
+
+I'm Peter and ready to join the guild "p2p" :) 
+
+Good luck everyone.
+
+![Hero cat](gif/hero-cat.jpg)
