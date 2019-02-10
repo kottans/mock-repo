@@ -747,4 +747,4 @@ Good luck everyone.
 
 ## Hello everybody!
 
-I'm Mirlan and very happy to be hear with all of you!
+I'm Mirlan and very happy to be here with all of you!
