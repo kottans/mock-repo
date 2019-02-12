@@ -44,7 +44,7 @@ My name is Julia and I want to greet all of you and to wish you productive work!
 
 __________________________________________________________________________
 
-# Hi, kottans! I'm Max and that's my cat - Juja. 
+# Hi, kottans! I'm Max and that's my cat - Juja.
 
 We are happy to join you =^.^= !
 
@@ -645,7 +645,7 @@ I'm Sviat from Kyiv. I like sphinxes.
 # Hi guys!
 Would be great to join you!
 
-## Hello everybody! 
+## Hello everybody!
 I'm Artem from Kyiv, Ukraine.
 <i>Nice to meet all of you! And thanks for good opportunity to kwon something new.</i>
 <img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
@@ -663,7 +663,7 @@ My name is Yulia. Nice to meet you, guys!
 ![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 # Hi there!
-My name is Evgen. 
+My name is Evgen.
 Nice to join you.
 
 
@@ -721,7 +721,7 @@ _______________________________
 
  ![Walking cat](gif/walking-cat.gif)
  _______________________________
- 
+
 ## Hi, I am madmax.
 I started to learn kottans course.
 
@@ -739,7 +739,7 @@ _________________________________
 
 ## Greetings!
 
-I'm Peter and ready to join the guild "p2p" :) 
+I'm Peter and ready to join the guild "p2p" :)
 
 Good luck everyone.
 
@@ -748,3 +748,7 @@ Good luck everyone.
 ## Hello everybody!
 
 I'm Mirlan and very happy to be here with all of you!
+
+## Hi all, kottans!
+
+I'm Alex, and I came here to study!
