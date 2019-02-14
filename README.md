@@ -1,4 +1,4 @@
-﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
 Hi, kottans! Nice to meet you!
@@ -10,7 +10,7 @@ This is a training repository for both [Kottans web course](https://github.com/K
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
-*This is an internationally missspelled phprase*
+*This is an internationally misspelled phrases*
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -35,6 +35,23 @@ Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+
+__________________________________________________________________________
+
+# Hi, Kottans people!
+
+My name is Julia and I want to greet all of you and to wish you productive work!
+
+__________________________________________________________________________
+
+# Hi, kottans! I'm Max and that's my cat - Juja. 
+
+We are happy to join you =^.^= !
+
+![Juja](gif/my_cat_Juja.jpg)
+
+_______________________________
+=======
 ______________
 ## Hey People. That's good to become a part of this team!
 My name is Rustem and good luck to everyone!
@@ -57,6 +74,7 @@ ______________
 ![cat](gif/blackcat.gif)
 
 ______________
+
 
 ![nicecat](https://user-images.githubusercontent.com/29075777/48380240-9c596580-e6df-11e8-9882-4be825b32c2f.png)
 
@@ -141,8 +159,8 @@ Hello, Kottans! How wonderful that I found you!
 
 {}{}{{}{}{}{}{{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 
-Hi everybody!!!!! i`m ready to study i want to learn something new and fresh!!!!!
-i want to be in your team!!!!!!
+Hi everybody!!!!! I`m ready to study. I want to learn something new and fresh!!!!!
+I want to be in your team!!!!!!
 ![](gif/ready.gif)
 
 ----------
@@ -384,7 +402,7 @@ I'm really into your course and community.
 -----------------------------------------------------------------
 
 ## Hellooo
-I'm Ruslan. I come from Siberia, but now I live in Kiev. After exploring the Kottans community. All success and good mood!
+I'm Ruslan. I came from Siberia, but now I live in Kiev. After exploring the Kottans community. All success and good mood!
 
 [Hello](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
@@ -626,6 +644,110 @@ I'm Sviat from Kyiv. I like sphinxes.
 
 # Hi guys!
 Would be great to join you!
+
+## Hello everybody! 
+I'm Artem from Kyiv, Ukraine.
+<i>Nice to meet all of you! And thanks for good opportunity to kwon something new.</i>
+<img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
+
+Hello, everyone!
+Thank you for such great courses!!)
+
+## Hello there!
+I'm Vladyslav. I'm from Kyiv  
+![cat](https://img.buzzfeed.com/buzzfeed-static/static/2014-06/4/15/enhanced/webdr07/anigif_enhanced-17465-1401909433-8.gif)
+
+## Hi!
+My name is Yulia. Nice to meet you, guys!
+<br />
+![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
+
+# Hi there!
+My name is Evgen. 
+Nice to join you.
+
+
+
+## Hello!
+I'm Evgeny. I'm from Kyiv  
+<br />
+![spacecat](https://i.imgur.com/5cNY70b.png)
+
+## Hi!
+I hope I can get to the outgoing train.
+![](gif/catandtrain.jpg)
+
+## Hey!
+Oh, those cats..
+![tajx](https://user-images.githubusercontent.com/35102255/51133681-52efd880-183e-11e9-8428-df7512d743b2.gif)
+
+_______________________________
+
+
+# Hello, kottans! I'm glad to see you all here ))).
+
+It's great that I can be part of your community.
+
+![Study](gif/study.gif)
+
+_______________________________
+
+## Hi guys!
+I'm in disguise.
+
+
+![santa](https://www.catgifpage.com/gifs/314.gif)
+
+_______________________________________________
+
+## Hi, kottans!
+I'm late, but I hope, I'll can study with you!
+
+
+![epic fail](gif/epic_fail.gif)
+
+_______________________________
+
+## Hi, my names Sergey. I'm from Kiev.
+ I am pleased to participate in this course.
+
+
+![Two cat-yawners](gif/yawners.gif)
+
+_______________________________
+
+## Hello there
+ I'm Georgiy and I came here to study.
+
+ ![Walking cat](gif/walking-cat.gif)
+ _______________________________
+ 
+## Hi, I am madmax.
+I started to learn kottans course.
+
+![tetor](gif/tenor.gif)
+  _________________________________
+ ## Hi, everyone!
+My name is Serhii.
+
+Happy to discover your community.
+
+Thanks for p2p.
+
+![stalone cat](gif/newcat.jpg)
+_________________________________
+
+## Greetings!
+
+I'm Peter and ready to join the guild "p2p" :) 
+
+Good luck everyone.
+
+![Hero cat](gif/hero-cat.jpg)
+
+## Hello everybody!
+
+I'm Mirlan and very happy to be here with all of you!
 
 # Hello everybody!
 Nice to meet you :)
