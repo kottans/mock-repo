@@ -753,3 +753,9 @@ I'm Mirlan and very happy to be here with all of you!
 Nice to meet you :)
 
 ![cute cat](https://preview.redd.it/t4lxvdxhdh121.gif?width=640&crop=smart&s=7902c0263a68e83a6600ce9e769b045fca19a711)
+
+## Hello, Kottans!
+
+I'm Nick and I'm ready to start this wonderful journey
+
+![cat](https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif)
