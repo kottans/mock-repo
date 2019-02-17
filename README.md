@@ -759,3 +759,11 @@ Nice to meet you :)
 I'm Nick and I'm ready to start this wonderful journey
 
 ![cat](https://media.giphy.com/media/1HKaikaFqDt7i/giphy.gif)
+
+## Hi, guys!
+
+I am very glad to join p2p course!
+It is really cool to learn front-end this way.
+Thank you for this opportunity!
+
+![Lion-cat](gif/lion-cat.gif)
