@@ -767,3 +767,8 @@ It is really cool to learn front-end this way.
 Thank you for this opportunity!
 
 ![Lion-cat](gif/lion-cat.gif)
+
+## Hi there! Glad to join you!
+I'm Sergey from Kharkov and here is my cat --->
+
+![Michelle](gif/little_cutie.jpg)
