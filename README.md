@@ -772,3 +772,13 @@ Thank you for this opportunity!
 I'm Sergey from Kharkov and here is my cat --->
 
 ![Michelle](gif/little_cutie.jpg)
+
+
+# Impossible cats are here!
+
+Neural networks are the future of image processing in web technologies. An image bellow shows the cat which does not exist! Each time when you reload the page a new image is generated!
+
+You don't believe? Refresh the page and see it yourself!!
+
+![Impossible cat](https://thiscatdoesnotexist.com/)
+
