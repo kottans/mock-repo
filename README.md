@@ -111,8 +111,12 @@ Best wishes, Vitaliy  :)
 
 
 __________________________________________________________________________
+# Hi! I'm Vitaliy.
 
+Kottans the best of the best!!!
 
+![HELLO!](https://github.com/GoncharovVV/kottans-frontend/blob/master/funny_cats_95.jpg)
+__________________________________________________________________________
 # Hi, kottans! I'm Dima from Kiev.
 
 I am very glad to join you =^.^=
