@@ -790,3 +790,9 @@ You don't believe? Refresh the page and see it yourself!!
 I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time 
 
 ![Jumpy](gif/jump.gif)
+
+
+## Greetings, Kottans!
+Let's start the journey!
+
+![SpaceCat](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
