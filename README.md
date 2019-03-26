@@ -41,7 +41,6 @@ _________________________________________________
 # following the rest I want to introduce my kitty Buba's
 ![Buba](gif/bubacat.jpg)
 I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
-Let's go ;)
 _________________________________________________
 ===============================
 __________________________________________________________________________
