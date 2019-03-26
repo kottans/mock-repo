@@ -35,7 +35,15 @@ Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+_________________________________________________
+# Hi, people! I'm Viktor. 
 
+# following the rest I want to introduce my kitty Buba's
+![Buba](gif/bubacat.jpg)
+I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
+Let's go ;)
+_________________________________________________
+===============================
 __________________________________________________________________________
 
 # Hi, Kottans people!
