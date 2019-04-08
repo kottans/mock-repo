@@ -815,4 +815,4 @@ I just started p2p - course and it is gonna be awesome)
 ![cat](https://www.meme-arsenal.com/memes/64ccae79dfab573fb7eb1b23d7a55e54.jpg)
 
 ## Hi, everyone!
-I'm Yuliia and I'll be okay whit it =).
+I'm Yuliia and I'll be okay with it =).
