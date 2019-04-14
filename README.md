@@ -896,5 +896,4 @@ I just started p2p - course and it is gonna be awesome)
 I'm Yuliia and I'll be okay with it =).
 
 ## Hi there!
-
 ![cat](https://archive-media-0.nyafuu.org/bant/image/1494/00/1494005541252.jpg)
