@@ -819,3 +819,7 @@ I'm Yuliia and I'll be okay with it =).
 
 ## Hi there!
 ![cat](https://archive-media-0.nyafuu.org/bant/image/1494/00/1494005541252.jpg)
+
+## Hello, everybody!
+Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
+![cat](https://www.thehappycatsite.com/wp-content/uploads/2017/11/funny3.jpg)
