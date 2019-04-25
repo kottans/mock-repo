@@ -826,4 +826,4 @@ Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
 
 # Hi there. 
 I'm Irina. I hope to be part of the Kottans family.
-![cuteCat] (http://rebloggy.com/post/photoset-1k-cat-pretty-animals-cute-japan-upload-kitten-tokyo-2k-daisy/82450253130)
+![cuteCat](gif/cuteCate.jpg)
