@@ -823,3 +823,7 @@ I'm Yuliia and I'll be okay with it =).
 ## Hello, everybody!
 Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
 ![cat](https://www.thehappycatsite.com/wp-content/uploads/2017/11/funny3.jpg)
+
+# Hi there. 
+I'm Irina. I hope to be part of the Kottans family.
+![cuteCat](gif/cuteCate.jpg)
