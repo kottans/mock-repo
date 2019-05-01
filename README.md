@@ -830,4 +830,4 @@ I'm Irina. I hope to be part of the Kottans family.
 
 # Hi, kottans!
 I'm doggan :) and my name is Jack Loki. Nice to meet you!  
-<img style="float: right;" alt="cat? O_o" src="gif/jack_loki.jpg">
+<img style="align: left;" alt="cat? O_o" src="gif/jack_loki.jpg">
