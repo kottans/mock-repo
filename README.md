@@ -827,3 +827,7 @@ Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
 # Hi there. 
 I'm Irina. I hope to be part of the Kottans family.
 ![cuteCat](gif/cuteCate.jpg)
+
+# Hi, kottans!
+I'm doggan :) and my name is Jack Loki. Nice to meet you!  
+<img style="align: left;" alt="cat? O_o" src="gif/jack_loki.jpg">
