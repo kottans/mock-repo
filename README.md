@@ -829,5 +829,5 @@ I'm Irina. I hope to be part of the Kottans family.
 ![cuteCat](gif/cuteCate.jpg)
 
 # Hi, kottans!
-I'm doggan :) and my name is Jack Loki. Nice to meet you!
-![cat? O_o](gif/jack_loki.jpg)
+I'm doggan :) and my name is Jack Loki. Nice to meet you!  
+<img style="float: right;" alt="cat? O_o" src="gif/jack_loki.jpg">
