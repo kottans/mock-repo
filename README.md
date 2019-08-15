@@ -850,3 +850,10 @@ I'm Nevty.
 Glad to be part of this community.
 
 ![CuteCat](https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif)
+
+## Hi Kottans!
+
+My name is Vasyl. Nice too meet you guys :)
+
+![cat](https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif)
+
