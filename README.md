@@ -859,4 +859,4 @@ My name is Vasyl. Nice too meet you guys :)
 
 ## Hey! I along with Maya (image below this text) am going join this awesome comunity. I hope it's gonna be a fun ride!:)
 
-![Maya]()
+![Maya](https://images.unsplash.com/photo-1508927415581-538b97647924?ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80)
