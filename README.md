@@ -857,3 +857,6 @@ My name is Vasyl. Nice too meet you guys :)
 
 ![cat](https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif)
 
+## Hey! I along with Maya (image below this text) am going join this awesome comunity. I hope it's gonna be a fun ride!:)
+
+![Maya]()
