@@ -859,6 +859,6 @@ My name is Vasyl. Nice too meet you guys :)
 
 ## Hey there!
 
-I along with my cat Maya (that's a photo of random cat from the Internet cat below, not Maya's :smiley_cat:) am going to join this awesome community. I hope it's gonna be a fun ride!:wink:
+I along with my cat Maya (that's a photo of random cat from the Internet below, not Maya's :smiley_cat:) am going to join this awesome community. I hope it's gonna be a fun ride!:wink:
 
 ![Maya](https://images.unsplash.com/photo-1508927415581-538b97647924?ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80)
