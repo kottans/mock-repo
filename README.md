@@ -6,7 +6,7 @@ Hi, kottans! Nice to meet you!
 ##### H E L L O!
 :smirk_cat:
 
-This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
+This is a training repository for Kottans [web course](https://github.com/Kottans/web), [frontend course](https://github.com/Kottans/frontend), [backend course](https://github.com/kottans/backend), and [git course](https://github.com/kottans/git-course). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
