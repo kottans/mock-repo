@@ -36,6 +36,11 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 _________________________________________________
+#### kottans-backend
+
+#### HI, THERE! My name is Andrew
+I'm glad to be here!  Best wishes to the Kottans community!
+_________________________________________________
 # Hi, people! I'm Viktor. 
 
 # following the rest I want to introduce my kitty Buba's
