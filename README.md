@@ -886,3 +886,11 @@ My song would have been longer.
 # Hi, everyone! My name is Stas
 I'm glad to join the course
 ![cat](http://www.kotomania.com/data/612.jpg)
+
+
+## Hi, 
+i'm _laverka_, and going to join to backend course. 
+In case anyone is from **Lviv**, let's keep in touch
+***
+
+
