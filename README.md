@@ -34,18 +34,9 @@ with other to make fun from conversation.
 Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
-_________________________________________________
-
-# Hi, everybody! My name is Dima.
-
-# I want learn more about backend;
-
-![Ruzak](gif/ruzak.jpg)
 
 _________________________________________________
-
-_________________________________________________
-# Hi, people! I'm Viktor.
+# Hi, people! I'm Viktor. 
 
 # following the rest I want to introduce my kitty Buba's
 ![Buba](gif/bubacat.jpg)
@@ -60,7 +51,7 @@ My name is Julia and I want to greet all of you and to wish you productive work!
 
 __________________________________________________________________________
 
-# Hi, kottans! I'm Max and that's my cat - Juja.
+# Hi, kottans! I'm Max and that's my cat - Juja. 
 
 We are happy to join you =^.^= !
 
@@ -665,7 +656,7 @@ I'm Sviat from Kyiv. I like sphinxes.
 # Hi guys!
 Would be great to join you!
 
-## Hello everybody!
+## Hello everybody! 
 I'm Artem from Kyiv, Ukraine.
 <i>Nice to meet all of you! And thanks for good opportunity to kwon something new.</i>
 <img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
@@ -683,7 +674,7 @@ My name is Yulia. Nice to meet you, guys!
 ![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 # Hi there!
-My name is Evgen.
+My name is Evgen. 
 Nice to join you.
 
 
@@ -741,7 +732,7 @@ _______________________________
 
  ![Walking cat](gif/walking-cat.gif)
  _______________________________
-
+ 
 ## Hi, I am madmax.
 I started to learn kottans course.
 
@@ -759,7 +750,7 @@ _________________________________
 
 ## Greetings!
 
-I'm Peter and ready to join the guild "p2p" :)
+I'm Peter and ready to join the guild "p2p" :) 
 
 Good luck everyone.
 
@@ -803,7 +794,7 @@ You don't believe? Refresh the page and see it yourself!!
 ![Impossible cat](https://thiscatdoesnotexist.com/)
 
 ## Hi my lovely Kottans! Let me join you!
-I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time
+I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time 
 
 ![Jumpy](gif/jump.gif)
 
@@ -833,7 +824,7 @@ I'm Yuliia and I'll be okay with it =).
 Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
 ![cat](https://www.thehappycatsite.com/wp-content/uploads/2017/11/funny3.jpg)
 
-# Hi there.
+# Hi there. 
 I'm Irina. I hope to be part of the Kottans family.
 ![cuteCat](gif/cuteCate.jpg)
 
@@ -847,8 +838,8 @@ I'm Viktoriia, I will study frontend with Kottans!
 
 # Hello Kottans!
 
-My name is Roman!
-Thank you for an excellent batch of recources.
+My name is Roman! 
+Thank you for an excellent batch of recources. 
 
 <img width="294" alt="Снимок экрана 2018-12-17 в 16 30 58" src="https://user-images.githubusercontent.com/11008299/57920078-da0f9480-78a2-11e9-9068-65ebb65cf53b.png">
 
