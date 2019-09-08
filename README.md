@@ -36,14 +36,13 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 _________________________________________________
+
 # Hello, everybody! My name is Dima.
 
 # I want learn more about backend;
 
 ![Ruzak](gif/ruzak.jpg)
-I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
 _________________________________________________
-
 _________________________________________________
 # Hi, people! I'm Viktor.
 
