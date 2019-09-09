@@ -892,6 +892,18 @@ I'm glad to join the course
 i'm _laverka_, and going to join to backend course. 
 In case anyone is from **Lviv**, let's keep in touch
 ***
+   /\     /\
+  {  `---'  }
+  {  O   O  }
+  ~~>  V  <~~
+   \  \|/  /
+    `-----'__
+    /     \  `^\_
+   {       }\ |\_\_   W
+   |  \_/  |/ /  \_\_( )
+    \__/  /(_E     \__/
+      (  /
+       MM
 
 _______________________________________
 ## Hi, my name is Mike. thank you all!
