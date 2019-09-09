@@ -893,4 +893,7 @@ i'm _laverka_, and going to join to backend course.
 In case anyone is from **Lviv**, let's keep in touch
 ***
 
+_______________________________________
+## Hi, my name is Mike. thank you all!
+***
 
