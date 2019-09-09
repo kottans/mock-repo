@@ -892,6 +892,7 @@ I'm glad to join the course
 i'm _laverka_, and going to join to backend course. 
 In case anyone is from **Lviv**, let's keep in touch
 ***
+<pre>
    /\     /\
   {  `---'  }
   {  O   O  }
@@ -899,12 +900,12 @@ In case anyone is from **Lviv**, let's keep in touch
    \  \|/  /
     `-----'__
     /     \  `^\_
-   {       }\ |\_\_   W
+   {       }\ |\_\_   W 
    |  \_/  |/ /  \_\_( )
     \__/  /(_E     \__/
       (  /
        MM
-
+ </pre>
 _______________________________________
 ## Hi, my name is Mike. thank you all!
 ***
