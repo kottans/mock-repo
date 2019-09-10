@@ -924,3 +924,5 @@ _______________________________________
 <img alt="lesson1" src="https://sun9-32.userapi.com/c850528/v850528318/1b881e/zYoVSzuqx-E.jpg">
 <img alt="exam1" src="https://sun9-21.userapi.com/c850528/v850528318/1b8828/C7v-VzRgSuM.jpg">
 
+About this lesson: im not sure its usefull in 2019 since every OS has GUI. This for some exceptions I guess. I know I could be wrong so I have done it anyway, any knowledge is valuable :)
+
