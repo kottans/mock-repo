@@ -921,5 +921,5 @@ My name is Mark and a really wanna be a part of this community (and study backen
 _______________________________________
 
 ## Unix Shell
-![lesson1](https://imgur.com/komlIF7)
-![exam1](https://imgur.com/EyY5eBs)
+![lesson1](http://prntscr.com/p496xx)
+![exam1](http://prntscr.com/p497co)
