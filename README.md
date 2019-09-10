@@ -921,5 +921,7 @@ My name is Mark and a really wanna be a part of this community (and study backen
 _______________________________________
 
 ## Unix Shell
-<img alt="lesson1" src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg"/>
-![exam1](http://prntscr.com/p497co)
+<img alt="lesson1" src="https://imgur.com/LM7BFX7">
+https://imgur.com/EyY5eBs
+http://prntscr.com/p496xx
+http://prntscr.com/p496xx
