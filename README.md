@@ -930,4 +930,4 @@ Artem, Kyiv.
 
 ###  I am pleased  to join your community. Happy coding!
 
-![](https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![](https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/NGyZeGzFlijx95hou/videoblocks-a-gray-cat-is-resting-on-the-bed-near-the-laptop-scottish-fold-breed_hyqv8u7hg_thumbnail-full01.png)
