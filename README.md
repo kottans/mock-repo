@@ -924,3 +924,9 @@ Artem, Kyiv.
 ![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
