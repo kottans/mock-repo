@@ -924,3 +924,8 @@ Artem, Kyiv.
 ![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
+
+## Let's get ready to rumble!
+Roman
+
+![Pew Pew cat](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif)
