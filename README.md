@@ -927,4 +927,5 @@ Artem, Kyiv.
 
 ## Hello everyone!
 My name is Artem. I am excited to start the back-end course.
+
 ![Team kottan](https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif)
