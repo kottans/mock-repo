@@ -924,3 +924,11 @@ Artem, Kyiv.
 ![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
+
+### Hi everybody
+My name is Dmitro. I'm extremly excited to join this course.
+And hello from my cat Ruby (like on rails, yes)
+
+![Ruby the cat](gif/ruby.jpg)
+
+## Miou, kotany
