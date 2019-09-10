@@ -892,6 +892,7 @@ I'm glad to join the course
 i'm _laverka_, and going to join to backend course. 
 In case anyone is from **Lviv**, let's keep in touch
 ***
+<pre>
    /\     /\
   {  `---'  }
   {  O   O  }
@@ -899,12 +900,12 @@ In case anyone is from **Lviv**, let's keep in touch
    \  \|/  /
     `-----'__
     /     \  `^\_
-   {       }\ |\_\_   W
+   {       }\ |\_\_   W 
    |  \_/  |/ /  \_\_( )
     \__/  /(_E     \__/
       (  /
        MM
-
+ </pre>
 _______________________________________
 ## Hi, my name is Mike. thank you all!
 ***
@@ -918,7 +919,11 @@ I am from Kyiv. And this is my "kotan")
 ![myKotan](https://lh3.googleusercontent.com/p-pktcCqp1vw0XJYb1wvpb2x1JzSI4c0dPeEEzAFQjJVHHyS__qoK9BaUqWNyswgh_LmaZYk5ZVYjRKzBjAgvRkXa3bFczEIjqV6K9n5nBhmc30oS9hv6Lgi_lCj4opAiO_LRPTfKxk=w1033-h775-no)
 
 
+## Hello, guys! Let's became masters of back-end!)
+Artem, Kyiv.  
+![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
+
+
 ## Hi guys!
 My name is Anastasiia. It would be great to join you :)
-
 ![it-cat](gif/it_cat.gif)
