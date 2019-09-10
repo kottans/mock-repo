@@ -916,3 +916,8 @@ I'm new in your community and want to study back-end)
 ## Hi! My name is Misha.
 I am from Kyiv. And this is my "kotan")
 ![myKotan](https://lh3.googleusercontent.com/p-pktcCqp1vw0XJYb1wvpb2x1JzSI4c0dPeEEzAFQjJVHHyS__qoK9BaUqWNyswgh_LmaZYk5ZVYjRKzBjAgvRkXa3bFczEIjqV6K9n5nBhmc30oS9hv6Lgi_lCj4opAiO_LRPTfKxk=w1033-h775-no)
+
+
+## Hello, guys! Let's became masters of back-end!)
+Artem, Kyiv.  
+![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
