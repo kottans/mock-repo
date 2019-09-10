@@ -923,6 +923,7 @@ I am from Kyiv. And this is my "kotan")
 Artem, Kyiv.  
 ![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
 
+## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
 
 ## Hi guys!
 My name is Anastasiia. It would be great to join you :)
