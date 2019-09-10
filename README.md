@@ -922,6 +922,5 @@ _______________________________________
 
 ## Unix Shell
 <img alt="lesson1" src="https://sun9-32.userapi.com/c850528/v850528318/1b881e/zYoVSzuqx-E.jpg">
-https://imgur.com/EyY5eBs
-http://prntscr.com/p496xx
-http://prntscr.com/p496xx
+<img alt="exam1" src="https://sun9-21.userapi.com/c850528/v850528318/1b8828/C7v-VzRgSuM.jpg">
+
