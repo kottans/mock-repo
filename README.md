@@ -915,6 +915,11 @@ I'm new in your community and want to study back-end)
 
 _______________________________________
 
-Hi :) My name is Mark and a really wanna be a part of this community (and study backend) :) Good luck to everyone :)
+## Hi :)
+My name is Mark and a really wanna be a part of this community (and study backend) :) Good luck to everyone :)
 
 _______________________________________
+
+## Unix Shell
+![lesson1](https://imgur.com/komlIF7)
+![exam1](https://imgur.com/EyY5eBs)
