@@ -36,6 +36,12 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 _________________________________________________
+# Hello everyone! My name is [Serhii](https://github.com/serhii73).
+
+## Nice to meet you all.
+
+![what's up?](https://www.dazzlejunction.com/graphics-animal/cute-animals/cat-whats-up.jpg)
+_________________________________________________
 
 # Hi, everybody! My name is Dima.
 
