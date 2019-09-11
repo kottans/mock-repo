@@ -928,3 +928,6 @@ Artem, Kyiv.
 ## Hi guys!
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
+
+## Hi, I'm Vitalii. Let's go!
+![cool-cat](http://lovelesssociety.com/wp-content/uploads/2015/03/cool_cat.jpg)
