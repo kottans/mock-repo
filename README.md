@@ -938,3 +938,8 @@ My name is Anastasiia. It would be great to join you :)
 ![black cat](gif/blackcat.gif)
 
 ## Hello! I'm Sam...
+
+## Let's get ready to rumble!
+Roman
+
+![Pew Pew cat](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif)
