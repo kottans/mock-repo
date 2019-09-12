@@ -932,6 +932,15 @@ Artem, Kyiv.
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
 
 
+
+### Hi everybody
+My name is Dmitro. I'm extremly excited to join this course.
+And hello from my cat Ruby (like on rails, yes)
+
+![Ruby the cat](gif/ruby.jpg)
+
+## Miou, kotany
+
 **Hi everyone, my name is Denis.**
 
 I ~~hope~~ know that this course will be useful for me :)
