@@ -34,7 +34,12 @@ with other to make fun from conversation.
 Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
+_________________________________________________
+# Hi kottans! My name is [Sergey](https://github.com/LenkovSergey).
 
+## Hope it will be interesting
+
+![typing-cat](gif/typing-cat.gif)
 _________________________________________________
 # Hello everyone! My name is [Serhii](https://github.com/serhii73).
 
@@ -951,6 +956,9 @@ I ~~hope~~ know that this course will be useful for me :)
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
 
+## Hi, I'm Vitalii. Let's go!
+![cool-cat](http://lovelesssociety.com/wp-content/uploads/2015/03/cool_cat.jpg)
+
 ## Hey Kottans!
 My name is Iryna. I would like to participate in the Backend Course.
 Thank you for the great opportunity to learn more)
@@ -980,4 +988,3 @@ My name is Artem. I am excited to start the back-end course.
 I ~~hope~~ know that this course will be useful for me :)
 
 ![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
-
