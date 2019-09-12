@@ -1,3 +1,5 @@
+## Hi everyone!
+
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
@@ -690,7 +692,7 @@ Hello, everyone!
 Thank you for such great courses!!)
 
 ## Hello there!
-I'm Vladyslav. I'm from Kyiv  
+I'm Vladyslav. I'm from Kyiv
 ![cat](https://img.buzzfeed.com/buzzfeed-static/static/2014-06/4/15/enhanced/webdr07/anigif_enhanced-17465-1401909433-8.gif)
 
 ## Hi!
@@ -705,7 +707,7 @@ Nice to join you.
 
 
 ## Hello!
-I'm Evgeny. I'm from Kyiv  
+I'm Evgeny. I'm from Kyiv
 <br />
 ![spacecat](https://i.imgur.com/5cNY70b.png)
 
@@ -854,7 +856,7 @@ I'm Irina. I hope to be part of the Kottans family.
 ![cuteCat](gif/cuteCate.jpg)
 
 # Hi, kottans!
-I'm doggan :) and my name is Jack Loki. Nice to meet you!  
+I'm doggan :) and my name is Jack Loki. Nice to meet you!
 <img style="align: left;" alt="cat? O_o" src="gif/jack_loki.jpg">
 
 
@@ -931,7 +933,7 @@ I am from Kyiv. And this is my "kotan")
 
 
 ## Hello, guys! Let's became masters of back-end!)
-Artem, Kyiv.  
+Artem, Kyiv.
 ![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
