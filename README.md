@@ -534,7 +534,7 @@ GitHub очень ценная штука, сохранение новых ве�
 Данная отметка от Богдана г.Киев<br>
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
 ---------------------------------------------------------------
-## Hello comunity :D
+## Hello community :D
 I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working".
 
 ![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
