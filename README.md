@@ -36,6 +36,12 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 _________________________________________________
+# Hello everyone! My name is [Serhii](https://github.com/serhii73).
+
+## Nice to meet you all.
+
+![what's up?](https://www.dazzlejunction.com/graphics-animal/cute-animals/cat-whats-up.jpg)
+_________________________________________________
 
 # Hi, everybody! My name is Dima.
 
@@ -50,7 +56,7 @@ _________________________________________________
 #### HI, THERE! My name is Andrew
 I'm glad to be here!  Best wishes to the Kottans community!
 _________________________________________________
-# Hi, people! I'm Viktor. 
+# Hi, people! I'm Viktor.
 
 # following the rest I want to introduce my kitty Buba's
 ![Buba](gif/bubacat.jpg)
@@ -65,7 +71,7 @@ My name is Julia and I want to greet all of you and to wish you productive work!
 
 __________________________________________________________________________
 
-# Hi, kottans! I'm Max and that's my cat - Juja. 
+# Hi, kottans! I'm Max and that's my cat - Juja.
 
 We are happy to join you =^.^= !
 
@@ -528,7 +534,7 @@ GitHub очень ценная штука, сохранение новых ве�
 Данная отметка от Богдана г.Киев<br>
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
 ---------------------------------------------------------------
-## Hello comunity :D
+## Hello community :D
 I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working".
 
 ![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
@@ -670,7 +676,7 @@ I'm Sviat from Kyiv. I like sphinxes.
 # Hi guys!
 Would be great to join you!
 
-## Hello everybody! 
+## Hello everybody!
 I'm Artem from Kyiv, Ukraine.
 <i>Nice to meet all of you! And thanks for good opportunity to kwon something new.</i>
 <img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
@@ -688,7 +694,7 @@ My name is Yulia. Nice to meet you, guys!
 ![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 # Hi there!
-My name is Evgen. 
+My name is Evgen.
 Nice to join you.
 
 
@@ -746,7 +752,7 @@ _______________________________
 
  ![Walking cat](gif/walking-cat.gif)
  _______________________________
- 
+
 ## Hi, I am madmax.
 I started to learn kottans course.
 
@@ -764,7 +770,7 @@ _________________________________
 
 ## Greetings!
 
-I'm Peter and ready to join the guild "p2p" :) 
+I'm Peter and ready to join the guild "p2p" :)
 
 Good luck everyone.
 
@@ -808,7 +814,7 @@ You don't believe? Refresh the page and see it yourself!!
 ![Impossible cat](https://thiscatdoesnotexist.com/)
 
 ## Hi my lovely Kottans! Let me join you!
-I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time 
+I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time
 
 ![Jumpy](gif/jump.gif)
 
@@ -838,7 +844,7 @@ I'm Yuliia and I'll be okay with it =).
 Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
 ![cat](https://www.thehappycatsite.com/wp-content/uploads/2017/11/funny3.jpg)
 
-# Hi there. 
+# Hi there.
 I'm Irina. I hope to be part of the Kottans family.
 ![cuteCat](gif/cuteCate.jpg)
 
@@ -852,8 +858,8 @@ I'm Viktoriia, I will study frontend with Kottans!
 
 # Hello Kottans!
 
-My name is Roman! 
-Thank you for an excellent batch of recources. 
+My name is Roman!
+Thank you for an excellent batch of recources.
 
 <img width="294" alt="Снимок экрана 2018-12-17 в 16 30 58" src="https://user-images.githubusercontent.com/11008299/57920078-da0f9480-78a2-11e9-9068-65ebb65cf53b.png">
 
@@ -888,8 +894,8 @@ I'm glad to join the course
 ![cat](http://www.kotomania.com/data/612.jpg)
 
 
-## Hi, 
-i'm _laverka_, and going to join to backend course. 
+## Hi,
+i'm _laverka_, and going to join to backend course.
 In case anyone is from **Lviv**, let's keep in touch
 ***
 <pre>
@@ -900,7 +906,7 @@ In case anyone is from **Lviv**, let's keep in touch
    \  \|/  /
     `-----'__
     /     \  `^\_
-   {       }\ |\_\_   W 
+   {       }\ |\_\_   W
    |  \_/  |/ /  \_\_( )
     \__/  /(_E     \__/
       (  /
@@ -925,9 +931,55 @@ Artem, Kyiv.
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
 
+
+
+### Hi everybody
+My name is Dmitro. I'm extremly excited to join this course.
+And hello from my cat Ruby (like on rails, yes)
+
+![Ruby the cat](gif/ruby.jpg)
+
+## Miou, kotany
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+
 ## Hi guys!
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
 
 ## Hi, I'm Vitalii. Let's go!
 ![cool-cat](http://lovelesssociety.com/wp-content/uploads/2015/03/cool_cat.jpg)
+
+## Hey Kottans!
+My name is Iryna. I would like to participate in the Backend Course
+Thank you for the great opportunity to learn more)
+![kissik](gif/kissik.jpeg)
+
+## Hey I'm Antony. I hope we'll have nice time together.
+![black cat](gif/blackcat.gif)
+
+## Hello! I'm Sam...
+
+## Let's get ready to rumble!
+Roman
+
+![Pew Pew cat](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif)
+
+## Hey,fellows
+![cat](https://thecatsite.com/media/lil-bub-jpg.356737/full?lightbox=1&last_edit_date=1491796157)
+
+
+## Hello everyone!
+My name is Artem. I am excited to start the back-end course.
+
+![Team kottan](https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif)
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
