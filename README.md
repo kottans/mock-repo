@@ -931,6 +931,13 @@ Artem, Kyiv.
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
 
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+
 ## Hi guys!
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
@@ -946,3 +953,10 @@ Roman
 
 ## Hey,fellows
 ![cat](https://thecatsite.com/media/lil-bub-jpg.356737/full?lightbox=1&last_edit_date=1491796157)
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+
