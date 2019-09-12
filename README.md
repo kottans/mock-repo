@@ -34,7 +34,12 @@ with other to make fun from conversation.
 Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
+_________________________________________________
+# Hi kottans! My name is [Sergey](https://github.com/LenkovSergey).
 
+## Hope it will be interesting
+
+![typing-cat](gif/typing-cat.gif)
 _________________________________________________
 # Hello everyone! My name is [Serhii](https://github.com/serhii73).
 
