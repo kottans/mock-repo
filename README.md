@@ -932,6 +932,7 @@ Artem, Kyiv.
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
 
 
+
 ### Hi everybody
 My name is Dmitro. I'm extremly excited to join this course.
 And hello from my cat Ruby (like on rails, yes)
@@ -939,10 +940,23 @@ And hello from my cat Ruby (like on rails, yes)
 ![Ruby the cat](gif/ruby.jpg)
 
 ## Miou, kotany
-=======
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+
 ## Hi guys!
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
+
+
+## Hey Kottans!
+My name is Iryna. I would like to participate in the Backend Course
+Thank you for the great opportunity to learn more)
+![kissik](gif/kissik.jpeg)
+
 ## Hey I'm Antony. I hope we'll have nice time together.
 ![black cat](gif/blackcat.gif)
 
@@ -955,3 +969,10 @@ Roman
 
 ## Hey,fellows
 ![cat](https://thecatsite.com/media/lil-bub-jpg.356737/full?lightbox=1&last_edit_date=1491796157)
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+
