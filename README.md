@@ -951,6 +951,8 @@ I ~~hope~~ know that this course will be useful for me :)
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
 
+## Hi, I'm Vitalii. Let's go!
+![cool-cat](http://lovelesssociety.com/wp-content/uploads/2015/03/cool_cat.jpg)
 
 ## Hey Kottans!
 My name is Iryna. I would like to participate in the Backend Course
@@ -981,4 +983,3 @@ My name is Artem. I am excited to start the back-end course.
 I ~~hope~~ know that this course will be useful for me :)
 
 ![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
-
