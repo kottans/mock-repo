@@ -980,5 +980,5 @@ My name is Artem. I am excited to start the back-end course.
 
 I ~~hope~~ know that this course will be useful for me :)
 
-![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
 
