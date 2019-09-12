@@ -36,6 +36,12 @@ Where all postings before March 2018 has gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 _________________________________________________
+# Hello everyone! My name is [Serhii](https://github.com/serhii73).
+
+## Nice to meet you all.
+
+![what's up?](https://www.dazzlejunction.com/graphics-animal/cute-animals/cat-whats-up.jpg)
+_________________________________________________
 
 # Hi, everybody! My name is Dima.
 
@@ -925,6 +931,7 @@ Artem, Kyiv.
 
 ## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
 
+
 ### Hi everybody
 My name is Dmitro. I'm extremly excited to join this course.
 And hello from my cat Ruby (like on rails, yes)
@@ -932,3 +939,19 @@ And hello from my cat Ruby (like on rails, yes)
 ![Ruby the cat](gif/ruby.jpg)
 
 ## Miou, kotany
+=======
+## Hi guys!
+My name is Anastasiia. It would be great to join you :)
+![it-cat](gif/it_cat.gif)
+## Hey I'm Antony. I hope we'll have nice time together.
+![black cat](gif/blackcat.gif)
+
+## Hello! I'm Sam...
+
+## Let's get ready to rumble!
+Roman
+
+![Pew Pew cat](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif)
+
+## Hey,fellows
+![cat](https://thecatsite.com/media/lil-bub-jpg.356737/full?lightbox=1&last_edit_date=1491796157)
