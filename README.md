@@ -1,3 +1,11 @@
+
+
+# HI KOTTANKIND!
+I am Dainis ,dude what want to learn back end. 
+![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
+
+
+
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
