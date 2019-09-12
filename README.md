@@ -951,9 +951,8 @@ I ~~hope~~ know that this course will be useful for me :)
 My name is Anastasiia. It would be great to join you :)
 ![it-cat](gif/it_cat.gif)
 
-
 ## Hey Kottans!
-My name is Iryna. I would like to participate in the Backend Course
+My name is Iryna. I would like to participate in the Backend Course.
 Thank you for the great opportunity to learn more)
 ![kissik](gif/kissik.jpeg)
 
