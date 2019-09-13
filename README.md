@@ -1,6 +1,19 @@
+
 # Hi!
 Congrat with 256 day of a year!
 It`s a proggrammer day today 13.09.19!!
+
+# HELLO BABES!
+WANNA COMPLETE THIS COURSE!
+
+## Hi everyone!
+
+
+# HI KOTTANKIND!
+I am Dainis ,dude what want to learn back end. 
+![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
+
+
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
@@ -9,7 +22,7 @@ Hi, kottans! Nice to meet you!
 ##### H E L L O!
 :smirk_cat:
 
-This is a training repository for both [Kottans web course](https://github.com/Kottans/web) and [Kottans frontend course](https://github.com/Kottans/frontend). You can try sending pull-requests to this repository proposing a change.
+This is a training repository for Kottans [web course](https://github.com/Kottans/web), [frontend course](https://github.com/Kottans/frontend), [backend course](https://github.com/kottans/backend), and [git course](https://github.com/kottans/git-course). You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 
@@ -37,8 +50,49 @@ with other to make fun from conversation.
 Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
+_________________________________________________
+# Hi, there! My name is [Oksana](https://github.com/katrukha).
 
+My cat and me are looking forward to the next tasks
 
+![mycat](gif/myCat.jpg)
+:smirk:
+
+## Have a nice day! 
+_________________________________________________
+# Hi kottans! My name is [Sergey](https://github.com/LenkovSergey).
+
+## Hope it will be interesting
+
+![typing-cat](gif/typing-cat.gif)
+_________________________________________________
+# Hello everyone! My name is [Serhii](https://github.com/serhii73).
+
+## Nice to meet you all.
+
+![what's up?](https://www.dazzlejunction.com/graphics-animal/cute-animals/cat-whats-up.jpg)
+_________________________________________________
+
+# Hi, everybody! My name is Dima.
+
+# I want learn more about backend;
+
+![Ruzak](gif/ruzak.jpg)
+_________________________________________________
+
+_________________________________________________
+#### kottans-backend
+
+#### HI, THERE! My name is Andrew
+I'm glad to be here!  Best wishes to the Kottans community!
+_________________________________________________
+# Hi, people! I'm Viktor.
+
+# following the rest I want to introduce my kitty Buba's
+![Buba](gif/bubacat.jpg)
+I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
+_________________________________________________
+===============================
 __________________________________________________________________________
 
 # Hi, Kottans people!
@@ -510,7 +564,7 @@ GitHub очень ценная штука, сохранение новых ве�
 Данная отметка от Богдана г.Киев<br>
 <img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
 ---------------------------------------------------------------
-## Hello comunity :D
+## Hello community :D
 I wish everyone to have fun and keep in mind: "Fail is integral part of success. Keep working".
 
 ![kitty cat](https://github.com/artellos747/reflections/raw/master/greeting_cat.jpg)
@@ -792,4 +846,181 @@ You don't believe? Refresh the page and see it yourself!!
 ## Hi my lovely Kottans! Let me join you!
 I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time
 
+
 ![Jumpy](gif/jump.gif)
+
+
+![Jumpy](gif/jump.gif)
+
+
+## Greetings, Kottans!
+Let's start the journey!
+
+![SpaceCat](https://media.giphy.com/media/26FPCXdkvDbKBbgOI/giphy.gif)
+
+
+## Hello, Kottans!
+Let's see how it works!
+
+![cat](https://i.imgur.com/O2PIAPq.jpg)
+
+##Hello, awesome comunity!!
+I just started p2p - course and it is gonna be awesome)
+![cat](https://www.meme-arsenal.com/memes/64ccae79dfab573fb7eb1b23d7a55e54.jpg)
+
+## Hi, everyone!
+I'm Yuliia and I'll be okay with it =).
+
+## Hi there!
+![cat](https://archive-media-0.nyafuu.org/bant/image/1494/00/1494005541252.jpg)
+
+## Hello, everybody!
+Thank you for p2p! :-) I wish everybody don't give up and go to their goals!
+![cat](https://www.thehappycatsite.com/wp-content/uploads/2017/11/funny3.jpg)
+
+# Hi there.
+I'm Irina. I hope to be part of the Kottans family.
+![cuteCat](gif/cuteCate.jpg)
+
+# Hi, kottans!
+I'm doggan :) and my name is Jack Loki. Nice to meet you!
+<img style="align: left;" alt="cat? O_o" src="gif/jack_loki.jpg">
+
+
+# Hello, kottans!
+I'm Viktoriia, I will study frontend with Kottans!
+
+# Hello Kottans!
+
+My name is Roman!
+Thank you for an excellent batch of recources.
+
+<img width="294" alt="Снимок экрана 2018-12-17 в 16 30 58" src="https://user-images.githubusercontent.com/11008299/57920078-da0f9480-78a2-11e9-9068-65ebb65cf53b.png">
+
+
+## Hi Kottans!
+
+I'm Nevty.
+Glad to be part of this community.
+
+![CuteCat](https://media.giphy.com/media/WYEWpk4lRPDq0/giphy.gif)
+
+## Hi Kottans!
+
+My name is Vasyl. Nice too meet you guys :)
+
+![cat](https://media.giphy.com/media/Ov5NiLVXT8JEc/giphy.gif)
+
+## Hey there!
+
+I along with my cat Maya (that's a photo of random cat from the Internet below, not Maya's :smiley_cat:) am going to join this awesome community. I hope it's gonna be a fun ride!:wink:
+
+![Maya](https://images.unsplash.com/photo-1508927415581-538b97647924?ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80)
+
+## Hi!
+Three wise men of Gotham,
+They went to sea in a bowl,
+And if the bowl had been stronger
+My song would have been longer.
+
+# Hi, everyone! My name is Stas
+I'm glad to join the course
+![cat](http://www.kotomania.com/data/612.jpg)
+
+
+## Hi,
+i'm _laverka_, and going to join to backend course.
+In case anyone is from **Lviv**, let's keep in touch
+***
+<pre>
+   /\     /\
+  {  `---'  }
+  {  O   O  }
+  ~~>  V  <~~
+   \  \|/  /
+    `-----'__
+    /     \  `^\_
+   {       }\ |\_\_   W
+   |  \_/  |/ /  \_\_( )
+    \__/  /(_E     \__/
+      (  /
+       MM
+ </pre>
+_______________________________________
+## Hi, my name is Mike. thank you all!
+***
+
+## Hi Kottans! I`m **Dmitrii**
+
+I'm new in your community and want to study back-end)
+
+## Hi! My name is Misha.
+I am from Kyiv. And this is my "kotan")
+![myKotan](https://lh3.googleusercontent.com/p-pktcCqp1vw0XJYb1wvpb2x1JzSI4c0dPeEEzAFQjJVHHyS__qoK9BaUqWNyswgh_LmaZYk5ZVYjRKzBjAgvRkXa3bFczEIjqV6K9n5nBhmc30oS9hv6Lgi_lCj4opAiO_LRPTfKxk=w1033-h775-no)
+
+---
+![](gif/hello.jpg)
+
+---
+
+
+## Hello, guys! Let's became masters of back-end!)
+Artem, Kyiv.
+![Master cat](https://media.giphy.com/media/12g9QiU2tkrVfO/giphy.gif)
+
+## Hello, everyone! My name is Vitalii and I'm keen on learning Python. I'm waiting for interesting community and rapid development
+
+
+
+### Hi everybody
+My name is Dmitro. I'm extremly excited to join this course.
+And hello from my cat Ruby (like on rails, yes)
+
+![Ruby the cat](gif/ruby.jpg)
+
+## Miou, kotany
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat][gif/art-kot-koster-shlem-skyrim.jpg]
+
+## Hi guys!
+My name is Anastasiia. It would be great to join you :)
+![it-cat](gif/it_cat.gif)
+
+## Hi, I'm Vitalii. Let's go!
+![cool-cat](http://lovelesssociety.com/wp-content/uploads/2015/03/cool_cat.jpg)
+
+## Hey Kottans!
+My name is Iryna. I would like to participate in the Backend Course.
+Thank you for the great opportunity to learn more)
+![kissik](gif/kissik.jpeg)
+
+## Hey I'm Antony. I hope we'll have nice time together.
+![black cat](gif/blackcat.gif)
+
+## Hello! I'm Sam...
+
+## Let's get ready to rumble!
+Roman
+
+![Pew Pew cat](https://media.giphy.com/media/4iqMzLtBO9KSY/giphy.gif)
+
+## Hey,fellows
+![cat](https://thecatsite.com/media/lil-bub-jpg.356737/full?lightbox=1&last_edit_date=1491796157)
+
+
+## Hello everyone!
+My name is Artem. I am excited to start the back-end course.
+
+![Team kottan](https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif)
+
+**Hi everyone, my name is Denis.**
+
+I ~~hope~~ know that this course will be useful for me :)
+
+![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
+
+
