@@ -1,5 +1,5 @@
 # Hi Everyone!
-Have a nice day!
+Have a nice days!
 ![cat](https://aroundcat.files.wordpress.com/2015/09/36cb11.jpg)
 # Hi!
 Congrat with 256 day of a year!
