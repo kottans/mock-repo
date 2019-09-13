@@ -1,3 +1,8 @@
+
+# Hi!
+Congrat with 256 day of a year!
+It`s a proggrammer day today 13.09.19!!
+
 # HELLO BABES!
 WANNA COMPLETE THIS COURSE!
 
@@ -7,6 +12,7 @@ WANNA COMPLETE THIS COURSE!
 # HI KOTTANKIND!
 I am Dainis ,dude what want to learn back end. 
 ![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
+
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
@@ -1012,4 +1018,5 @@ My name is Artem. I am excited to start the back-end course.
 I ~~hope~~ know that this course will be useful for me :)
 
 ![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
+
 
