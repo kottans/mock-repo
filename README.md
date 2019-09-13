@@ -1,3 +1,6 @@
+# Hi!
+Congrat with 256 day of a year!
+It`s a proggrammer day today 13.09.19!!
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
@@ -44,7 +47,7 @@ My name is Julia and I want to greet all of you and to wish you productive work!
 
 __________________________________________________________________________
 
-# Hi, kottans! I'm Max and that's my cat - Juja. 
+# Hi, kottans! I'm Max and that's my cat - Juja.
 
 We are happy to join you =^.^= !
 
@@ -649,7 +652,7 @@ I'm Sviat from Kyiv. I like sphinxes.
 # Hi guys!
 Would be great to join you!
 
-## Hello everybody! 
+## Hello everybody!
 I'm Artem from Kyiv, Ukraine.
 <i>Nice to meet all of you! And thanks for good opportunity to kwon something new.</i>
 <img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
@@ -658,7 +661,7 @@ Hello, everyone!
 Thank you for such great courses!!)
 
 ## Hello there!
-I'm Vladyslav. I'm from Kyiv  
+I'm Vladyslav. I'm from Kyiv
 ![cat](https://img.buzzfeed.com/buzzfeed-static/static/2014-06/4/15/enhanced/webdr07/anigif_enhanced-17465-1401909433-8.gif)
 
 ## Hi!
@@ -667,13 +670,13 @@ My name is Yulia. Nice to meet you, guys!
 ![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 # Hi there!
-My name is Evgen. 
+My name is Evgen.
 Nice to join you.
 
 
 
 ## Hello!
-I'm Evgeny. I'm from Kyiv  
+I'm Evgeny. I'm from Kyiv
 <br />
 ![spacecat](https://i.imgur.com/5cNY70b.png)
 
@@ -725,7 +728,7 @@ _______________________________
 
  ![Walking cat](gif/walking-cat.gif)
  _______________________________
- 
+
 ## Hi, I am madmax.
 I started to learn kottans course.
 
@@ -743,7 +746,7 @@ _________________________________
 
 ## Greetings!
 
-I'm Peter and ready to join the guild "p2p" :) 
+I'm Peter and ready to join the guild "p2p" :)
 
 Good luck everyone.
 
@@ -787,6 +790,6 @@ You don't believe? Refresh the page and see it yourself!!
 ![Impossible cat](https://thiscatdoesnotexist.com/)
 
 ## Hi my lovely Kottans! Let me join you!
-I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time 
+I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time
 
 ![Jumpy](gif/jump.gif)
