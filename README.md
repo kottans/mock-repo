@@ -1,5 +1,10 @@
 ## Hi everyone!
 
+
+# HI KOTTANKIND!
+I am Dainis ,dude what want to learn back end. 
+![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
+
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 
 
@@ -36,6 +41,15 @@ with other to make fun from conversation.
 Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
+_________________________________________________
+# Hi, there! My name is [Oksana](https://github.com/katrukha).
+
+My cat and me are looking forward to the next tasks
+
+![mycat](gif/myCat.jpg)
+:smirk:
+
+## Have a nice day! 
 _________________________________________________
 # Hi kottans! My name is [Sergey](https://github.com/LenkovSergey).
 
