@@ -846,10 +846,6 @@ You don't believe? Refresh the page and see it yourself!!
 ## Hi my lovely Kottans! Let me join you!
 I'm [Aymkin](http://naumk.in/) from Odessa, meet this funny pic another time
 
-
-![Jumpy](gif/jump.gif)
-
-
 ![Jumpy](gif/jump.gif)
 
 
