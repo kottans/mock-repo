@@ -486,7 +486,7 @@ happy to be a part of your community
 
 ## Hi, Kottans!
 
-The Fridy hacker cat breaks into the Kottans company again! Let's be friends! :)
+The Friday hacker cat breaks into the Kottans company again! Let's be friends! :)
 
 ![Kottan](gif/fridy_hacker.jpg)
 
