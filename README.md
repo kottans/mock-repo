@@ -1022,3 +1022,6 @@ I ~~hope~~ know that this course will be useful for me :)
 ![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
 
 
+# Hi, buddies!
+Let`s get started ![cat](https://image.flaticon.com/icons/png/24/29/29670.png)
+![fatCat](http://static1.squarespace.com/static/56eddde762cd9413e151ac92/570cb87b5bd33022b93a0272/5a4e65e48165f5a45da03ee9/1515089044238/Screen+Shot+2018-01-04+at+17.56.59.png?format=1500w)
