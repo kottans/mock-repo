@@ -1021,4 +1021,8 @@ I ~~hope~~ know that this course will be useful for me :)
 
 ![Cat](gif/art-kot-koster-shlem-skyrim.jpg)
 
+# Hello Kottans! I am Anastasiia.
+
+###  I am pleased  to join your community. Happy coding!
+
 
