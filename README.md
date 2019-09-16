@@ -1029,3 +1029,10 @@ I ~~hope~~ know that this course will be useful for me :)
 # Hi, buddies!
 Let`s get started ![cat](https://image.flaticon.com/icons/png/24/29/29670.png)
 ![fatCat](http://static1.squarespace.com/static/56eddde762cd9413e151ac92/570cb87b5bd33022b93a0272/5a4e65e48165f5a45da03ee9/1515089044238/Screen+Shot+2018-01-04+at+17.56.59.png?format=1500w)
+
+# Hi Kottans! I'm [Dima](https://github.com/De-m-i-a-n)! 
+Many thanks to Kottans team for such a beautiful opportunity to get a good knowledge in easy and pleasant way for free! 
+Will try my best to become a good back-end developer! 
+I have some previous exp in JS, python and sql connectors, sql, html/CSS so I could contribute a bit if You need to) Just ask!)
+
+![cat](https://media.giphy.com/media/SKVCB0wHLb6b6/giphy.gif)
