@@ -1,5 +1,5 @@
 # Hi!
-My name is Hlib and I glad to see you. I will study this course with you.
+My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study this course with you.
 
 # Hi Everyone!
 Have a nice days!
