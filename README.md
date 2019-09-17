@@ -1042,3 +1042,9 @@ Will try my best to become a good back-end developer!
 I have some previous exp in JS, python and sql connectors, sql, html/CSS so I could contribute a bit if You need to) Just ask!)
 
 ![cat](https://media.giphy.com/media/SKVCB0wHLb6b6/giphy.gif)
+
+# Hello! My name is Igor. 
+
+I have some experience with HTML and CSS, JS / React, Python / Django / Flask. I implemented a few small projects for my friends. I hope that Kottans' back-end course allow me to systematize and increase my level of expertise.
+
+![Cat](gif/kitty.gif)
