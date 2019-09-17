@@ -1,3 +1,6 @@
+# Hi :)
+Productive autumn for everyone!
+
 # Hi!
 My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study this course with you.
 
