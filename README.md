@@ -65,6 +65,14 @@ Where all postings before March 2018 has gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 _________________________________________________
+
+# Hi, kottans!
+
+I am [Liu](https://github.com/Jam-Iko)
+Here's a tipo for somebody to fix :)
+
+_________________________________________________
+
 # Hi, there! My name is [Oksana](https://github.com/katrukha).
 
 My cat and me are looking forward to the next tasks
