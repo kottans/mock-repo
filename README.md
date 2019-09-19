@@ -1062,3 +1062,8 @@ I have some previous exp in JS, python and sql connectors, sql, html/CSS so I co
 I have some experience with HTML and CSS, JS / React, Python / Django / Flask. I implemented a few small projects for my friends. I hope that Kottans' back-end course allow me to systematize and increase my level of expertise.
 
 ![Cat](gif/kitty.gif)
+
+# hello
+I am excited to learn basics of Git and Github. The information now is structured and clear. I would like to deep in this topic and make more practical tasks.
+
+
