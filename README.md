@@ -1,3 +1,6 @@
+# Hi Everybody!
+Great course! Wonna learn it with you.
+
 # Hi!
 ## I'm glad to be here!
 I am [Max](https://github.com/maodzin).
@@ -24,7 +27,7 @@ WANNA COMPLETE THIS COURSE!
 
 
 # HI KOTTANKIND!
-I am Dainis ,dude what want to learn back end. 
+I am Dainis ,dude what want to learn back end.
 ![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
 
 
@@ -80,7 +83,7 @@ My cat and me are looking forward to the next tasks
 ![mycat](gif/myCat.jpg)
 :smirk:
 
-## Have a nice day! 
+## Have a nice day!
 _________________________________________________
 # Hi kottans! My name is [Sergey](https://github.com/LenkovSergey).
 
@@ -1050,14 +1053,14 @@ I ~~hope~~ know that this course will be useful for me :)
 Let`s get started ![cat](https://image.flaticon.com/icons/png/24/29/29670.png)
 ![fatCat](http://static1.squarespace.com/static/56eddde762cd9413e151ac92/570cb87b5bd33022b93a0272/5a4e65e48165f5a45da03ee9/1515089044238/Screen+Shot+2018-01-04+at+17.56.59.png?format=1500w)
 
-# Hi Kottans! I'm [Dima](https://github.com/De-m-i-a-n)! 
-Many thanks to Kottans team for such a beautiful opportunity to get a good knowledge in easy and pleasant way for free! 
-Will try my best to become a good back-end developer! 
+# Hi Kottans! I'm [Dima](https://github.com/De-m-i-a-n)!
+Many thanks to Kottans team for such a beautiful opportunity to get a good knowledge in easy and pleasant way for free!
+Will try my best to become a good back-end developer!
 I have some previous exp in JS, python and sql connectors, sql, html/CSS so I could contribute a bit if You need to) Just ask!)
 
 ![cat](https://media.giphy.com/media/SKVCB0wHLb6b6/giphy.gif)
 
-# Hello! My name is Igor. 
+# Hello! My name is Igor.
 
 I have some experience with HTML and CSS, JS / React, Python / Django / Flask. I implemented a few small projects for my friends. I hope that Kottans' back-end course allow me to systematize and increase my level of expertise.
 
