@@ -1066,4 +1066,6 @@ I have some experience with HTML and CSS, JS / React, Python / Django / Flask. I
 # hello
 I am excited to learn basics of Git and Github. The information now is structured and clear. I would like to deep in this topic and make more practical tasks.
 
+# Hello!
 
+My name is Serhii. Nice to meet you all :)
