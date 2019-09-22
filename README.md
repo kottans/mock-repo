@@ -1072,3 +1072,7 @@ I am excited to learn basics of Git and Github. The information now is structure
 # Hello!
 
 My name is Serhii. Nice to meet you all :)
+
+# Hello
+
+My name is Alex, I got the job-offer for JS developer, that is why I need to find out what is Node.js. Previously I was a front-end Kottans's course student
