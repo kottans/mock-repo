@@ -1095,3 +1095,13 @@ I hope, I will finish all tasks in time )))
 Best regards!
 
 **P.S.** Sorry, but I haven't any cats)))
+
+---
+# Hello overyone!
+
+I'm [Alex](https://github.com/osiryi/kottans-backend)  
+Very excited to be on this course
+
+Cheers!
+
+---
