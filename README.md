@@ -14,7 +14,7 @@ My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study thi
 Have a nice days!
 ![cat](https://aroundcat.files.wordpress.com/2015/09/36cb11.jpg)
 # Hi!
-Congrat with 256 day of a year!
+Congrats with 256 day of a year!
 It`s a programmer day today 13.09.19!!
 
 # HELLO BABES!
@@ -255,7 +255,7 @@ Hi Kottans! Excited to join =^.^=
 
 ----------
 
-Hi guys!!! I am begginer in programming world! This is my first pull-request.
+Hi guys!!! I am beginner in programming world! This is my first pull-request.
 
 ----------
 
