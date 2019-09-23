@@ -1,3 +1,6 @@
+# Hello, Kottans!!! 
+My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
+
 # Hi Everybody!
 Great course! Wonna learn it with you.
 
