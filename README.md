@@ -1105,3 +1105,8 @@ Very excited to be on this course
 Cheers!
 
 ---
+Hello! 
+
+Im Vlad
+
+Im happy to begin my path with you
