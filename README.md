@@ -1105,3 +1105,8 @@ Very excited to be on this course
 Cheers!
 
 ---
+
+# Hey everyone!
+I'm Evgeniy. I'm glad, that became part of this course. I hope this course will meet my expectations.
+
+---
