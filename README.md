@@ -267,7 +267,10 @@ Hi guys!!! I am beginner in programming world! This is my first pull-request.
 
 ----------
 
+~~Meow~~ Hello, guys
+I want it to be a cat. Go! ![gopher](gif/catpher.png)
 
+----------
 
 - Holla everybody! =^.^=
 
@@ -1104,7 +1107,7 @@ Best regards!
 ---
 # Hello overyone!
 
-I'm [Alex](https://github.com/osiryi/kottans-backend)  
+I'm [Alex](https://github.com/osiryi/kottans-backend)
 Very excited to be on this course
 
 Cheers!
