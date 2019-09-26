@@ -1,5 +1,13 @@
 # Hello, Kottans!!! 
 My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
+=======
+# 😺
+I’m very happy to hear that 😺
+
+# Hello :)
+My name is [Oleksii](https://github.com/oleksii-manzik) and my cat is Arnold
+
+![arnold](gif/arnold.jpg)
 
 # Hi Everybody!
 Great course! Wonna learn it with you.
@@ -265,7 +273,10 @@ Hi guys!!! I am beginner in programming world! This is my first pull-request.
 
 ----------
 
+~~Meow~~ Hello, guys
+I want it to be a cat. Go! ![gopher](gif/catpher.png)
 
+----------
 
 - Holla everybody! =^.^=
 
@@ -1102,9 +1113,16 @@ Best regards!
 ---
 # Hello overyone!
 
-I'm [Alex](https://github.com/osiryi/kottans-backend)  
+I'm [Alex](https://github.com/osiryi/kottans-backend)
 Very excited to be on this course
 
 Cheers!
 
 ---
+<<<<<<< HEAD
+=======
+
+# Hi :)
+My name is Juli
+I am excited to be here.
+>>>>>>> 8babc178cd8f7bbfa32f6a3dfcbcd10a9f5f58ba
