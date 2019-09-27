@@ -1,4 +1,4 @@
-# Hello, Kottans!!! 
+# Hello, Kottans!!!
 My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
 =======
 # 😺
@@ -1123,3 +1123,8 @@ Cheers!
 # Hi :)
 My name is Juli
 I am excited to be here.
+
+------------------------------
+# Aloha and mahalo Kottans!
+I'm [Alexandr ](https://github.com/rekusha)
+best regards
