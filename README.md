@@ -1119,10 +1119,7 @@ Very excited to be on this course
 Cheers!
 
 ---
-<<<<<<< HEAD
-=======
 
 # Hi :)
 My name is Juli
 I am excited to be here.
->>>>>>> 8babc178cd8f7bbfa32f6a3dfcbcd10a9f5f58ba
