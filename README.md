@@ -1,4 +1,14 @@
+
 ﻿# Hello :)
+
+# Hello, Kottans!!!
+My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
+
+# 😺
+I’m very happy to hear that 😺
+
+# Hello :)
+
 My name is [Oleksii](https://github.com/oleksii-manzik) and my cat is Arnold
 
 ![arnold](gif/arnold.jpg)
@@ -1114,6 +1124,7 @@ Cheers!
 
 ---
 
+
 # Hello there 
 
 Hi, my name is Sasha. I am 21 years old.
@@ -1124,3 +1135,12 @@ Have a nice day:)
 
 ![alt text](https://i.pinimg.com/originals/25/4b/d1/254bd14398738a76abba2c8c0837da4e.jpg)
 
+# Hi :)
+My name is Juli
+I am excited to be here.
+
+------------------------------
+# Aloha and mahalo Kottans!
+
+I'm [Alexandr ](https://github.com/rekusha)
+best regards
