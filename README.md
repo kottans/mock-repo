@@ -1147,4 +1147,4 @@ best regards
 
 ## Hello, kottans ^^
 
-![neko-art](gif\Maneki-neko.jpg)
+![neko-art](gif/Maneki-neko.jpg)
