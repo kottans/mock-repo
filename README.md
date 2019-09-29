@@ -1,4 +1,4 @@
-# Hi Everybody!
+﻿# Hi Everybody!
 Great course! Wonna learn it with you.
 
 # Hi!
@@ -1110,3 +1110,4 @@ Hello!
 Im Vlad
 
 Im happy to begin my path with you
+---
