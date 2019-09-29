@@ -1125,7 +1125,7 @@ Cheers!
 ---
 
 
-# Hello there 
+# Hello there
 
 Hi, my name is Sasha. I am 21 years old.
 
@@ -1144,3 +1144,7 @@ I am excited to be here.
 
 I'm [Alexandr ](https://github.com/rekusha)
 best regards
+
+## Hello, kottans ^^
+
+![neko-art](gif/Maneki-neko.jpg)
