@@ -1124,6 +1124,15 @@ Cheers!
 
 ---
 
+# Hola fellow kottans students!
+
+My name is [Eugene](https://github.com/sherlaimov/kottans-backend).  
+I'm looking forward to uppping my game in the backend world, studying alongside the brilliant minds of the Kottans community.
+
+Wishing everyone a fantastic journey here ;) 
+
+---
+=======
 
 # Hello there
 
