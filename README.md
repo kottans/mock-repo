@@ -1157,3 +1157,6 @@ best regards
 ## Hello, kottans ^^
 
 ![neko-art](gif/Maneki-neko.jpg)
+
+# Hi, nice to join you guys!
+I'm Vitaliy. https://github.com/vik1803
