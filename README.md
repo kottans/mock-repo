@@ -1069,3 +1069,5 @@ I am excited to learn basics of Git and Github. The information now is structure
 # Hello!
 
 My name is Serhii. Nice to meet you all :)
+
+My Hello to Kottans! )
