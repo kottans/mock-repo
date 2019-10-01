@@ -1091,6 +1091,9 @@ I am excited to learn basics of Git and Github. The information now is structure
 
 My name is Serhii. Nice to meet you all :)
 
+
+My Hello to Kottans! )
+=======
 # Hello
 
 My name is Alex, I got the job-offer for JS developer, that is why I need to find out what is Node.js. Previously I was a front-end Kottans's course student
@@ -1131,8 +1134,6 @@ I'm looking forward to uppping my game in the backend world, studying alongside 
 
 Wishing everyone a fantastic journey here ;) 
 
----
-=======
 
 # Hello there
 
