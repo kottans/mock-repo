@@ -1,3 +1,7 @@
+﻿# Hello =)
+I am [Yaroslav](https://github.com/littleproger)
+Have a nice day and be happy!)))
+![cat](gif/kotans.gif)
 
 ﻿# Hello :)
 
