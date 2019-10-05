@@ -1,4 +1,24 @@
+
 ﻿# Hi Everybody!
+=======
+﻿# Hi
+
+﻿# Hello :)
+
+# Hello, Kottans!!!
+My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
+
+# 😺
+I’m very happy to hear that 😺
+
+# Hello :)
+
+My name is [Oleksii](https://github.com/oleksii-manzik) and my cat is Arnold
+
+![arnold](gif/arnold.jpg)
+
+# Hi Everybody!
+
 Great course! Wonna learn it with you.
 
 # Hi!
@@ -262,7 +282,10 @@ Hi guys!!! I am beginner in programming world! This is my first pull-request.
 
 ----------
 
+~~Meow~~ Hello, guys
+I want it to be a cat. Go! ![gopher](gif/catpher.png)
 
+----------
 
 - Holla everybody! =^.^=
 
@@ -1073,6 +1096,9 @@ I am excited to learn basics of Git and Github. The information now is structure
 
 My name is Serhii. Nice to meet you all :)
 
+
+My Hello to Kottans! )
+=======
 # Hello
 
 My name is Alex, I got the job-offer for JS developer, that is why I need to find out what is Node.js. Previously I was a front-end Kottans's course student
@@ -1099,15 +1125,53 @@ Best regards!
 ---
 # Hello overyone!
 
-I'm [Alex](https://github.com/osiryi/kottans-backend)  
+I'm [Alex](https://github.com/osiryi/kottans-backend)
 Very excited to be on this course
 
 Cheers!
 
 ---
+# Hola fellow kottans students!
+
+My name is [Eugene](https://github.com/sherlaimov/kottans-backend).  
+I'm looking forward to uppping my game in the backend world, studying alongside the brilliant minds of the Kottans community.
+
+Wishing everyone a fantastic journey here ;) 
+
+
+# Hello there
+
+Hi, my name is Sasha. I am 21 years old.
+
+I  have finished the git basic course
+
+Have a nice day:)
+
+![alt text](https://i.pinimg.com/originals/25/4b/d1/254bd14398738a76abba2c8c0837da4e.jpg)
+
+# Hi :)
+My name is Juli
+I am excited to be here.
+
+------------------------------
+# Aloha and mahalo Kottans!
+
+I'm [Alexandr ](https://github.com/rekusha)
+best regards
+
+## Hello, kottans ^^
+
+![neko-art](gif/Maneki-neko.jpg)
+
+# Hi, nice to join you guys!
+I'm Vitaliy. https://github.com/vik1803
+
+# Hi.
+I'm Viacheslav. https://github.com/dviacheslav
+
 Hello! 
 
-Im Vlad
+Im Vlad https://github.com/Wizardiq
 
 Im happy to begin my path with you
 ---
