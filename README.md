@@ -1,6 +1,11 @@
 ﻿# Hi
 
 ﻿# Hello :)
+ 
+# Hello, Kottans!
+## I'm so happy to be here!
+My name is [Natalia](https://github.com/natarrambide)
+![kottans](https://github.com/natarrambide/kottans-backend/blob/master/img/kottans.JPG)
 
 # Hello, Kottans!!!
 My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
