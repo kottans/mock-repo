@@ -1174,6 +1174,6 @@ I'm Viacheslav. https://github.com/dviacheslav
 # Hello Kottans!
 
 # Hi))
-I'm Vitaliy https://github.com/vitaliy-ol
+I'm [Vitaliy](https://github.com/vitaliy-ol).
 This is my dog Cherry and she loves cats)
 ![Cherry](gif/Mydog.png)
