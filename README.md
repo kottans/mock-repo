@@ -1,6 +1,6 @@
 ﻿# Hi
 
-﻿# Hello :)
+## Hello :)
  
 # Hello, Kottans!
 ## I'm so happy to be here!
