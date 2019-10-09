@@ -1,6 +1,12 @@
 ﻿# Hi
 
 ## Hello :)
+
+# Hi all, I'm Dima!
+
+You can find me on [linkedin](https://www.linkedin.com/in/dm-poliuha/), or on [github](https://github.com/DmitryPoliuha)
+
+![dima](gif/giphy-hi.gif)
  
 # Hello, Kottans!
 ## I'm so happy to be here!
