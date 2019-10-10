@@ -1,3 +1,6 @@
+
+﻿# Hi Everybody!
+=======
 ﻿# Hi
 
 ## Hello :)
@@ -26,6 +29,7 @@ My name is [Oleksii](https://github.com/oleksii-manzik) and my cat is Arnold
 ![arnold](gif/arnold.jpg)
 
 # Hi Everybody!
+
 Great course! Wonna learn it with you.
 
 # Hi!
@@ -1138,7 +1142,6 @@ Very excited to be on this course
 Cheers!
 
 ---
-
 # Hola fellow kottans students!
 
 My name is [Eugene](https://github.com/sherlaimov/kottans-backend).  
@@ -1177,6 +1180,18 @@ I'm Vitaliy. https://github.com/vik1803
 # Hi.
 I'm Viacheslav. https://github.com/dviacheslav
 
+
+
+Hello! 
+
+Im Vlad https://github.com/Wizardiq
+
+Im happy to begin my path with you
+---
+
+# Hello Kottans!
+
+=======
 # Hello Kottans!
 
 # Hi))
@@ -1186,3 +1201,4 @@ This is my dog Cherry and she loves cats)
 
 # Hi, my name is Alex (Oleksii)! 
 Glad to be a part of the team, hope to get into the offline part of the course!
+
