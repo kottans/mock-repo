@@ -3,7 +3,13 @@
 =======
 ﻿# Hi
 
-﻿# Hello :)
+## Hello :)
+
+# Hi all, I'm Dima!
+
+You can find me on [linkedin](https://www.linkedin.com/in/dm-poliuha/), or on [github](https://github.com/DmitryPoliuha)
+
+![dima](gif/giphy-hi.gif)
  
 # Hello, Kottans!
 ## I'm so happy to be here!
@@ -1175,6 +1181,7 @@ I'm Vitaliy. https://github.com/vik1803
 I'm Viacheslav. https://github.com/dviacheslav
 
 
+
 Hello! 
 
 Im Vlad https://github.com/Wizardiq
@@ -1183,4 +1190,15 @@ Im happy to begin my path with you
 ---
 
 # Hello Kottans!
+
+=======
+# Hello Kottans!
+
+# Hi))
+I'm [Vitaliy](https://github.com/vitaliy-ol).
+This is my dog Cherry and she loves cats)
+![Cherry](gif/Mydog.png)
+
+# Hi, my name is Alex (Oleksii)! 
+Glad to be a part of the team, hope to get into the offline part of the course!
 
