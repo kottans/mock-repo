@@ -1177,3 +1177,6 @@ I'm Viacheslav. https://github.com/dviacheslav
 I'm [Vitaliy](https://github.com/vitaliy-ol).
 This is my dog Cherry and she loves cats)
 ![Cherry](gif/Mydog.png)
+
+# Hi, my name is Alex (Oleksii)! 
+Glad to be a part of the team, hope to get into the offline part of the course!
