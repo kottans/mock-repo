@@ -1202,3 +1202,6 @@ This is my dog Cherry and she loves cats)
 # Hi, my name is Alex (Oleksii)! 
 Glad to be a part of the team, hope to get into the offline part of the course!
 
+# Hello!
+My name is Alex Bondar and i finally learned git. It's a fun and interesting. Try to learn it for yourself!
+And you can find me here - https://github.com/ABondar-Neph
