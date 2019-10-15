@@ -1,3 +1,7 @@
+# Hi Everybody!
+My name is Marina, and my inspiration - Vanya The Cat :D. Glad to join the community!
+
+![Vanya](gif/vanya_the_cat.jpeg)
 
 ﻿# Hi Everybody!
 =======
