@@ -26,6 +26,10 @@ My name is Heorhii. Yesterday I finished the Udacity Git Course and it was aweso
 # 😺
 I’m very happy to hear that 😺
 
+# Hi, 
+I am [Daria](https://github.com/darialiakh)
+![my_cat](my_cat.jpg)
+
 # Hello :)
 
 My name is [Oleksii](https://github.com/oleksii-manzik) and my cat is Arnold
