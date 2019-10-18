@@ -28,7 +28,7 @@ I’m very happy to hear that 😺
 
 # Hi, 
 I am [Daria](https://github.com/darialiakh)
-![my_cat](my_cat.jpg)
+![my_cat](gif/my_cat.jpg)
 
 # Hello :)
 
