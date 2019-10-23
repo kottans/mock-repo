@@ -1217,3 +1217,9 @@ And you can find me here - https://github.com/ABondar-Neph
 Hi, Kottans!
 ============
 I'm [Serhii](https://github.com/serphiy). Nice to join you!
+
+=======
+#Hello Kottans! 
+My name is Evgen. I am from Kremenchug.
+This is my coder cat Plushka.
+![Plushka](gif/plushka.jpg)
