@@ -1214,6 +1214,10 @@ Glad to be a part of the team, hope to get into the offline part of the course!
 My name is Alex Bondar and i finally learned git. It's a fun and interesting. Try to learn it for yourself!
 And you can find me here - https://github.com/ABondar-Neph
 
+Hi, Kottans!
+============
+I'm [Serhii](https://github.com/serphiy). Nice to join you!
+
 =======
 #Hello Kottans! 
 My name is Evgen. I am from Kremenchug.
