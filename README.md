@@ -1223,3 +1223,8 @@ I'm [Serhii](https://github.com/serphiy). Nice to join you!
 My name is Evgen. I am from Kremenchug.
 This is my coder cat Plushka.
 ![Plushka](gif/plushka.jpg)
+
+
+Hi everybody!
+============
+I'm [Igor](http://netcode.pro) and will be glad to join your community!
