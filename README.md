@@ -1228,3 +1228,8 @@ This is my coder cat Plushka.
 Hi everybody!
 ============
 I'm [Igor](http://netcode.pro) and will be glad to join your community!
+
+## Hello, Kottans!
+I am  [Max](https://github.com/ms76adf1). Nice to meet you, guys!
+<br />
+![Cat](assets/images/cat.jpeg)
