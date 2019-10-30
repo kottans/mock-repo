@@ -1,15 +1,41 @@
+
 ﻿# Hello =)
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
 ![cat](gif/kotans.gif)
+=======
+# Hi Everybody!
+My name is Marina, and my inspiration - Vanya The Cat :D. Glad to join the community!
 
-﻿# Hello :)
+![Vanya](gif/vanya_the_cat.jpeg)
+
+﻿# Hi Everybody!
+=======
+﻿# Hi
+
+## Hello :)
+
+
+# Hi all, I'm Dima!
+
+You can find me on [linkedin](https://www.linkedin.com/in/dm-poliuha/), or on [github](https://github.com/DmitryPoliuha)
+
+![dima](gif/giphy-hi.gif)
+ 
+# Hello, Kottans!
+## I'm so happy to be here!
+My name is [Natalia](https://github.com/natarrambide)
+![kottans](https://github.com/natarrambide/kottans-backend/blob/master/img/kottans.JPG)
 
 # Hello, Kottans!!!
 My name is Heorhii. Yesterday I finished the Udacity Git Course and it was awesome!!!
 
 # 😺
 I’m very happy to hear that 😺
+
+# Hi, everyone :)
+I am [Daria](https://github.com/darialiakh)
+![my_cat](gif/my_cat.jpg)
 
 # Hello :)
 
@@ -18,6 +44,7 @@ My name is [Oleksii](https://github.com/oleksii-manzik) and my cat is Arnold
 ![arnold](gif/arnold.jpg)
 
 # Hi Everybody!
+
 Great course! Wonna learn it with you.
 
 # Hi!
@@ -1095,6 +1122,9 @@ I am excited to learn basics of Git and Github. The information now is structure
 
 My name is Serhii. Nice to meet you all :)
 
+
+My Hello to Kottans! )
+=======
 # Hello
 
 My name is Alex, I got the job-offer for JS developer, that is why I need to find out what is Node.js. Previously I was a front-end Kottans's course student
@@ -1127,7 +1157,6 @@ Very excited to be on this course
 Cheers!
 
 ---
-
 # Hola fellow kottans students!
 
 My name is [Eugene](https://github.com/sherlaimov/kottans-backend).  
@@ -1135,8 +1164,6 @@ I'm looking forward to uppping my game in the backend world, studying alongside 
 
 Wishing everyone a fantastic journey here ;) 
 
----
-=======
 
 # Hello there
 
@@ -1161,3 +1188,57 @@ best regards
 ## Hello, kottans ^^
 
 ![neko-art](gif/Maneki-neko.jpg)
+=======
+![neko-art](gif/Maneki-neko.jpg)
+
+# Hi, nice to join you guys!
+I'm Vitaliy. https://github.com/vik1803
+
+# Hi.
+I'm Viacheslav. https://github.com/dviacheslav
+
+
+
+Hello! 
+
+Im Vlad https://github.com/Wizardiq
+
+Im happy to begin my path with you
+---
+
+# Hello Kottans!
+
+=======
+# Hello Kottans!
+
+# Hi))
+I'm [Vitaliy](https://github.com/vitaliy-ol).
+This is my dog Cherry and she loves cats)
+![Cherry](gif/Mydog.png)
+
+# Hi, my name is Alex (Oleksii)! 
+Glad to be a part of the team, hope to get into the offline part of the course!
+
+# Hello!
+My name is Alex Bondar and i finally learned git. It's a fun and interesting. Try to learn it for yourself!
+And you can find me here - https://github.com/ABondar-Neph
+
+Hi, Kottans!
+============
+I'm [Serhii](https://github.com/serphiy). Nice to join you!
+
+=======
+#Hello Kottans! 
+My name is Evgen. I am from Kremenchug.
+This is my coder cat Plushka.
+![Plushka](gif/plushka.jpg)
+
+
+Hi everybody!
+============
+I'm [Igor](http://netcode.pro) and will be glad to join your community!
+
+## Hello, Kottans!
+I am  [Max](https://github.com/ms76adf1). Nice to meet you, guys!
+<br />
+![Cat](assets/images/cat.jpeg)
