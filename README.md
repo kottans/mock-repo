@@ -1186,9 +1186,6 @@ I'm [Alexandr ](https://github.com/rekusha)
 best regards
 
 ## Hello, kottans ^^
-
-![neko-art](gif/Maneki-neko.jpg)
-=======
 ![neko-art](gif/Maneki-neko.jpg)
 
 # Hi, nice to join you guys!
