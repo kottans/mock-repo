@@ -1233,3 +1233,6 @@ I'm [Igor](http://netcode.pro) and will be glad to join your community!
 I am  [Max](https://github.com/ms76adf1). Nice to meet you, guys!
 <br />
 ![Cat](assets/images/cat.jpeg)
+
+## Hello, Kottans!
+My name is Yaroslava. Nice to meet you)
