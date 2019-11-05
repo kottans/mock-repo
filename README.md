@@ -1,9 +1,10 @@
 # Holly Sh.t!
 Greet everyone on this incredible cource!!!
 
-Hi and pryvit.
-My name is Yevhen Tkachenko (https://github.com/t-jay-777)
+Hi and pryvit 😺😺😺.
+My name is ## Yevhen Tkachenko (https://github.com/t-jay-777)
 Dont worry and be happy!
+![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
 
 
 ﻿# Hello =)
