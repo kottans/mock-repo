@@ -1,6 +1,11 @@
 # Holly Sh.t!
 Greet everyone on this incredible cource!!!
 
+Hi and pryvit.
+My name is Yevhen Tkachenko (https://github.com/t-jay-777)
+Dont worry and be happy!
+
+
 ﻿# Hello =)
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
