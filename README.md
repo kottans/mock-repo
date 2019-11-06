@@ -1,7 +1,7 @@
 # Hi Everybody!
 My name is Oleksandr, and I glad to join your community!
 
-![gif](gif/giphy.gif)
+![gif](gif/giphycatgif314.gif)
 
 # Hi Everybody!
 My name is Marina, and my inspiration - Vanya The Cat :D. Glad to join the community!
