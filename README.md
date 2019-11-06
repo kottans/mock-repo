@@ -1244,3 +1244,16 @@ I am  [Max](https://github.com/ms76adf1). Nice to meet you, guys!
 
 ## Hello, Kottans!
 My name is Yaroslava. Nice to meet you)
+===
+# Nice to meet you!
+<details>
+  <summary>My name is...</summary>
+  
+  ### [Sergio!](https://github.com/ITKozak)
+
+  All in all a great course!
+  I can also add an additional resource for practice blind typing - [TypingStudy.com](https://www.typingstudy.com/)
+
+</details>
+
+---
