@@ -1,4 +1,27 @@
-# Holly Sh.t!
+Hi,
+
+This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend), [frontend](https://github.com/Kottans/backend) and [git](https://github.com/Kottans/git-course) courses. You can try sending pull-requests to this repository proposing a change.
+The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
+
+*This was an intentionaly mispelld phrase*
+
+Try it! It’s fun, we promise :)
+
+By the way, creating issues is fun too!
+
+![Screenshot](gif/jump.gif)
+
+**NB! Your pull-request may not be reviewed very quickly, please have patience.**
+
+If you are impatient use
+[frontend](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
+[backend](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
+or [git](https://t.me/kottans_git) students chat
+with other to make fun from conversation.
+
+
+---
+
 Greet everyone on this incredible cource!!!
 
 Hi and pryvit 😺😺😺.
