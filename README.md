@@ -1,4 +1,46 @@
-# Holly Sh.t!
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+[![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
+[![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
+
+Hi,
+
+This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
+[frontend](https://github.com/Kottans/backend),
+and [git](https://github.com/Kottans/git-course) courses. 
+You can try sending pull-requests to this repository proposing a change.
+The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
+
+*This was an intentionaly mispelld phrase*
+
+Tell other kottans a couple of words and add a fancy picture.
+
+Try it! It’s fun, we promise :)
+
+**Please, add your greetings at the end of file.**
+
+By the way, creating issues is fun too!
+
+![Screenshot](gif/jump.gif)
+
+**NB!**
+ - **Your pull-request may not be reviewed very quickly, please have patience.**
+ - **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
+   **posting a message `#help_wanted` + link to your pull request**
+   **( e.g. https://github.com/kottans/mock-repo/pull/145 )**
+   **in a chat of the course you're taking.**
+
+If you are impatient use
+[frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
+[backend course](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
+or [git course](https://t.me/kottans_git) students chat
+with other to get fun from a good conversation.
+
+P.S. Where all postings before March 2018 have gone to?
+[Here they are!](archive.2017-2018/README.md)
+(git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
+
+---
+
 Greet everyone on this incredible cource!!!
 
 Hi and pryvit 😺😺😺.
@@ -93,34 +135,7 @@ Hi, kottans! Nice to meet you!
 ##### H E L L O!
 :smirk_cat:
 
-This is a training repository for Kottans [web course](https://github.com/Kottans/web), [frontend course](https://github.com/Kottans/frontend), [backend course](https://github.com/kottans/backend), and [git course](https://github.com/kottans/git-course). You can try sending pull-requests to this repository proposing a change.
-The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
-
-*This is an internationally misspelled phrases*
-
-Tell other kottans a couple of words and add a fancy picture.
-
-Try it! It’s fun, we promise :)
-
-By the way, creating issues is fun too!
-
-![Screenshot](gif/jump.gif)
-
-**NB!**
- - **Your pull-request may not be reviewed very quickly, please have patience.**
- - **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
-   **posting in [FE Students chat](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA)**
-   **a message `#help_wanted` + link to your pull request,**
-   **e.g. https://github.com/kottans/mock-repo/pull/145 .**
-
-If you are impatient use
-[FE Students chat](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA)
-with other to make fun from conversation.
-
-Where all postings before March 2018 has gone to?
-[Here they are!](archive.2017-2018/README.md)
-(git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 _________________________________________________
 
 # Hi, kottans!
