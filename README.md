@@ -1296,3 +1296,7 @@ The task was to propose a change and I even thought about correcting some gramma
 # Hi Kottans!
 
 My name is [Hanna!](https://github.com/annyrandie) Nice to study with you:)
+
+# Hello there!
+
+My name is [Andrew](https://github.com/Shining-Diamond) it's nice to meet you
