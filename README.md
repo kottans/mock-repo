@@ -44,9 +44,9 @@ P.S. Where all postings before March 2018 have gone to?
 Greet everyone on this incredible cource!!!
 
 ## Hi, everyone! I'm glad to be here)
-[Me] (https://github.com/Lu-sure)  :red_haired_woman:
+[Me](https://github.com/Lu-sure)  :red_haired_woman:
 And here is my ~~cat~~ dog Easy! 
-![Photo of fox terrier] (gif/my_fox_terrier.jpg) 
+![Photo of fox terrier](gif/my_fox_terrier.jpg) 
 
 Hello, kottans! :smile_cat:  
 Come on to my [GitHub](https://github.com/dankor1498)
