@@ -1,4 +1,4 @@
-[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
@@ -1303,3 +1303,7 @@ My name is [Hanna!](https://github.com/annyrandie) Nice to study with you:)
 # Hello there!
 
 My name is [Andrew](https://github.com/Shining-Diamond) it's nice to meet you
+
+# Hi all!
+
+My name is [Oleksandr](https://github.com/sashakom) Nice to meet you
