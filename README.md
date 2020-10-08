@@ -52,6 +52,9 @@ Greet everyone on this incredible cource!!!
 Hello, kottans! :smile_cat:  
 Come on to my [GitHub](https://github.com/dankor1498)
 
+## Hello to you all!
+It is awesome)
+
 Hi and pryvit 😺😺😺.
 ## My name is Yevhen Tkachenko (https://github.com/t-jay-777)
 # Dont worry and be happy!
