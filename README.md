@@ -1317,3 +1317,11 @@ My name is [Oleksandr](https://github.com/sashakom) Nice to meet you
 # Hi Kottans!
 
 My name is [Sasha](https://github.com/askuznetsov) Nice to study with you :)
+
+***
+# Oh yeah! Kottans are back!
+![image](https://user-images.githubusercontent.com/19931091/95470005-f1b05700-0988-11eb-9c2f-06f82505f390.png)
+
+## I am glad!
+Best regards, [Alex](https://github.com/AlexPoliakov).
+***
