@@ -5,7 +5,7 @@
 Hi,
 
 This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
-[frontend](https://github.com/Kottans/backend),
+[backend](https://github.com/Kottans/backend),
 and [git](https://github.com/Kottans/git-course) courses. 
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
@@ -1327,4 +1327,11 @@ My name is [Sasha](https://github.com/askuznetsov) Nice to study with you :)
 
 ## I am glad!
 Best regards, [Alex](https://github.com/AlexPoliakov).
+***
+
+***
+## Hello guys!
+My name is Yuliia and i'm fond of tigers. They're also cats (even big though :grimacing:).
+
+![Tiger](https://media.giphy.com/media/3gPNRFAf1r1108GsK7/giphy-downsized-large.gif)
 ***
