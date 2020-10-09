@@ -48,7 +48,7 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 ---
 
 # Hi kottans!
-My name is [Krystyna](https://github.com/kriLEBED) and my little kottan Fedir (gif/Fedir.jpg)
+My name is [Krystyna](https://github.com/kriLEBED) and my little kottan [Fedir](gif/Fedir.jpg)
 
 Greet everyone on this incredible cource!!!
 
