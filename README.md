@@ -1,6 +1,3 @@
-# Hi Everyone =)
-![Dog](gif/download.jpg)
-
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -49,6 +46,9 @@ P.S. Where all postings before March 2018 have gone to?
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ---
+
+# Hi Everyone =)
+![Dog](gif/download.jpg)
 
 # Hi kottans!
 My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat](gif/Fedir.JPG)
