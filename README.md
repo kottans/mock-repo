@@ -1344,3 +1344,10 @@ My name is Yuliia and i'm fond of tigers. They're also cats (even big though :gr
 ***
 ## Hi there!
 Kottans, thank you for the new course!
+
+***
+## Well, hello there!
+
+![mr Tisha](https://user-images.githubusercontent.com/29441499/95658972-ea26b480-0b26-11eb-9cf7-b1166e609ffe.jpg)
+
+I'm [Vlad](https://github.com/5Mountains/kottans-frontend), Front-end developer who is in the process of formation. And, I believe that taking this course will be an interesting adventure despite the fact that it can be challenging.
