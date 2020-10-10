@@ -1340,3 +1340,7 @@ My name is Yuliia and i'm fond of tigers. They're also cats (even big though :gr
 ***
 
 ## Hello, kottans
+
+***
+## Hi there!
+Kottans, thank you for the new course!
