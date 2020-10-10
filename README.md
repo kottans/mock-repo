@@ -1,3 +1,6 @@
+﻿# Hi Everyone =)
+![Dog](gif/download.jpg)
+
 # Hi Everyone!
 Have a nice day!
 ![cat](https://aroundcat.files.wordpress.com/2015/09/36cb11.jpg)
