@@ -66,6 +66,8 @@ Hi and pryvit 😺😺😺.
 # Dont worry and be happy!
 ![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
 
+## Hello from Igor
+I want to finish this course ^_^
 
 ﻿# Hello =)
 I am [Yaroslav](https://github.com/littleproger)
