@@ -1361,3 +1361,17 @@ I'm [Vlad](https://github.com/5Mountains/kottans-frontend), Front-end developer 
 My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be here :hugs:
 
 ![kitty](https://i.pinimg.com/564x/b6/cc/bc/b6ccbc06f1c3d5a01f2cea66b76a4f62.jpg)
+
+---
+
+
+# Hello there!
+
+
+My name is [Andriy](https://github.com/andrewklmn/) and I want to be a real Front End Developer.
+
+Here are so many different cats in this Readme.md. Of course, it is pretty much not so bad. But I want to put here something actually better.  Here it is:
+
+![mr Dyuka](https://raw.githubusercontent.com/andrewklmn/freecodecamp/master/images/dyuka.jpg)
+
+**Cats, beware!**
