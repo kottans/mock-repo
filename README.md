@@ -1369,3 +1369,7 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 # Hello everyone! xD
 
 Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
+
+# Hello there!
+1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
+here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
