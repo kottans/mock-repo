@@ -1369,3 +1369,7 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 # Hello everyone! xD
 
 Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
+
+# Hi guys!
+I am sure it will be an awesome journey!
+![Nana](https://uploads-ssl.webflow.com/5a578ef6046ca900013759b9/5c2a9f309a1575b14a8b05e8_LIRIK2-p-1080.jpeg)
