@@ -1365,3 +1365,7 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 ---
 # Hi mates :D
 ![Cat](gif/fat-kottan.gif)
+
+# Hello everyone! xD
+
+Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
