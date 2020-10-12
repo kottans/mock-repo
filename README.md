@@ -1365,3 +1365,11 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 ---
 # Hi mates :D
 ![Cat](gif/fat-kottan.gif)
+
+
+---
+
+# Hello there!
+1st time working via command line, ![Vasiliy](https://github.com/Vas-P) =)
+
+here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
