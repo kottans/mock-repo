@@ -1386,4 +1386,4 @@ I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join comm
 ---
 #Hi, Kottans!
 I'm Kyrylo, I have always dreamed of programming and this is a great opportunity for me :)
-<img src="https://f3.upet.com/o_XSbhGBwd1G_1.jpg" width="75">
+ ![Cat in the glasses]<img src="https://f3.upet.com/o_XSbhGBwd1G_1.jpg" width="75">
