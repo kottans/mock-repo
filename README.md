@@ -1391,18 +1391,11 @@ I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join comm
 ---
 
 
-
-
 ## What's up Kottans! 
 My name is [Alex](https://github.com/usides) and I want to be a dev-cat.
 
 ![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
 
-=======
-
-## What's up Kottans!
-My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
-![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
 
 ## Hi, Kottans!
 I'm Kyrylo, I have always dreamed of programming and this is a great opportunity for me :)
