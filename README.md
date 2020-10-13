@@ -1375,3 +1375,41 @@ Here are so many different cats in this Readme.md. Of course, it is pretty much 
 ![mr Dyuka](https://raw.githubusercontent.com/andrewklmn/freecodecamp/master/images/dyuka.jpg)
 
 **Cats, beware!**
+# Hi mates :D
+![Cat](gif/fat-kottan.gif)
+
+# Hello everyone! xD
+
+Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
+
+# Hi guys!
+I am sure it will be an awesome journey!
+![Nana](https://uploads-ssl.webflow.com/5a578ef6046ca900013759b9/5c2a9f309a1575b14a8b05e8_LIRIK2-p-1080.jpeg)
+
+# Hello there!
+1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
+here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
+
+---
+# Hi guys!
+nice to join such a wonderfull jorney!
+![funny cat](https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp)
+
+---
+# Hello, Kottans! 
+
+I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
+![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
+---
+
+## What's up Kottans!
+My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
+---
+
+## Hello Kottans!
+My name is [Sergey](https://github.com/7SergSmith7) and I want to be a Front-end dev.
+
+# Hey, guys!
+I'm [Yury](https://github.com/yuryzaytsev). This is a street cat named Bob. He is the best cat in the world.
+![cat-bob](https://assets.londonist.com/uploads/2015/02/i875/a-street-cat-named-bob-high-five.jpg)
