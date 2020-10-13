@@ -1382,5 +1382,5 @@ here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-p
 # Hello, Kottans! 
 
 I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
-[kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg?1492508022) 
+[kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
 ---
