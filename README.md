@@ -1380,7 +1380,7 @@ here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-p
 
 
 # Hi guys!
-nice to join such a wonderfull jorney! ![Cat](https://gph.is/g/4o6B0Km)
+nice to join such a wonderfull jorney! ![funny cat](https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp)
 
 ---
 # Hello, Kottans! 
