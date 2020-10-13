@@ -1386,4 +1386,4 @@ Looking forward to study and collaborate with other students / mentors.
 Do not hesitate to reach me if you need any kind of help: [krylenger](https://github.com/krylenger/)
 Have a good day ahead!
 
-![trueProgrammer](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thehappycatsite.com%2Ffunny-cat-quotes%2F&psig=AOvVaw07rXFVqwog6L4w5dVCgULY&ust=1602605756634000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiL--q5r-wCFQAAAAAdAAAAABAE)
+![trueProgrammer](https://github.com/krylenger/MyPersonalBookshelf/blob/master/cat.png?raw=true)
