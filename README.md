@@ -1384,3 +1384,7 @@ here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-p
 I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
 ![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
 ---
+## What's up Kottans! 
+My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+
+![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
