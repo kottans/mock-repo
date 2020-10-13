@@ -1379,4 +1379,4 @@ I am sure it will be an awesome journey!
 here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
 
 # Hi guys!
-nice to join such a wonderfull jorney! ![Cat] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv&psig=AOvVaw1qjuR2HA8jkhVMxiUD9ZiX&ust=1602664350071000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiu1o2UsewCFQAAAAAdAAAAABAD)
+nice to join such a wonderfull jorney! ![Cat](https://gph.is/g/4o6B0Km)
