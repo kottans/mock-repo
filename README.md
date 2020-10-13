@@ -1389,3 +1389,8 @@ I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join comm
 ![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
 ---
 
+## What's up Kottans! 
+My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+
+![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
+
