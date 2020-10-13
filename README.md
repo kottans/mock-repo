@@ -1384,3 +1384,6 @@ here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-p
 I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
 ![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
 ---
+#Hi, Kottans!
+I'm Kyrylo, I have always dreamed of programming and this is a great opportunity for me :)
+<img src="https://f3.upet.com/o_XSbhGBwd1G_1.jpg" width="75">
