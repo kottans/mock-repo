@@ -47,6 +47,17 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hi Guys !
+My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
+
+![richard](gif/richard.jpg "Richard")
+
+If you have questions about the tasks or something you can always contact me at :
+# [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
+## You`re welcome !
+Version Control with GIT - Completed !
+# Let`s start to next step!
+
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
 
