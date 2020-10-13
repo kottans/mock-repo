@@ -66,9 +66,6 @@ Hi and pryvit 😺😺😺.
 # Dont worry and be happy!
 ![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
 
-## Hello from Igor
-I want to finish this course ^_^
-
 ﻿# Hello =)
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
@@ -1367,3 +1364,39 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 ---
 # Hi mates :D
 ![Cat](gif/fat-kottan.gif)
+
+# Hello everyone! xD
+
+Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
+
+# Hi guys!
+I am sure it will be an awesome journey!
+![Nana](https://uploads-ssl.webflow.com/5a578ef6046ca900013759b9/5c2a9f309a1575b14a8b05e8_LIRIK2-p-1080.jpeg)
+
+# Hello there!
+1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
+here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
+
+---
+# Hi guys!
+nice to join such a wonderfull jorney!
+![funny cat](https://i.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp)
+
+---
+# Hello, Kottans! 
+
+I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
+![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
+---
+
+## What's up Kottans!
+My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
+---
+
+## Hello Kottans!
+My name is [Sergey](https://github.com/7SergSmith7) and I want to be a Front-end dev.
+
+## Hello from Igor
+I want to finish this course ^_^
+Lets the dreams come true!
