@@ -1378,5 +1378,14 @@ I am sure it will be an awesome journey!
 1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
 here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
 
+
 # Hi guys!
 nice to join such a wonderfull jorney! ![Cat](https://gph.is/g/4o6B0Km)
+
+---
+# Hello, Kottans! 
+
+I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
+![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
+---
+
