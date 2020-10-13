@@ -1391,6 +1391,7 @@ I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join comm
 ---
 
 
+
 ## What's up Kottans! 
 My name is [Alex](https://github.com/usides) and I want to be a dev-cat.
 
@@ -1399,3 +1400,12 @@ My name is [Alex](https://github.com/usides) and I want to be a dev-cat.
 ## Hi, Kottans!
 I'm Kyrylo, I have always dreamed of programming and this a great opportunity for me :)
 ![Cat in the glasses](https://f3.upet.com/o_XSbhGBwd1G_1.jpg)
+
+## What's up Kottans!
+My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
+---
+
+## Hello Kottans!
+My name is [Sergey](https://github.com/7SergSmith7) and I want to be a Front-end dev.
+
