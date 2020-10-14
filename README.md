@@ -59,7 +59,7 @@ Anyways, happy to join and wish you all luck!
 
 PS. Check the Kottans in wheeeeeaaatt.
 
-![Cat in Wheat](https://github.com/WheatMan999/kottans-frontend/tree/main/random_imgs/cat_in_wheat.jpg?raw=true)
+![Cat in Wheat](https://github.com/WheatMan999/kottans-frontend/blob/main/random_imgs/cat_in_wheat.jpg?raw=true)
 
 
 
