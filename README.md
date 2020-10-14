@@ -47,6 +47,22 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hey everyone!
+
+I’m Alex and I’m excited to join the community. I have a background as a journalist/price reporter in commodity markets (wheat) and finances. Will be happy to share knowledge on those topics, if someone is interested in them.
+
+A frontend is new for me, but do have some python skills. So, at least I can try to help if something:)
+
+The fastest way to reach me is a [Telegram](https://t.me/AlexBukha)
+
+Anyways, happy to join and wish you all luck!
+
+PS. Check the Kottans in wheeeeeaaatt.
+
+![Cat in Wheat](https://github.com/WheatMan999/kottans-frontend/tree/main/random_imgs/cat_in_wheat.jpg?raw=true)
+
+
+
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
 
@@ -1405,3 +1421,7 @@ My name is [Sergey](https://github.com/7SergSmith7) and I want to be a Front-end
 # Hey, guys!
 I'm [Yury](https://github.com/yuryzaytsev). This is a street cat named Bob. He is the best cat in the world.
 ![cat-bob](https://assets.londonist.com/uploads/2015/02/i875/a-street-cat-named-bob-high-five.jpg)
+
+
+
+
