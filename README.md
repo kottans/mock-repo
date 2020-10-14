@@ -1402,6 +1402,15 @@ My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
 ## Hello Kottans!
 My name is [Sergey](https://github.com/7SergSmith7) and I want to be a Front-end dev.
 
+
 # Hey, guys!
 I'm [Yury](https://github.com/yuryzaytsev). This is a street cat named Bob. He is the best cat in the world.
 ![cat-bob](https://assets.londonist.com/uploads/2015/02/i875/a-street-cat-named-bob-high-five.jpg)
+
+---
+
+### Hello, kottans:)
+My name is [Dima](https://github.com/youhymuk) and I'm glad to study here with you.
+I wish you all success!
+
+![kottan](gif/cat-headshot.gif)
