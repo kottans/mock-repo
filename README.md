@@ -1414,3 +1414,7 @@ My name is [Dima](https://github.com/youhymuk) and I'm glad to study here with y
 I wish you all success!
 
 ![kottan](gif/cat-headshot.gif)
+
+### Greetings kottans
+My name is Igor I glad to pass the course with you.
+Cheers, don't worry and be happy!
