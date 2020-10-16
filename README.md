@@ -1420,3 +1420,6 @@ My name is [Nastya](https://github.com/AsyaYeromina) Happy to be the part of suc
 **YOU ARE SO COOL, KOTTANS!!!**
 ![cat-box](https://i.pinimg.com/564x/b5/1e/1b/b51e1b639edc459ac49b574ed69367ae.jpg)
 
+## Hello ALL! 
+My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding with KOTTANS!
+![cat-kottans](https://kote-life.ru/wp-content/uploads/2017/10/razmer-kotenka-mejn-kuna.jpg)
