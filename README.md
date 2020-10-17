@@ -32,8 +32,7 @@ By the way, creating issues is fun too!
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
 [backend course](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
-or [git course](https://t.me/kottans_git) students chat
-with other to get fun from a good conversation.
+or [git course](https://t.me/kottans_git) group chats to have fun from chatting with other students.
 
 P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
