@@ -1423,3 +1423,7 @@ My name is [Nastya](https://github.com/AsyaYeromina) Happy to be the part of suc
 ## Hello ALL! 
 My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding with KOTTANS!
 ![cat-kottans](https://kote-life.ru/wp-content/uploads/2017/10/razmer-kotenka-mejn-kuna.jpg)
+
+***
+## Hi, my name is Myhailo!
+Thank you for the new course!
