@@ -1452,3 +1452,7 @@ My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding
 ***
 ## Hi, my name is Myhailo!
 Thank you for the new course!
+
+## Hi Kottans!
+My name is [Evgenii](https://github.com/evgenii-del). I want to be a Full Stack web developer. \
+![cat-image](assets/images/cute_cat_kottans.jpg)
