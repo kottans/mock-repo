@@ -1394,6 +1394,16 @@ I am sure it will be an awesome journey!
 1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
 here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
 
+## Hello    ^_^ 's
+
+I'm really excited to join your cool and friendly community! 
+Looking forward to study and collaborate with other students / mentors.
+
+Do not hesitate to reach me if you need any kind of help: [krylenger](https://github.com/krylenger/)
+Have a good day ahead!
+
+![trueProgrammer](https://github.com/krylenger/MyPersonalBookshelf/blob/master/cat.png?raw=true)
+
 ---
 # Hi guys!
 nice to join such a wonderfull jorney!
