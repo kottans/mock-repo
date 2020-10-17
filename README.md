@@ -47,6 +47,9 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hey folks!
+I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon ![my_kitten](gif/my_kitten.jpg)
+
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
 
