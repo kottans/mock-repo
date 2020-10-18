@@ -1452,3 +1452,8 @@ My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding
 ***
 ## Hi, my name is Myhailo!
 Thank you for the new course!
+---
+# Hi, kottans!
+Thanks for this course and good luck for all the students!
+
+![And-cat] (gif/AndCat.png)
