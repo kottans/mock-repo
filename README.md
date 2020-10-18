@@ -1465,5 +1465,5 @@ We wish you a good studing :3
 
 ---
 # Hi, Kottans!
-Thanks for the course and good luck to students!
+Thanks for the course and good luck to students! \
 ![and-Cat](assets/images/andCat.png)
