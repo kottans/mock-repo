@@ -49,6 +49,23 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 # Hey folks!
 I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
 
+
+# Hey everyone!
+
+I’m Alex and I’m excited to join the community. I have a background as a journalist/price reporter in commodity markets (wheat) and finances. Will be happy to share knowledge on those topics, if someone is interested in them.
+
+A frontend is new for me, but do have some python skills. So, at least I can try to help if something:)
+
+The fastest way to reach me is a [Telegram](https://t.me/AlexBukha)
+
+Anyways, happy to join and wish you all luck!
+
+PS. Check the Kottans in wheeeeeaaatt.
+
+![Cat in Wheat](https://github.com/WheatMan999/kottans-frontend/blob/main/random_imgs/cat_in_wheat.jpg?raw=true)
+
+
+
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
 
@@ -1380,6 +1397,16 @@ I am sure it will be an awesome journey!
 1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
 here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
 
+## Hello    ^_^ 's
+
+I'm really excited to join your cool and friendly community! 
+Looking forward to study and collaborate with other students / mentors.
+
+Do not hesitate to reach me if you need any kind of help: [krylenger](https://github.com/krylenger/)
+Have a good day ahead!
+
+![trueProgrammer](https://github.com/krylenger/MyPersonalBookshelf/blob/master/cat.png?raw=true)
+
 ---
 # Hi guys!
 nice to join such a wonderfull jorney!
@@ -1409,7 +1436,6 @@ My name is [Sergey](https://github.com/7SergSmith7) and I want to be a Front-end
 I'm [Yury](https://github.com/yuryzaytsev). This is a street cat named Bob. He is the best cat in the world.
 ![cat-bob](https://assets.londonist.com/uploads/2015/02/i875/a-street-cat-named-bob-high-five.jpg)
 
----
 
 ### Hello, kottans:)
 My name is [Dima](https://github.com/youhymuk) and I'm glad to study here with you.
@@ -1429,3 +1455,7 @@ My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding
 ***
 ## Hi, my name is Myhailo!
 Thank you for the new course!
+
+## Hi Kottans!
+My name is [Evgenii](https://github.com/evgenii-del). I want to be a Full Stack web developer. \
+![cat-image](assets/images/cute_cat_kottans.jpg)
