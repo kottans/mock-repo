@@ -1457,3 +1457,7 @@ Thank you for the new course!
 Thanks for this course and good luck for all the students!
 
 ![And-cat](gif/AndCat.png)
+
+## Hi Kottans!
+My name is [Evgenii](https://github.com/evgenii-del). I want to be a Full Stack web developer. \
+![cat-image](assets/images/cute_cat_kottans.jpg)
