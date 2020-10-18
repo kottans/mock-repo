@@ -1456,4 +1456,4 @@ Thank you for the new course!
 # Hi, kottans!
 Thanks for this course and good luck for all the students!
 
-![And-cat] (gif/AndCat.png)
+![And-cat](gif/AndCat.png)
