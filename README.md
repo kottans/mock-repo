@@ -1462,3 +1462,8 @@ My name is [Evgenii](https://github.com/evgenii-del). I want to be a Full Stack 
 ### I'm Masha and this is my flufy friend
 We wish you a good studing :3
 ![kitty](https://user-images.githubusercontent.com/69360739/96371379-2d59d680-116a-11eb-9e08-8d3b5fbec75f.jpg)
+
+***
+## Hello everyone!
+### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
+![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
