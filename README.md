@@ -32,8 +32,7 @@ By the way, creating issues is fun too!
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
 [backend course](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
-or [git course](https://t.me/kottans_git) students chat
-with other to get fun from a good conversation.
+or [git course](https://t.me/kottans_git) group chats to have fun from chatting with other students.
 
 P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
@@ -46,6 +45,10 @@ P.S. Where all postings before March 2018 have gone to?
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ---
+
+# Hey folks!
+I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
+
 
 # Hey everyone!
 
