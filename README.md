@@ -1467,3 +1467,8 @@ We wish you a good studing :3
 # Hi, Kottans!
 Thanks for the course and good luck to students! \
 ![and-Cat](assets/images/andCat.png)
+
+***
+## Hello everyone!
+### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
+![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
