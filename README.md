@@ -1490,3 +1490,9 @@ Thanks for the course and good luck to students! \
 # Hi guys!
 ## I am [Daniel](https://github.com/dragalur),glad to join Kottans!!
 ![Cat](assets/images/danielCat.jpg)
+
+---
+## Hi everyone!
+My name is [Nataliia](https://github.com/infullbloom):wave:  
+Glad to join KOTTANS:cat:  
+I wish all of you happy coding!
