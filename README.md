@@ -10,7 +10,7 @@ and [git](https://github.com/Kottans/git-course) courses.
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
-*This was an intentionaly mispelld phrase*
+*This was an intentionaly mispelled phrase*
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -1467,3 +1467,11 @@ We wish you a good studing :3
 ## Hello everyone!
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
+
+***
+## Hello,guys!
+My name is [Artem](https://github.com/Writerman). 
+Good luck and have fun!
+![the_best_cat](https://i.pinimg.com/originals/f2/95/a8/f295a8c5e0d1419729d2b4d6a4ffc9ea.jpg)
+
+
