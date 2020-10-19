@@ -1496,3 +1496,12 @@ Thanks for the course and good luck to students! \
 My name is [Nataliia](https://github.com/infullbloom):wave:  
 Glad to join KOTTANS:cat:  
 I wish all of you happy coding!
+
+---
+# Hey, Kottans!
+Hey there :wave:  
+Thanks for the course and good luck to students!
+
+![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
+
+---
