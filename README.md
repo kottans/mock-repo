@@ -1467,3 +1467,9 @@ We wish you a good studing :3
 ## Hello everyone!
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
+
+***
+## Hello,guys!
+My name is [Artem](https://github.com/Writerman). 
+Good luck and have fun!
+![the_best_cat](https://i.pinimg.com/originals/f2/95/a8/f295a8c5e0d1419729d2b4d6a4ffc9ea.jpg)
