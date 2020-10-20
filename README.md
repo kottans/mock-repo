@@ -1515,9 +1515,10 @@ And meet my cat who saw some things in this world :D
 
 ---
 
-Hello!
+# Hello!
 
-My name is [Viktoriia](https://github.com/BlueLamantine).
-I am a kottan-student. This [front-end course](https://github.com/kottans/frontend) is awesome! 
-So...forward to knowledge!!! :rocket:
+> My name is [Viktoriia](https://github.com/BlueLamantine).
+> I am a ```kottan-student```. This [front-end course](https://github.com/kottans/frontend) is awesome! 
+> So...forward to knowledge!!! :rocket:
 ![run](https://media.giphy.com/media/l41lTQNDIqDVn1KCc/giphy.gif)
+***
