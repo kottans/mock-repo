@@ -32,8 +32,7 @@ By the way, creating issues is fun too!
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
 [backend course](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
-or [git course](https://t.me/kottans_git) students chat
-with other to get fun from a good conversation.
+or [git course](https://t.me/kottans_git) group chats to have fun from chatting with other students.
 
 P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
@@ -46,6 +45,10 @@ P.S. Where all postings before March 2018 have gone to?
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ---
+
+# Hey folks!
+I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
+
 
 # Hey everyone!
 
@@ -1473,9 +1476,39 @@ Thanks for the course and good luck to students! \
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
 
+# Meow, everyone!
+![Cat](https://i.imgur.com/MIOEI0u.jpg)
+
+***
+# Hello everyone!
+## My name is [Anton](https://github.com/AntonGluschuk) and I want to join Great Kottans community and wish good luck for everyone!
+![meme-cat](https://i.imgur.com/g3D5jNz.jpeg)
+
+---
+# Hi guys!
+## I am [Daniel](https://github.com/dragalur),glad to join Kottans!!
+![Cat](assets/images/danielCat.jpg)
+
+---
+## Hi everyone!
+My name is [Nataliia](https://github.com/infullbloom):wave:  
+Glad to join KOTTANS:cat:  
+I wish all of you happy coding!
+
+---
+# Hey, Kottans!
+Hey there :wave:  
+Thanks for the course and good luck to students!
+
+![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
+
+---
+
 ***
 ## Hi guys!
 ### My names is [Alex](https://github.com/WEremite)
-Fixed a special typo in this file.
 This is my cat
 ![my cat](assets/images/my_cat.jpg)
+
+---
+
