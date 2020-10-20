@@ -1505,3 +1505,12 @@ Thanks for the course and good luck to students!
 ![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
 
 ---
+
+# Hello to everyone! :smiley_cat:
+My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
+**Good luck to everyone!**
+And meet my cat who saw some things in this world :D
+
+![Cat](assets/images/frustrating-tisha.jpg)
+
+---
