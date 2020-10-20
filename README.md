@@ -1485,3 +1485,9 @@ Thanks for the course and good luck to students! \
 # Hello everyone!
 ## My name is [Anton](https://github.com/AntonGluschuk) and I want to join Great Kottans community and wish good luck for everyone!
 ![meme-cat](https://i.imgur.com/g3D5jNz.jpeg)
+
+***
+## Hi Guys! 
+I'm Ruslana. I don't have cat but I dream to have it & frontend job in near future =)))
+### Good luck & hugs!
+![Screenshot 2020-10-19 at 22 09 29](https://user-images.githubusercontent.com/47031282/96500594-cb779a80-1257-11eb-9689-79983121b6c3.png)
