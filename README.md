@@ -1505,3 +1505,11 @@ Thanks for the course and good luck to students!
 ![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
 
 ---
+
+# Yo, hello, kottans
+
+My name is [Danil](https://github.com/smillims).
+
+Good luck for everyone!!!
+
+![Murka](assets/images/my-love-cat.jpg)
