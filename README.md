@@ -1483,6 +1483,6 @@ Thanks for the course and good luck to students! \
 
 ### I think, he is cute too)
 
-![Cute cat](https://lh3.googleusercontent.com/proxy/mGzGM5j_5guQkSLdS0ppzRKPIs9qIgM1qsYsspGquPPrvUSk2TXXfYHltpLGWQJCpG8gel-FKDHB_jCOF0NEwcAuw75pDOQtoHb1s5olkzFpDVumaMALVe8jxcFTNpJqh-cP3W_AcA)
+![Cute cat](https://i.pinimg.com/564x/0c/0a/ee/0c0aeee2bfd9a89a27cd18caddaedf8e.jpg)
 
 ---
