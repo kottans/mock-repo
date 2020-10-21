@@ -1504,11 +1504,38 @@ Thanks for the course and good luck to students!
 
 ---
 
+
 ***
 ## Hi guys!
 ### My names is [Alex](https://github.com/WEremite)
 This is my cat
 ![my cat](assets/images/my_cat.jpg)
+
+---
+
+
+# Hello to everyone! :smiley_cat:
+My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
+**Good luck to everyone!**
+And meet my cat who saw some things in this world :D
+
+![Cat](assets/images/frustrating-tisha.jpg)
+
+---
+
+# Hello!
+
+> My name is [Viktoriia](https://github.com/BlueLamantine).
+> I am a ```kottan-student```. This [front-end course](https://github.com/kottans/frontend) is awesome! 
+> So...forward to knowledge!!! :rocket:
+![run](https://media.giphy.com/media/l41lTQNDIqDVn1KCc/giphy.gif)
+***
+
+# Hi folks!
+
+My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to be here.
+
+![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
 
 ---
 
