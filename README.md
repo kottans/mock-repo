@@ -1542,3 +1542,11 @@ My name is [Stas](https://github.com/Jigsaff)
 Good luck to everyone!
 
 ---
+
+## Hi guys!
+
+Thanks for the course. It`s awesome.
+
+All the best and good luck, everyone!
+
+![Cat](assets/images/cat-working-laptop.jpg)
