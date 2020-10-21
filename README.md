@@ -46,6 +46,12 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hi,
+## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
+
+[![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+
 # Hey folks!
 I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
 
