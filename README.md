@@ -1536,3 +1536,6 @@ My name is [Stas](https://github.com/Jigsaff)
 Good luck to everyone!
 
 ---
+
+## Hi guys!
+Thanks for such an amazing resource! My name is [Ivanna](https://github.com/Ivanna-Sivak):wave:  
