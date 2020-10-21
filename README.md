@@ -1514,9 +1514,27 @@ And meet my cat who saw some things in this world :D
 ![Cat](assets/images/frustrating-tisha.jpg)
 
 ---
+
 ## Hello, Kottans!
 My name is [Maryna](https://github.com/nallikaea) and I want to be really good in Front End Development. 
 **Thank to creators and good luck to all students!**
 And this is my cat Sergiy.
 [Sergiy](assets/images/Sergiy.jpg)
+
+---
+
+# Hello!
+
+> My name is [Viktoriia](https://github.com/BlueLamantine).
+> I am a ```kottan-student```. This [front-end course](https://github.com/kottans/frontend) is awesome! 
+> So...forward to knowledge!!! :rocket:
+![run](https://media.giphy.com/media/l41lTQNDIqDVn1KCc/giphy.gif)
+***
+
+# Hi folks!
+
+My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to be here.
+
+![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
+
 ---
