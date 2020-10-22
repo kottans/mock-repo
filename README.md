@@ -46,6 +46,12 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hi,
+## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
+
+[![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+
 # Hey folks!
 I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
 
@@ -1512,7 +1518,6 @@ Good luck for everyone!!!
 ![Murka](assets/images/my-love-cat.jpg)
 
 ---
-
 # Hello to everyone! :smiley_cat:
 My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
 **Good luck to everyone!**
@@ -1538,9 +1543,24 @@ My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to b
 ![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
 
 ---
-
 ## Hi there!
 My name is [Stas](https://github.com/Jigsaff)
 Good luck to everyone!
 
 ---
+## Hi guys!
+
+Thanks for the course. It`s awesome.
+
+All the best and good luck, everyone!
+
+![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+
+### Greetings kottans
+My name is Igor I glad to pass the course with you.
+Cheers, don't worry and be happy!
+
+---
+
