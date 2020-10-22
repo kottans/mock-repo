@@ -32,8 +32,7 @@ By the way, creating issues is fun too!
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
 [backend course](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
-or [git course](https://t.me/kottans_git) students chat
-with other to get fun from a good conversation.
+or [git course](https://t.me/kottans_git) group chats to have fun from chatting with other students.
 
 P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
@@ -46,6 +45,16 @@ P.S. Where all postings before March 2018 have gone to?
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ---
+
+# Hi,
+## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
+
+[![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+
+# Hey folks!
+I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
+
 
 # Hey everyone!
 
@@ -1453,6 +1462,99 @@ My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding
 ## Hi, my name is Myhailo!
 Thank you for the new course!
 
+## Hi Kottans!
+My name is [Evgenii](https://github.com/evgenii-del). I want to be a Full Stack web developer. \
+![cat-image](assets/images/cute_cat_kottans.jpg)
+
+***
+## Hi everyone!!
+### I'm Masha and this is my flufy friend
+We wish you a good studing :3
+![kitty](https://user-images.githubusercontent.com/69360739/96371379-2d59d680-116a-11eb-9e08-8d3b5fbec75f.jpg)
+
+---
+# Hi, Kottans!
+Thanks for the course and good luck to students! \
+![and-Cat](assets/images/andCat.png)
+
+***
+## Hello everyone!
+### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
+![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
+
+---
+
+# Meow, everyone!
+![Cat](https://i.imgur.com/MIOEI0u.jpg)
+
+***
+# Hello everyone!
+## My name is [Anton](https://github.com/AntonGluschuk) and I want to join Great Kottans community and wish good luck for everyone!
+![meme-cat](https://i.imgur.com/g3D5jNz.jpeg)
+
+---
+# Hi guys!
+## I am [Daniel](https://github.com/dragalur),glad to join Kottans!!
+![Cat](assets/images/danielCat.jpg)
+
+---
+## Hi everyone!
+My name is [Nataliia](https://github.com/infullbloom):wave:  
+Glad to join KOTTANS:cat:  
+I wish all of you happy coding!
+
+---
+# Hey, Kottans!
+Hey there :wave:  
+Thanks for the course and good luck to students!
+
+![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
+
+---
+
+# Hello to everyone! :smiley_cat:
+My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
+**Good luck to everyone!**
+And meet my cat who saw some things in this world :D
+
+![Cat](assets/images/frustrating-tisha.jpg)
+
+---
+
+# Hello!
+
+> My name is [Viktoriia](https://github.com/BlueLamantine).
+> I am a ```kottan-student```. This [front-end course](https://github.com/kottans/frontend) is awesome! 
+> So...forward to knowledge!!! :rocket:
+![run](https://media.giphy.com/media/l41lTQNDIqDVn1KCc/giphy.gif)
+***
+
+# Hi folks!
+
+My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to be here.
+
+![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
+
+---
+
+## Hi there!
+My name is [Stas](https://github.com/Jigsaff)
+Good luck to everyone!
+
+---
+
+## Hi guys!
+
+Thanks for the course. It`s awesome.
+
+All the best and good luck, everyone!
+
+![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+
 ### Greetings kottans
 My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
+
+---
