@@ -1517,7 +1517,7 @@ My name is [Danil](https://github.com/smillims).
 Good luck for everyone!!!
 ![Murka](assets/images/my-love-cat.jpg)
 
----
+
 # Hello to everyone! :smiley_cat:
 My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
 **Good luck to everyone!**
@@ -1550,7 +1550,7 @@ Good luck to everyone!
 ---
 ## Hi guys!
 
-Thanks for the course. It`s awesome.
+Thanks for the course. It's awesome.
 
 All the best and good luck, everyone!
 
@@ -1563,4 +1563,3 @@ My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
 
 ---
-
