@@ -1558,7 +1558,18 @@ My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
 
 ---
+
+
+## Hello everyone. I`m Nazar!
+
+### Have a nice day with this cute ***nyan cat***
+
+![nyan cat](https://i.pinimg.com/originals/b0/da/cd/b0dacd0bb277315b8582d2d0e07d62a8.gif)
+
+---
+
 # Hello `kottans` world!
 ![image](assets/images/cats_004.jpg)
+
 
 ---
