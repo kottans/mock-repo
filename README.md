@@ -1550,3 +1550,9 @@ Thanks for the course. It`s awesome.
 All the best and good luck, everyone!
 
 ![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+# Hello `kottans` world!
+![image](assets/images/cats_004.jpg)
+
+---
