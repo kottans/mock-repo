@@ -1550,3 +1550,11 @@ Thanks for the course. It`s awesome.
 All the best and good luck, everyone!
 
 ![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+
+### Greetings kottans
+My name is Igor I glad to pass the course with you.
+Cheers, don't worry and be happy!
+
+---
