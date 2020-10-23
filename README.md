@@ -1596,3 +1596,7 @@ Cheers, don't worry and be happy!
 # hello kjttans! good day or night to all of you!
 be healthy and happy :)
 ![kitty](https://klike.net/uploads/posts/2019-07/1564314090_3.jpg)
+
+### hello kottans!
+I like the cat.
+![Cat](assets/images/white_cat.jpg)
