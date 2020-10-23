@@ -1532,7 +1532,8 @@ My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to b
 ---
 
 # Hi there!
+
 My name is [Maria](https://github.com/leoignis).I'm so happy to be here!
-![cats](assets/images/cats.jpg)
+![cats](assets/images/cats.jpg).<br><br>
 
 ---
