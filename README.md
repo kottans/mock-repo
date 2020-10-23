@@ -1494,6 +1494,11 @@ Thanks for the course and good luck to students! \
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
 
+***
+## Hi Kottans! :)
+### Thank you for this opportunity to be part of so cool people. Wish happiness to everyone ;)
+[Illia](https://github.com/Nemooochka)
+
 ---
 
 # Meow, everyone!
@@ -1521,6 +1526,13 @@ Hey there :wave:
 Thanks for the course and good luck to students!
 
 ![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
+
+---
+
+# Yo, hello, kottans
+My name is [Danil](https://github.com/smillims).
+Good luck for everyone!!!
+![Murka](assets/images/my-love-cat.jpg)
 
 ---
 
@@ -1591,6 +1603,17 @@ Cheers, don't worry and be happy!
 # Hello `kottans` world!
 ![image](assets/images/cats_004.jpg)
 
+---
+
+# hello kjttans! good day or night to all of you!
+be healthy and happy :)
+![kitty](https://klike.net/uploads/posts/2019-07/1564314090_3.jpg)
+
+---
+
+### hello kottans!
+I like the cat.
+![Cat](assets/images/white_cat.jpg)
 
 ---
 
