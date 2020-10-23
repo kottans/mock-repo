@@ -1566,7 +1566,7 @@ Good luck to everyone!
 ---
 ## Hi guys!
 
-Thanks for the course. It's awesome.
+Thanks for the course. It`s awesome.
 
 All the best and good luck, everyone!
 
