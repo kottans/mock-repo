@@ -1550,3 +1550,13 @@ Thanks for the course. It`s awesome.
 All the best and good luck, everyone!
 
 ![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+
+## Hello, Kottans!
+
+My name is [Vlad](https://t.me/nakkipello).
+I`m from Lviv(Rivne).
+I'm looking for friends:)
+
+![This`s my Cat](assets/images/bengal_cat.jpg)
