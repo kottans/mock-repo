@@ -1558,3 +1558,11 @@ My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
 
 ---
+
+Hi guys! My name is [Sophia](https://github.com/SophiaPylypchuk). I'm super exited to join you!
+I am beginner in programming world! This is my first pull-request.
+
+![Cat](img/cat.png)
+
+Kottans, thank you for the course!
+----------
