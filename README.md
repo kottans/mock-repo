@@ -1578,9 +1578,7 @@ All the best and good luck, everyone!
 My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
 
-
 ---
-
 
 
 ## Hello everyone. I`m Nazar!
