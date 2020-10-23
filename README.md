@@ -1530,3 +1530,9 @@ My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to b
 ![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
 
 ---
+
+# Hi there!
+My name is [Maria](https://github.com/leoignis).I'm so happy to be here!
+![cats](assets/images/cats.jpg)
+
+---
