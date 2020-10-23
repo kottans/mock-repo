@@ -1536,6 +1536,15 @@ Good luck for everyone!!!
 
 ---
 
+# Hello to everyone! :smiley_cat:
+My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
+**Good luck to everyone!**
+And meet my cat who saw some things in this world :D
+
+![Cat](assets/images/frustrating-tisha.jpg)
+
+---
+
 ## Hello, Kottans!
 My name is [Maryna](https://github.com/nallikaea) and I want to be really good in Front End Development. 
 **Thank to creators and good luck to all students!**
