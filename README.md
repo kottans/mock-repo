@@ -1559,11 +1559,13 @@ My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to b
 ![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
 
 ---
+
 ## Hi there!
 My name is [Stas](https://github.com/Jigsaff)
 Good luck to everyone!
 
 ---
+
 ## Hi guys!
 
 Thanks for the course. It`s awesome.
