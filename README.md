@@ -1472,3 +1472,7 @@ Thanks for the course and good luck to students! \
 ## Hello everyone!
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
+
+***
+## Hi Kottans! :)
+### Thank you for this opportunity to be part of so cool people. Wish happiness to everyone ;) [Illia](https://github.com/Nemooochka)
