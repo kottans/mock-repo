@@ -1612,3 +1612,8 @@ be healthy and happy :)
 ### hello kottans!
 I like the cat.
 ![Cat](assets/images/white_cat.jpg)
+
+---
+## Hello `kottans`! My name is [Nina](https://github.com/NJul) and I am glad to welcome everyone on this incredible courses!
+
+![Cat](https://api.thecatapi.com/v1/images/search?format=src&size=small)
