@@ -46,6 +46,12 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hi,
+## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
+
+[![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+
 # Hey folks!
 I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
 
@@ -1382,6 +1388,18 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 ![kitty](https://i.pinimg.com/564x/b6/cc/bc/b6ccbc06f1c3d5a01f2cea66b76a4f62.jpg)
 
 ---
+
+
+# Hello there!
+
+
+My name is [Andriy](https://github.com/andrewklmn/) and I want to be a real Front End Developer.
+
+Here are so many different cats in this Readme.md. Of course, it is pretty much not so bad. But I want to put here something actually better.  Here it is:
+
+![mr Dyuka](https://raw.githubusercontent.com/andrewklmn/freecodecamp/master/images/dyuka.jpg)
+
+**Cats, beware!**
 # Hi mates :D
 ![Cat](gif/fat-kottan.gif)
 
@@ -1476,6 +1494,11 @@ Thanks for the course and good luck to students! \
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
 
+***
+## Hi Kottans! :)
+### Thank you for this opportunity to be part of so cool people. Wish happiness to everyone ;)
+[Illia](https://github.com/Nemooochka)
+
 ---
 
 # Meow, everyone!
@@ -1506,12 +1529,27 @@ Thanks for the course and good luck to students!
 
 ---
 
+# Yo, hello, kottans
+My name is [Danil](https://github.com/smillims).
+Good luck for everyone!!!
+![Murka](assets/images/my-love-cat.jpg)
+
+---
+
 # Hello to everyone! :smiley_cat:
 My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
 **Good luck to everyone!**
 And meet my cat who saw some things in this world :D
 
 ![Cat](assets/images/frustrating-tisha.jpg)
+
+---
+
+## Hello, Kottans!
+My name is [Maryna](https://github.com/nallikaea) and I want to be really good in Front End Development. 
+**Thank to creators and good luck to all students!**
+And this is my cat Sergiy.
+[Sergiy](assets/images/Sergiy.jpg)
 
 ---
 
@@ -1541,3 +1579,39 @@ Good luck to everyone!
 Thanks for such an amazing resource! My name is [Ivanna](https://github.com/Ivanna-Sivak):wave:  
 
 ---
+
+Thanks for the course. It`s awesome.
+
+All the best and good luck, everyone!
+
+![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+
+### Greetings kottans
+My name is Igor I glad to pass the course with you.
+Cheers, don't worry and be happy!
+
+---
+
+
+## Hello everyone. I`m Nazar!
+
+### Have a nice day with this cute ***nyan cat***
+
+![nyan cat](https://i.pinimg.com/originals/b0/da/cd/b0dacd0bb277315b8582d2d0e07d62a8.gif)
+
+---
+
+# Hello `kottans` world!
+![image](assets/images/cats_004.jpg)
+
+
+---
+# hello kjttans! good day or night to all of you!
+be healthy and happy :)
+![kitty](https://klike.net/uploads/posts/2019-07/1564314090_3.jpg)
+
+### hello kottans!
+I like the cat.
+![Cat](assets/images/white_cat.jpg)
