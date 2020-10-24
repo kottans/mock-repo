@@ -1624,3 +1624,8 @@ Glad to join and good luck, kottans!!!
 ![CatCat](assets/images/cat-Cat.jpg)
 
 ---
+# Hi kottans!
+My name is Alyona and I don't have a cat. So here's a random cat from the internet.
+Have a good day!
+![alt text](E:\FRONTEND\mock-repo\assets\images\catto.png)
+
