@@ -1618,7 +1618,6 @@ I like the cat.
 
 ![Cat](https://api.thecatapi.com/v1/images/search?format=src&size=small)
 
-
 ## Hi everyone!
 
 My name is [Helen](https://github.com/laneleka) and this is my cat Cat.
