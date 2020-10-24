@@ -1612,3 +1612,15 @@ be healthy and happy :)
 ### hello kottans!
 I like the cat.
 ![Cat](assets/images/white_cat.jpg)
+
+---
+
+## Hi everyone!
+
+My name is [Helen](https://github.com/laneleka) and this is my cat Cat.
+
+Glad to join and good luck, kottans!!!
+
+![CatCat](assets/images/cat-Cat.jpg)
+
+---
