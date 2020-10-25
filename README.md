@@ -1627,3 +1627,6 @@ Glad to join and good luck, kottans!!!
 ![CatCat](assets/images/cat-Cat.jpg)
 
 ---
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
+So excited and grateful to join the course!
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
