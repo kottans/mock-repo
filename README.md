@@ -1613,6 +1613,12 @@ be healthy and happy :)
 I like the cat.
 ![Cat](assets/images/white_cat.jpg)
 
+
+
+### Kottans is JS power!
+I like the sun and programming, and my cat.
+![Sun](assets/images/sunny.jpg)
+
 ---
 ## Hello `kottans`! My name is [Nina](https://github.com/NJul) and I am glad to welcome everyone on this incredible courses!
 
@@ -1626,8 +1632,14 @@ Glad to join and good luck, kottans!!!
 
 ![CatCat](assets/images/cat-Cat.jpg)
 
+
+## Hi there
+Come on, let me see what is happening here!
+![cat in glasses](https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
++
 ---
 ## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
 So excited and grateful to join the course!
 Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
 ![Cat](assets/images/caaat.jpg)
+
