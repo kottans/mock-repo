@@ -1612,3 +1612,7 @@ be healthy and happy :)
 ### hello kottans!
 I like the cat.
 ![Cat](assets/images/white_cat.jpg)
+
+### Kottans is JS power!
+I like the sun and programming, and my cat.
+![Sun](assets/images/sunny.jpg)
