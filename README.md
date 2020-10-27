@@ -1652,3 +1652,9 @@ It is not a frontend cat, but it is a cat too.
 So excited and grateful to join the course!  
 Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
 ![Cat](assets/images/caaat.jpg)
+
+# Hi kottans!
+Nice to meet you!
+Have a good day!
+![cat](https://i.imgur.com/g3D5jNz.jpeg)
+
