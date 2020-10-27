@@ -1638,4 +1638,9 @@ Come on, let me see what is happening here!
 ![cat in glasses](https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
 +
 ---
+# Hi kottans!
+My name is Alyona and I don't have a cat. So here's a random cat from the internet.
+Have a good day!
+![alt text](assets/images/catto.png)
+
 
