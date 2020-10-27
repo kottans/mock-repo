@@ -1663,3 +1663,9 @@ I wish you all to succeed in this course!
 [Portfolio](https://vladyslav-ganushkevych.netlify.app/)
 ![CAT](assets/images/PngItem_30125.png)
 
+---
+# Hi kottans!
+Nice to meet you!
+Have a good day!
+![cat](https://i.imgur.com/g3D5jNz.jpeg)
+
