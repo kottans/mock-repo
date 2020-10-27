@@ -1646,3 +1646,9 @@ Have a good day!
 ## Hi everyone
 It is not a frontend cat, but it is a cat too.
 ![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
+
+---
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
+So excited and grateful to join the course!
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
+![Cat](assets/images/caaat.jpg)
