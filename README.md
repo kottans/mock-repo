@@ -1649,6 +1649,6 @@ It is not a frontend cat, but it is a cat too.
 
 ---
 ## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
-So excited and grateful to join the course!
+So excited and grateful to join the course!  
 Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
 ![Cat](assets/images/caaat.jpg)
