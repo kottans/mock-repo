@@ -1643,7 +1643,18 @@ My name is Alyona and I don't have a cat. So here's a random cat from the intern
 Have a good day!
 ![alt text](assets/images/catto.png)
 
+## Hi everyone
+It is not a frontend cat, but it is a cat too.
+![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
+
+---
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
+So excited and grateful to join the course!  
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
+![Cat](assets/images/caaat.jpg)
+
 # Hi kottans!
 Nice to meet you!
 Have a good day!
 ![cat](https://i.imgur.com/g3D5jNz.jpeg)
+
