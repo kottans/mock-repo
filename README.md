@@ -1652,3 +1652,14 @@ It is not a frontend cat, but it is a cat too.
 So excited and grateful to join the course!  
 Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
 ![Cat](assets/images/caaat.jpg)
+
+---
+# Hi Kottans!
+## My name is Vlad 
+I wish you all to succeed in this course!
+:smile_cat:
+[Github](https://github.com/ganushkevychv)
+[LinkedIn](www.linkedin.com/in/vladyslav-ganushkevych)
+[Portfolio](https://vladyslav-ganushkevych.netlify.app/)
+![CAT](assets/images/PngItem_30125.png)
+
