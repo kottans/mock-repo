@@ -1585,6 +1585,16 @@ All the best and good luck, everyone!
 
 ---
 
+## Hello, Kottans!
+
+My name is [Vlad](https://t.me/nakkipello).
+I`m from Lviv(Rivne).
+I'm looking for friends:)
+
+![This`s my Cat](assets/images/bengal_cat.jpg)
+
+---
+
 ### Greetings kottans
 My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
