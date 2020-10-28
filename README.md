@@ -1700,4 +1700,11 @@ I'm very exciting to join the Kottans community :)
 
 Regards, [Dima](https://github.com/itro-dm)
 
+---
+# Hey everyone!
+
+I'm [Valeria](https://github.com/vakulinina/) and it's nice to be here ^^.  
+I see there is already one photo of my cat, but it can't be too much of him, right?  
+![blizzard-the-cat](http://joxi.ru/YmEY4PdHMLkjPm.png)
+
 
