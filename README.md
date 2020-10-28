@@ -45,17 +45,6 @@ P.S. Where all postings before March 2018 have gone to?
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ---
-
-#Hi there
-
-![flag](assets/images/ua_flag.png)
-
-I'm very exciting to join the Kottans community :)
-
-Regards, [Dima](https://github.com/itro-dm)
-
-
-
 # Hi,
 ## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
 
@@ -1668,14 +1657,14 @@ It is not a frontend cat, but it is a cat too.
 ![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
 
 ---
-## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
-So excited and grateful to join the course!  
-Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ!
+So excited and grateful to join the course!
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
 ![Cat](assets/images/caaat.jpg)
 
 ---
 # Hi Kottans!
-## My name is Vlad 
+## My name is Vlad
 I wish you all to succeed in this course!
 :smile_cat:
 [Github](https://github.com/ganushkevychv)
@@ -1688,4 +1677,12 @@ I wish you all to succeed in this course!
 Nice to meet you!
 Have a good day!
 ![cat](https://i.imgur.com/g3D5jNz.jpeg)
+
+---
+#Hi there
+
+I'm very exciting to join the Kottans community :)
+
+Regards, [Dima](https://github.com/itro-dm)
+
 
