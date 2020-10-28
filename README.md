@@ -1679,3 +1679,10 @@ Nice to meet you!
 Have a good day!
 ![cat](https://i.imgur.com/g3D5jNz.jpeg)
 
+---
+# Hi all!
+My name is [Dmitry](https://github.com/akulahere) and I'm glad to see you.  
+Here it is the photo of my cat:  
+![blizzard](assets/images/blizzard.png)
+
+
