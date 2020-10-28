@@ -1619,3 +1619,23 @@ be healthy and happy :)
 ### hello kottans!
 I like the cat.
 ![Cat](assets/images/white_cat.jpg)
+
+---
+## Hello `kottans`! My name is [Nina](https://github.com/NJul) and I am glad to welcome everyone on this incredible courses!
+
+![Cat](https://api.thecatapi.com/v1/images/search?format=src&size=small)
+
+## Hi everyone!
+
+My name is [Helen](https://github.com/laneleka) and this is my cat Cat.
+
+Glad to join and good luck, kottans!!!
+
+![CatCat](assets/images/cat-Cat.jpg)
+
+
+## Hi there
+Come on, let me see what is happening here!
+![cat in glasses](https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
++
+---
