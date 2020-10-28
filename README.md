@@ -1686,3 +1686,11 @@ Here it is the photo of my cat:
 ![blizzard](assets/images/blizzard.png)
 
 
+---
+# Hi there
+
+I'm very exciting to join the Kottans community :)
+
+Regards, [Dima](https://github.com/itro-dm)
+
+
