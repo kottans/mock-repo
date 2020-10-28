@@ -6,7 +6,7 @@ Hi,
 
 This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
 [backend](https://github.com/Kottans/backend),
-and [git](https://github.com/Kottans/git-course) courses.
+and [git](https://github.com/Kottans/git-course) courses. 
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
