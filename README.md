@@ -1635,7 +1635,7 @@ Come on, let me see what is happening here!
 
 ## Hi everyone!
 
-I'm glad I found ur course!
+I'm glad I found this course!
 ![cat](https://i.ytimg.com/vi/1Ne1hqOXKKI/maxresdefault.jpg)
 
 
