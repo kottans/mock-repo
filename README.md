@@ -1434,7 +1434,7 @@ nice to join such a wonderfull jorney!
 # Hello, Kottans! 
 
 I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
-![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg)
+![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg) 
 ---
 
 ## Hi, Kottans!
@@ -1658,7 +1658,7 @@ It is not a frontend cat, but it is a cat too.
 ![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
 
 ---
-## Hii ヾ(=ﾟ･ﾟ=)ﾉ!
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
 So excited and grateful to join the course!  
 Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
 ![Cat](assets/images/caaat.jpg)
@@ -1687,7 +1687,7 @@ Here it is the photo of my cat:
 
 
 ---
-#Hi there
+# Hi there
 
 I'm very exciting to join the Kottans community :)
 
