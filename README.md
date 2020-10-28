@@ -1595,6 +1595,16 @@ All the best and good luck, everyone!
 
 ---
 
+## Hello, Kottans!
+
+My name is [Vlad](https://t.me/nakkipello).
+I`m from Lviv(Rivne).
+I'm looking for friends:)
+
+![This`s my Cat](assets/images/bengal_cat.jpg)
+
+---
+
 ### Greetings kottans
 My name is Igor I glad to pass the course with you.
 Cheers, don't worry and be happy!
@@ -1623,7 +1633,16 @@ be healthy and happy :)
 I like the cat.
 ![Cat](assets/images/white_cat.jpg)
 
+
+
+### Kottans is JS power!
+I like the sun and programming, and my cat.
+![Sun](assets/images/sunny.jpg)
+
 ---
+## Hello `kottans`! My name is [Nina](https://github.com/NJul) and I am glad to welcome everyone on this incredible courses!
+
+![Cat](https://api.thecatapi.com/v1/images/search?format=src&size=small)
 
 ## Hi everyone!
 
@@ -1633,4 +1652,40 @@ Glad to join and good luck, kottans!!!
 
 ![CatCat](assets/images/cat-Cat.jpg)
 
+
+## Hi there
+Come on, let me see what is happening here!
+![cat in glasses](https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
++
 ---
+# Hi kottans!
+My name is Alyona and I don't have a cat. So here's a random cat from the internet.
+Have a good day!
+![alt text](assets/images/catto.png)
+
+## Hi everyone
+It is not a frontend cat, but it is a cat too.
+![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
+
+---
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
+So excited and grateful to join the course!  
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
+![Cat](assets/images/caaat.jpg)
+
+---
+# Hi Kottans!
+## My name is Vlad 
+I wish you all to succeed in this course!
+:smile_cat:
+[Github](https://github.com/ganushkevychv)
+[LinkedIn](www.linkedin.com/in/vladyslav-ganushkevych)
+[Portfolio](https://vladyslav-ganushkevych.netlify.app/)
+![CAT](assets/images/PngItem_30125.png)
+
+---
+# Hi kottans!
+Nice to meet you!
+Have a good day!
+![cat](https://i.imgur.com/g3D5jNz.jpeg)
+
