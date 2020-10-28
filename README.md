@@ -1601,6 +1601,13 @@ Cheers, don't worry and be happy!
 
 ---
 
+Hi guys! My name is [Sophia](https://github.com/SophiaPylypchuk). I'm super exited to join you!
+I am beginner in programming world! This is my first pull-request.
+
+![Cat](assets/images/cute_cat_kottans.jpg)
+
+Kottans, thank you for the course!
+----------
 
 ## Hello everyone. I`m Nazar!
 
