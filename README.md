@@ -1589,6 +1589,13 @@ Cheers, don't worry and be happy!
 
 ---
 
+Hi guys! My name is [Sophia](https://github.com/SophiaPylypchuk). I'm super exited to join you!
+I am beginner in programming world! This is my first pull-request.
+
+![Cat](assets/images/cute_cat_kottans.jpg)
+
+Kottans, thank you for the course!
+----------
 
 ## Hello everyone. I`m Nazar!
 
@@ -1667,6 +1674,7 @@ Nice to meet you!
 Have a good day!
 ![cat](https://i.imgur.com/g3D5jNz.jpeg)
 
+
 # Hi Guys !
 My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
 
@@ -1677,4 +1685,27 @@ If you’ve questions about the tasks or something you can always contact me at 
 ## You’re welcome !
 Version Control with GIT - Completed !
 # Let’s start to next step!
+=======
+---
+# Hi all!
+My name is [Dmitry](https://github.com/akulahere) and I'm glad to see you.  
+Here it is the photo of my cat:  
+![blizzard](assets/images/blizzard.png)
+
+
+---
+# Hi there
+
+I'm very exciting to join the Kottans community :)
+
+Regards, [Dima](https://github.com/itro-dm)
+
+---
+# Hey everyone!
+
+I'm [Valeria](https://github.com/vakulinina/) and it's nice to be here ^^.  
+I see there is already one photo of my cat, but it can't be too much of him, right?  
+![blizzard-the-cat](http://joxi.ru/YmEY4PdHMLkjPm.png)
+
+
 
