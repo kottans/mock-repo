@@ -1494,14 +1494,12 @@ Thanks for the course and good luck to students! \
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
 
-
 ***
 ## Hi Kottans! :)
 ### Thank you for this opportunity to be part of so cool people. Wish happiness to everyone ;)
 [Illia](https://github.com/Nemooochka)
 
 ---
-
 
 # Meow, everyone!
 ![Cat](https://i.imgur.com/MIOEI0u.jpg)
@@ -1550,7 +1548,6 @@ Good luck for everyone!!!
 
 ---
 
-
 # Hello to everyone! :smiley_cat:
 My name is [Olga](https://github.com/ORybka) and I am very glad to join this community :grin:
 **Good luck to everyone!**
@@ -1583,7 +1580,6 @@ My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to b
 ![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
 
 ---
-
 
 ## Hi there!
 My name is [Stas](https://github.com/Jigsaff)
