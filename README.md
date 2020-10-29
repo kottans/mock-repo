@@ -1703,7 +1703,7 @@ Regards, [Dima](https://github.com/itro-dm)
 ---
 # Hi, brothers in arms!
 
-I`mg glad to join this community and stsrt this trip!!! 
+I`m glad to join this community and start this trip!!! 
 It will be fun!!!
 Catbird. Is it fun?
 ![Catbird](assets/images/jardinier.de.ramsay.frba.2g.jpg "Nothern Catbird")
