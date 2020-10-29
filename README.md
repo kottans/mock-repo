@@ -46,6 +46,12 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 
 ---
 
+# Hi,
+## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
+
+[![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+
 # Hey folks!
 I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
 
@@ -1382,6 +1388,18 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 ![kitty](https://i.pinimg.com/564x/b6/cc/bc/b6ccbc06f1c3d5a01f2cea66b76a4f62.jpg)
 
 ---
+
+
+# Hello there!
+
+
+My name is [Andriy](https://github.com/andrewklmn/) and I want to be a real Front End Developer.
+
+Here are so many different cats in this Readme.md. Of course, it is pretty much not so bad. But I want to put here something actually better.  Here it is:
+
+![mr Dyuka](https://raw.githubusercontent.com/andrewklmn/freecodecamp/master/images/dyuka.jpg)
+
+**Cats, beware!**
 # Hi mates :D
 ![Cat](gif/fat-kottan.gif)
 
@@ -1476,6 +1494,15 @@ Thanks for the course and good luck to students! \
 ### I'm [Vlad](https://github.com/MelmQuty) and I didn't find any typo in ur README(maybe because it's perfect:rocket:) but I'm gonna show your my cat.He is a little impudent.:octocat:
 ![cat](https://raw.githubusercontent.com/MelmQuty/cat/master/cat.jpg)
 
+
+***
+## Hi Kottans! :)
+### Thank you for this opportunity to be part of so cool people. Wish happiness to everyone ;)
+[Illia](https://github.com/Nemooochka)
+
+---
+
+
 # Meow, everyone!
 ![Cat](https://i.imgur.com/MIOEI0u.jpg)
 
@@ -1505,11 +1532,21 @@ Thanks for the course and good luck to students!
 ---
 
 
+
 ***
 ## Hi guys!
 ### My names is [Alex](https://github.com/WEremite)
 This is my cat
 ![my cat](assets/images/my_cat.jpg)
+
+---
+
+
+
+# Yo, hello, kottans
+My name is [Danil](https://github.com/smillims).
+Good luck for everyone!!!
+![Murka](assets/images/my-love-cat.jpg)
 
 ---
 
@@ -1520,6 +1557,14 @@ My name is [Olga](https://github.com/ORybka) and I am very glad to join this com
 And meet my cat who saw some things in this world :D
 
 ![Cat](assets/images/frustrating-tisha.jpg)
+
+---
+
+## Hello, Kottans!
+My name is [Maryna](https://github.com/nallikaea) and I want to be really good in Front End Development. 
+**Thank to creators and good luck to all students!**
+And this is my cat Sergiy.
+[Sergiy](assets/images/Sergiy.jpg)
 
 ---
 
@@ -1538,4 +1583,153 @@ My name is [Yakiv](https://github.com/Iakow) and I am a future kottan. Glad to b
 ![geoglyph-kottan](https://ichef.bbci.co.uk/news/800/cpsprodpb/88C8/production/_114961053_063859702-1.jpg)
 
 ---
+
+
+## Hi there!
+My name is [Stas](https://github.com/Jigsaff)
+Good luck to everyone!
+
+---
+
+## Hi guys!
+
+Thanks for the course. It`s awesome.
+
+All the best and good luck, everyone!
+
+![Cat](assets/images/cat-working-laptop.jpg)
+
+---
+
+## Hello, Kottans!
+
+My name is [Vlad](https://t.me/nakkipello).
+I`m from Lviv(Rivne).
+I'm looking for friends:)
+
+![This`s my Cat](assets/images/bengal_cat.jpg)
+
+---
+
+### Greetings kottans
+My name is Igor I glad to pass the course with you.
+Cheers, don't worry and be happy!
+
+---
+
+Hi guys! My name is [Sophia](https://github.com/SophiaPylypchuk). I'm super exited to join you!
+I am beginner in programming world! This is my first pull-request.
+
+![Cat](assets/images/cute_cat_kottans.jpg)
+
+Kottans, thank you for the course!
+----------
+
+## Hello everyone. I`m Nazar!
+
+### Have a nice day with this cute ***nyan cat***
+
+![nyan cat](https://i.pinimg.com/originals/b0/da/cd/b0dacd0bb277315b8582d2d0e07d62a8.gif)
+
+---
+
+# Hello `kottans` world!
+![image](assets/images/cats_004.jpg)
+
+
+---
+# hello kjttans! good day or night to all of you!
+be healthy and happy :)
+![kitty](https://klike.net/uploads/posts/2019-07/1564314090_3.jpg)
+
+### hello kottans!
+I like the cat.
+![Cat](assets/images/white_cat.jpg)
+
+
+
+### Kottans is JS power!
+I like the sun and programming, and my cat.
+![Sun](assets/images/sunny.jpg)
+
+---
+## Hello `kottans`! My name is [Nina](https://github.com/NJul) and I am glad to welcome everyone on this incredible courses!
+
+![Cat](https://api.thecatapi.com/v1/images/search?format=src&size=small)
+
+## Hi everyone!
+
+My name is [Helen](https://github.com/laneleka) and this is my cat Cat.
+
+Glad to join and good luck, kottans!!!
+
+![CatCat](assets/images/cat-Cat.jpg)
+
+
+## Hi there
+Come on, let me see what is happening here!
+![cat in glasses](https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
++
+---
+# Hi kottans!
+My name is Alyona and I don't have a cat. So here's a random cat from the internet.
+Have a good day!
+![alt text](assets/images/catto.png)
+
+## Hi everyone
+It is not a frontend cat, but it is a cat too.
+![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
+
+---
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
+So excited and grateful to join the course!  
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
+![Cat](assets/images/caaat.jpg)
+
+---
+# Hi Kottans!
+## My name is Vlad 
+I wish you all to succeed in this course!
+:smile_cat:
+[Github](https://github.com/ganushkevychv)
+[LinkedIn](www.linkedin.com/in/vladyslav-ganushkevych)
+[Portfolio](https://vladyslav-ganushkevych.netlify.app/)
+![CAT](assets/images/PngItem_30125.png)
+
+---
+# Hi kottans!
+Nice to meet you!
+Have a good day!
+![cat](https://i.imgur.com/g3D5jNz.jpeg)
+
+---
+# Hi all!
+My name is [Dmitry](https://github.com/akulahere) and I'm glad to see you.  
+Here it is the photo of my cat:  
+![blizzard](assets/images/blizzard.png)
+
+
+---
+# Hi there
+
+I'm very exciting to join the Kottans community :)
+
+Regards, [Dima](https://github.com/itro-dm)
+
+---
+# Hi, brothers in arms!
+
+I`m glad to join this community and start this trip!!! 
+It will be fun!!!
+Catbird. Is it fun?
+![Catbird](assets/images/jardinier.de.ramsay.frba.2g.jpg "Nothern Catbird")
+[Alexey](https://github.com/Roophee)
+
+---
+# Hey everyone!
+
+I'm [Valeria](https://github.com/vakulinina/) and it's nice to be here ^^.  
+I see there is already one photo of my cat, but it can't be too much of him, right?  
+![blizzard-the-cat](http://joxi.ru/YmEY4PdHMLkjPm.png)
+
 
