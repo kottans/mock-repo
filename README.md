@@ -1709,3 +1709,11 @@ Catbird. Is it fun?
 ![Catbird](assets/images/jardinier.de.ramsay.frba.2g.jpg "Nothern Catbird")
 [Alexey](https://github.com/Roophee)
 
+---
+# Hey everyone!
+
+I'm [Valeria](https://github.com/vakulinina/) and it's nice to be here ^^.  
+I see there is already one photo of my cat, but it can't be too much of him, right?  
+![blizzard-the-cat](http://joxi.ru/YmEY4PdHMLkjPm.png)
+
+
