@@ -1529,6 +1529,18 @@ Thanks for the course and good luck to students!
 
 ---
 
+
+
+***
+## Hi guys!
+### My names is [Alex](https://github.com/WEremite)
+This is my cat
+![my cat](assets/images/my_cat.jpg)
+
+---
+
+
+
 # Yo, hello, kottans
 My name is [Danil](https://github.com/smillims).
 Good luck for everyone!!!
