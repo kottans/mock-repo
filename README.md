@@ -1701,6 +1701,15 @@ I'm very exciting to join the Kottans community :)
 Regards, [Dima](https://github.com/itro-dm)
 
 ---
+# Hi, brothers in arms!
+
+I`m glad to join this community and start this trip!!! 
+It will be fun!!!
+Catbird. Is it fun?
+![Catbird](assets/images/jardinier.de.ramsay.frba.2g.jpg "Nothern Catbird")
+[Alexey](https://github.com/Roophee)
+
+---
 # Hey everyone!
 
 I'm [Valeria](https://github.com/vakulinina/) and it's nice to be here ^^.  
