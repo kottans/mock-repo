@@ -1674,18 +1674,6 @@ Nice to meet you!
 Have a good day!
 ![cat](https://i.imgur.com/g3D5jNz.jpeg)
 
-
-# Hi Guys !
-My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
-
-![richard](gif/richard.jpg "Richard")
-
-If you’ve questions about the tasks or something you can always contact me at :
-# [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
-## You’re welcome !
-Version Control with GIT - Completed !
-# Let’s start to next step!
-
 ---
 # Hi all!
 My name is [Dmitry](https://github.com/akulahere) and I'm glad to see you.
@@ -1706,3 +1694,15 @@ Regards, [Dima](https://github.com/itro-dm)
 I'm [Valeria](https://github.com/vakulinina/) and it's nice to be here ^^.
 I see there is already one photo of my cat, but it can't be too much of him, right?
 ![blizzard-the-cat](http://joxi.ru/YmEY4PdHMLkjPm.png)
+
+---
+# Hi Guys !
+My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
+
+![richard](gif/richard.jpg "Richard")
+
+If you’ve questions about the tasks or something you can always contact me at :
+# [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
+## You’re welcome !
+Version Control with GIT - Completed !
+# Let’s start to next step!
