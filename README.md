@@ -1666,6 +1666,14 @@ Glad to join and good luck, kottans!!!
 Come on, let me see what is happening here!
 ![cat in glasses](https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif)
 +
+
+
+## Hi everyone!
+
+I'm glad I found this course!
+![cat](https://i.ytimg.com/vi/1Ne1hqOXKKI/maxresdefault.jpg)
+
+
 ---
 # Hi kottans!
 My name is Alyona and I don't have a cat. So here's a random cat from the internet.
@@ -1733,8 +1741,22 @@ I see there is already one photo of my cat, but it can't be too much of him, rig
 I'm [Evgeniy](https://github.com/Evgeniy241984)! 
 Glad to join!
 
+<<<<<<< HEAD
 _________________________________________________
 
 # Hi, everyone :)
 I’m [Max](https://github.com/phpslonuk/kottans-frontend)
 ![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
+=======
+---
+# Hello!
+I'm [Alyona](https://github.com/askryp).
+
+---
+# Hello everybody!
+I'm [Serge](https://github.com/sergesd). It's really nice to get new and important knowledge in such a nice format and see a lot of progress from everybody on the Telegram channel. It's inspiring!
+![Cat](assets/images/CatFromLviv.jpg)
+
+## Hi! I'm Sergey, and here is Shakespeare, he's very british :)
+![cat-image](assets/images/shakespeare.jpg)
+>>>>>>> master
