@@ -1736,3 +1736,8 @@ Glad to join!
 ---
 # Hello!
 I'm [Alyona](https://github.com/askryp).
+
+---
+# Hello everybody!
+I'm [Serge](https://github.com/sergesd). It's really nice to get new and important knowledge in such a nice format and see a lot of progress from everybody on the Telegram channel. It's inspiring!
+![Cat](assets/images/CatFromLviv.jpg)
