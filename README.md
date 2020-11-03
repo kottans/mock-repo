@@ -1741,13 +1741,6 @@ I see there is already one photo of my cat, but it can't be too much of him, rig
 I'm [Evgeniy](https://github.com/Evgeniy241984)! 
 Glad to join!
 
-<<<<<<< HEAD
-_________________________________________________
-
-# Hi, everyone :)
-I’m [Max](https://github.com/phpslonuk/kottans-frontend)
-![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
-=======
 ---
 # Hello!
 I'm [Alyona](https://github.com/askryp).
@@ -1759,4 +1752,7 @@ I'm [Serge](https://github.com/sergesd). It's really nice to get new and importa
 
 ## Hi! I'm Sergey, and here is Shakespeare, he's very british :)
 ![cat-image](assets/images/shakespeare.jpg)
->>>>>>> master
+
+# Hi, everyone :)
+I’m [Max](https://github.com/phpslonuk/kottans-frontend)
+![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
