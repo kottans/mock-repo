@@ -1752,3 +1752,6 @@ I'm [Serge](https://github.com/sergesd). It's really nice to get new and importa
 
 ## Hi! I'm Sergey, and here is Shakespeare, he's very british :)
 ![cat-image](assets/images/shakespeare.jpg)
+
+## Hi! I am Vita !
+![Cat](assets/images/caaat.jpg)
