@@ -1765,4 +1765,4 @@ and taught new useful commands.
 
 Here is my beloved kitten named Mars:
 
-![Mars kitten](https://ibb.co/x1jnxgP)
+![Mars kitten](https://i.ibb.co/fkp3jNB/Mars.jpg)
