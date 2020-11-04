@@ -80,6 +80,11 @@ My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat
 
 Greet everyone on this incredible cource!!!
 
+## Hi, everyone! I'm glad to be here)
+[Me](https://github.com/Lu-sure)  :red_haired_woman:
+And here is my ~~cat~~ dog Easy! 
+![Photo of fox terrier](gif/my_fox_terrier.jpg) 
+
 Hello, kottans! :smile_cat:  
 Come on to my [GitHub](https://github.com/dankor1498)
 
