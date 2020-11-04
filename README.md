@@ -1773,3 +1773,5 @@ Here is my beloved kitten named Mars:
 ![Mars kitten](https://i.ibb.co/fkp3jNB/Mars.jpg)
 # Hello!
 I'm [Galina](https://github.com/galinaborisenko) and this is typical Dutch kottan![Dikkie-Dik](assets/images/Dikkie-Dik.jpg)
+
+## Hi there, have a nice day :3
