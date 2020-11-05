@@ -155,6 +155,9 @@ All stuff is new for me but very **useful**!
 
 # Hi :)
 Productive autumn for everyone!
+^ It is my previous greeting when I tried back-end courses.
+I was surprised to see, that my greeting was included in Article Code Vault.
+So, hello again.
 
 # Hi!
 My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study this course with you.
