@@ -32,8 +32,7 @@ By the way, creating issues is fun too!
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
 [backend course](https://t.me/joinchat/Dqrdixe1c2K9bXUFBzNWtg)
-or [git course](https://t.me/kottans_git) students chat
-with other to get fun from a good conversation.
+or [git course](https://t.me/kottans_git) group chats to have fun from chatting with other students.
 
 P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
@@ -46,6 +45,32 @@ P.S. Where all postings before March 2018 have gone to?
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
 
 ---
+
+# Hi,
+## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
+
+[![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+
+# Hey folks!
+I'm [Max](https://github.com/maxpetruk) and this is Greyjoy, the kitten I'm hoping to adopt soon :smile:![my_kitten](gif/my_kitten.jpg)
+
+
+# Hey everyone!
+
+I’m Alex and I’m excited to join the community. I have a background as a journalist/price reporter in commodity markets (wheat) and finances. Will be happy to share knowledge on those topics, if someone is interested in them.
+
+A frontend is new for me, but do have some python skills. So, at least I can try to help if something:)
+
+The fastest way to reach me is a [Telegram](https://t.me/AlexBukha)
+
+Anyways, happy to join and wish you all luck!
+
+PS. Check the Kottans in wheeeeeaaatt.
+
+![Cat in Wheat](https://github.com/WheatMan999/kottans-frontend/blob/main/random_imgs/cat_in_wheat.jpg?raw=true)
+
+
 
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
@@ -1363,6 +1388,18 @@ My name is [Kostya](https://github.com/hattorihanz0/) and I am so excited to be 
 ![kitty](https://i.pinimg.com/564x/b6/cc/bc/b6ccbc06f1c3d5a01f2cea66b76a4f62.jpg)
 
 ---
+
+
+# Hello there!
+
+
+My name is [Andriy](https://github.com/andrewklmn/) and I want to be a real Front End Developer.
+
+Here are so many different cats in this Readme.md. Of course, it is pretty much not so bad. But I want to put here something actually better.  Here it is:
+
+![mr Dyuka](https://raw.githubusercontent.com/andrewklmn/freecodecamp/master/images/dyuka.jpg)
+
+**Cats, beware!**
 # Hi mates :D
 ![Cat](gif/fat-kottan.gif)
 
@@ -1378,6 +1415,16 @@ I am sure it will be an awesome journey!
 1st time working via command line, [Vasiliy](https://github.com/Vas-P) =)
 here's a potato ![Potato](https://blog.printsome.com/wp-content/uploads/potato-printing.jpg)
 
+## Hello    ^_^ 's
+
+I'm really excited to join your cool and friendly community!
+Looking forward to study and collaborate with other students / mentors.
+
+Do not hesitate to reach me if you need any kind of help: [krylenger](https://github.com/krylenger/)
+Have a good day ahead!
+
+![trueProgrammer](https://github.com/krylenger/MyPersonalBookshelf/blob/master/cat.png?raw=true)
+
 ---
 # Hi guys!
 nice to join such a wonderfull jorney!
@@ -1389,6 +1436,10 @@ nice to join such a wonderfull jorney!
 I`m *[Hanna](https://github.com/HannaSyn)*, and I am really excited to join community! :smiling_face_with_three_hearts:
 ![kitten](https://slm-assets.secondlife.com/assets/16934237/view_large/animals_05.jpg)
 ---
+
+## Hi, Kottans!
+I'm Kyrylo, I have always dreamed of programming and this a great opportunity for me :)
+![Cat in the glasses](https://f3.upet.com/o_XSbhGBwd1G_1.jpg)
 
 ## What's up Kottans!
 My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
