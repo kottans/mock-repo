@@ -84,10 +84,10 @@ Hello, kottans! :smile_cat:
 =======
 ## Hi, everyone! I'm glad to be here)
 [Me](https://github.com/Lu-sure)  :red_haired_woman:
-And here is my ~~cat~~ dog Easy! 
-![Photo of fox terrier](gif/my_fox_terrier.jpg) 
+And here is my ~~cat~~ dog Easy!
+![Photo of fox terrier](gif/my_fox_terrier.jpg)
 
-Hello, kottans! :smile_cat:  
+Hello, kottans! :smile_cat:
 Come on to my [GitHub](https://github.com/dankor1498)
 
 ## Hello to you all!
@@ -1473,12 +1473,12 @@ I wish you all success!
 
 ![kottan](gif/cat-headshot.gif)
 
-## Hi! 
+## Hi!
 My name is [Nastya](https://github.com/AsyaYeromina) Happy to be the part of such a cool comunity.
 **YOU ARE SO COOL, KOTTANS!!!**
 ![cat-box](https://i.pinimg.com/564x/b5/1e/1b/b51e1b639edc459ac49b574ed69367ae.jpg)
 
-## Hello ALL! 
+## Hello ALL!
 My name is [Lora](https://github.com/loranazarenko) I'm so exciting about coding with KOTTANS!
 ![cat-kottans](https://kote-life.ru/wp-content/uploads/2017/10/razmer-kotenka-mejn-kuna.jpg)
 
@@ -1528,13 +1528,13 @@ Thanks for the course and good luck to students! \
 
 ---
 ## Hi everyone!
-My name is [Nataliia](https://github.com/infullbloom):wave:  
-Glad to join KOTTANS:cat:  
+My name is [Nataliia](https://github.com/infullbloom):wave:
+Glad to join KOTTANS:cat:
 I wish all of you happy coding!
 
 ---
 # Hey, Kottans!
-Hey there :wave:  
+Hey there :wave:
 Thanks for the course and good luck to students!
 
 ![Cat](assets/images/i-should-get-a-front-end-loader.jpg)
@@ -1570,7 +1570,7 @@ And meet my cat who saw some things in this world :D
 ---
 
 ## Hello, Kottans!
-My name is [Maryna](https://github.com/nallikaea) and I want to be really good in Front End Development. 
+My name is [Maryna](https://github.com/nallikaea) and I want to be really good in Front End Development.
 **Thank to creators and good luck to all students!**
 And this is my cat Sergiy.
 [Sergiy](assets/images/Sergiy.jpg)
@@ -1580,7 +1580,7 @@ And this is my cat Sergiy.
 # Hello!
 
 > My name is [Viktoriia](https://github.com/BlueLamantine).
-> I am a ```kottan-student```. This [front-end course](https://github.com/kottans/frontend) is awesome! 
+> I am a ```kottan-student```. This [front-end course](https://github.com/kottans/frontend) is awesome!
 > So...forward to knowledge!!! :rocket:
 ![run](https://media.giphy.com/media/l41lTQNDIqDVn1KCc/giphy.gif)
 ***
@@ -1697,14 +1697,14 @@ It is not a frontend cat, but it is a cat too.
 ![Android cat](https://trashbox.ru/files/628671_bf2f5f/0.png)
 
 ---
-## Hii ヾ(=ﾟ･ﾟ=)ﾉ! 
-So excited and grateful to join the course!  
-Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).  
+## Hii ヾ(=ﾟ･ﾟ=)ﾉ!
+So excited and grateful to join the course!
+Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
 ![Cat](assets/images/caaat.jpg)
 
 ---
 # Hi Kottans!
-## My name is Vlad 
+## My name is Vlad
 I wish you all to succeed in this course!
 :smile_cat:
 [Github](https://github.com/ganushkevychv)
@@ -1720,8 +1720,8 @@ Have a good day!
 
 ---
 # Hi all!
-My name is [Dmitry](https://github.com/akulahere) and I'm glad to see you.  
-Here it is the photo of my cat:  
+My name is [Dmitry](https://github.com/akulahere) and I'm glad to see you.
+Here it is the photo of my cat:
 ![blizzard](assets/images/blizzard.png)
 
 
@@ -1735,7 +1735,7 @@ Regards, [Dima](https://github.com/itro-dm)
 ---
 # Hi, brothers in arms!
 
-I`m glad to join this community and start this trip!!! 
+I`m glad to join this community and start this trip!!!
 It will be fun!!!
 Catbird. Is it fun?
 ![Catbird](assets/images/jardinier.de.ramsay.frba.2g.jpg "Nothern Catbird")
@@ -1745,8 +1745,8 @@ Catbird. Is it fun?
 # Hey everyone!
 
 
-# Hi! 
-I'm [Evgeniy](https://github.com/Evgeniy241984)! 
+# Hi!
+I'm [Evgeniy](https://github.com/Evgeniy241984)!
 Glad to join!
 
 ---
@@ -1779,10 +1779,11 @@ I'm [Galina](https://github.com/galinaborisenko) and this is typical Dutch kotta
 
 ## Hi there, have a nice day :3
 
-# Hi Guys ! My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;) 
+# Hi Guys ! My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
 ![richard](gif/richard.jpg "Richard")
 If you’ve questions about the tasks or something you can always contact me at :
 # [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
 ## You’re welcome !
 Version Control with GIT - Completed !
 # Let’s start to next step!
+
