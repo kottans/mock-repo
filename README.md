@@ -1788,3 +1788,6 @@ I really want to do everything before December. Good luck to all!
 P.S that's Riziy and he help me study ;)
 
 ![Riziy kitten](assets/images/riziy-vcheryasova.jpg)
+
+# Hi everyone! :+1:
+[!cat](gif/kitty2.gif)
