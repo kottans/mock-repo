@@ -1778,3 +1778,13 @@ Here is my beloved kitten named Mars:
 I'm [Galina](https://github.com/galinaborisenko) and this is typical Dutch kottan![Dikkie-Dik](assets/images/Dikkie-Dik.jpg)
 
 ## Hi there, have a nice day :3
+
+---
+
+## Hello kottans!
+I'm [Viktoria](https://github.com/DarlaMoonlight). I am very happy to participate in this course. I have been observing kottans since 2018, but only now the situation has allowed me to participate in this wonderful project. 
+I really want to do everything before December. Good luck to all!
+
+P.S that's Riziy and he help me study ;)
+
+![Riziy kitten](assets/images/riziy-vcheryasova.jpg)
