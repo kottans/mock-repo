@@ -1799,3 +1799,10 @@ P.S that's Riziy and he help me study ;)
 
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
+
+---
+
+## Hello everyone, have a nice day and successful training!
+[Cat](https://undark.org/wp-content/uploads/2020/02/GettyImages-1199242002-1-scaled.jpg)
+
+---
