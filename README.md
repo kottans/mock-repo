@@ -964,6 +964,13 @@ Good luck everyone.
 
 ![Hero cat](gif/hero-cat.jpg)
 
+
+## Hello everyone!!
+! am Victoria and I'm very glad to join the Kottans community
+
+This is my lovely cat Adel(gif/lovely_Adel.JPG)
+
+
 ## Hello everybody!
 
 I'm Mirlan and very happy to be here with all of you!
