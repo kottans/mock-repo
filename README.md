@@ -1803,6 +1803,6 @@ P.S that's Riziy and he help me study ;)
 ---
 
 ## Hello everyone, have a nice day and successful training!
-[Cat](https://undark.org/wp-content/uploads/2020/02/GettyImages-1199242002-1-scaled.jpg)
+![Cat](https://undark.org/wp-content/uploads/2020/02/GettyImages-1199242002-1-scaled.jpg)
 
 ---
