@@ -80,11 +80,6 @@ My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat
 
 Greet everyone on this incredible cource!!!
 
-## Hi, everyone! I'm glad to be here)
-[Me](https://github.com/Lu-sure)  :red_haired_woman:
-And here is my ~~cat~~ dog Easy! 
-![Photo of fox terrier](gif/my_fox_terrier.jpg) 
-
 Hello, kottans! :smile_cat:  
 Come on to my [GitHub](https://github.com/dankor1498)
 
@@ -1761,3 +1756,8 @@ I'm [Serge](https://github.com/sergesd). It's really nice to get new and importa
 # Hi, everyone :)
 I’m [Max](https://github.com/phpslonuk/kottans-frontend)
 ![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
+
+## Hi, everyone! I'm glad to be here)
+[Me](https://github.com/Lu-sure)  :red_haired_woman:
+And here is my ~~cat~~ dog Easy! 
+![Photo of fox terrier](gif/my_fox_terrier.jpg) 
