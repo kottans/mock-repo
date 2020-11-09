@@ -23,11 +23,11 @@ By the way, creating issues is fun too!
 ![Screenshot](gif/jump.gif)
 
 **NB!**
- - **Your pull-request may not be reviewed very quickly, please have patience.**
- - **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
-   **posting a message `#help_wanted` + link to your pull request**
-   **( e.g. https://github.com/kottans/mock-repo/pull/145 )**
-   **in a chat of the course you're taking.**
+- **Your pull-request may not be reviewed very quickly, please have patience.**
+- **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
+  **posting a message `#help_wanted` + link to your pull request**
+  **( e.g. https://github.com/kottans/mock-repo/pull/145 )**
+  **in a chat of the course you're taking.**
 
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
@@ -43,6 +43,14 @@ P.S. Where all postings before March 2018 have gone to?
 # Git and GitHub
 
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
+
+---
+
+## Hi Kottans!
+
+**My name is Maksym. I'm Glad to join the community!**
+
+[![Cat art](./assets/images/kottans-art.jpg)](https://github.com/kottans/frontend)
 
 ---
 
@@ -1778,6 +1786,20 @@ Here is my beloved kitten named Mars:
 I'm [Galina](https://github.com/galinaborisenko) and this is typical Dutch kottan![Dikkie-Dik](assets/images/Dikkie-Dik.jpg)
 
 ## Hi there, have a nice day :3
+
+---
+
+## Hello kottans!
+I'm [Viktoria](https://github.com/DarlaMoonlight). I am very happy to participate in this course. I have been observing kottans since 2018, but only now the situation has allowed me to participate in this wonderful project. 
+I really want to do everything before December. Good luck to all!
+
+P.S that's Riziy and he help me study ;)
+
+![Riziy kitten](assets/images/riziy-vcheryasova.jpg)
+
+# Hi everyone! :+1:
+[!cat](gif/kitty2.gif)
+
 
 # Hello!
 glad to be here and learn smth new! Excited and looking forward!
