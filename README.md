@@ -1807,9 +1807,21 @@ My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard
 
 If you’ve questions about the tasks or something you can always contact me at :
 # [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
+
+# Hi there!
+I'm [Ivan](https://github.com/IGrynenko) and this is Chris)) I really appreciate being here
+
+![Chris-the-cat](assets/images/chris-the-cat.jpg)
+
 ## You’re welcome !
 Version Control with GIT - Completed !
 # Let’s start to next step!
+
+=======
+# Hi! 
+My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
+
+![Beniia](assets/images/cat-developer.jpg)
 
 ## Hi! Happy thursday!
 ![Happy thursday](assets/images/happy_thursday.png)
