@@ -23,11 +23,11 @@ By the way, creating issues is fun too!
 ![Screenshot](gif/jump.gif)
 
 **NB!**
- - **Your pull-request may not be reviewed very quickly, please have patience.**
- - **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
-   **posting a message `#help_wanted` + link to your pull request**
-   **( e.g. https://github.com/kottans/mock-repo/pull/145 )**
-   **in a chat of the course you're taking.**
+- **Your pull-request may not be reviewed very quickly, please have patience.**
+- **If you need help with a PR (e.g. resolving merge conflict) ask the community for support**
+  **posting a message `#help_wanted` + link to your pull request**
+  **( e.g. https://github.com/kottans/mock-repo/pull/145 )**
+  **in a chat of the course you're taking.**
 
 If you are impatient use
 [frontend course](https://t.me/joinchat/DmX0JBHVkEhV1us2HdMmpA),
@@ -43,6 +43,14 @@ P.S. Where all postings before March 2018 have gone to?
 # Git and GitHub
 
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
+
+---
+
+## Hi Kottans!
+
+**My name is Maksym. I'm Glad to join the community!**
+
+[![Cat art](./assets/images/kottans-art.jpg)](https://github.com/kottans/frontend)
 
 ---
 
@@ -79,6 +87,11 @@ PS. Check the Kottans in wheeeeeaaatt.
 My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat](gif/Fedir.JPG)
 
 Greet everyone on this incredible cource!!!
+
+## Hi, everyone! I'm glad to be here)
+[Me](https://github.com/Lu-sure)  :red_haired_woman:
+And here is my ~~cat~~ dog Easy! 
+![Photo of fox terrier](gif/my_fox_terrier.jpg) 
 
 Hello, kottans! :smile_cat:  
 Come on to my [GitHub](https://github.com/dankor1498)
@@ -150,6 +163,9 @@ All stuff is new for me but very **useful**!
 
 # Hi :)
 Productive autumn for everyone!
+^ It`s my previous greeting when I tried back-end courses.
+I was surprised to see, that my greeting was included in Article Code Vault.
+So, hello again!
 
 # Hi!
 My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study this course with you.
@@ -1761,3 +1777,42 @@ I’m [Max](https://github.com/phpslonuk/kottans-frontend)
 [Me](https://github.com/Lu-sure)  :red_haired_woman:
 And here is my ~~cat~~ dog Easy! 
 ![Photo of fox terrier](gif/my_fox_terrier.jpg) 
+
+--- 
+
+# Hello, dear collegues, nice to meet you! :)
+
+My name is Sergey. Though I've been familiar with git a little, the offered courses have refreshed old knowledge
+and taught new useful commands.
+
+Here is my beloved kitten named Mars:
+
+![Mars kitten](https://i.ibb.co/fkp3jNB/Mars.jpg)
+# Hello!
+I'm [Galina](https://github.com/galinaborisenko) and this is typical Dutch kottan![Dikkie-Dik](assets/images/Dikkie-Dik.jpg)
+
+## Hi there, have a nice day :3
+
+---
+
+## Hello kottans!
+I'm [Viktoria](https://github.com/DarlaMoonlight). I am very happy to participate in this course. I have been observing kottans since 2018, but only now the situation has allowed me to participate in this wonderful project. 
+I really want to do everything before December. Good luck to all!
+
+P.S that's Riziy and he help me study ;)
+
+![Riziy kitten](assets/images/riziy-vcheryasova.jpg)
+
+# Hi everyone! :+1:
+[!cat](gif/kitty2.gif)
+
+# Hi Guys !
+My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
+
+![richard](gif/richard.jpg "Richard")
+
+If you’ve questions about the tasks or something you can always contact me at :
+# [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
+## You’re welcome !
+Version Control with GIT - Completed !
+# Let’s start to next step!
