@@ -1798,9 +1798,26 @@ P.S that's Riziy and he help me study ;)
 ![Riziy kitten](assets/images/riziy-vcheryasova.jpg)
 
 # Hi everyone! :+1:
+
 [!cat](gif/kitty2.gif)
 
 
 # Hello!
 glad to be here and learn smth new! Excited and looking forward!
 ![Jamon](assets/images/Jamon.jpeg)
+||||||| a496028
+[!cat](gif/kitty2.gif)
+
+[!cat](gif/kitty2.gif)
+
+# Hi Guys !
+My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
+
+![richard](gif/richard.jpg "Richard")
+
+If you’ve questions about the tasks or something you can always contact me at :
+# [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
+## You’re welcome !
+Version Control with GIT - Completed !
+# Let’s start to next step!
+
