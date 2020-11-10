@@ -1811,3 +1811,7 @@ If you’ve questions about the tasks or something you can always contact me at 
 Version Control with GIT - Completed !
 # Let’s start to next step!
 
+# Hi! 
+My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
+
+![Beniia](assets/images/cat-developer.jpg)
