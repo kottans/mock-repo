@@ -47,7 +47,7 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 ---
 
 ## Hi Everyone!
-My name is Alexey. I'm happy to join to Kottans comunity! I'm an absolute beginner in frontend so it will be an
+My name is Alex. I'm happy to join to Kottans comunity! I'm an absolute beginner in frontend so it will be an
 interesting experience for me to study with your help and support.
 ![Cat hello](https://img4.goodfon.ru/original/1600x900/b/1c/kot-koshka-ryzhii-portret-1.jpg)
 
