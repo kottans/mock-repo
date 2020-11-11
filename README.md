@@ -47,7 +47,7 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 ---
 
 ## Hi Everyone!
-My name is Alex. I'm happy to join to Kottans comunity! I'm an absolute beginner in frontend so it will be an
+My name is Alexey. I'm happy to join to Kottans comunity! I'm an absolute beginner in frontend so it will be an
 interesting experience for me to study with your help and support.
 ![Cat hello](https://img4.goodfon.ru/original/1600x900/b/1c/kot-koshka-ryzhii-portret-1.jpg)
 
@@ -1822,12 +1822,12 @@ I'm [Ivan](https://github.com/IGrynenko) and this is Chris)) I really appreciate
 Version Control with GIT - Completed !
 # Let’s start to next step!
 
-# Hi! 
-My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
+# Hi!
+My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :)
 
 ![Beniia](assets/images/cat-developer.jpg)
 
-# Hello everyone. 
+# Hello everyone.
 My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kottans community. Currently I am a capoeira martial arts trainer. I am very interested in front-end development and I really want to learn this profession.))
 
 ![Ninja](assets/images/ninja.jpg)
