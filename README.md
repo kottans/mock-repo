@@ -1817,12 +1817,18 @@ I'm [Ivan](https://github.com/IGrynenko) and this is Chris)) I really appreciate
 Version Control with GIT - Completed !
 # Let’s start to next step!
 
+=======
 # Hi! 
 My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
 
 ![Beniia](assets/images/cat-developer.jpg)
 
+
+## Hi! Happy thursday!
+![Happy thursday](assets/images/happy_thursday.png)
+=======
 # Hello everyone. 
 My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kottans community. Currently I am a capoeira martial arts trainer. I am very interested in front-end development and I really want to learn this profession.))
 
 ![Ninja](assets/images/ninja.jpg)
+
