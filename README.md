@@ -1832,3 +1832,7 @@ My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kott
 
 ![Ninja](assets/images/ninja.jpg)
 
+
+My name is [Anton] (https://github.com/Ant-C-tech). First part of education course "Version Control with Git" and especially "learngitbranching.js.org" was very useful for me and now I'm excited to continue adventure with your wonderful interesting community.
+
+![Cat](assets/images/ant-c-tech.jpg)
