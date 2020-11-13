@@ -1844,3 +1844,8 @@ My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kott
 
 ![Ninja](assets/images/ninja.jpg)
 
+-----
+## Hi Kottans!
+I am Anastasia. I am very excited to be a part of Kottans community and learn frontend with you!
+
+![Kitten](assets/images/kitten.jpg)
