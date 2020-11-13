@@ -1780,7 +1780,13 @@ I'm [Serge](https://github.com/sergesd). It's really nice to get new and importa
 I’m [Max](https://github.com/phpslonuk/kottans-frontend)
 ![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
 
----
+## Hi, everyone! I'm glad to be here)
+[Me](https://github.com/Lu-sure)  :red_haired_woman:
+And here is my ~~cat~~ dog Easy! 
+![Photo of fox terrier](gif/my_fox_terrier.jpg) 
+
+--- 
+
 # Hello, dear collegues, nice to meet you! :)
 
 My name is Sergey. Though I've been familiar with git a little, the offered courses have refreshed old knowledge
@@ -1822,18 +1828,17 @@ I'm [Ivan](https://github.com/IGrynenko) and this is Chris)) I really appreciate
 
 ## You’re welcome !
 Version Control with GIT - Completed !
+
 # Let’s start to next step!
 
-=======
 # Hi! 
 My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
 
 ![Beniia](assets/images/cat-developer.jpg)
 
-
 ## Hi! Happy thursday!
 ![Happy thursday](assets/images/happy_thursday.png)
-=======
+
 # Hello everyone. 
 My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kottans community. Currently I am a capoeira martial arts trainer. I am very interested in front-end development and I really want to learn this profession.))
 
