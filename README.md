@@ -40,6 +40,13 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 
+## Hi Everyone!
+My name is Alexey. I'm happy to join to Kottans comunity!
+I'm an absolute beginner in frontend so it will be an
+interesting experience for me to study with your help and support.
+![Cat hello](https://img4.goodfon.ru/original/1600x900/b/1c/kot-koshka-ryzhii-portret-1.jpg)
+
+
 # Git and GitHub
 
 It was an explosive start to front-end learning! At first it was hard for me because of English)) but with each lesson it became easier and easier to learn. I really liked the Git tool, and I will definitely use it in my studies, work and my projects. Many thanks to Kottans for the great course. I'm moving on to the next Linux, Command Line, HTTP tools!)
@@ -1813,6 +1820,27 @@ My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard
 
 If you’ve questions about the tasks or something you can always contact me at :
 # [linkendIn](https://www.linkedin.com/in/oleg-lisnyak-a888a017a/) or [GitHub](https://github.com/lisnyak-o)
+
+# Hi there!
+I'm [Ivan](https://github.com/IGrynenko) and this is Chris)) I really appreciate being here
+
+![Chris-the-cat](assets/images/chris-the-cat.jpg)
+
 ## You’re welcome !
 Version Control with GIT - Completed !
+
 # Let’s start to next step!
+
+# Hi! 
+My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
+
+![Beniia](assets/images/cat-developer.jpg)
+
+## Hi! Happy thursday!
+![Happy thursday](assets/images/happy_thursday.png)
+
+# Hello everyone. 
+My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kottans community. Currently I am a capoeira martial arts trainer. I am very interested in front-end development and I really want to learn this profession.))
+
+![Ninja](assets/images/ninja.jpg)
+
