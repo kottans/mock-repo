@@ -1813,6 +1813,10 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+# Hello!
+glad to be here and learn smth new! Excited and looking forward!
+![Jamon](assets/images/Jamon.jpeg)
+
 # Hi Guys !
 My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
 
