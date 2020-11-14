@@ -1810,19 +1810,6 @@ P.S that's Riziy and he help me study ;)
 
 ![Riziy kitten](assets/images/riziy-vcheryasova.jpg)
 
----
-
-# Hello kottans!
-
-My name is [Ivan](https://github.com/strumerlz), I'm glad to be here, and I hope I can finish a self-study stage before the dead-end. 
-Whew, I should hurry up! 
-
-![whiplash](gif/code_like_cat.gif)
-
-Good luck to everyone!
-
----
-
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
@@ -1874,3 +1861,14 @@ My name is [Anton](https://github.com/Ant-C-tech) and I am glad to meet you! 
 
 ![Cat](assets/images/ant-c-tech.jpg)
 
+----
+# Hello kottans!
+
+My name is [Ivan](https://github.com/strumerlz), I'm glad to be here, and I hope I can finish a self-study stage before the dead-end. 
+Whew, I should hurry up! 
+
+![whiplash](gif/code_like_cat.gif)
+
+Good luck to everyone!
+
+---
