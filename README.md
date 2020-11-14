@@ -1867,3 +1867,10 @@ I am Anastasia. I am very excited to be a part of Kottans community and learn fr
 
 ![Kitten](assets/images/kitten.jpg)
 
+
+-----
+# Hello everyone. 
+My name is [Anton](https://github.com/Ant-C-tech) and I am glad to meet you! First part of education course "Version Control with Git" and especially "learngitbranching.js.org" was very useful for me and now I'm excited to continue adventure with your wonderful interesting community.
+
+![Cat](assets/images/ant-c-tech.jpg)
+
