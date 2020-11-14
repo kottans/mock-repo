@@ -1812,7 +1812,7 @@ P.S that's Riziy and he help me study ;)
 
 ---
 
-#Hello kottans!
+# Hello kottans!
 
 My name is [Ivan](https://github.com/strumerlz), I'm glad to be here, and I hope I can finish a self-study stage before the dead-end. 
 Whew, I should hurry up! 
