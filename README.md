@@ -1780,7 +1780,13 @@ I'm [Serge](https://github.com/sergesd). It's really nice to get new and importa
 I’m [Max](https://github.com/phpslonuk/kottans-frontend)
 ![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
 
----
+## Hi, everyone! I'm glad to be here)
+[Me](https://github.com/Lu-sure)  :red_haired_woman:
+And here is my ~~cat~~ dog Easy! 
+![Photo of fox terrier](gif/my_fox_terrier.jpg) 
+
+--- 
+
 # Hello, dear collegues, nice to meet you! :)
 
 My name is Sergey. Though I've been familiar with git a little, the offered courses have refreshed old knowledge
@@ -1807,6 +1813,10 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+# Hello!
+glad to be here and learn smth new! Excited and looking forward!
+![Jamon](assets/images/Jamon.jpeg)
+
 # Hi Guys !
 My name is [Oleg](https://github.com/lisnyak-o). So, meet my cat, called Richard ;)
 
@@ -1822,24 +1832,32 @@ I'm [Ivan](https://github.com/IGrynenko) and this is Chris)) I really appreciate
 
 ## You’re welcome !
 Version Control with GIT - Completed !
+
 # Let’s start to next step!
 
-=======
 # Hi! 
 My name is [Yuliia](https://github.com/YuliiaHordiichuk) and it is my super smart assistant :) 
 
 ![Beniia](assets/images/cat-developer.jpg)
 
-
 ## Hi! Happy thursday!
 ![Happy thursday](assets/images/happy_thursday.png)
-=======
+
 # Hello everyone. 
 My name is [Igor](https://github.com/ik-web) and I'm very happy to join the Kottans community. Currently I am a capoeira martial arts trainer. I am very interested in front-end development and I really want to learn this profession.))
 
 ![Ninja](assets/images/ninja.jpg)
 
+<<<<<<< HEAD
 
 My name is [Anton] (https://github.com/Ant-C-tech). First part of education course "Version Control with Git" and especially "learngitbranching.js.org" was very useful for me and now I'm excited to continue adventure with your wonderful interesting community.
 
 ![Cat](assets/images/ant-c-tech.jpg)
+||||||| b3c81cd
+=======
+-----
+## Hi Kottans!
+I am Anastasia. I am very excited to be a part of Kottans community and learn frontend with you!
+
+![Kitten](assets/images/kitten.jpg)
+>>>>>>> master
