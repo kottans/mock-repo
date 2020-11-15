@@ -40,6 +40,12 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 
+## Hi Kottans community!
+I'm George and I'm beginner in FrontEnd.
+I hope meet there interesting projects and friends.)
+[![Ginger_cat](./assets/images/ginger_cat.jpg)](https://github.com/kottans/frontend)
+
+
 ## Hi Everyone!
 My name is Alexey. I'm happy to join to Kottans comunity!
 I'm an absolute beginner in frontend so it will be an
