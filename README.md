@@ -1878,3 +1878,8 @@ Whew, I should hurry up!
 Good luck to everyone!
 
 ---
+## Meow-ciao
+
+I'm [Tati](https://github.com/so-tati) and I'm delighted to be a member of the Kottans community!
+
+![Luna](assets/images/luna.jpg)
