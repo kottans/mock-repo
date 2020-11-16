@@ -10,7 +10,12 @@ and [git](https://github.com/Kottans/git-course) courses.
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
+<<<<<<< HEAD
+
+*This is an internationally missspelled phrase*
+=======
 *This was an intentionaly mispelld phrase*
+>>>>>>> master
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -801,6 +806,10 @@ I'm Max I'm from Kyiv
 ![Wilfred](https://pbs.twimg.com/media/DsDvgVfXcAAoO1p.jpg:large)
 
 
+<<<<<<< HEAD
+## Hello there! 
+I'm Liudmyla from Kyiv ! Glad to see you! Time to code!
+=======
 ------------------------------
 #Hi, kottans!
 
@@ -1878,3 +1887,4 @@ Whew, I should hurry up!
 Good luck to everyone!
 
 ---
+>>>>>>> master
