@@ -1883,3 +1883,8 @@ Good luck to everyone!
 I'm [Tati](https://github.com/so-tati) and I'm delighted to be a member of the Kottans community!
 
 ![Luna](assets/images/luna.jpg)
+
+---
+## Hello dear kottans
+
+I'm [Sergii](https://github.com/Segii-Kuznetsov) and I'm really appreciate to enter this awesome community!
