@@ -2115,3 +2115,10 @@ I'm [Tati](https://github.com/so-tati) and I'm delighted to be a member of the K
 ## ALOHA Everyone!
 
 Hi my name is Aleksandr and i am glad to join yuor project
+
+# Hello kottans!
+
+My name is [Michael](https://github.com/mihail-yankovskyi) and I'm glad to be here!
+I am very excited to be a part of Kottans community and learn frontend with you!
+
+![Star War Cat](assets/images/star-wars.png)
