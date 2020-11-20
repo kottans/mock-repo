@@ -40,6 +40,12 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 
+# Meowuzup everyone
+My name is [Aleksandr](https://github.com/ayqod) I want to learn more about FE!
+It's great that I can be part of your community. BTW, meet our cat, called Barney!
+
+![Barney](assets/images/CatFromKyiv.jpg)
+
 ## Hi Kottans community!
 I'm George and I'm beginner in FrontEnd.
 I hope meet there interesting projects and friends.)
@@ -1890,9 +1896,3 @@ My name is [Michael](https://github.com/mihail-yankovskyi) and I'm glad to be
 I am very excited to be a part of Kottans community and learn frontend with you!
 
 ![Star War Cat](assets/images/star-wars.png)
-
-# Meowuzup everyone
-My name is [Aleksandr](https://github.com/ayqod) I want to learn more about FE!
-It's great that I can be part of your community. BTW, meet our cat, called Barney!
-
-![Barney](assets/CatFromKyiv.jpg)
