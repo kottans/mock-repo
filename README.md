@@ -40,6 +40,11 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 
+## Hi Kottans ))
+I'm Nataliya and these are my first steps in FrontEnd. I really hope that everyone of us will get his (or her :) ) dream )
+[![Siamese Cat](./assets/images/old_fashioned_siamese_cat_with_amazing_eyes.jpg)](https://github.com/kottans/frontend)
+
+
 ## Hi Kottans community!
 I'm George and I'm beginner in FrontEnd.
 I hope meet there interesting projects and friends.)
