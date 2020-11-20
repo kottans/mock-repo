@@ -124,6 +124,7 @@ Hi and pryvit 😺😺😺.
 ![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
 
 # Hello =)
+
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
 ![cat](gif/kotans.gif)
@@ -1478,7 +1479,7 @@ I am [Max](https://github.com/ms76adf1). Nice to meet you, guys!
 <details>
   <summary>My name is...</summary>
 
-  ### [Sergio!](https://github.com/ITKozak)
+### [Sergio!](https://github.com/ITKozak)
 
 All in all a great course!
 I can also add an additional resource for practice blind typing - [TypingStudy.com](https://www.typingstudy.com/)
