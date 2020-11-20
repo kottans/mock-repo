@@ -1889,3 +1889,9 @@ I'm [Tati](https://github.com/so-tati) and I'm delighted to be a member of the K
 My name is [Iren](https://github.com/Giruta).
 I am very glad to join to such wonderful [front-end course](https://github.com/kottans/frontend).
 ![Cat](assets/images/ChristmasСat.jpeg)
+-----
+# Hello kottans!
+My name is [Michael](https://github.com/mihail-yankovskyi) and I'm glad to be here!
+I am very excited to be a part of Kottans community and learn frontend with you!
+
+![Star War Cat](assets/images/star-wars.png)
