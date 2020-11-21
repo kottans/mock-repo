@@ -40,6 +40,11 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 
+## Hi Cats and Kitties a.k.a Kottans 
+I'm Mitya, going back to learn the frontend, each time gaining more and more knowledge, hopefully, this time it will be event better.
+[![Cat hi](https://thesmartcanine.com/wp-content/uploads/2020/02/are-beagles-good-with-cats-min.jpg)]
+
+
 ## Hi Kottans ))
 I'm Nataliya and these are my first steps in FrontEnd. I really hope that everyone of us will get his (or her :) ) dream )
 [![Siamese Cat](./assets/images/old_fashioned_siamese_cat_with_amazing_eyes.jpg)](https://github.com/kottans/frontend)
