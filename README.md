@@ -46,6 +46,11 @@ It's great that I can be part of your community. BTW, meet our cat, called Barne
 
 ![Barney](assets/images/CatFromKyiv.jpg)
 
+## Hi Kottans ))
+I'm Nataliya and these are my first steps in FrontEnd. I really hope that everyone of us will get his (or her :) ) dream )
+[![Siamese Cat](./assets/images/old_fashioned_siamese_cat_with_amazing_eyes.jpg)](https://github.com/kottans/frontend)
+
+
 ## Hi Kottans community!
 I'm George and I'm beginner in FrontEnd.
 I hope meet there interesting projects and friends.)
@@ -1890,9 +1895,13 @@ I'm [Tati](https://github.com/so-tati) and I'm delighted to be a member of the K
 
 ![Luna](assets/images/luna.jpg)
 
+# Hello
+=======
 -----
+
 # Hello kottans!
 My name is [Michael](https://github.com/mihail-yankovskyi) and I'm glad to be here!
 I am very excited to be a part of Kottans community and learn frontend with you!
 
 ![Star War Cat](assets/images/star-wars.png)
+
