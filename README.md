@@ -1899,3 +1899,7 @@ I am very excited to be a part of Kottans community and learn frontend with you!
 
 ![Star War Cat](assets/images/star-wars.png)
 
+---
+## Hi !, Kottans !
+My name is [Yuri](https://github.com/4zorbin) I will be happy to participate in this self or half-self training and I hope we will succeed.
+![shyCat](assets/images/niceCat2021.jpg)
