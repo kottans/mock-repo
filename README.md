@@ -1910,3 +1910,6 @@ I'm [Aleksandr](https://github.com/mikromajor) and i I look like this
 
 ![When_I_learning](assets/images/coala.jpg)
 -----
+## Hi !, Kottans !
+My name is [Yuri](https://github.com/4zorbin) I will be happy to participate in this self or half-self training and I hope we will succeed.
+![shyCat](assets/images/niceCat2021.jpg)
