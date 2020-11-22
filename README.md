@@ -1903,4 +1903,10 @@ My name is [Michael](https://github.com/mihail-yankovskyi) and I'm glad to be
 I am very excited to be a part of Kottans community and learn frontend with you!
 
 ![Star War Cat](assets/images/star-wars.png)
+-----
+='.'=
+# Hi everyone!!! Cool program!!! Thanks to the developers!!!
+I'm [Aleksandr](https://github.com/mikromajor) and i I look like this 
 
+![When_I_learning](assets/images/coala.jpg)
+-----
