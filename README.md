@@ -13,9 +13,12 @@ The change can be anything you like, for example: fixing a typo in README.md. Co
 <<<<<<< HEAD
 
 *This is an internationally missspelled phrase*
+<<<<<<< HEAD
 =======
 *This was an intentionaly mispelld phrase*
 >>>>>>> master
+=======
+>>>>>>> 438dfc17d68da9c6e9594b91d24c57f50875b99c
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -808,7 +811,7 @@ I'm Max I'm from Kyiv
 
 <<<<<<< HEAD
 ## Hello there! 
-I'm Liudmyla from Kyiv ! Glad to see you! Time to code!
+I'm Liudmyla from Kyiv ! Glad to see you! Time to code!!
 =======
 ------------------------------
 #Hi, kottans!
