@@ -1910,3 +1910,16 @@ I'm [Aleksandr](https://github.com/mikromajor) and i I look like this
 
 ![When_I_learning](assets/images/coala.jpg)
 -----
+
+---
+
+**Greetings!**
+
+Dear kottans,
+I am much obliged for your kindness. Thank you so much for preparing  these incredible educational materials! My name is [Anna](https://github.com/kt-std). I sincerely hope to become a part of your learning community.
+
+Have a lovely day:)
+
+![Cat sitting in the bath with ducks](assets/images/cat_with_ducks.jpg)
+
+---
