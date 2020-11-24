@@ -41,6 +41,28 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 
+<<<<<<< HEAD
+||||||| 51beafd
+
+## Hi Kottans ))
+
+I'm Nataliya and these are my first steps in FrontEnd. I really hope that everyone of us will get his (or her :) ) dream )
+[![Siamese Cat](./assets/images/old_fashioned_siamese_cat_with_amazing_eyes.jpg)](https://github.com/kottans/frontend)
+
+=======
+
+## Hi Cats and Kitties a.k.a Kottans
+
+I'm Mitya, going back to learn the frontend, each time gaining more and more knowledge, hopefully, this time it will be event better. So let's do it
+[![Cat hi](https://thesmartcanine.com/wp-content/uploads/2020/02/are-beagles-good-with-cats-min.jpg)
+
+## Hi Kottans ))
+
+I'm Nataliya and these are my first steps in FrontEnd. I really hope that everyone of us will get his (or her :) ) dream )
+[![Siamese Cat](./assets/images/old_fashioned_siamese_cat_with_amazing_eyes.jpg)](https://github.com/kottans/frontend)
+
+> > > > > > > upstream/master
+
 ## Hi Kottans community!
 
 I'm George and I'm beginner in FrontEnd.
@@ -2122,3 +2144,11 @@ My name is [Michael](https://github.com/mihail-yankovskyi) and I'm glad to be
 I am very excited to be a part of Kottans community and learn frontend with you!
 
 ![Star War Cat](assets/images/star-wars.png)
+
+='.'=
+
+# Hi everyone!!! Cool program!!! Thanks to the developers!!!
+
+I'm [Aleksandr](https://github.com/mikromajor) and i I look like this
+
+![When_I_learning](assets/images/coala.jpg)
