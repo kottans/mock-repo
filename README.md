@@ -1910,3 +1910,9 @@ I'm [Aleksandr](https://github.com/mikromajor) and i I look like this
 
 ![When_I_learning](assets/images/coala.jpg)
 -----
+
+# Hello kottans and kittens! My name is [Illia](https://github.com/kasionio) and I am happy and excited to be among Kottans!
+Let`s hack the world together!
+
+![Do not disturb](assets/images/hacker-cat.jpg)
+-----
