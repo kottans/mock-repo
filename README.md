@@ -1911,8 +1911,35 @@ I'm [Aleksandr](https://github.com/mikromajor) and i I look like this
 ![When_I_learning](assets/images/coala.jpg)
 -----
 
+
 # Hello kottans and kittens! My name is [Illia](https://github.com/kasionio) and I am happy and excited to be among Kottans!
 Let`s hack the world together!
 
 ![Do not disturb](assets/images/hacker-cat.jpg)
 -----
+
+## Hi !, Kottans !
+My name is [Yuri](https://github.com/4zorbin) I will be happy to participate in this self or half-self training and I hope we will succeed.
+![shyCat](assets/images/niceCat123456.jpg)
+
+
+---
+
+**Greetings!**
+
+Dear kottans,
+I am much obliged for your kindness. Thank you so much for preparing  these incredible educational materials! My name is [Anna](https://github.com/kt-std). I sincerely hope to become a part of your learning community.
+
+Have a lovely day:)
+
+![Cat sitting in the bath with ducks](assets/images/cat_with_ducks.jpg)
+
+---
+
+**Yo!**
+
+Hello, it`s [me](https://github.com/Labsik)
+
+---
+
+
