@@ -1935,3 +1935,11 @@ Hello, it`s [me](https://github.com/Labsik)
 
 ---
 
+# Hi Everyone! This Is the Way
+
+So great that we have people who can find time for sharing the knowledges with us!
+My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
+
+![yoda](assets/images/yoda-kitty.png)
+
+---
