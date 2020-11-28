@@ -39,6 +39,9 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi there!
+I'm Sasha and I'm happy to join the community :wink:
+[![another cat](./assets/images/sasha-cat.jpg)](https://github.com/kottans/frontend)
 
 ## Hi Cats and Kitties a.k.a Kottans 
 I'm Mitya, going back to learn the frontend, each time gaining more and more knowledge, hopefully, this time it will be event better. So let's do it
@@ -1942,4 +1945,15 @@ Hello, it`s [me](https://github.com/Labsik)
 
 ---
 
+
+
+=======
+# Hi Everyone! This Is the Way
+
+So great that we have people who can find time for sharing the knowledges with us!
+My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
+
+![yoda](assets/images/yoda-kitty.png)
+
+---
 
