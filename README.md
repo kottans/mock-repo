@@ -39,6 +39,12 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hello fellows!
+My name is Myhkailo, I currently live in Kharkiv.
+I took an HTML&CSS course in Spalah IT School about five years ago. I stopped developing at that point because another career stroke me. Now I want to finally fulfill my old dream – become a front-end developer. Hopefully, this course will help me :)
+
+[![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
+
 ## Hi there!
 I'm Sasha and I'm happy to join the community :wink:
 [![another cat](./assets/images/sasha-cat.jpg)](https://github.com/kottans/frontend)
