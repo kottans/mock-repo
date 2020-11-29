@@ -1957,3 +1957,14 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 
 ---
 
+# Hi Everyone Im [Bazio](https://github.com/BazioDEV) from Thailand  
+***
+**I'm a beginner, whos want to learn the front-end and back-end and i search all through the internet for the tutorial but some are advances, some are nothing but just wanted to sell their own templates, but Kottans tutorial made me change.**
+
+# THANK YOU [KOTTANS](https://github.com/kottans) 
+
+what i have learned from the first section was git stuff and i knew that its was more than HTML CSS JS but i could make a community of the same kind. Thank you to Kottans Tutorial that make me study coding once more since i have give up already. 
+
+![DJCAT](https://octodex.github.com/images/daftpunktocat-guy.gif)
+***
+
