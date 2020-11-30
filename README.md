@@ -990,6 +990,13 @@ Good luck everyone.
 
 ![Hero cat](gif/hero-cat.jpg)
 
+
+## Hello everyone!!
+! am Victoria and I'm very glad to join the Kottans community
+
+This is my lovely cat Adel(gif/lovely_Adel.JPG)
+
+
 ## Hello everybody!
 
 I'm Mirlan and very happy to be here with all of you!
@@ -1832,6 +1839,8 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+=======
+
 # Hello!
 glad to be here and learn smth new! Excited and looking forward!
 ![Jamon](assets/images/Jamon.jpeg)
@@ -1958,6 +1967,7 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 ---
 
 
+
 # Hi everyone!!!
 
 My name is [Roma](https://github.com/Tsapfik/kottans-frontend) and this is my surprised house kottan-helper Semyon =) Hi'll help me to learn frontend especially at night ;)
@@ -1968,3 +1978,5 @@ He's so good that I uploaded a couple of photos
 ![My-Cat-Syoma2](assets/images/Syoma2.jpg)
 
 ---
+=======
+
