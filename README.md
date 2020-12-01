@@ -1972,6 +1972,14 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 ---
 
 
+# Hello everyone!
+
+Really happy to join community and learn new stuff! 
+My name is [Dima](https://github.com/machulskyiDmitryi)
+
+![black sabbath](assets/images/black-sabbath.jpg)
+=======
+
 
 # Hi everyone!!!
 
@@ -1984,4 +1992,5 @@ He's so good that I uploaded a couple of photos
 
 ---
 =======
+
 
