@@ -108,6 +108,11 @@ PS. Check the Kottans in wheeeeeaaatt.
 
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
+_We have an impostor here_
+
+
+Hi, I'm Artem, here's a spacecat.
+![](https://i.redd.it/vae9w3l72yn51.jpg)
 
 # Hi kottans!
 My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat](gif/Fedir.JPG)
@@ -990,6 +995,13 @@ Good luck everyone.
 
 ![Hero cat](gif/hero-cat.jpg)
 
+
+## Hello everyone!!
+! am Victoria and I'm very glad to join the Kottans community
+
+This is my lovely cat Adel(gif/lovely_Adel.JPG)
+
+
 ## Hello everybody!
 
 I'm Mirlan and very happy to be here with all of you!
@@ -1832,6 +1844,8 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+=======
+
 # Hello!
 glad to be here and learn smth new! Excited and looking forward!
 ![Jamon](assets/images/Jamon.jpeg)
@@ -1914,6 +1928,13 @@ I'm [Aleksandr](https://github.com/mikromajor) and i I look like this
 ![When_I_learning](assets/images/coala.jpg)
 -----
 
+
+# Hello kottans and kittens! My name is [Illia](https://github.com/kasionio) and I am happy and excited to be among Kottans!
+Let`s hack the world together!
+
+![Do not disturb](assets/images/hacker-cat.jpg)
+-----
+
 ## Hi !, Kottans !
 My name is [Yuri](https://github.com/4zorbin) I will be happy to participate in this self or half-self training and I hope we will succeed.
 ![shyCat](assets/images/niceCat123456.jpg)
@@ -1938,6 +1959,9 @@ Hello, it`s [me](https://github.com/Labsik)
 
 ---
 
+
+
+=======
 # Hi Everyone! This Is the Way
 
 So great that we have people who can find time for sharing the knowledges with us!
@@ -1947,9 +1971,26 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 
 ---
 
+
 # Hello everyone!
 
 Really happy to join community and learn new stuff! 
 My name is [Dima](https://github.com/machulskyiDmitryi)
 
 ![black sabbath](assets/images/black-sabbath.jpg)
+=======
+
+
+# Hi everyone!!!
+
+My name is [Roma](https://github.com/Tsapfik/kottans-frontend) and this is my surprised house kottan-helper Semyon =) Hi'll help me to learn frontend especially at night ;)
+He's so good that I uploaded a couple of photos
+
+![My-Cat-Syoma1](assets/images/Syoma1.jpg)
+
+![My-Cat-Syoma2](assets/images/Syoma2.jpg)
+
+---
+=======
+
+
