@@ -990,6 +990,13 @@ Good luck everyone.
 
 ![Hero cat](gif/hero-cat.jpg)
 
+
+## Hello everyone!!
+! am Victoria and I'm very glad to join the Kottans community
+
+This is my lovely cat Adel(gif/lovely_Adel.JPG)
+
+
 ## Hello everybody!
 
 I'm Mirlan and very happy to be here with all of you!
@@ -1832,6 +1839,8 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+=======
+
 # Hello!
 glad to be here and learn smth new! Excited and looking forward!
 ![Jamon](assets/images/Jamon.jpeg)
@@ -1960,4 +1969,16 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 My name is Myhkailo, I have been living in Kharkiv for 10 years though I was born in the Kyiv Oblast and spent most of my life in the Poltava Oblast.
 I took an HTML&CSS course in Spalah IT School about five years ago. I stopped developing at that point because another career found me then. Now I see that it was a bad move, so now I want to correct that mistake and to finally fulfill my old dream – become a front-end developer. Hopefully, this course will help me to make a great stride towards my endeavor :)
 
-[![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
+![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
+---
+
+# Hi everyone!!!
+
+My name is [Roma](https://github.com/Tsapfik/kottans-frontend) and this is my surprised house kottan-helper Semyon =) Hi'll help me to learn frontend especially at night ;)
+He's so good that I uploaded a couple of photos
+
+![My-Cat-Syoma1](assets/images/Syoma1.jpg)
+
+![My-Cat-Syoma2](assets/images/Syoma2.jpg)
+
+---
