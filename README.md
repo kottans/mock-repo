@@ -1993,4 +1993,12 @@ He's so good that I uploaded a couple of photos
 ---
 =======
 
+# Hi Kottans!
+
+I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
+![about me](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/git_basics/me.jpg)
+
+-----
+=======
+
 
