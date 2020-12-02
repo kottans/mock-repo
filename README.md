@@ -1983,7 +1983,7 @@ He's so good that I uploaded a couple of photos
 
 ##Hi, my name [Anton](http://github.com/AntonKottans)
 I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
-![Spring](/gifs/usual_spring_in_saint_petersburg_2400.jpg)
+![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
 
 =======
 
