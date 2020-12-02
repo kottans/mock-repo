@@ -1960,4 +1960,4 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 My name is Myhkailo, I have been living in Kharkiv for 10 years though I was born in the Kyiv Oblast and spent most of my life in the Poltava Oblast.
 I took an HTML&CSS course in Spalah IT School about five years ago. I stopped developing at that point because another career found me then. Now I see that it was a bad move, so now I want to correct that mistake and to finally fulfill my old dream – become a front-end developer. Hopefully, this course will help me to make a great stride towards my endeavor :)
 
-[![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
+![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
