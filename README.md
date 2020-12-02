@@ -108,6 +108,11 @@ PS. Check the Kottans in wheeeeeaaatt.
 
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
+_We have an impostor here_
+
+
+Hi, I'm Artem, here's a spacecat.
+![](https://i.redd.it/vae9w3l72yn51.jpg)
 
 # Hi kottans!
 My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat](gif/Fedir.JPG)
@@ -1967,6 +1972,14 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 ---
 
 
+# Hello everyone!
+
+Really happy to join community and learn new stuff! 
+My name is [Dima](https://github.com/machulskyiDmitryi)
+
+![black sabbath](assets/images/black-sabbath.jpg)
+=======
+
 
 
 # Hi everyone!!!
@@ -1985,5 +1998,4 @@ He's so good that I uploaded a couple of photos
 I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
 ![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
 
-=======
 
