@@ -1976,6 +1976,7 @@ My name is Myhkailo, I have been living in Kharkiv for 10 years though I was bor
 I took an HTML&CSS course in Spalah IT School about five years ago. I stopped developing at that point because another career found me then. Now I see that it was a bad move, so now I want to correct that mistake and to finally fulfill my old dream – become a front-end developer. Hopefully, this course will help me to make a great stride towards my endeavor :)
 
 ![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
+
 =======
 
 # Hello everyone!
@@ -1995,5 +1996,3 @@ He's so good that I uploaded a couple of photos
 ![My-Cat-Syoma1](assets/images/Syoma1.jpg)
 
 ![My-Cat-Syoma2](assets/images/Syoma2.jpg)
-
----
