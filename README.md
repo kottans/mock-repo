@@ -2009,4 +2009,9 @@ I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
 -----
 =======
 
+# Hi Everyone!
 
+I'm [Anna](https://github.com/CetteAnnette/). Glad to join the kottans! Thank you for this course and support. I'm here to be a true coder and make my computer beep boop beep beep boop.
+![Pusheen](Beep-Boop-Cat.jpg)
+
+=======
