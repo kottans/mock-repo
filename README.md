@@ -2010,9 +2010,17 @@ I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
 -----
 =======
 
+
 # Hi, my name is [Anton](http://github.com/AntonKottans)
 I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
 ![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
+=======
+
+=======
+# Hi Everybody!
+
+I'm Anna. I'm Anna, and I'm glad to join the Kottans community! Thank you for the course and your support. I'm here to become a true coder and make computer beep boop beep beep boop:
+![true coder](assets/images/Beep-Boop-Cat.jpg)
 =======
 
 
