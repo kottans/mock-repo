@@ -2016,6 +2016,11 @@ I hope learning frontend with your community will feel easier, cos redux is real
 ![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
 =======
 
+# Hi there!
+## I'm [Anna](https://github.com/ania-leichenko) and this is Cherry)) I really appreciate being here.
+
+![Cherry-the-cat](assets/images/cherry-the-cat.jpg)
+
 =======
 # Hi Everybody!
 
