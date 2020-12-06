@@ -1844,6 +1844,14 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+
+---
+
+## Hello everyone, have a nice day and successful training!
+![Cat](https://undark.org/wp-content/uploads/2020/02/GettyImages-1199242002-1-scaled.jpg)
+
+---
+=======
 =======
 
 # Hello!
@@ -1987,6 +1995,7 @@ My name is [Dima](https://github.com/machulskyiDmitryi)
 =======
 
 
+
 # Hi everyone!!!
 
 My name is [Roma](https://github.com/Tsapfik/kottans-frontend) and this is my surprised house kottan-helper Semyon =) Hi'll help me to learn frontend especially at night ;)
@@ -1997,10 +2006,32 @@ He's so good that I uploaded a couple of photos
 ![My-Cat-Syoma2](assets/images/Syoma2.jpg)
 
 ---
+
 ## Hello fellows!
 My name is Myhkailo, I have been living in Kharkiv for 10 years though I was born in the Kyiv Oblast and spent most of my life in the Poltava Oblast.
 I took an HTML&CSS course in Spalah IT School about five years ago. I stopped developing at that point because another career found me then. Now I see that it was a bad move, so now I want to correct that mistake and to finally fulfill my old dream – become a front-end developer. Hopefully, this course will help me to make a great stride towards my endeavor :)
 
 [![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
 =======
----
+=======
+
+# Hi Kottans!
+
+I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
+![about me](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/git_basics/me.jpg)
+
+-----
+=======
+
+
+# Hi, my name is [Anton](http://github.com/AntonKottans)
+I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
+![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
+=======
+
+=======
+# Hi Everybody!
+
+I'm Anna. I'm Anna, and I'm glad to join the Kottans community! Thank you for the course and your support. I'm here to become a true coder and make computer beep boop beep beep boop:
+![true coder](assets/images/Beep-Boop-Cat.jpg)
+=======
