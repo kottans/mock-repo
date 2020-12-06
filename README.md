@@ -1,4 +1,4 @@
-[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
@@ -2022,5 +2022,12 @@ I hope learning frontend with your community will feel easier, cos redux is real
 I'm Anna. I'm Anna, and I'm glad to join the Kottans community! Thank you for the course and your support. I'm here to become a true coder and make computer beep boop beep beep boop:
 ![true coder](assets/images/Beep-Boop-Cat.jpg)
 =======
+
+**Have a nice time, kottans =)**
+
+**My name is [Andrew](http://github.com/f3d0t). Glad to join your course. This would be awesome!**
+**Here is picture of my cat _Timothy_**
+![тимоша](assets/images/timothy.jpg)
+---
 
 
