@@ -1,4 +1,4 @@
-[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
@@ -108,6 +108,11 @@ PS. Check the Kottans in wheeeeeaaatt.
 
 # Hi Everyone =)
 ![Dog](gif/download.jpg)
+_We have an impostor here_
+
+
+Hi, I'm Artem, here's a spacecat.
+![](https://i.redd.it/vae9w3l72yn51.jpg)
 
 # Hi kottans!
 My name is [Krystyna](https://github.com/kriLEBED) and my little kottan ![my_cat](gif/Fedir.JPG)
@@ -990,6 +995,13 @@ Good luck everyone.
 
 ![Hero cat](gif/hero-cat.jpg)
 
+
+## Hello everyone!!
+! am Victoria and I'm very glad to join the Kottans community
+
+This is my lovely cat Adel(gif/lovely_Adel.JPG)
+
+
 ## Hello everybody!
 
 I'm Mirlan and very happy to be here with all of you!
@@ -1832,6 +1844,16 @@ P.S that's Riziy and he help me study ;)
 # Hi everyone! :+1:
 [!cat](gif/kitty2.gif)
 
+
+---
+
+## Hello everyone, have a nice day and successful training!
+![Cat](https://undark.org/wp-content/uploads/2020/02/GettyImages-1199242002-1-scaled.jpg)
+
+---
+=======
+=======
+
 # Hello!
 glad to be here and learn smth new! Excited and looking forward!
 ![Jamon](assets/images/Jamon.jpeg)
@@ -1957,6 +1979,7 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 
 ---
 
+
 # Hi Everyone Im [Bazio](https://github.com/BazioDEV) from Thailand  
 ***
 **I'm a beginner, whos want to learn the front-end and back-end and i search all through the internet for the tutorial but some are advances, some are nothing but just wanted to sell their own templates, but Kottans tutorial made me change.**
@@ -1967,4 +1990,57 @@ what i have learned from the first section was git stuff and i knew that its was
 
 ![DJCAT](https://octodex.github.com/images/daftpunktocat-guy.gif)
 ***
+=======
+
+# Hello everyone!
+
+Really happy to join community and learn new stuff! 
+My name is [Dima](https://github.com/machulskyiDmitryi)
+
+![black sabbath](assets/images/black-sabbath.jpg)
+=======
+
+
+
+# Hi everyone!!!
+
+My name is [Roma](https://github.com/Tsapfik/kottans-frontend) and this is my surprised house kottan-helper Semyon =) Hi'll help me to learn frontend especially at night ;)
+He's so good that I uploaded a couple of photos
+
+![My-Cat-Syoma1](assets/images/Syoma1.jpg)
+
+![My-Cat-Syoma2](assets/images/Syoma2.jpg)
+
+---
+=======
+
+# Hi Kottans!
+
+I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
+![about me](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/git_basics/me.jpg)
+
+-----
+=======
+
+
+# Hi, my name is [Anton](http://github.com/AntonKottans)
+I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
+![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
+=======
+
+=======
+# Hi Everybody!
+
+I'm Anna. I'm Anna, and I'm glad to join the Kottans community! Thank you for the course and your support. I'm here to become a true coder and make computer beep boop beep beep boop:
+![true coder](assets/images/Beep-Boop-Cat.jpg)
+=======
+
+**Have a nice time, kottans =)**
+
+**My name is [Andrew](http://github.com/f3d0t). Glad to join your course. This would be awesome!**
+**Here is picture of my cat _Timothy_**
+![тимоша](assets/images/timothy.jpg)
+---
+
+
 
