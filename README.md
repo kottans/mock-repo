@@ -2208,6 +2208,42 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 
 ---
 
+<<<<<<< HEAD
+||||||| merged common ancestors
+<<<<<<<<< Temporary merge branch 1
+||||||||| 8c17bfd
+
+=========
+
+# Hi Everyone Im [Bazio](https://github.com/BazioDEV) from Thailand  
+***
+**I'm a beginner, whos want to learn the front-end and back-end and i search all through the internet for the tutorial but some are advances, some are nothing but just wanted to sell their own templates, but Kottans tutorial made me change.**
+
+# THANK YOU [KOTTANS](https://github.com/kottans) 
+
+what i have learned from the first section was git stuff and i knew that its was more than HTML CSS JS but i could make a community of the same kind. Thank you to Kottans Tutorial that make me study coding once more since i have give up already. 
+
+![DJCAT](https://octodex.github.com/images/daftpunktocat-guy.gif)
+***
+=======
+
+>>>>>>>>> Temporary merge branch 2
+=======
+
+# Hi Everyone Im [Bazio](https://github.com/BazioDEV) from Thailand  
+***
+**I'm a beginner, whos want to learn the front-end and back-end and i search all through the internet for the tutorial but some are advances, some are nothing but just wanted to sell their own templates, but Kottans tutorial made me change.**
+
+# THANK YOU [KOTTANS](https://github.com/kottans) 
+
+what i have learned from the first section was git stuff and i knew that its was more than HTML CSS JS but i could make a community of the same kind. Thank you to Kottans Tutorial that make me study coding once more since i have give up already. 
+
+![DJCAT](https://octodex.github.com/images/daftpunktocat-guy.gif)
+***
+=======
+
+
+>>>>>>> b4902c14595077373dad1868579a857fded84bf3
 # Hello everyone!
 
 Really happy to join community and learn new stuff!
@@ -2259,4 +2295,20 @@ I'm Anna. I'm Anna, and I'm glad to join the Kottans community! Thank you for th
 
 ---
 
+<<<<<<< HEAD
+||||||| merged common ancestors
+<<<<<<<<< Temporary merge branch 1
+=======
+
+
+>>>>>>> b4902c14595077373dad1868579a857fded84bf3
 # Hi everyone!!!
+<<<<<<< HEAD
+||||||| merged common ancestors
+||||||||| 8c17bfd
+=========
+
+>>>>>>>>> Temporary merge branch 2
+=======
+
+>>>>>>> b4902c14595077373dad1868579a857fded84bf3
