@@ -40,7 +40,7 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 ## Hi there!
-I'm Sasha and I'm happy to join the community :wink:	
+I'm Sasha and I'm happy to join the community :wink:
 [![another cat](./assets/images/sasha-cat.jpg)](https://github.com/kottans/frontend)
 
 ## Hi Cats and Kitties a.k.a Kottans 
