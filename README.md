@@ -2102,3 +2102,7 @@ I took an HTML&CSS course in Spalah IT School about five years ago. I stopped de
 ![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
 =======
 
+## Hello kottans!
+
+I'm Alexey, thank you for your course!
+---------------------------------------------------------------
