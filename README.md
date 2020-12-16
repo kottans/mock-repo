@@ -2102,9 +2102,16 @@ I took an HTML&CSS course in Spalah IT School about five years ago. I stopped de
 ![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
 =======
 
+
+## Hello kottans!
+
+I'm Alexey, thank you for your course!
+---------------------------------------------------------------
+=======
 ## Hi everybody
 I'm [Andrii](https://github.com/Harnytskyi) and I'm glad to join the comunity.
 I already have some experience in frontend, but I have never studied programming in English.
 Well, I hope Kottans will help me improve my skills
 ![Smudge](https://picua.org/images/2020/12/16/36041357fa5de74be08dde2ad5f7e1c6.jpg)
 =======
+
