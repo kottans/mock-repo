@@ -39,6 +39,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hello, Kottans!
+My name is Alex and I'm happy to join the community.
+[![Evangelion cat](./assets/images/evaCat.png)]
+
 ## Hi there!
 I'm Sasha and I'm happy to join the community :wink:
 [![another cat](./assets/images/sasha-cat.jpg)](https://github.com/kottans/frontend)
