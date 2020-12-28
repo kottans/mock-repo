@@ -2119,3 +2119,8 @@ Well, I hope Kottans will help me improve my skills
 ![Smudge](https://picua.org/images/2020/12/16/36041357fa5de74be08dde2ad5f7e1c6.jpg)
 =======
 
+## Hi, Kottans!
+I'm Valerii and I'm happy to join the community!!!
+![Cat-1](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg)
+=======
+
