@@ -39,6 +39,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hello Kottnas! :joy_cat:
+My name is Alex! I'm very happy to join the community!
+[![Evangelion Cat](./assets/images/evaCat.png)]
+
 ## Hi there!
 I'm Sasha and I'm happy to join the community :wink:
 [![another cat](./assets/images/sasha-cat.jpg)](https://github.com/kottans/frontend)
@@ -2121,4 +2125,10 @@ I'm [Victor](https://github.com/VictorShalashniy/).
 Glad to join the community.
 A funny cat is attached.
 ![Funny cat](https://image.freepik.com/free-photo/funny-cat-in-light-color-looks-directly-into-the-camera-in-the-park-in-the-summer_116317-452.jpg)
+=======
+---------------------------------------------------------------
+=======
+## Hi, Kottans!
+I'm Valerii and I'm happy to join the community!!!
+![Cat-1](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg)
 =======
