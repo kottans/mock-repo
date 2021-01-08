@@ -2124,3 +2124,6 @@ I'm Valerii and I'm happy to join the community!!!
 ![Cat-1](https://img.webmd.com/dtmcms/live/webmd/consumer_assets/site_images/article_thumbnails/other/cat_relaxing_on_patio_other/1800x1200_cat_relaxing_on_patio_other.jpg)
 =======
 
+## Hi, everyone!
+My name is [Yurii](https://github.com/merowing). Happy to be a part of the great community.
+![MyLoveCat](./assets/images/my-love-cat.jpg)
