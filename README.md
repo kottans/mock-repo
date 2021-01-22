@@ -2127,3 +2127,6 @@ I'm Valerii and I'm happy to join the community!!!
 ## Hi, everyone!
 My name is [Yurii](https://github.com/merowing). Happy to be a part of the great community.
 ![MyLoveCat](./assets/images/my-love-cat.jpg)
+
+## Hi, fellow Kottans!
+I'm Max and I am excited to learn frontend!
