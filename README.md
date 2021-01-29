@@ -3,7 +3,7 @@
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
 Hello! It's Alex and I learn GitHub
-https://pbs.twimg.com/media/D2vHY0AW0AA2jnT.jpg
+(https://github.com/Kottans/backend),
 
 
 
