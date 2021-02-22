@@ -39,6 +39,11 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi Everyone!
+My name is Maks. I've started to study the front-end and I am glad to join the community! let's go! 
+![Cat hi](https://aroundpet.ru/wp-content/uploads/poroda-koshek-s-raznym-cvetom-glaz-3-1170x767.jpg)
+
+
 ## Hello Kottnas! :joy_cat:
 My name is Alex! I'm very happy to join the community!
 [![Evangelion Cat](./assets/images/evaCat.png)]
