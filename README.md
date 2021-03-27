@@ -39,6 +39,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi everyone!
+Thanks for the course :) I am Luba, and I am extremely excited to be here.
+[![Pixie-and-brutus](./assets/images/pixie-and-brutus.jpeg)]
+
 ## Hello Kottnas! :joy_cat:
 My name is Alex! I'm very happy to join the community!
 [![Evangelion Cat](./assets/images/evaCat.png)]
