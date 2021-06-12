@@ -2135,3 +2135,7 @@ I'm Max and I am excited to learn frontend!
 My name is [Vladyslav](https://github.com/vladyslavmaistruk). 
 HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
+
+## Hey, peeps!
+I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
+![Cat wearing makeup](./assets/images/cat_w_makeup.jpeg)
