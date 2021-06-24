@@ -2135,3 +2135,8 @@ I'm Max and I am excited to learn frontend!
 My name is [Vladyslav](https://github.com/vladyslavmaistruk). 
 HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
+
+## Hello Kottans community! 
+My name is [Anna](https://github.com/mightysidhe).
+So thrilled about learning front-end development. Looking forward to having a great time here. 
+![Not Friday](./assets/images/happy_thursday.png)
