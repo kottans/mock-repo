@@ -155,7 +155,7 @@ Productive autumn for everyone!
 My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study this course with you.
 
 # Hi Everyone!
-Have a nice days!
+Have a nice day!
 ![cat](https://aroundcat.files.wordpress.com/2015/09/36cb11.jpg)
 # Hi!
 Congrats with 256 day of a year!
