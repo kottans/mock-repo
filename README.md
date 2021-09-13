@@ -1756,3 +1756,9 @@ I'm [Serge](https://github.com/sergesd). It's really nice to get new and importa
 # Hi, everyone :)
 I’m [Max](https://github.com/phpslonuk/kottans-frontend)
 ![All of us](https://i.pinimg.com/originals/1c/26/fb/1c26fbf728599191de9defc63e9ac2a9.gif)
+
+# Hello everyone!
+I'm [Val](https://t.me/valholovko) and I'd be grateful to finally join your community!
+Hoping for the next course to start really soon :) 
+Aaand here are my cats Cherry and Mira: 
+![Cherry and Mira](assets/images/two-cats.jpg) 
