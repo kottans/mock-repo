@@ -2137,6 +2137,6 @@ HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
 
 ## Hi, everyone!
-My name is [Ivan] (https://github.com/EhidnayaLuna).
+My name is [Ivan](https://github.com/EhidnayaLuna).
 I want to learn frontend but I'm a bit stupid so I wonder if i could post it right
-! [StupidCat](./assets/images/stupid_cat.jpg)
+![StupidCat](./assets/images/stupid_cat.jpg)
