@@ -210,7 +210,7 @@ So, hello again!
 My name is [Hlib](https://t.me/gzomgzon) and I glad to see you. I will study this course with you.
 
 # Hi Everyone!
-Have a nice days!
+Have a nice day!
 ![cat](https://aroundcat.files.wordpress.com/2015/09/36cb11.jpg)
 # Hi!
 Congrats with 256 day of a year!
@@ -2139,6 +2139,12 @@ I'm Max and I am excited to learn frontend!
 My name is [Vladyslav](https://github.com/vladyslavmaistruk). 
 HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
+
+# Hello everyone!
+I'm [Val](https://t.me/valholovko) and I'd be grateful to finally join your community!
+Hoping for the next course to start really soon :) 
+Aaand here are my cats Cherry and Mira: 
+![Cherry and Mira](assets/images/two-cats.jpg) 
 
 ## Hey, peeps!
 I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
