@@ -39,6 +39,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi everyone!
+Thanks for the course :) I am Luba, and I am extremely excited to be here.
+[![Pixie-and-brutus](./assets/images/pixie-and-brutus.jpeg)]
+
 ## Hello Kottnas! :joy_cat:
 My name is Alex! I'm very happy to join the community!
 [![Evangelion Cat](./assets/images/evaCat.png)]
@@ -2139,3 +2143,8 @@ HappyI am glad to join to your community.
 ## Hey, peeps!
 I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
 ![Cat wearing makeup](./assets/images/cat_w_makeup.jpeg)
+
+## Hi, everyone!
+My name is [Ivan](https://github.com/EhidnayaLuna).
+I want to learn frontend but I'm a bit stupid so I wonder if i could post it right
+![StupidCat](./assets/images/stupid_cat.jpg)
