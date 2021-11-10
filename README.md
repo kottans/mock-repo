@@ -2140,6 +2140,10 @@ My name is [Vladyslav](https://github.com/vladyslavmaistruk).
 HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
 
+## Hey, peeps!
+I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
+![Cat wearing makeup](./assets/images/cat_w_makeup.jpeg)
+
 ## Hi, everyone!
 My name is [Ivan](https://github.com/EhidnayaLuna).
 I want to learn frontend but I'm a bit stupid so I wonder if i could post it right
