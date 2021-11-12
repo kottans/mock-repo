@@ -2140,6 +2140,11 @@ My name is [Vladyslav](https://github.com/vladyslavmaistruk).
 HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
 
+## Hello Kottans community! 
+My name is [Anna](https://github.com/mightysidhe).
+So thrilled about learning front-end development. Looking forward to having a great time here. 
+![Not Friday](./assets/images/happy_thursday.png)
+
 # Hello everyone!
 I'm [Val](https://t.me/valholovko) and I'd be grateful to finally join your community!
 Hoping for the next course to start really soon :) 
