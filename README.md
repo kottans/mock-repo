@@ -2159,3 +2159,6 @@ I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
 My name is [Ivan](https://github.com/EhidnayaLuna).
 I want to learn frontend but I'm a bit stupid so I wonder if i could post it right
 ![StupidCat](./assets/images/stupid_cat.jpg)
+
+## Hello, everyone!
+Myname is Kateryna and I'm happy to join this community!
