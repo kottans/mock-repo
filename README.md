@@ -2161,4 +2161,4 @@ I want to learn frontend but I'm a bit stupid so I wonder if i could post it rig
 ![StupidCat](./assets/images/stupid_cat.jpg)
 
 ## Hello, everyone!
-Myname is Kateryna and I'm happy to join this community!
+My name is Kateryna and I'm happy to join this community!
