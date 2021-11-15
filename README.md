@@ -1997,47 +1997,6 @@ My name is [Dima](https://github.com/machulskyiDmitryi)
 
 ![black sabbath](assets/images/black-sabbath.jpg)
 
-# Hi everyone!!!
-
-My name is [Roma](https://github.com/Tsapfik/kottans-frontend) and this is my surprised house kottan-helper Semyon =) Hi'll help me to learn frontend especially at night ;)
-He's so good that I uploaded a couple of photos
-
-![My-Cat-Syoma1](assets/images/Syoma1.jpg)
-
-![My-Cat-Syoma2](assets/images/Syoma2.jpg)
-
----
-
-# Hi Kottans!
-
-I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
-![about me](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/git_basics/me.jpg)
-
------
-
-# Hi, my name is [Anton](http://github.com/AntonKottans)
-I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
-![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
-
-# Hi Everybody!
-
-I'm Anna. I'm Anna, and I'm glad to join the Kottans community! Thank you for the course and your support. I'm here to become a true coder and make computer beep boop beep beep boop:
-![true coder](assets/images/Beep-Boop-Cat.jpg)
-
-**Have a nice time, kottans =)**
-
-**My name is [Andrew](http://github.com/f3d0t). Glad to join your course. This would be awesome!**
-**Here is picture of my cat _Timothy_**
-![тимоша](assets/images/timothy.jpg)
----
-
-# Hello everyone!
-
-Really happy to join community and learn new stuff! 
-My name is [Dima](https://github.com/machulskyiDmitryi)
-
-![black sabbath](assets/images/black-sabbath.jpg)
-
 
 
 # Hi everyone!!!
