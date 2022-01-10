@@ -6,4 +6,4 @@ For the process of learning Fit, the Rebase part confuse me the most. Besides pr
 
 Another thing is it took more time to learn this tool as I estimated. I thought I could complete all the levels within 2 days, it turnes out tooks me about 3 days to finish them.
 
-Action is better than words, let's start my 1st pull-request to make me get more familiar with this tool!
+Action is better than words, let's start my 1st pull-request to make me get more familiar with this tool!!
