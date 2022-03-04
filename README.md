@@ -2161,3 +2161,8 @@ I want to learn frontend but I'm a bit stupid so I wonder if i could post it rig
 
 ## Hello, everyone!
 My name is Kateryna and I'm happy to join this community!
+    
+## Hello, kottans and everyone
+My name is [Mykola](https://github.com/mykolakarpets). I've started to study backend with kottans.
+Happy to be here with my friend, Maks
+![ParrotMaks](./assets/images/parrot_Maks.jpg)
