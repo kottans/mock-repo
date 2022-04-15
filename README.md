@@ -2161,3 +2161,7 @@ I want to learn frontend but I'm a bit stupid so I wonder if i could post it rig
 
 ## Hello, everyone!
 My name is Kateryna and I'm happy to join this community!
+
+## Hello world!
+My name is Semyon! I'm glad to be here! 
+Want to wish good luck to everyone who comes here in the future!
