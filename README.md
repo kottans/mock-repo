@@ -55,8 +55,12 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi Guys!
+My name is Andrew. And I'm really happy to be enrolled to this course. Wish you all luck!
+![Cool cat](https://i.pinimg.com/736x/44/ab/03/44ab033488f3b73e1c24e2ae59d5106f.jpg)
+
 ## Hi Everyone!
-My name is Maks. I've started to study the front-end and I am glad to join the community! let's go! 
+My name is Maks. I've started to study the front-end and I am glad to join the community! let's go!
 ![Cat hi](https://aroundpet.ru/wp-content/uploads/poroda-koshek-s-raznym-cvetom-glaz-3-1170x767.jpg)
 
 ## Hi everyone!
@@ -2135,20 +2139,20 @@ HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
 
 ## Hello kittens and adult cats
-I'm [Radonevsky](https://github.com/Radonevsky)  
-I wish the Kotans a successful completion of this course and prosperity!  
+I'm [Radonevsky](https://github.com/Radonevsky)
+I wish the Kotans a successful completion of this course and prosperity!
 ![cat-direction-into-space](https://avatars.mds.yandex.net/get-zen_doc/41204/pub_59804e6b256d5c589a7d46d3_59804fc848267766ecb468ca/scale_1200)
 
-## Hello Kottans community! 
+## Hello Kottans community!
 My name is [Anna](https://github.com/mightysidhe).
-So thrilled about learning front-end development. Looking forward to having a great time here. 
+So thrilled about learning front-end development. Looking forward to having a great time here.
 ![Not Friday](./assets/images/happy_thursday.png)
 
 # Hello everyone!
 I'm [Val](https://t.me/valholovko) and I'd be grateful to finally join your community!
-Hoping for the next course to start really soon :) 
-Aaand here are my cats Cherry and Mira: 
-![Cherry and Mira](assets/images/two-cats.jpg) 
+Hoping for the next course to start really soon :)
+Aaand here are my cats Cherry and Mira:
+![Cherry and Mira](assets/images/two-cats.jpg)
 
 ## Hey, peeps!
 I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
