@@ -2,7 +2,11 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-Hello! It's Pavlo and I learn GitHub
+Hi! It's Pavlo and I learn GitHub.
+I'm happy to be with kottans
+(https://github.com/kottans/git-course)
+
+Hello! It's Alex and I learn GitHub
 (https://github.com/Kottans/backend)
 
 
@@ -56,7 +60,7 @@ P.S. Where all postings before March 2018 have gone to?
 
 ---
 ## Hi Everyone!
-My name is Maks. I've started to study the front-end and I am glad to join the community! let's go! 
+My name is Maks. I've started to study the front-end and I am glad to join the community! let's go!
 ![Cat hi](https://aroundpet.ru/wp-content/uploads/poroda-koshek-s-raznym-cvetom-glaz-3-1170x767.jpg)
 
 ## Hi everyone!
@@ -2135,20 +2139,20 @@ HappyI am glad to join to your community.
 ![Cat](./assets/images/picture_with_cat.jpeg)
 
 ## Hello kittens and adult cats
-I'm [Radonevsky](https://github.com/Radonevsky)  
-I wish the Kotans a successful completion of this course and prosperity!  
+I'm [Radonevsky](https://github.com/Radonevsky)
+I wish the Kotans a successful completion of this course and prosperity!
 ![cat-direction-into-space](https://avatars.mds.yandex.net/get-zen_doc/41204/pub_59804e6b256d5c589a7d46d3_59804fc848267766ecb468ca/scale_1200)
 
-## Hello Kottans community! 
+## Hello Kottans community!
 My name is [Anna](https://github.com/mightysidhe).
-So thrilled about learning front-end development. Looking forward to having a great time here. 
+So thrilled about learning front-end development. Looking forward to having a great time here.
 ![Not Friday](./assets/images/happy_thursday.png)
 
 # Hello everyone!
 I'm [Val](https://t.me/valholovko) and I'd be grateful to finally join your community!
-Hoping for the next course to start really soon :) 
-Aaand here are my cats Cherry and Mira: 
-![Cherry and Mira](assets/images/two-cats.jpg) 
+Hoping for the next course to start really soon :)
+Aaand here are my cats Cherry and Mira:
+![Cherry and Mira](assets/images/two-cats.jpg)
 
 ## Hey, peeps!
 I'm [Sasha](https://github.com/SeggyFault). Happy to be here!
