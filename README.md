@@ -2171,3 +2171,8 @@ My name is Kateryna and I'm happy to join this community!
 
 My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new profession. So I am glad to join the community. I hope to get your help and support.
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
+
+## Meow!
+
+My name is [Vlad](https://github.com/kovalov).
+I'm a front-end newbie and a cat person.
