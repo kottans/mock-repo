@@ -2172,6 +2172,13 @@ My name is Kateryna and I'm happy to join this community!
 My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new profession. So I am glad to join the community. I hope to get your help and support.
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
 
+## Hi, everyone!
+My name is [Andrii Shchur](https://github.com/Acerpo). 
+Last time I did not start correctly, so we start from the beginning on 07/19/2022
+I want to learn frontend! 
+
+![Cat](./assets/images/mycat_A.jpg)
+
 ## Meow!
 
 My name is [Vlad](https://github.com/kovalov).
