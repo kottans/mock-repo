@@ -2176,4 +2176,5 @@ My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new 
 My name is [Andrii Shchur](https://github.com/Acerpo). 
 Last time I did not start correctly, so we start from the beginning on 07/19/2022
 I want to learn frontend! 
+
 ![Cat](./assets/images/mycat_A.jpg)
