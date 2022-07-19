@@ -59,6 +59,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi Guys!
+My name is Andrew. And I'm really happy to be enrolled to this course. Wish you all luck!
+![Cool cat](https://i.pinimg.com/736x/44/ab/03/44ab033488f3b73e1c24e2ae59d5106f.jpg)
+
 ## Hi Everyone!
 My name is Maks. I've started to study the front-end and I am glad to join the community! let's go!
 ![Cat hi](https://aroundpet.ru/wp-content/uploads/poroda-koshek-s-raznym-cvetom-glaz-3-1170x767.jpg)
