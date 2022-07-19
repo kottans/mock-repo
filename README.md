@@ -2178,3 +2178,8 @@ Last time I did not start correctly, so we start from the beginning on 07/19/202
 I want to learn frontend! 
 
 ![Cat](./assets/images/mycat_A.jpg)
+
+## Meow!
+
+My name is [Vlad](https://github.com/kovalov).
+I'm a front-end newbie and a cat person.
