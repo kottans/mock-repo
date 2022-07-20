@@ -2192,3 +2192,10 @@ I'm a front-end newbie and a cat person.
 
 My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
+
+## Hey!
+
+My name is [Slava](https://github.com/MstyslavDmytryk).
+I'm happy to have opportunity to learn Front-end here!
+
+![Cat](./assets/images/cat-image.jpg)
