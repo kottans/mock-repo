@@ -6,8 +6,7 @@ Hi! It's Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-Hello! It's Aleksandr and I learn GitHub
-(https://github.com/Kottans/backend)
+
 
 
 
@@ -2187,3 +2186,7 @@ I want to learn frontend!
 
 My name is [Vlad](https://github.com/kovalov).
 I'm a front-end newbie and a cat person.
+
+
+## Hello! It's Aleksandr and I learn GitHub
+[Aleksandr](https://github.com/kottans/frontend/)
