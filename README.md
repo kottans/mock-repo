@@ -2177,9 +2177,9 @@ My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new 
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
 
 ## Hi, everyone!
-My name is [Andrii Shchur](https://github.com/Acerpo). 
+My name is [Andrii Shchur](https://github.com/Acerpo).
 Last time I did not start correctly, so we start from the beginning on 07/19/2022
-I want to learn frontend! 
+I want to learn frontend!
 
 ![Cat](./assets/images/mycat_A.jpg)
 
@@ -2187,3 +2187,8 @@ I want to learn frontend!
 
 My name is [Vlad](https://github.com/kovalov).
 I'm a front-end newbie and a cat person.
+
+## Dobrogo vechora!
+
+My name is [Dan](https://github.com/4-13).
+I'm wanna be frontend developer.
