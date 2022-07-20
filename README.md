@@ -102,6 +102,11 @@ I hope meet there interesting projects and friends.)
 ## I changed this file.
 I know that you are than me.
 
+---
+## Hi Everyone! 😁
+My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
+![Kitty cat](/mock-repo/assets/images/kitty_cat.jpg)
+
 
 
 
