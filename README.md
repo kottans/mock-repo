@@ -2192,3 +2192,8 @@ I'm a front-end newbie and a cat person.
 
 My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
+
+## Hello!
+
+My name is Dmitry. Thank Kottans team for new knowledge and support!
+![Junior developer)](https://giphy.com/embed/cfuL5gqFDreXxkWQ4o)
