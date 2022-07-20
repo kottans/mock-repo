@@ -2227,4 +2227,4 @@ My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScri
 ## Hello!
 
 My name is Dmitry. Thank Kottans team for new knowledge and support!
-![Junior developer)](https://giphy.com/embed/cfuL5gqFDreXxkWQ4o)
+![Junior developer)](./assets/images/junior-devcat.webp)
