@@ -59,6 +59,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi Guys!
+My name is Andrew. And I'm really happy to be enrolled to this course. Wish you all luck!
+![Cool cat](https://i.pinimg.com/736x/44/ab/03/44ab033488f3b73e1c24e2ae59d5106f.jpg)
+
 ## Hi Everyone!
 My name is Maks. I've started to study the front-end and I am glad to join the community! let's go!
 ![Cat hi](https://aroundpet.ru/wp-content/uploads/poroda-koshek-s-raznym-cvetom-glaz-3-1170x767.jpg)
@@ -2172,9 +2176,22 @@ My name is Kateryna and I'm happy to join this community!
 My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new profession. So I am glad to join the community. I hope to get your help and support.
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
 
-
+---------------------------
 # Hello ~~World~~ Kottans
 My name is Illia. 
 Hope this kitty will grow up together with improving my programing skills
 
 ![kitty](gif/koshak.jpg)
+--------------------------
+
+## Hi, everyone!
+My name is [Andrii Shchur](https://github.com/Acerpo). 
+Last time I did not start correctly, so we start from the beginning on 07/19/2022
+I want to learn frontend! 
+
+![Cat](./assets/images/mycat_A.jpg)
+
+## Meow!
+
+My name is [Vlad](https://github.com/kovalov).
+I'm a front-end newbie and a cat person.
