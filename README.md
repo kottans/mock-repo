@@ -2192,3 +2192,6 @@ I'm a front-end newbie and a cat person.
 
 My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
+
+## Hello, everybody!
+My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
