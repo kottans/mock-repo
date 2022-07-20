@@ -2215,4 +2215,9 @@ I'm excited to join the Kottans community!
 ## Hello, everybody!
 My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
 
+## Hi people!
+
+My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScript but I want to improve my skills and spend my free time with nice people. 
+![My cat Kosya](./assets/images/my_little_cat.jpeg)
+
  
