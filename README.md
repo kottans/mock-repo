@@ -32,6 +32,8 @@ The change can be anything you like, for example: fixing a typo in README.md. Co
 *This was an intentionally misspelled phrase*
 
 
+
+
 Tell other kottans a couple of words and add a fancy picture.
 
 Try it! It’s fun, we promise :)
@@ -59,6 +61,12 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi, I'm Armen!
+
+I`m glad to join to Kottens community. Let's start our Front-End journey! Good luck to all of you! 
+![Hahaha](https://i0.wp.com/catcaresolutions.com/wp-content/uploads/2020/12/cute-cat-with-yellow-headband-on.png?fit=1000%2C1500&ssl=1)
+
+
 ## Hi Guys!
 My name is Andrew. And I'm really happy to be enrolled to this course. Wish you all luck!
 ![Cool cat](https://i.pinimg.com/736x/44/ab/03/44ab033488f3b73e1c24e2ae59d5106f.jpg)
