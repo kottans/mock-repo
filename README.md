@@ -176,6 +176,7 @@ Hi and pryvit 😺😺😺.
 ![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
 
 # Hello =)
+
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
 ![cat](gif/kotans.gif)
@@ -2232,7 +2233,7 @@ My name is [Ruslan](https://github.com/BlackTowerKing). Glad to be here.
 
 ---
 
-# Hi Everyone Im [Bazio](https://github.com/BazioDEV) from Thailand
+# Hi Everyone Im [Bazio](https://github.com/BazioDEV) from Thailan
 
 ---
 
