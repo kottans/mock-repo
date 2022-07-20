@@ -198,14 +198,14 @@ Hi and pryvit 😺😺😺.
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
 ![cat](gif/kotans.gif)
-=======
+
 # Hi Everybody!
 My name is Marina, and my inspiration - Vanya The Cat :D. Glad to join the community!
 
 ![Vanya](gif/vanya_the_cat.jpeg)
 
 ﻿# Hi Everybody!
-=======
+
 ﻿# Hi
 
 # Hello, everyone
@@ -351,7 +351,6 @@ We are happy to join you =^.^= !
 ![Juja](gif/my_cat_Juja.jpg)
 
 _______________________________
-=======
 ______________
 ## Hey People. That's good to become a part of this team!
 My name is Rustem and good luck to everyone!
@@ -2202,12 +2201,12 @@ I'm a front-end newbie and a cat person.
 My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
 
-<<<<<<< HEAD
+
 ## Hi!
 
 My name is [Vlad](https://github.com/Pozzitive11).
 I'm excited to join the Kottans community!
-=======
+
 ## Hello, everybody!
 My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
->>>>>>> master
+
