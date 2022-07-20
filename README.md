@@ -2219,3 +2219,7 @@ I'm excited to join the Kottans community!
 My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
 
  
+## Hello!
+
+My name is Dmitry. Thank Kottans team for new knowledge and support!
+![Junior developer)](https://giphy.com/embed/cfuL5gqFDreXxkWQ4o)
