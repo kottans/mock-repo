@@ -62,6 +62,9 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi, I'm Masha
+Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
+![The cat bangs its head against the laptop](https://giphy.com/gifs/hoppip-cat-drawing-11dR2hEgtN5KoM)
 ## Hi, I'm Armen!
 
 I`m glad to join to Kottens community. Let's start our Front-End journey! Good luck to all of you!
