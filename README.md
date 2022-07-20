@@ -2235,3 +2235,9 @@ My name is [Slava](https://github.com/MstyslavDmytryk).
 I'm happy to have opportunity to learn Front-end here!
 
 ![Cat](./assets/images/cat-image.jpg)
+
+***
+## Hello there
+My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
+![cat](./assets/images/300.png)
+
