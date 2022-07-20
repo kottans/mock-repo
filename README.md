@@ -59,6 +59,10 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi Everyone! 😁
+My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
+[![Kitty cat](../mock-repo/assets/images/kitty_cat.jpg)]
+
 ## Hi Guys!
 My name is Andrew. And I'm really happy to be enrolled to this course. Wish you all luck!
 ![Cool cat](https://i.pinimg.com/736x/44/ab/03/44ab033488f3b73e1c24e2ae59d5106f.jpg)
@@ -2177,9 +2181,9 @@ My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new 
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
 
 ## Hi, everyone!
-My name is [Andrii Shchur](https://github.com/Acerpo). 
+My name is [Andrii Shchur](https://github.com/Acerpo).
 Last time I did not start correctly, so we start from the beginning on 07/19/2022
-I want to learn frontend! 
+I want to learn frontend!
 
 ![Cat](./assets/images/mycat_A.jpg)
 
