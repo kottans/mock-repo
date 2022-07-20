@@ -6,7 +6,7 @@ Hi! It's Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-Hello! It's Alex and I learn GitHub
+Hello! It's Aleksandr and I learn GitHub
 (https://github.com/Kottans/backend)
 
 
