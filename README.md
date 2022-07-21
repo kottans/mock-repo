@@ -61,6 +61,11 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi, I'm Ivan
+Glad to join to the community)
+![Excited cat](https://www.meme-arsenal.com/memes/aa4bcbdd3663951801bae2d4fb1a1d0a.jpg)
+
+
 ## Hi, I'm Masha
 Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
 ![The cat bangs its head against the laptop](https://giphy.com/gifs/hoppip-cat-drawing-11dR2hEgtN5KoM)
