@@ -2440,30 +2440,3 @@ I'm excited to join the Kottans community!
 ## Hello, everybody!
 
 My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
-<<<<<<< HEAD
-=======
-
-## Hi people!
-
-My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScript but I want to improve my skills and spend my free time with nice people. 
-![My cat Kosya](./assets/images/my_little_cat.jpeg)
-
- 
-## Hello!
-
-My name is Dmitry. Thank Kottans team for new knowledge and support!
-![Junior developer)](./assets/images/junior-devcat.webp)
-
-## Hey!
-
-My name is [Slava](https://github.com/MstyslavDmytryk).
-I'm happy to have opportunity to learn Front-end here!
-
-![Cat](./assets/images/cat-image.jpg)
-
-***
-## Hello there
-My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
-![cat](./assets/images/300.png)
-
->>>>>>> master
