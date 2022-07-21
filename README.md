@@ -2274,3 +2274,9 @@ My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrast
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
 I'm wanna be frontend developer.))))))))
+
+
+
+
+## Hi, there! It's Andre Masko onboard!
+Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
