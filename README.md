@@ -60,6 +60,9 @@ P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+## Hello everyone!
+ I'm Maksim from Kyiv (https://github.com/maximmorenko). How are you?
+
 ---
 ## Hi, I'm Ivan
 Glad to join to the community)
@@ -2275,6 +2278,11 @@ My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this comm
 Thank you for this course!!!
 I'm wanna be frontend developer.))))))))
 
+
 ## Hello, everyone!
 My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this community!
 ![Chill](./assets/images/chill.jpg)
+
+
+## Hi, there! It's Andre Masko onboard!
+Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
