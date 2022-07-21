@@ -2200,11 +2200,6 @@ I want to learn frontend!
 My name is [Vlad](https://github.com/kovalov).
 I'm a front-end newbie and a cat person.
 
-<<<<<<< HEAD
-
-## Hello! It's Aleksandr and I learn GitHub
-[Aleksandr](https://github.com/kottans/frontend/)
-=======
 ## Dobrogo vechora!
 
 My name is [Dan](https://github.com/4-13).
@@ -2219,22 +2214,10 @@ I'm excited to join the Kottans community!
 ## Hello, everybody!
 My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
 
->>>>>>> master
 
 
 # kottans-frontend
 
-Hello my name Aleksandr. I am from Dnipro (Ukraine).
+Hello my name Aleksandr. I am from Dnipro (Ukraine).[Aleksandr](https://github.com/xtadeushx/kottans-fronten)d
 I am beginner frontend developer. The course about Git was very helpful and  interesting.
 
-# Linux CLI, and HTTP
-
-The tasks were very interesting for me. I will use Linux in future.
-![linux screen shot](../kottans-frontend/task_linux_cli/linux.jpg)
-(https://github.com/kottans/frontend/blob/2022_UA/tasks/linux-cli-http.md)
-
-## Intro to HTML and CSS
-The tasks were very interesting and interactive for me. I will use Linux in future.
-The lectors were simple to understand. 
-![HTML and CSS screen shot](../kottans-frontend/task_html_css_intro/HTML_CSS_basic.jpg)
-(https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-intro.md)
