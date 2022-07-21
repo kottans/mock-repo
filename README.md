@@ -1,3 +1,4 @@
+﻿
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -6,8 +7,7 @@ Hi! It's Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-Hello! It's Aleksandr and I learn GitHub
-(https://github.com/Kottans/backend)
+
 
 Hi,
 
@@ -18,6 +18,8 @@ You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 _This was an intentionally misspelled phrase_
+
+
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -47,6 +49,17 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+
+
+## Hi, I'm Masha
+Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
+![The cat bangs its head against the laptop](https://giphy.com/gifs/hoppip-cat-drawing-11dR2hEgtN5KoM)
+## Hi, I'm Armen!
+
+I`m glad to join to Kottens community. Let's start our Front-End journey! Good luck to all of you!
+![Hahaha](https://i0.wp.com/catcaresolutions.com/wp-content/uploads/2020/12/cute-cat-with-yellow-headband-on.png?fit=1000%2C1500&ssl=1)
+
+
 
 ## Hi Guys!
 
@@ -90,6 +103,22 @@ I hope meet there interesting projects and friends.)
 [![Ginger_cat](./assets/images/ginger_cat.jpg)](https://github.com/kottans/frontend)
 
 ## I changed this file.
+
+
+I know that you are than me.
+
+---
+## Hi Everyone! 😁
+My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
+[![Kitty cat](./assets/images/kitty_cat.jpg)](https://github.com/kottans/frontend)
+
+
+
+
+
+
+
+
 
 I know that you are than me.
 
@@ -178,7 +207,7 @@ Hi and pryvit 😺😺😺.
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
 ![cat](gif/kotans.gif)
-=======
+
 
 # Hi Everybody!
 
@@ -186,9 +215,15 @@ My name is Marina, and my inspiration - Vanya The Cat :D. Glad to join the commu
 
 ![Vanya](gif/vanya_the_cat.jpeg)
 
+
 # ﻿# Hi Everybody!
 
 # Hi
+
+﻿# Hi Everybody!
+
+﻿# Hi
+
 
 # Hello, everyone
 
@@ -357,11 +392,16 @@ We are happy to join you =^.^= !
 
 ![Juja](gif/my_cat_Juja.jpg)
 
----
-
-=======
 
 ---
+
+
+
+---
+
+
+_______________________________
+______________
 
 ## Hey People. That's good to become a part of this team!
 
@@ -2427,6 +2467,49 @@ I'm a front-end newbie and a cat person.
 My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
 
+
 ## Hi, everyone!
 
 My name is Daria and I'm happy to join this course!
+
+
+## Hello everyone!
+I'm Natalia,I live in Rivne and I like cats a lot.
+![My avatar](./assets/images/catVlasiyk.jpg)
+
+
+## Hi!
+
+My name is [Vlad](https://github.com/Pozzitive11).
+I'm excited to join the Kottans community!
+
+## Hello, everybody!
+My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
+
+## Hi people!
+
+My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScript but I want to improve my skills and spend my free time with nice people.
+![My cat Kosya](./assets/images/my_little_cat.jpeg)
+
+
+## Hello!
+
+My name is Dmitry. Thank Kottans team for new knowledge and support!
+![Junior developer)](./assets/images/junior-devcat.webp)
+
+## Hey!
+
+My name is [Slava](https://github.com/MstyslavDmytryk).
+I'm happy to have opportunity to learn Front-end here!
+
+![Cat](./assets/images/cat-image.jpg)
+
+***
+## Hello there
+My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
+![cat](./assets/images/300.png)
+
+
+## Hello there
+I am Aleksander I learn (https://github.com/kottans/)
+
