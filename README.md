@@ -2262,6 +2262,11 @@ My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world
 ## Hello there
 I am Aleksander I learn (https://github.com/kottans/)
 
+## Hello Kottans community!
+My name is [Anna](https://github.com/nensi-n).
+So cool to be here!
+![Meow](./assets/images/Kitty-hi.jpg)
+
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
-=======
+
