@@ -2262,4 +2262,7 @@ My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world
 ## Hello there
 I am Aleksander I learn (https://github.com/kottans/)
 
-
+## Hello Kottans community!
+My name is [Anna](https://github.com/nensi-n).
+So cool to be here!
+![Meow](./assets/images/Kitty-hi.jpg)
