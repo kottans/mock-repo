@@ -2188,12 +2188,6 @@ My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new 
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
 
 ---------------------------
-# Hello ~~World~~ Kottans
-My name is Illia. 
-Hope this kitty will grow up together with improving my programing skills
-
-![kitty](gif/koshak.jpg)
---------------------------
 
 ## Hi, everyone!
 My name is [Andrii Shchur](https://github.com/Acerpo).
@@ -2249,3 +2243,10 @@ I'm happy to have opportunity to learn Front-end here!
 My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
 ![cat](./assets/images/300.png)
 
+---------------------------------
+# Hello ~~World~~ Kottans
+My name is Illia. 
+Hope this kitty will grow up together with improving my programing skills
+
+![kitty](gif/koshak.jpg)
+--------------------------
