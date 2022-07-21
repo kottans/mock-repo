@@ -2266,3 +2266,7 @@ I am Aleksander I learn (https://github.com/kottans/)
 My name is [Anna](https://github.com/nensi-n).
 So cool to be here!
 ![Meow](./assets/images/Kitty-hi.jpg)
+
+## Hi all
+My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
+
