@@ -201,6 +201,12 @@ You can find me on [linkedin](https://www.linkedin.com/in/dm-poliuha/), or on [g
 
 ![dima](gif/giphy-hi.gif)
 
+# Hello, I'm Zhenya.
+
+## I want to be a kottan.
+
+Let's be friends [linkedin](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
+
 # Hello, Kottans!
 
 ## I'm so happy to be here!
