@@ -109,7 +109,10 @@ I hope meet there interesting projects and friends.)
 ## I changed this file.
 I know that you are than me.
 
-
+---
+## Hi Everyone! 😁
+My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
+[![Kitty cat](./assets/images/kitty_cat.jpg)](https://github.com/kottans/frontend)
 
 
 
@@ -2219,10 +2222,10 @@ My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this com
 
 ## Hi people!
 
-My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScript but I want to improve my skills and spend my free time with nice people. 
+My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScript but I want to improve my skills and spend my free time with nice people.
 ![My cat Kosya](./assets/images/my_little_cat.jpeg)
 
- 
+
 ## Hello!
 
 My name is Dmitry. Thank Kottans team for new knowledge and support!
