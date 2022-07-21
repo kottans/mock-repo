@@ -7,12 +7,7 @@ Hi! It's Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-<<<<<<< HEAD
 
-=======
-Hello! It's Aleksandr and I learn GitHub
-(https://github.com/Kottans/backend)
->>>>>>> master
 
 
 
@@ -66,6 +61,9 @@ P.S. Where all postings before March 2018 have gone to?
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
 ---
+## Hi, I'm Masha
+Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
+![The cat bangs its head against the laptop](https://giphy.com/gifs/hoppip-cat-drawing-11dR2hEgtN5KoM)
 ## Hi, I'm Armen!
 
 I`m glad to join to Kottens community. Let's start our Front-End journey! Good luck to all of you!
@@ -2206,6 +2204,11 @@ My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
 
 
+## Hello everyone!
+I'm Natalia,I live in Rivne and I like cats a lot.
+![My avatar](./assets/images/catVlasiyk.jpg)
+
+
 ## Hi!
 
 My name is [Vlad](https://github.com/Pozzitive11).
@@ -2214,10 +2217,26 @@ I'm excited to join the Kottans community!
 ## Hello, everybody!
 My name is [Serhii](https://github.com/Serjiklis) and I'm happy to join this community!
 
+## Hi people!
 
+My name is [Ivan](https://github.com/ivan-baidiuk). I'm not a newbee in JavaScript but I want to improve my skills and spend my free time with nice people. 
+![My cat Kosya](./assets/images/my_little_cat.jpeg)
 
-# kottans-frontend
+ 
+## Hello!
 
-Hello my name Aleksandr. I am from Dnipro (Ukraine).[Aleksandr](https://github.com/xtadeushx/kottans-fronten)d
-I am beginner frontend developer. The course about Git was very helpful and  interesting.
+My name is Dmitry. Thank Kottans team for new knowledge and support!
+![Junior developer)](./assets/images/junior-devcat.webp)
+
+## Hey!
+
+My name is [Slava](https://github.com/MstyslavDmytryk).
+I'm happy to have opportunity to learn Front-end here!
+
+![Cat](./assets/images/cat-image.jpg)
+
+***
+## Hello there
+My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
+![cat](./assets/images/300.png)
 
