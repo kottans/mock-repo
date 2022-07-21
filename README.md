@@ -2207,6 +2207,10 @@ My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
 
 
+## Hi, everyone!
+My name is Daria and I'm happy to join this course!
+
+
 ## Hello everyone!
 I'm Natalia,I live in Rivne and I like cats a lot.
 ![My avatar](./assets/images/catVlasiyk.jpg)
@@ -2246,3 +2250,4 @@ My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world
 
 ## Hello there
 I am Aleksander I learn (https://github.com/kottans/)
+
