@@ -1,4 +1,4 @@
-﻿
+
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -2246,3 +2246,6 @@ My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world
 
 ## Hello there
 I am Aleksander I learn (https://github.com/kottans/)
+
+# My impressions of the studied material
+It *wasn't* that hard to complete the course, even though I don't have prior experience with git. It took me one day to finish it. The only thing that is stiil a bit confusing is remote repos. Still, I'm testing my knowledge of it right now.
