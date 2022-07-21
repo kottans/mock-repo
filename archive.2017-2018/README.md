@@ -385,9 +385,3 @@ I'm Yuriy.
 # Here is  markdown  [wiki](https://ru.wikipedia.org/wiki/Markdown)
 and link to my [git](https://github.com/yuraer/)
 -------------------------
-
-# Hello ~~World~~ Kottans
-My name is Illia. 
-Hope this kitty will grow up together with improving my programing skills
-
-![kitty](gif/koshak.jpg)
