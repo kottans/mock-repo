@@ -2212,6 +2212,12 @@ My name is [Dan](https://github.com/4-13).
 I'm wanna be frontend developer.
 
 
+## Hello everyone!
+
+My name's [Volodymyr](https://github.com/jrskybell).
+Thank you for this course!!!
+
+
 ## Hi, everyone!
 My name is Daria and I'm happy to join this course!
 
@@ -2258,3 +2264,4 @@ I am Aleksander I learn (https://github.com/kottans/)
 
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
+=======
