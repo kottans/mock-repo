@@ -60,6 +60,9 @@ P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+## Hello everyone!
+ I'm Maksim from Kyiv (https://github.com/maximmorenko). How are you?
+
 ---
 ## Hi, I'm Ivan
 Glad to join to the community)
