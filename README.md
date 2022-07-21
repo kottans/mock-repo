@@ -2240,3 +2240,6 @@ I'm happy to have opportunity to learn Front-end here!
 My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
 ![cat](./assets/images/300.png)
 
+
+## Hello there
+I am Aleksander I learn (https://github.com/kottans/)
