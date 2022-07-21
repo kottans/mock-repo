@@ -2274,3 +2274,7 @@ My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrast
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
 I'm wanna be frontend developer.))))))))
+
+## Hello, everyone!
+My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this community!
+![Chill](./assets/images/chill.jpg)
