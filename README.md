@@ -2312,3 +2312,6 @@ Hi everyone.
 ## Hello there! My name is [Bohdan](www.github.com/Rokoboongee) and im study front-end
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
 I'm first time working with GitHub, its so fresh & cool expirience!!!
+
+## Hi! I'm [jedi master](https://github.com/OlStani)) May the 4th be with you!)
+![jedi cat](./gif/Nr8i.gif)
