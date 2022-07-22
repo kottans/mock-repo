@@ -2353,3 +2353,8 @@ Hope this kitty will grow up together with improving my programing skills
 ## Hi! I'm [jedi master](https://github.com/OlStani)) May the 4th be with you!)
 ![jedi cat](./gif/Nr8i.gif)
 
+## Hi, everybody !
+My name is [Ignat](https://github.com/CivilBitc4) and I'm happy to join this community!Thank you for this opportunity to be a part of this community.
+I hope that I and all  Kottans will be able to achieve good results in studying)
+![Kitten](./assets/images/my-cute-kitten.jpg)
+
