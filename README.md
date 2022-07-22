@@ -63,6 +63,11 @@ P.S. Where all postings before March 2018 have gone to?
 ## Hello everyone!
  I'm Maksim from Kyiv (https://github.com/maximmorenko). How are you?
 
+## Hello, I'm Nastya :wave:
+good luck)
+
+![This is an image](https://www.kindpng.com/picc/m/257-2570344_gta-san-andreas-mission-complete-png-transparent-png.png)
+
 ---
 ## Hi, I'm Ivan
 Glad to join to the community)
