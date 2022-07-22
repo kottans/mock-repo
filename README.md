@@ -2347,7 +2347,7 @@ I'm first time working with GitHub, its so fresh & cool expirience!!!
 My name is Illia. 
 Hope this kitty will grow up together with improving my programing skills
 
-![kitty](gif/koshak.jpg)
+![kitty](./assets/images/koshak.jpg)
 -----------------------------------
 
 ## Hi! I'm [jedi master](https://github.com/OlStani)) May the 4th be with you!)
