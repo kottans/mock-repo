@@ -43,6 +43,10 @@ P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+## Hello everyone!
+
+I'm Maksim from Kyiv (https://github.com/maximmorenko). How are you?
+
 ---
 
 ## Hi, I'm Ivan
@@ -2509,6 +2513,15 @@ My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrast
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
 I'm wanna be frontend developer.))))))))
+
+# <<<<<<< HEAD
+
+## Hello, everyone!
+
+My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this community!
+![Chill](./assets/images/chill.jpg)
+
+> > > > > > > master
 
 ## Hi, there! It's Andre Masko onboard!
 
