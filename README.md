@@ -3,7 +3,7 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-Hi! It's Pavlo and I learn GitHub.
+Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
@@ -21,7 +21,9 @@ I'm happy to be with kottans
 
 
 
-Hi,
+
+## Hi, I'm Anfisa! I'm from Kharkiv. What is about u?
+
 
 This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
 [backend](https://github.com/Kottans/backend),
