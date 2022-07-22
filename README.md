@@ -3,7 +3,7 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-Hi! It's Pavlo and I learn GitHub.
+Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
@@ -21,7 +21,9 @@ I'm happy to be with kottans
 
 
 
-Hi,
+
+## Hi, I'm Anfisa! I'm from Kharkiv. What is about u?
+
 
 This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
 [backend](https://github.com/Kottans/backend),
@@ -2295,6 +2297,17 @@ Thank you for this opportunity to be a part of this community and learn intersti
 ## Hello everyone! Sonia is here!
 I am very happy to see you all here! 
 Good luck, have fun and don't forget to practice coding every day <3
+
+
+## Hello, everyone!
+My name is [Bogdan](https://github.com/BogdanGapon). Hello.
+
+
+## Hi
+I'm am a new Kottans student. I'm very exited to learn Frontend.
+
+Hi everyone.
+
 
 ## Hello there! My name is [Bohdan](www.github.com/Rokoboongee) and im study front-end
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
