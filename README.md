@@ -2229,6 +2229,8 @@ My name is Kateryna and I'm happy to join this community!
 My name is [Dima](https://github.com/dimonlakhin). I decided to switch to a new profession. So I am glad to join the community. I hope to get your help and support.
 ![This is my own cat Shaya](./assets/images/dimon89.jpg)
 
+---------------------------
+
 ## Hi, everyone!
 My name is [Andrii Shchur](https://github.com/Acerpo).
 Last time I did not start correctly, so we start from the beginning on 07/19/2022
@@ -2293,6 +2295,7 @@ I'm happy to have opportunity to learn Front-end here!
 My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world.
 ![cat](./assets/images/300.png)
 
+--------------------------
 
 ## Hello there
 I am Aleksander I learn (https://github.com/kottans/)
@@ -2338,5 +2341,15 @@ Hi everyone.
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
 I'm first time working with GitHub, its so fresh & cool expirience!!!
 
+
+---------------------------------
+# Hello ~~World~~ Kottans
+My name is Illia. 
+Hope this kitty will grow up together with improving my programing skills
+
+![kitty](gif/koshak.jpg)
+-----------------------------------
+
 ## Hi! I'm [jedi master](https://github.com/OlStani)) May the 4th be with you!)
 ![jedi cat](./gif/Nr8i.gif)
+
