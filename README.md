@@ -1,8 +1,4 @@
-﻿## Slava Ukraine!
 
-I'm Volodymyr. We believe in victory! And slava Kottans ).
-
-![cat-sheriff](gif/meow.png)
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -49,7 +45,22 @@ P.S. Where all postings before March 2018 have gone to?
 [Here they are!](archive.2017-2018/README.md)
 (git tag [`v.2017-2018`](https://github.com/kottans/mock-repo/tree/v.2017-2018))
 
+## Hello everyone!
+ I'm Maksim from Kyiv (https://github.com/maximmorenko). How are you?
+
 ---
+
+## Slava Ukraine!
+
+I'm Volodymyr. We believe in victory! And slava Kottans ).
+
+![cat-sheriff](gif/meow.png)
+
+## Hi, I'm Ivan
+Glad to join to the community)
+![Excited cat](https://www.meme-arsenal.com/memes/aa4bcbdd3663951801bae2d4fb1a1d0a.jpg)
+
+
 
 ## Hi, I'm Masha
 
@@ -2445,6 +2456,17 @@ I'm wanna be frontend developer.
 
 ## Hello everyone!
 
+
+My name's [Volodymyr](https://github.com/jrskybell).
+Thank you for this course!!!
+
+
+## Hi, everyone!
+My name is Daria and I'm happy to join this course!
+
+
+## Hello everyone!
+
 I'm Natalia,I live in Rivne and I like cats a lot.
 ![My avatar](./assets/images/catVlasiyk.jpg)
 
@@ -2484,3 +2506,25 @@ My name is Roman. Let's start this ~~20 minute~~ adventure in the frontend world
 ## Hello there
 
 I am Aleksander I learn (https://github.com/kottans/)
+
+## Hello Kottans community!
+My name is [Anna](https://github.com/nensi-n).
+So cool to be here!
+![Meow](./assets/images/Kitty-hi.jpg)
+
+## Hi all
+My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
+
+## Hello, everyone!
+My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
+Thank you for this course!!!
+I'm wanna be frontend developer.))))))))
+
+
+## Hello, everyone!
+My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this community!
+![Chill](./assets/images/chill.jpg)
+
+
+## Hi, there! It's Andre Masko onboard!
+Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
