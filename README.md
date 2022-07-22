@@ -2295,3 +2295,7 @@ Thank you for this opportunity to be a part of this community and learn intersti
 ## Hello everyone! Sonia is here!
 I am very happy to see you all here! 
 Good luck, have fun and don't forget to practice coding every day <3
+
+## Hello there! My name is [Bohdan](www.github.com/Rokoboongee) and im study front-end
+![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
+I'm first time working with GitHub, its so fresh & cool expirience!!!
