@@ -1,0 +1,1458 @@
+[33mcommit c67e83779d32e779577f26fdb15655c30ebccbab[m[33m ([m[1;36mHEAD -> [m[1;32mkottans[m[33m)[m
+Author: BogdanGapon <bogdangaponenko1996@gmail.com>
+Date:   Fri Jul 22 18:47:05 2022 +0300
+
+    Revert "change some problems"
+    
+    This reverts commit 47efa1c0832da55b73fdb007565dc332d189b316.
+
+[33mcommit 52586fb57e171d663f511e3974c3922536832fa8[m
+Author: BogdanGapon <bogdangaponenko1996@gmail.com>
+Date:   Fri Jul 22 18:46:59 2022 +0300
+
+    Revert "Revert "change some problems""
+    
+    This reverts commit 8cff3e39439ebfa3058a953bccc3ae954b0edc44.
+
+[33mcommit 8cff3e39439ebfa3058a953bccc3ae954b0edc44[m
+Author: BogdanGapon <bogdangaponenko1996@gmail.com>
+Date:   Fri Jul 22 18:46:44 2022 +0300
+
+    Revert "change some problems"
+    
+    This reverts commit 47efa1c0832da55b73fdb007565dc332d189b316.
+
+[33mcommit 47efa1c0832da55b73fdb007565dc332d189b316[m
+Author: BogdanGapon <bogdangaponenko1996@gmail.com>
+Date:   Fri Jul 22 18:18:03 2022 +0300
+
+    change some problems
+
+[33mcommit ffe919c5f501f5b06f3f7522558ccf5a98fc77c1[m
+Merge: b863705 fbbbb04
+Author: BogdanGapon <bogdangaponenko1996@gmail.com>
+Date:   Fri Jul 22 12:39:53 2022 +0300
+
+    Merge branch 'master' into kottans
+
+[33mcommit b86370567178bcb6f9c3ca993887fc772ccaddec[m
+Author: BogdanGapon <bogdangaponenko1996@gmail.com>
+Date:   Fri Jul 22 12:30:25 2022 +0300
+
+    add new user
+
+[33mcommit fbbbb04bb24ac87586e561539eab95be7dd9142b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Alexei Gladkov <109597745+AlexeiGladkov@users.noreply.github.com>
+Date:   Fri Jul 22 02:12:56 2022 +0300
+
+    Test (#655)
+
+[33mcommit dbc342c5fa923e17d4fbc946ee9a3c26bfd6b8f6[m
+Author: maximmorenko <60241469+maximmorenko@users.noreply.github.com>
+Date:   Fri Jul 22 01:55:46 2022 +0300
+
+    добавил инфо в readme (#657)
+
+[33mcommit 98959a0a2cfc2ae38a75f3a975c7f518d073aa2f[m
+Author: Andre Masko <71942465+Andre-Green@users.noreply.github.com>
+Date:   Fri Jul 22 01:21:20 2022 +0300
+
+    Greeting Andre Masko!!! (#654)
+
+[33mcommit ce793826882fdc4f5a8a1f6aa9595191ffc2c9ed[m
+Author: FoxYulya <102688044+FoxYulya@users.noreply.github.com>
+Date:   Thu Jul 21 23:27:38 2022 +0300
+
+    Test (#653)
+
+[33mcommit 7c38ca65ce5e9ffc8142e13f9883b3dc14300020[m
+Author: Anna <78613890+nensi-n@users.noreply.github.com>
+Date:   Thu Jul 21 19:30:49 2022 +0300
+
+    Add my hello (#651)
+
+[33mcommit 4354abcba7f23775ea5c96dbfdd0af0131686b21[m
+Author: Bohdan Mukha <47007157+bmukha@users.noreply.github.com>
+Date:   Thu Jul 21 19:22:09 2022 +0300
+
+    introduced myself (#648)
+
+[33mcommit 2ccdaba1207db181a6dc087770d12976b5bc1e87[m
+Author: jrskybell <elbaievv@gmail.com>
+Date:   Thu Jul 21 14:58:29 2022 +0300
+
+    Added my info into README.md (#649)
+
+[33mcommit 9580011a206272b5be9edf5be62c426c900e4a0d[m
+Author: Ivan Chukhalo <ivanchukhalo@gmail.com>
+Date:   Thu Jul 21 14:09:08 2022 +0300
+
+    feat: add ivan's greeting (#647)
+
+[33mcommit d738f672fa3aa8295bbcd84f43c7ae9ed15737d8[m
+Author: Daria <72020978+kkkovalllchuk@users.noreply.github.com>
+Date:   Thu Jul 21 14:08:36 2022 +0300
+
+    upd (#646)
+
+[33mcommit 41d45bd05af4ed23d24b7fc7bffd59aae530071b[m
+Author: DarkSoulH <101942877+DarkSoulH@users.noreply.github.com>
+Date:   Thu Jul 21 10:51:58 2022 +0300
+
+    taras-mavrovich-kottans: added greetings (#644)
+
+[33mcommit 52b7c62543357ce4b47d2fea6c5143f358a8438c[m
+Author: Aleksandr Cherkasov <78417796+xtadeushx@users.noreply.github.com>
+Date:   Thu Jul 21 10:47:31 2022 +0300
+
+    Feature (#643)
+    
+    * fix: change username in README.nd
+    
+    * fix: change url to task
+    
+    * fix: change README add HTML and Css
+    
+    * fix: change README
+
+[33mcommit 4059a317f9404861a33247b16f8556729a6411d5[m
+Author: Roman Kovalenko <50929573+DeadRedmond@users.noreply.github.com>
+Date:   Thu Jul 21 01:57:30 2022 +0300
+
+    added new greeting (#642)
+
+[33mcommit 00fadf0c140794d60c06adfec1d6d6dc30eac777[m
+Author: Mstyslav Dmytryk <mstyslavdmytryk@gmail.com>
+Date:   Thu Jul 21 00:14:56 2022 +0300
+
+    README update (#641)
+
+[33mcommit e3203ad8b8e3375a47224e6c9c64468ca34c089b[m
+Author: DmitryHniezdilov <hniezdilovd@gmail.com>
+Date:   Wed Jul 20 23:14:55 2022 +0300
+
+    fix: change connecting image (#639)
+    
+    * docs: add message
+    
+    * fix: change connecting image to local assets
+
+[33mcommit df8acfb0c00a8d41ec801c5c7dbada032256d3aa[m
+Author: Ivan <perl.php.c@gmail.com>
+Date:   Wed Jul 20 22:44:06 2022 +0300
+
+    My start on frontend course (#637)
+
+[33mcommit 9ab9a9c9f16fd38aa8e467c4af8cfdaa26fc4f5c[m
+Author: DmitryHniezdilov <hniezdilovd@gmail.com>
+Date:   Wed Jul 20 22:14:07 2022 +0300
+
+    docs: add message (#630)
+
+[33mcommit e6ccf6991426cadf9ebeea2c549c787c40189043[m
+Author: kuslosolodka <97099358+kuslosolodka@users.noreply.github.com>
+Date:   Wed Jul 20 20:53:15 2022 +0300
+
+    Added local feature branch to master (#636)
+    
+    * added changes to README.md
+    
+    * added cat gif to gif folder
+
+[33mcommit c8b65c42149a4a43fe119113f9771b5ea0435e4b[m
+Author: Natalia Vlasiyk <67798047+Natalia-77@users.noreply.github.com>
+Date:   Wed Jul 20 20:52:21 2022 +0300
+
+    Add my own image info (#635)
+
+[33mcommit 752dae81fb4a69a8e5a6f92e8a83af542b174359[m
+Author: Pozzitive11 <79833719+Pozzitive11@users.noreply.github.com>
+Date:   Wed Jul 20 20:11:47 2022 +0300
+
+    changed README file (#624)
+    
+    * solve merge conflict
+    * added a few words about himself
+    * deleted all lines which was automatically added
+
+[33mcommit c46aeb1bbd7e6382366ca5b6c4898bb519e4c458[m
+Author: Armen <87765970+armenter66@users.noreply.github.com>
+Date:   Wed Jul 20 19:49:17 2022 +0300
+
+    Cool Ter (#628)
+
+[33mcommit 2974b4ef6da055da608f8790147787b5f3dd908b[m
+Author: SerhiiM <71043316+Serjiklis@users.noreply.github.com>
+Date:   Wed Jul 20 19:48:32 2022 +0300
+
+    Hi I am Serhii (#627)
+
+[33mcommit b5beb8a7aa1fdb4ca8903619b2c675840858b57e[m
+Author: Aleksandr Cherkasov <78417796+xtadeushx@users.noreply.github.com>
+Date:   Wed Jul 20 12:39:55 2022 +0300
+
+    fix: change username in README.md (#622)
+
+[33mcommit a856d74e9df754ff9502c47d1e3cb4c8d07d088f[m
+Author: dan <16972926+4-13@users.noreply.github.com>
+Date:   Wed Jul 20 12:17:47 2022 +0300
+
+    update: add info (#623)
+    
+    fix: del endline spaces(onSave formatter in vs code)
+
+[33mcommit a84c0c45aad02de0d514816d250c0ebdebff5684[m
+Author: Andrew Bersh <45330373+andrewbersh@users.noreply.github.com>
+Date:   Tue Jul 19 23:17:46 2022 +0300
+
+    updated README.MD (#614)
+    
+    Co-authored-by: Andry1b45 <45330373+Andry1b45@users.noreply.github.com>
+
+[33mcommit 70ed3c7b77bc22b26719dc9bf7b8acc98aa4a82f[m
+Author: Andrii Shchur <andriishchur1@gmail.com>
+Date:   Tue Jul 19 22:41:30 2022 +0300
+
+    Acerpo personal branch (#620)
+    
+    * Add my welcome card
+    
+    * Fixed an issue regarding Markdown
+    
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit 5d3f1f7cf371171b2b7511b911aa021578e04889[m
+Author: Vlad Kovalov <vlad.kovalov.92@gmail.com>
+Date:   Tue Jul 19 22:39:05 2022 +0300
+
+    added new greeting (#621)
+
+[33mcommit 1b57be67cd7e4a28305bbc694d4f418d009846c0[m
+Author: pashapushak1996 <52862868+pashapushak1996@users.noreply.github.com>
+Date:   Tue Jul 19 12:23:26 2022 +0300
+
+    Pavlo Pushak (#616)
+
+[33mcommit 314c1a509b7d9975133428cb5929f973e9ad4fd2[m
+Author: dimonlakhin <107846685+dimonlakhin@users.noreply.github.com>
+Date:   Sun Jul 3 23:11:02 2022 +0300
+
+    join to community (#613)
+
+[33mcommit f7aab189ddcb98b36d7b913c1bfb52ff3454c578[m
+Author: Alexey.B <60400026+AlexeyBarsukov@users.noreply.github.com>
+Date:   Mon Nov 22 21:55:37 2021 +0300
+
+    I changed README (#599)
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * LEARN GitHub the little kottans
+    
+    You should to learn it! I love you, kottans
+    
+    Co-authored-by: Alexey <alexeyBARSalexey@mail.ru>
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit d806140413ab6ee80eef27b6497fa65b1215fa66[m
+Author: 555Maks <73818255+555Maks@users.noreply.github.com>
+Date:   Sat Nov 20 15:10:32 2021 +0200
+
+    add hi everyone to readme (#600)
+    
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit 040de9ecc5120c0838e6deaef541ac599a83098b[m
+Author: Artem Sychov <[artem.suchov@gmail.com]>
+Date:   Mon Nov 15 17:36:21 2021 +0200
+
+    remove duplicate
+
+[33mcommit 69dd7aa673ce0967448c8d387b74ba669abbfe25[m
+Author: Artem Sychov <[artem.suchov@gmail.com]>
+Date:   Mon Nov 15 17:34:08 2021 +0200
+
+    some cleenup
+
+[33mcommit 280055599051e81020400fe3aea77feee5d4b735[m
+Author: Ivan <62026195+Radonevsky@users.noreply.github.com>
+Date:   Mon Nov 15 18:28:57 2021 +0300
+
+    Radonevsky (#603)
+    
+    * hello
+    
+    * Update README.md
+    
+    Co-authored-by: Radonevsky <Radonevsky@users.noreply.github.com>
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit bf6fd564ff9974827cdd006b07268bf844537e3d[m
+Author: kit-kater <pysaryna@gmail.com>
+Date:   Sun Nov 14 20:10:09 2021 +0200
+
+    add greeting to readme file (#609)
+    
+    * add greeting to readme file
+    
+    * fix greeting in readme file
+    
+    Co-authored-by: katerynaP <katepysarska@gmail.com>
+
+[33mcommit b02a34efee14bba8d6b0de750c43af99b6400085[m
+Author: shiboliv <81552870+shiboliv@users.noreply.github.com>
+Date:   Sat Nov 13 16:19:27 2021 +0200
+
+    Update README.md (#604)
+    
+    # Hi kottans!
+    
+    Hello everyone! My name is Igor. I am from Kiev. I'm very happy to join this community !!!
+    ![cat](https://sntch.com/uploads/2019/08/DFuz9LKXsAALDxY.jpg)
+    
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit dc6a3ec7de991f02d50f558497e4f3168c199c2a[m
+Author: mightysidhe <67547476+mightysidhe@users.noreply.github.com>
+Date:   Fri Nov 12 10:07:38 2021 +0200
+
+    My first commit to Kottans (#606)
+    
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit f919bf5080a128eaa7ac6f6685ae6cf78465faab[m
+Author: valholovko <73389097+valholovko@users.noreply.github.com>
+Date:   Wed Nov 10 22:40:36 2021 +0200
+
+    Add greetings (#607)
+    
+    * Added greeting
+    
+    * Fixed a typo (#158)
+    
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit db01b593c15e29b66820da79203b8d92e2f5e90f[m
+Author: Seg <60195328+SeggyFault@users.noreply.github.com>
+Date:   Wed Nov 10 22:38:19 2021 +0200
+
+    Add greeting from Sasha (#605)
+    
+    Co-authored-by: Artem Sychov <artem.suchov@gmail.com>
+
+[33mcommit 16c4d0f74a90c4004be5a612adfa1d788416b631[m
+Author: Luba <liubov.tropina@gmail.com>
+Date:   Wed Nov 10 22:35:37 2021 +0200
+
+    A new student: intro and pic. (#602)
+    
+    Co-authored-by: Luba Tropina <luba.tropina.w@gmail.com>
+
+[33mcommit 41891a3ab508293cb62862d516d678a8d30df44c[m
+Author: EhidnayaLuna <47723944+EhidnayaLuna@users.noreply.github.com>
+Date:   Wed Nov 10 16:09:34 2021 +0200
+
+    First commited here (#608)
+    
+    * First commited here
+    sorry if it not right
+    
+    * Fixed First commit
+
+[33mcommit e975d189ee88c7ed72607df3c906673249da3a45[m
+Author: Vladyslav Maistruk <vladyslav.maistruk@gmail.com>
+Date:   Fri Jan 22 23:14:07 2021 +0200
+
+    Say Hello massage (#597)
+
+[33mcommit 81d71cfc1ca2b21cd23e8a31b593d40bf3a0894d[m
+Author: maxlys <maxim.lysikov@gmail.com>
+Date:   Fri Jan 22 05:31:14 2021 -0800
+
+    Feature (#598)
+    
+    * fixing typo in "coomunity"
+    
+    * Greeting message to Kottans!
+
+[33mcommit 9fc0fadb3a4e923b039e927e4df940ffb898d2ba[m
+Author: Yurii <elgynart@gmail.com>
+Date:   Mon Jan 11 00:57:29 2021 +0200
+
+    first commit (#596)
+
+[33mcommit 58d8a35022fc9b210f6453ac9097d1919820d5b5[m
+Author: SamVal007 <75952924+SamVal007@users.noreply.github.com>
+Date:   Mon Dec 28 21:25:57 2020 +0200
+
+    Update README.md (#592)
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    Insert the image by the link
+    
+    * Update README.md
+    
+     insert the image by the link
+
+[33mcommit 384aa5a6315096d52fbc24d9acd5c4c64f15228e[m
+Author: Alex <alex.fr26@yahoo.com>
+Date:   Mon Dec 28 20:59:36 2020 +0200
+
+    Update README.md (#594)
+
+[33mcommit 078e4ca4eeff68e920e11f4ec852830e0f769f2b[m
+Author: AlexeyBondziuk <47993857+AlexeyBondziuk@users.noreply.github.com>
+Date:   Wed Dec 16 23:40:06 2020 +0200
+
+    Added a greeting to the end of the README (#591)
+    
+    Co-authored-by: AlexeyBondziuk <o.v.bondziuk@gmail.com>
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit fd8c6f4d405814448bdd37b489a2628db21976c2[m
+Author: Harnytskyi <37344756+Harnytskyi@users.noreply.github.com>
+Date:   Wed Dec 16 23:22:02 2020 +0200
+
+    Greeting from Andrii (#590)
+
+[33mcommit 0331ef654f82b993c9441fe3d0ec7d4a3d054f8c[m
+Author: GeorgeWBoo <32477362+GeorgeWBoo@users.noreply.github.com>
+Date:   Mon Dec 14 00:18:26 2020 +0200
+
+    Add greetings fron another kottan, Myhkhailo (#587)
+    
+    * Add greetings fron another kottan, Myhkhailo
+    
+    * nothing special
+    
+    * Revert "Here is a newcomer (#572)"
+    
+    This reverts commit 2b4d4cbc139faf2e9a052219f37eae54a5e9a34f.
+    
+    * Add greetings from another kottan, Mykhailo (fix)
+    
+    I made my code-editor stop do stuff with newlines and whitespaces,
+    reverted to that commit where I first cloned the repo, and
+    finally added my changes. Hopefully, this time everything will work out.
+    
+    * Adds the previously deleted whitespaces
+    
+    All the conflicts have been resolved
+    
+    * Final conflict fix
+    
+    * Final-final conflict fix
+    
+    * Resolves conflict and adds my greetings
+    
+    * Makes absolutely no conflicts
+
+[33mcommit cf2338f2920e9aa12720ac7b826c213b69fe3008[m
+Author: Bazio DEV <74423429+BazioDEV@users.noreply.github.com>
+Date:   Thu Dec 10 04:43:15 2020 +0700
+
+    Update README.md (#577)
+    
+    Greeting to Kottans from Bazio
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit 8c17bfdaf40a0c4815bb9cbf6790fa71565751f3[m
+Author: f3d0t <62726575+f3d0t@users.noreply.github.com>
+Date:   Mon Dec 7 01:58:49 2020 +0300
+
+    greetings from @f3d0t (#586)
+
+[33mcommit 98096c49ef5d69f62daaa93911e43c72596921cb[m
+Author: AntonKottans <75116575+AntonKottans@users.noreply.github.com>
+Date:   Sun Dec 6 02:19:57 2020 +0300
+
+    Greeting, added snowy image (#573)
+    
+    * added snowy image
+    
+    * added greetings and image
+    
+    * fixed quote
+    
+    * fixed image path
+    
+    * fixed heading
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit 33b89fc887f14b20dc83df8400e226f6d1f077f1[m
+Author: CetteAnnette <75530054+CetteAnnette@users.noreply.github.com>
+Date:   Sun Dec 6 01:12:56 2020 +0200
+
+    Anna greeting (#583)
+    
+    * My self-introduction.
+    
+    * Fixed the phrase
+    
+    * Update README.md
+    
+    revert fixes for sentence
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit 4a4e97a0083df5862ba087042a393c270ae346b8[m
+Author: NickKretsu <45148053+NickKretsu@users.noreply.github.com>
+Date:   Thu Dec 3 21:36:02 2020 +0200
+
+    new commit (#539)
+    
+    * new commit
+    
+    * added !
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit 3836b9d38fe0222f1f0d1155b016c40892a314ae[m
+Author: Yuliia-Urikh <52472549+Yuliia-Urikh@users.noreply.github.com>
+Date:   Thu Dec 3 00:16:15 2020 +0200
+
+    Kottans welcome (#581)
+
+[33mcommit df5135798c7b09d0adb336bc111492e72b39e47b[m
+Author: Spade <dima.machulsky@gmail.com>
+Date:   Tue Dec 1 23:27:54 2020 +0200
+
+    first commit (#574)
+    
+    * first commit
+    
+    * fix
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit f3ed55c81621d420108d3bf305c3a38d3880405a[m
+Author: Artem Trubin <17trubin@gmail.com>
+Date:   Tue Dec 1 23:20:41 2020 +0200
+
+    Added a spacecat (#578)
+    
+    * Added a spacecat
+    
+    * Update README.md
+    
+    Returned the bracked, as asked in pull request comments.
+
+[33mcommit be7f210d0854c88db57b80aadfb9556eac85ab46[m
+Author: Roman <75050530+Tsapfik@users.noreply.github.com>
+Date:   Tue Dec 1 00:27:20 2020 +0200
+
+    Add greating from Semyon (#579)
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit ab3a426001a3f91036f8a95c25fc6d574ce07257[m
+Author: viktoriavasechk <74135402+viktoriavasechk@users.noreply.github.com>
+Date:   Mon Nov 30 22:01:10 2020 +0100
+
+    add Vika to readme file (#537)
+    
+    Co-authored-by: viktoria <vasechkoviktoria@gmail.com>
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit 8286435ceff4c61c82006177c6b9d0fb578e257c[m
+Author: Illia Kasianenko <kasio87@ukr.net>
+Date:   Sun Nov 29 01:43:40 2020 +0200
+
+    Add greeting to Kottans from Kasionio (#570)
+    
+    * Add greeting to Kottans from Kasionio
+    
+    * Add removed code
+    
+    Co-authored-by: lenadgit <10871447+lenadgit@users.noreply.github.com>
+
+[33mcommit 2b4d4cbc139faf2e9a052219f37eae54a5e9a34f[m
+Author: alstep07 <64899972+alstep07@users.noreply.github.com>
+Date:   Fri Nov 27 19:51:54 2020 +0200
+
+    Here is a newcomer (#572)
+
+[33mcommit 246cde51f159897ad04e9ddc08edc5120a5eb214[m
+Author: Ruslan Opryshko <40788703+BlackTowerKing@users.noreply.github.com>
+Date:   Thu Nov 26 23:27:36 2020 +0200
+
+    first step to start the program (#571)
+
+[33mcommit 2c73dcac71074122f119355b7b3c576554a5d871[m
+Author: Labsik <43314248+Labsik@users.noreply.github.com>
+Date:   Wed Nov 25 23:00:50 2020 +0200
+
+    Laskir start (#569)
+
+[33mcommit 720f1a7f8b55ac13c3003afdd0ba593933d31646[m
+Author: Zorbin <55947405+4zorbin@users.noreply.github.com>
+Date:   Tue Nov 24 19:13:03 2020 +0200
+
+    pls add my Cat too (#566)
+    
+    * Update README.md
+    
+    * newCat
+    
+    * Update README.md
+    
+    fix path to img
+    
+    Co-authored-by: lenadgit <lena.boruslav@gmail.com>
+
+[33mcommit 67a77194d973b00a38dd95ace24a995f2cfef0ae[m
+Author: kt-std <74820334+kt-std@users.noreply.github.com>
+Date:   Tue Nov 24 19:05:31 2020 +0200
+
+    Feature (#568)
+    
+    * Upload picture of cat to assets folder
+    
+    * Update README.md with greeting
+
+[33mcommit 1ad3cb596aa48455a7b1c66d52fe79142c6d8e26[m
+Author: Oleksandr <72755893+mikromajor@users.noreply.github.com>
+Date:   Sun Nov 22 13:50:42 2020 +0100
+
+    add coala.jpg and text in README (#565)
+
+[33mcommit 7463a2a05408f16d3837bf2195603b6752a11061[m
+Author: Dmitri Tatarenko <32356545+Mitl@users.noreply.github.com>
+Date:   Sat Nov 21 22:32:34 2020 +0200
+
+    New branch (#564)
+    
+    * Added Hello message
+    
+    * Edited the picture in Welcome message
+    
+    * adding welcome message
+
+[33mcommit 51beafd4baaa53d2909540046d191bdef712fa62[m
+Author: Alexander <alexsanq@mail.ru>
+Date:   Sat Nov 21 01:22:47 2020 +0200
+
+    "test commit" (#559)
+
+[33mcommit 6f2576401ccc168bb008aa5fe2c18a241cbeb586[m
+Author: Nataliya_Kholodkova <n_kholodkova@ukr.net>
+Date:   Fri Nov 20 22:57:51 2020 +0200
+
+    My commit with siameseCat from Kholodkova Nataliya (#556)
+    
+    * My commit with siameseCat
+    
+    * Fixed typos
+
+[33mcommit 04f7a91ce539972a42a23aa4512ad4f2fb95d36e[m
+Author: Mihail Yankovskyi <72650558+mihail-yankovskyi@users.noreply.github.com>
+Date:   Thu Nov 19 22:58:58 2020 +0200
+
+    feat(README.md): added new user Michel Yankovskyi (#558)
+
+[33mcommit 8b5a55f44adac11b7d2f7343d6bd9b634c9ce2e4[m
+Author: Tati <tativdovina@gmail.com>
+Date:   Mon Nov 16 23:46:02 2020 +0200
+
+    greeting message added (#553)
+
+[33mcommit e50e9773140c1d9d3b36d1a2201364d80a3b0976[m
+Author: LGeorge007 <62594010+LGeorge007@users.noreply.github.com>
+Date:   Sun Nov 15 20:58:35 2020 +0200
+
+    L george007 (#551)
+    
+    * My first commit
+    
+    * my second comment
+
+[33mcommit 8bac43a73aebba377f634d2fe90b7ca105ba11a7[m
+Author: Ivan Filichev <63339255+strumerlz@users.noreply.github.com>
+Date:   Sat Nov 14 14:08:40 2020 +0200
+
+    Add greeting message and correct typo in README (#536)
+    
+    * docs: added greating to README.md
+    
+    * added coding cat gif to the greeting
+    
+    * docs: corrected typos at the line #13 (misSpellEd)
+    
+    * Revert "docs: corrected typos at the line #13 (misSpellEd)"
+    
+    This reverts commit c45925eaada88dcb39255e94216a3249f6b51259.
+    
+    * Edit the header of my greeting message
+    
+    * move greeting massage to the end of file to resolve merge conflict
+
+[33mcommit 694864f4914c68058a51501d57fe0aadc9ed3579[m
+Author: Anton Chyvikov <chivikovanton@gmail.com>
+Date:   Sat Nov 14 10:52:56 2020 +0200
+
+    Add new greeting. (#548)
+    
+    * Add new greeting.
+    
+    * Revert "Add new greeting."
+    
+    This reverts commit 7b939b41d3035b11109364a1dfee4357d2e04f84.
+    
+    * Fix issue with auto-formatting
+    
+    * Solve the problem with tech_greeting
+    
+    * Revert "Solve the problem with tech_greeting"
+    
+    This reverts commit ccc1afcda6331c8b0cd58c548be294cacfa72dcf.
+    
+    * Add greeting
+
+[33mcommit 0d56392877e4c579f4505009b551b0ac87c6c59a[m
+Author: tinkabel85 <73105287+tinkabel85@users.noreply.github.com>
+Date:   Fri Nov 13 20:08:00 2020 +0100
+
+    Add greeting to README.md (#531)
+    
+    * Add greeting to README.md
+    
+    * Add picture to greeting and revert the phrase
+    
+    * Fix some errors in README.md
+    
+    * Remove empty lines in README.md
+
+[33mcommit 94171d54b15896d6dfee7f699653d3459c0fe137[m
+Author: Shrai-dev <70838896+Shrai-dev@users.noreply.github.com>
+Date:   Fri Nov 13 21:06:35 2020 +0200
+
+    docs: add greeting and an image (#550)
+
+[33mcommit 710f0b1b4dca08bdea165671b9b53b1c5744fa45[m
+Author: Lu-sure <66886680+Lu-sure@users.noreply.github.com>
+Date:   Fri Nov 13 21:05:52 2020 +0200
+
+    Move greeting to the botoom of README.md (#540)
+    
+    * Add PR and picture of fox terrier
+    
+    * Edit markdown
+    
+    * Update README.md
+    
+    Move my greating to the bottom of README.md
+
+[33mcommit b3c81cd005d4e074cb762875872ac9c0d4d5a034[m
+Author: Alexey Yevkov <71827775+alexey1985-FE@users.noreply.github.com>
+Date:   Thu Nov 12 14:29:40 2020 +0200
+
+    Added Alexey's greeting (#549)
+
+[33mcommit 54f52dc91ef80400668a91b501c9908631b9a4b7[m
+Author: tavor118sn <53215682+tavor118sn@users.noreply.github.com>
+Date:   Wed Nov 11 21:59:38 2020 +0200
+
+    Fix misspelling (#542)
+    
+    * Fix misspelling
+    
+    * Revert fixing misspelling
+    
+    Co-authored-by: lenadgit <lena.boruslav@gmail.com>
+
+[33mcommit fafce776d933b39aa82ca46f23c9acbfc18ec40d[m
+Author: Ihor <63802347+ik-web@users.noreply.github.com>
+Date:   Wed Nov 11 00:20:56 2020 +0200
+
+    add to community (#547)
+
+[33mcommit b62a84e3534a671031665e94a6622b6cc85b51a6[m
+Author: Ivan Grynenko <36521919+IGrynenko@users.noreply.github.com>
+Date:   Tue Nov 10 19:40:01 2020 +0200
+
+    Adding info about myself (#545)
+
+[33mcommit cfdae49c87f22a1a122400bbe7d8096a88b1357c[m
+Author: Yuliia Hordiichuk <68734045+YuliiaHordiichuk@users.noreply.github.com>
+Date:   Tue Nov 10 19:36:53 2020 +0200
+
+    Add greeting to README.md (#544)
+
+[33mcommit 56bd8e3dbdcad7fe62cbf5ca945187624de0db48[m
+Author: Oleg Lisnyak <lisnyak.oleg93@gmail.com>
+Date:   Mon Nov 9 23:34:41 2020 +0200
+
+    Update README v1.1 (#532)
+
+[33mcommit a496028fd931b3d0eef8fab94a3122d70094b454[m
+Author: Lalalilu <39400036+lalalilulu@users.noreply.github.com>
+Date:   Sun Nov 8 02:59:44 2020 +0300
+
+    new branch with my greetings and an image (#535)
+    
+    Co-authored-by: Anna_Krivopusk <anna.krivopusk@t-systems.com>
+
+[33mcommit 726885f8d616684958723be914feaec20843f485[m
+Author: Maksym Kravchuk <32480110+Makskravch@users.noreply.github.com>
+Date:   Sat Nov 7 22:43:33 2020 +0200
+
+    Greeting. Corrected linter's remarks to indentation of the unordered list (MD007) (#528)
+
+[33mcommit 930e6c67ea22b75d10928bc2e08bed17c874e1eb[m
+Author: Viktoriia Cheriasova <darla.moonlight@gmail.com>
+Date:   Sat Nov 7 14:21:33 2020 +0200
+
+    V.Cheryasova hello branch (#533)
+    
+    * Hello message from me
+    
+    * add Riziy photo
+    
+    * fix typo
+    
+    Co-authored-by: v.cheryasova <v.cheryasova@cleack.com>
+
+[33mcommit e428a32f1f9bf98019e091b1518b460c80a9b2c0[m
+Author: Nazar <ustymchyk.nazar@gmail.com>
+Date:   Thu Nov 5 17:36:12 2020 +0200
+
+    greeting (#527)
+
+[33mcommit bc90792d04800c4aa35e1113181df2161e245b51[m
+Author: SmartPatric <69360739+SmartPatric@users.noreply.github.com>
+Date:   Wed Nov 4 23:16:47 2020 +0200
+
+    Add my greeting to README.md (#524)
+
+[33mcommit 3342da847ffe41b7ff6909470a38b73187429126[m
+Author: Lu-sure <66886680+Lu-sure@users.noreply.github.com>
+Date:   Wed Nov 4 23:05:36 2020 +0200
+
+    Change to README.md (#519)
+    
+    * Add PR and picture of fox terrier
+    
+    * Edit markdown
+
+[33mcommit 3ba00a1ac96e0dc9cac35ca1cea1a3bbb8103bb0[m
+Author: cuteman18 <32398005+cuteman18@users.noreply.github.com>
+Date:   Wed Nov 4 16:24:10 2020 +0200
+
+    Add About description (#520)
+    
+    * Add About description
+    
+    * picture url fix
+
+[33mcommit 5a40d3f946cd2d66c74f7cdc840f3b5f237b82ed[m
+Author: galinaborisenko <45400460+galinaborisenko@users.noreply.github.com>
+Date:   Wed Nov 4 12:51:40 2020 +0100
+
+    Hello feature (#521)
+    
+    * Add Hello from Galina
+    
+    * Add Hello from Galina2
+
+[33mcommit 9450bf77f2f305275e4e8bcf112860fc1a33708b[m
+Author: phpslonuk <37296610+phpslonuk@users.noreply.github.com>
+Date:   Tue Nov 3 15:58:30 2020 +0200
+
+    Hello I'm Max (#515)
+    
+    * Hello I'm Max
+    
+    * Changed README.md
+    
+    * Deleted 'conflict pointers'
+    
+    Co-authored-by: Max Yezerskyi <m.yezerskyi@gmail.com>
+
+[33mcommit faf32585249fd4f4916c9294c105478fcd76c4a2[m
+Author: mitko1717 <62745604+mitko1717@users.noreply.github.com>
+Date:   Tue Nov 3 01:13:17 2020 +0200
+
+    Update README.md (#505)
+    
+    * Update README.md
+    
+    * changed my mistake
+
+[33mcommit 38b0bca2abe6aab6a43dd6a1cca91a0fe6d4758b[m
+Author: ses3332002 <ses3332002@gmail.com>
+Date:   Mon Nov 2 23:04:30 2020 +0200
+
+    another attempt (#460)
+
+[33mcommit 8f83579c37ce0f9a3f44a72c1586d591767409e2[m
+Author: Serge <sergesd@users.noreply.github.com>
+Date:   Mon Nov 2 17:55:35 2020 +0200
+
+    My intro to Kottans. (#517)
+    
+    * My intro to Kottans.
+    
+    * My intro to Kottans.
+
+[33mcommit 8404e2636324ed0187ff979c39eb2d4e74c1ba0c[m
+Author: askryp <43927171+askryp@users.noreply.github.com>
+Date:   Sun Nov 1 20:54:05 2020 +0200
+
+    edit the readme file (#516)
+    
+    Co-authored-by: Alyona <akorelchuk@gmail.com>
+
+[33mcommit 47a5daaa920ef214008c4f6dee9007a7a970d794[m
+Author: Evgen24 <40139728+Evgeniy241984@users.noreply.github.com>
+Date:   Fri Oct 30 22:50:41 2020 +0200
+
+    evgeniy24 added comment (#513)
+
+[33mcommit c787c98776dac4aab90a36bbef877b1e101c9e1c[m
+Author: WEremite <weremite@gmail.com>
+Date:   Thu Oct 29 23:37:52 2020 +0200
+
+    Fix typo in README (#467)
+    
+    * Fix typo in README
+    
+    * Update README.md
+    
+    * Update README.md
+
+[33mcommit c44dc61b1330c58b9ec1c5a2104728f465eb3b26[m
+Author: Roophee <42061361+Roophee@users.noreply.github.com>
+Date:   Thu Oct 29 14:56:42 2020 +0300
+
+    Roophee is on the board (#511)
+    
+    * Roophee is on the board
+    
+    Roophee join to the mock-repo.
+    
+    * Fix typo
+
+[33mcommit 08975580cc79b7d4d1b52749e62c78b964c7674a[m
+Author: v.akulinina <lerrun@gmail.com>
+Date:   Wed Oct 28 20:43:54 2020 +0300
+
+    Add new kottan (#512)
+
+[33mcommit 3ba4d6d54a6943c6edb0a1c97d8bd8ba0823de5a[m
+Author: SophiaPylypchuk <70936647+SophiaPylypchuk@users.noreply.github.com>
+Date:   Wed Oct 28 15:18:18 2020 +0200
+
+    Winter (#497)
+    
+    * New greetings
+    
+    * Changes in img adress
+
+[33mcommit 7cb29a503d5b3b6be816333d4f1b5adb4564ae76[m
+Author: Dmitry Morar <dmitry@morar.dev>
+Date:   Wed Oct 28 14:33:25 2020 +0200
+
+    Add greetings to README file (#498)
+    
+    * Add grettings and img to assets folder
+    
+    * Remove flag and move greeting to bottom of readme file
+    
+    * Revert wrong removed spaces
+    
+    * Add missed space
+    
+    * Add rest wrong removed spaces
+    
+    * Add missed spaces in title and wrong removed end of file
+    
+    Co-authored-by: Dmitry Morar <Dmitry.Morar@NearShorePartner.ch>
+
+[33mcommit 4bf7637fc98d9cf14ee9337b60f2187a4d3ee359[m
+Author: akulahere <akulinind@gmail.com>
+Date:   Wed Oct 28 15:05:14 2020 +0300
+
+    New kottan (#510)
+    
+    * add info about Dmitry
+    
+    * Add blizzard photo
+
+[33mcommit f6ef13e2c410396bdb3e4a61fee5e5cdc1f68695[m
+Author: Vladyslav Ganushkevych <ganushkevychv@gmail.com>
+Date:   Tue Oct 27 19:43:15 2020 +0100
+
+    about me info added to readme.md (#508)
+    
+    * about me info added to readme.md
+    
+    * more info about me added to readme.md :tada:
+
+[33mcommit 7800b61bc288acbcb58d41fbe8a26bb79c5e0848[m
+Author: vladyslavvorobei <47365718+vladyslavvorobei@users.noreply.github.com>
+Date:   Tue Oct 27 19:16:51 2020 +0200
+
+    added image my bengal_cat.jpg in ./gif (#487)
+    
+    * added image my bengal_cat.jpg in ./gif
+    
+    * changed directory for image and added text about my
+
+[33mcommit e7543af1c34ca8a09a4ccf3fe0b0d212d43bdf96[m
+Author: Roman Saiko <RomanSaiko@users.noreply.github.com>
+Date:   Tue Oct 27 16:47:00 2020 +0200
+
+    + my greeting; (#503)
+
+[33mcommit 561a89915f997284957d1f66499ca803ea8b0e0d[m
+Author: eve5ince <70315391+eve5ince@users.noreply.github.com>
+Date:   Tue Oct 27 14:13:31 2020 +0200
+
+    New greeting (#507)
+    
+    * new greeting
+    
+    * add whitespace
+    
+    * Update README.md
+
+[33mcommit 335bcab006e5280d20badccd4cc5368be900c13c[m
+Author: Alexander Pokidin <a.pokidin@gmail.com>
+Date:   Tue Oct 27 13:30:02 2020 +0200
+
+    Add an android cat (#506)
+
+[33mcommit 8da859a633b694354acfaf11e2b62ee431757ad0[m
+Author: Alyona <70548141+alyonafuria@users.noreply.github.com>
+Date:   Tue Oct 27 11:24:56 2020 +0300
+
+    added my greetings (#499)
+    
+    * added my greetings
+    
+    * fixed direction to the image
+
+[33mcommit 74a53c27a07a8538932c5a31acc7ea1821e63f45[m
+Author: Tatyana Molchanova <44355525+TatyanaMolchanova@users.noreply.github.com>
+Date:   Mon Oct 26 08:54:22 2020 +0200
+
+    Sunny (#504)
+    
+    * add sunny.jpg and paragraph to readme.md
+    
+    * add empty row as was earlier
+    
+    Co-authored-by: Molchanova Tatyana <mtuspeh@gmail.com>
+
+[33mcommit 434850bf2354dbc6bfb5a45cd46acbe82d720143[m
+Author: Volodymyr Zalevskyi <73123129+zalevskyi@users.noreply.github.com>
+Date:   Sun Oct 25 10:41:23 2020 +0200
+
+    Update with one more task 00 greeting (#500)
+
+[33mcommit 6c6ddb007c8d1507f5da013bfabf4a81045d2e94[m
+Author: Nina <nina.dev.web@gmail.com>
+Date:   Sat Oct 24 20:48:39 2020 +0300
+
+    feat: add cat and greeting (#494)
+    
+    * feat: add cat and greeting
+    
+    * Update README.md
+
+[33mcommit 37897975994a4dbfe79de0349a50db9d36266c90[m
+Author: laneleka <36279864+laneleka@users.noreply.github.com>
+Date:   Sat Oct 24 14:07:50 2020 +0300
+
+    It's catpull request  (#486)
+    
+    * Update readme.md and add my cat
+    
+    * Update readme.md
+    
+    Removed changes that were affecting other members code
+
+[33mcommit fbc322ff56d9eb0e86b23aa845396f0062b5fc57[m
+Author: Danil <66283273+smillims@users.noreply.github.com>
+Date:   Fri Oct 23 15:09:55 2020 +0300
+
+    Fix repo (#493)
+    
+    * Modified README.md + .gitignore
+    
+    * Modified .gitignore
+    
+    * Add picture my-love-cat
+    
+    * Update word for README.md
+    
+    * Back fail to README.md
+    
+    * Add info about me and Olga
+    
+    * Add new line to .gitignore
+    
+    * Deleted line
+    
+    * Update README.md
+    
+    * Delete extra line
+    
+    * Turn change back
+    
+    * Add new line
+    
+    * Turn back deleted text
+
+[33mcommit b476a4de282a2dbec027f78cc207a06209066562[m
+Author: Volodymyr Bystrov <20301795+VBystrov@users.noreply.github.com>
+Date:   Fri Oct 23 14:20:27 2020 +0300
+
+    Add white cat (#491)
+
+[33mcommit 6da4100c6ace332fca57b388726e9b4b1edc9881[m
+Author: Illia <duminskyi@gmail.com>
+Date:   Fri Oct 23 11:14:06 2020 +0300
+
+    add my lines to README (#492)
+
+[33mcommit e37267a2b4158ca8352165e110fb85e4fa6f879b[m
+Author: Daryna Matiiuk <dasha.matiyuk@gmail.com>
+Date:   Fri Oct 23 00:50:33 2020 +0300
+
+    Add small greetings (#490)
+    
+    * new-line
+    
+    * add image ti greetings
+
+[33mcommit 4335d76159d0cde2518442c51bc760149439eae0[m
+Author: MarynaDolhalova <72726250+nallikaea@users.noreply.github.com>
+Date:   Thu Oct 22 22:57:20 2020 +0300
+
+    Added introduction about myself (user Nallikaea) (#475)
+    
+    and picture of my cat.
+
+[33mcommit dfb6546097daea9ea8b54940a5fbee750c71c4a8[m
+Author: Andrii Klymeniuk <andrew.klmn@gmail.com>
+Date:   Thu Oct 22 22:19:54 2020 +0300
+
+    Update README.md (#430)
+
+[33mcommit b79c8c50f28ef3f2f0477f939e84ff298e0f4889[m
+Author: Nazar Velychko <nazar.vel@gmail.com>
+Date:   Thu Oct 22 21:18:28 2020 +0300
+
+    Greetings from Nazar (#489)
+    
+    * Greetings from Nazar
+    
+    * Returned all gaps, erased by my editor
+
+[33mcommit fbe894d89f4cf6d1df72484e5734be7acc4d53c0[m
+Author: anD <54740516+616e44@users.noreply.github.com>
+Date:   Thu Oct 22 20:50:55 2020 +0300
+
+    adds new greeting (#488)
+
+[33mcommit 95e841f1150a51d74bb783ee6074f361cc25c412[m
+Author: Igor Nosovsky <Nosovskyigor@gmail.com>
+Date:   Thu Oct 22 13:06:27 2020 +0300
+
+    Update README.md (#451)
+
+[33mcommit 2decf2cd550b55cc20fc965512a884653b4a51f5[m
+Author: okkkko <71645030+okkkko@users.noreply.github.com>
+Date:   Wed Oct 21 23:06:11 2020 +0300
+
+    Add greetings (#483)
+
+[33mcommit e8bd74cd7e295a3425b691b32c5811720be03451[m
+Author: Dania <72555333+DaniaB24@users.noreply.github.com>
+Date:   Wed Oct 21 23:04:04 2020 +0300
+
+    add greeting and img cat (#482)
+
+[33mcommit 9c5e3b4496061f1a101e5b19d7b7bf2c4ccbe3cd[m
+Author: Stanislav Rugalenko <jigsaff@gmail.com>
+Date:   Wed Oct 21 14:22:07 2020 +0300
+
+    Added best wishes (#480)
+
+[33mcommit ccb4f4db0cda1b55c51c8b80565367526ba0349c[m
+Author: Yakov Ponomarenko <ponomaryk@mail.ru>
+Date:   Tue Oct 20 23:16:51 2020 +0200
+
+    Adding a new future kottan (#479)
+    
+    * initializing a new kottan
+    
+    * fix: changed image link
+
+[33mcommit 4794dd7569dd09ae89de90e3bd418913d58816bf[m
+Author: Viktoriia <47947147+BlueLamantine@users.noreply.github.com>
+Date:   Tue Oct 20 19:30:04 2020 +0300
+
+    Update README.md (#477)
+    
+    * Update README.md
+    
+    * Markdown added
+
+[33mcommit 2e143d31e81289ed0529a6c160758081c9e4bbb3[m
+Author: Olha Rybchynska <olha.rybchynska@gmail.com>
+Date:   Tue Oct 20 14:17:19 2020 +0300
+
+    new member Olga (#474)
+
+[33mcommit e6db743af008775c1191da16ffa345fc5f1d20eb[m
+Author: Yakovenko Serhii <yakovenko.serhey@gmail.com>
+Date:   Tue Oct 20 01:09:00 2020 +0300
+
+    Added greetings. Added new cat meme (#473)
+
+[33mcommit 8c67751f921cc74709eab3bd5ab49f599e48da60[m
+Author: Nataliia <70472315+infullbloom@users.noreply.github.com>
+Date:   Mon Oct 19 23:40:41 2020 +0300
+
+    Update README.md (#472)
+
+[33mcommit 3fe44bb3674601e7eaabefe33bf41270a199c623[m
+Author: dragalur <64418887+dragalur@users.noreply.github.com>
+Date:   Mon Oct 19 22:13:51 2020 +0300
+
+    connection to Kottans (#470)
+
+[33mcommit 2758de5045e753cd690bb2032e0145c503a3c631[m
+Author: Anton Gluschuk <32397351+AntonGluschuk@users.noreply.github.com>
+Date:   Mon Oct 19 19:32:20 2020 +0300
+
+    update README.md with new greeting (#469)
+
+[33mcommit 4f9ccd29e75c5f1e01d0c43f0a74b21e28f082db[m
+Author: Maxim Petruk <8094742+maxpetruk@users.noreply.github.com>
+Date:   Mon Oct 19 18:01:44 2020 +0300
+
+    Readme update with my greeting plus changing the sentence about the group chats (#457)
+    
+    * Update README file with my greeting
+    
+    * Update the sentence about the telegram chats in README
+    
+    * Add a smile to my greeting
+    
+    Co-authored-by: maximus499 <maximus4999@@gmail.com>
+
+[33mcommit 8d7fff4633d0638f655c700b443c821611e336b3[m
+Author: Vlad <60650036+this-is-vlad@users.noreply.github.com>
+Date:   Mon Oct 19 17:54:02 2020 +0300
+
+    Added my own meow (#468)
+
+[33mcommit 893fa4239d259c6a92ce22ddf144e732b3e89bff[m
+Author: AndriiZahumnyi <41964713+AndriiZahumnyi@users.noreply.github.com>
+Date:   Mon Oct 19 13:14:48 2020 +0300
+
+    addNewStudentPlease (#462)
+    
+    * addNewStudentPlease
+    
+    * Update README.md
+
+[33mcommit 895d48aac72eee3f9b571aebd44aef59da8c5b09[m
+Author: MelmQuty <68909865+MelmQuty@users.noreply.github.com>
+Date:   Mon Oct 19 11:23:18 2020 +0300
+
+    Update README.md (#463)
+
+[33mcommit 3039bcdffeb5446566c433a9d1363fb3e1795b37[m
+Author: SmartPatric <69360739+SmartPatric@users.noreply.github.com>
+Date:   Sun Oct 18 19:07:42 2020 +0300
+
+    Update README.md (#461)
+    
+    Greeting and kitty
+
+[33mcommit 4c2613499bfeb0b8d8e88bb1effdfb7bca224060[m
+Author: Khasanov Evgenii <50181278+evgenii-del@users.noreply.github.com>
+Date:   Sun Oct 18 09:20:44 2020 +0300
+
+    Update README.md (#456)
+    
+    * Update README.md
+    
+    * Update README.md
+
+[33mcommit 30f485cefa3a11556899bb5e151ac15af06e5307[m
+Author: krylenger <31703841+krylenger@users.noreply.github.com>
+Date:   Sat Oct 17 23:42:08 2020 +0800
+
+    send greeting to kottans (#438)
+    
+    * send greeting to kottans
+    
+    * changing img source
+
+[33mcommit 12829f7550b1172807e81a406a2727eca9f1dd78[m
+Author: WheatMan999 <67655657+WheatMan999@users.noreply.github.com>
+Date:   Sat Oct 17 18:17:21 2020 +0300
+
+    Greetings to Kottans (#448)
+    
+    * Greetings to Kottans
+    
+    * Fixed image output
+
+[33mcommit b4ba16b7be328caec82114afaedca1aef0302cd1[m
+Author: Mikhail <mpodanev@gmail.com>
+Date:   Sat Oct 17 15:43:30 2020 +0300
+
+    add greeting (#454)
+
+[33mcommit 289c8bc9d4aa68fff50395b3f2d7bb20cfa45d9c[m
+Author: Larisa Nazarenko <loranazarenko@users.noreply.github.com>
+Date:   Sat Oct 17 11:24:51 2020 +0300
+
+    Update Readme.md (#453)
+    
+    Update added my greeting to everyone.
+
+[33mcommit 7c4107dbf81a7afea59d6fc411b75441017d2a7a[m
+Author: AsyaYeromina <asyayeromina@gmail.com>
+Date:   Fri Oct 16 11:58:54 2020 +0300
+
+    Update readme (#452)
+    
+    * Update readme
+    
+    * Added an empty line
+
+[33mcommit af1ca85c785ef0580537acc4e1781acd9cff1f8b[m
+Author: Dmytro Yukhymuk <47541469+youhymuk@users.noreply.github.com>
+Date:   Wed Oct 14 12:58:23 2020 +0200
+
+    Update readme (#423)
+
+[33mcommit f433fc8060ccf08ff9e43ddf9b4613200431bd47[m
+Author: TinySadPotatoe <59999834+TinySadPotatoe@users.noreply.github.com>
+Date:   Wed Oct 14 11:45:41 2020 +0200
+
+    Update README.md (#442)
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    * Update README.md
+
+[33mcommit 0247e6833b68f9702cbe02aa46611e60f4bf9988[m
+Author: Yury Zaytsev <yuryzaytsev.me@gmail.com>
+Date:   Tue Oct 13 22:15:57 2020 +0300
+
+    Update README.md: greeting (#439)
+
+[33mcommit cd28ed9c3c0d03de15d1d362d90333f8a48de939[m
+Author: 7SergSmith7 <30880200+7SergSmith7@users.noreply.github.com>
+Date:   Tue Oct 13 21:17:02 2020 +0300
+
+    add new greeting Pull (#447)
+
+[33mcommit 3a7a5de4e4dc1bc6786abcdc41abc1a9777ed021[m
+Author: AlexandraGres <58975803+AlexandraGres@users.noreply.github.com>
+Date:   Tue Oct 13 14:29:14 2020 +0300
+
+    Update README.md (#440)
+    
+    * Update README.md
+    
+    * Update README.md
+    
+    Fixed!
+    
+    * Update README.md
+    
+    * Update README.md
+
+[33mcommit 7414b1c5e743bc45a15774c7ba2e2f67e77f5f0f[m
+Author: Aleksei <usides@gmail.com>
+Date:   Tue Oct 13 15:01:17 2020 +0400
+
+    docs: url fix (#445)
+
+[33mcommit 3efdd92f4348a54cb30b2a6af4a1874b091dfa13[m
+Author: Aleksei <usides@gmail.com>
+Date:   Tue Oct 13 14:38:26 2020 +0400
+
+    docs: add personal greetings (#443)
+
+[33mcommit b4b35bf2f34dcba9c0be1c05dec8ac7973d4ba6f[m
+Author: HannaSyn <62648675+HannaSyn@users.noreply.github.com>
+Date:   Tue Oct 13 12:07:15 2020 +0300
+
+    Greeting to Kottans (#441)
+    
+    * Greeting to Kottans
+    
+    * Edit url to image
+    
+    * Edit image template
+
+[33mcommit 066d27beadd41941ebfac67b2bf0d3a929d979b3[m
+Author: Vas-P <36241722+Vas-P@users.noreply.github.com>
+Date:   Mon Oct 12 15:09:44 2020 +0300
+
+    Second attempt to commit something (#437)
+
+[33mcommit 059b9a822eeb973a06e046aef14bd48ebc68d73b[m
+Author: LofeWilter <72690570+LofeWilter@users.noreply.github.com>
+Date:   Mon Oct 12 14:08:55 2020 +0300
+
+    Introducing myself (#436)
+
+[33mcommit 327a688470caf5216ee3bf1a4277680dfa4382ef[m
+Author: Victor Kushnir <mustbefail@gmail.com>
+Date:   Mon Oct 12 13:15:29 2020 +0300
+
+    New awesome commit! (#433)
+    
+    * New awesome commit!
+    
+    * fast fix
+    
+    * Revert "fast fix"
+    
+    This reverts commit b01bd64c53cdd0d95d1c5382a423579995e73d84.
+    
+    * Revert "New awesome commit!"
+    
+    This reverts commit ade585c439c5824af0e0571318835200cb9489a7.
+    
+    * fix
+
+[33mcommit cd0841b004f2487fc75d20fd1defd2a4520cc07c[m
+Author: Andrew <36225812+AndrewFedoryk@users.noreply.github.com>
+Date:   Sun Oct 11 13:23:45 2020 +0300
+
+    Add greetings at README.MD and gif to giff
