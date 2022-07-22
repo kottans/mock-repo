@@ -2286,3 +2286,8 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 
 ## Hi, there! It's Andre Masko onboard!
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
+
+
+
+## Hi, everyone! Good evening Europe! :D
+My name is Tomash, I'm happy to have opportunity to learn Front-end here/
