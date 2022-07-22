@@ -21,6 +21,31 @@ I'm happy to be with kottans
 
 
 
+## Hi everyone 🙃
+
+I'm Olena. I’m excited to join the kottans community. First of all, I wanna thank the organizers and developers for the opportunity to take this course. I hope I'll be able to complete all the tasks and continue my studies at the next levels.
+
+### GIT
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Introduction Sequence](./assets/images/git1.png)
+
+</p>
+</details>
+
+<details><summary>Screenshot</summary>
+<p>
+
+![Push&Pull](i./assets/images/git2.png)
+
+</p>
+</details>
+
+![My kottans](./assets/images/Sebek.jpeg)
+**My disobedient kottans**
+
 
 ## Hi, I'm Anfisa! I'm from Kharkiv. What is about u?
 
@@ -2316,6 +2341,7 @@ Hi everyone.
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
 I'm first time working with GitHub, its so fresh & cool expirience!!!
 
+
 ---------------------------------
 # Hello ~~World~~ Kottans
 My name is Illia. 
@@ -2323,3 +2349,7 @@ Hope this kitty will grow up together with improving my programing skills
 
 ![kitty](gif/koshak.jpg)
 -----------------------------------
+
+## Hi! I'm [jedi master](https://github.com/OlStani)) May the 4th be with you!)
+![jedi cat](./gif/Nr8i.gif)
+
