@@ -2514,14 +2514,10 @@ My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this comm
 Thank you for this course!!!
 I'm wanna be frontend developer.))))))))
 
-# <<<<<<< HEAD
-
 ## Hello, everyone!
 
 My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this community!
 ![Chill](./assets/images/chill.jpg)
-
-> > > > > > > master
 
 ## Hi, there! It's Andre Masko onboard!
 
