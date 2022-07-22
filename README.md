@@ -65,6 +65,11 @@ P.S. Where all postings before March 2018 have gone to?
 ## Hello everyone!
  I'm Maksim from Kyiv (https://github.com/maximmorenko). How are you?
 
+## Hello, I'm Nastya :wave:
+good luck)
+
+![This is an image](https://www.kindpng.com/picc/m/257-2570344_gta-san-andreas-mission-complete-png-transparent-png.png)
+
 ---
 ## Hi, I'm Ivan
 Glad to join to the community)
@@ -2288,3 +2293,13 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 
 ## Hi, there! It's Andre Masko onboard!
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
+
+## Hello everyone! Sonia is here!
+I am very happy to see you all here! 
+Good luck, have fun and don't forget to practice coding every day <3
+
+## Hi
+I'm am a new Kottans student. I'm very exited to learn Frontend.
+
+Hi everyone.
+
