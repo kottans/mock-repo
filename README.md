@@ -2397,4 +2397,4 @@ My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
 
 ## Okay Let`s go
 Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git)
-![DIO](./assets/images/DIO.jpeg)
+![Dio](./assets/images/DIO.jpg)
