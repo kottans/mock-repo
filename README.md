@@ -2393,15 +2393,11 @@ My name is Vasyl
 
 ## Hi, Kottans!
 Well, let's learn and go hang out?)
-<<<<<<< HEAD
->>>>>>> 2fe18cb34b44946854ae6ae199a6c8554ba11f6a
-=======
-<<<<<<< HEAD
->>>>>>> 2fe18cb34b44946854ae6ae199a6c8554ba11f6a
-=======
 
 ## What's up boys and girls!
 My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
 ![pussy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/1200px-British_blue_2009_%28cropped%29.jpg)
->>>>>>> 0f16cab226e87197cda5d1569bb721b85bbcecc6
->>>>>>> master
+
+## Okay Let`s go
+Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME, DIO
+![Dio](./assets/images/DIO.jpg)
