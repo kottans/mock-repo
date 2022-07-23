@@ -3,6 +3,8 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
+#Hi! I'm Anna. I am incredibly excited to study with Kottans.
+
 Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
@@ -2305,6 +2307,11 @@ So cool to be here!
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
 
+
+## Hi! I'm Zhenia. Let's be friends!
+[LinkedIn](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
+
+
 ## Hello, everyone!
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
@@ -2320,7 +2327,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello everyone! Sonia is here!
-I am very happy to see you all here! 
+I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
@@ -2340,7 +2347,7 @@ I'm first time working with GitHub, its so fresh & cool expirience!!!
 
 ---------------------------------
 # Hello ~~World~~ Kottans
-My name is Illia. 
+My name is Illia.
 Hope this kitty will grow up together with improving my programing skills
 
 ![kitty](./assets/images/koshak.jpg)
@@ -2363,6 +2370,23 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
+<<<<<<< HEAD
 ## Hello Kottans!
 My name is Dmitry(https://github.com/martoff1980)
 Good Day, Commander!
+=======
+## Hi, everyone.
+My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
+![Cat](./assets/images/stupid_cat.jpg)
+
+## Hello Kottans!
+My name is Eugene
+I'm happy to be here!
+
+# Good evening, everebody!
+My name is Vasyl
+![spacecat](https://i.imgur.com/5cNY70b.png)
+
+## Hi, Kottans!
+Well, let's learn and go hang out?)
+>>>>>>> 2fe18cb34b44946854ae6ae199a6c8554ba11f6a
