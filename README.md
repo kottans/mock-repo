@@ -2307,10 +2307,11 @@ So cool to be here!
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
 
-<<<<<<< HEAD
+    
 ## Hi! I'm Zhenia. Let's be friends!
 [LinkedIn](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
-=======
+
+    
 ## Hello, everyone!
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
@@ -2376,4 +2377,3 @@ My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ## Hello Kottans!
 My name is Eugene
 I'm happy to be here!
->>>>>>> master
