@@ -2270,3 +2270,5 @@ So cool to be here!
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
 
+## Hi! I'm Zhenia. Let's be friends!
+[LinkedIn](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
