@@ -7,9 +7,6 @@ I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
 
-Hi,
-=======
-
 <h1 align="center"> Добрий день , everybody</h1>
 <hr/>
 <p> <span>I am Alex.</span> I'm so glad to join the Kottans community! <br/> I am computer engineering student, looking for a new frond-end a knowledge and some friends : ) </p>
@@ -2567,7 +2564,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 ![Chill](./assets/images/chill.jpg)
 
 ## Hi, there! It's Andre Masko onboard!
-
+  
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello, I`m Margarita!
