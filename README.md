@@ -2380,7 +2380,6 @@ I'm happy to be here!
 ## Hello Kottans!
 My name is [Dmitry](https://github.com/martoff1980).
 Good Day, Commander!
-
 =======
 ## Hi, everyone.
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
@@ -2403,4 +2402,11 @@ Well, let's learn and go hang out?)
 ## What's up boys and girls!
 My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
 ![pussy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/1200px-British_blue_2009_%28cropped%29.jpg)
+<<<<<<< HEAD
 >>>>>>> 0f16cab226e87197cda5d1569bb721b85bbcecc6
+=======
+
+## Okay Let`s go
+Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME, DIO
+![Dio](./assets/images/DIO.jpg)
+>>>>>>> 2feebe0ec2b0468445bfb1e7de1f85976267e084
