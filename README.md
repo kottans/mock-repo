@@ -29,7 +29,7 @@ and [git](https://github.com/Kottans/git-course) courses.
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
-*This was an intentionally misspelled phrase*
+
 
 
 
@@ -2295,3 +2295,8 @@ Thank you for this opportunity to be a part of this community and learn intersti
 ## Hello everyone! Sonia is here!
 I am very happy to see you all here! 
 Good luck, have fun and don't forget to practice coding every day <3
+
+
+## Hi, Kottans!
+My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this experience!
+![Cat art](./assets/images/cat-developer.jpg)
