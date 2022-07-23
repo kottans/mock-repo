@@ -2366,3 +2366,7 @@ I'm happy to be here!
 ## Hi, everyone.
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ![Cat](./assets/images/stupid_cat.jpg)
+
+## Hello Kottans!
+My name is Eugene
+I'm happy to be here!
