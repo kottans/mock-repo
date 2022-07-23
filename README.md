@@ -7,7 +7,7 @@
 
 <h1 align="center">Hello, I'm Volodymyr </h1>
 <p> I'm glad to join the kottans community. Happy studying. </p>
-(https://github.com/vovan-zt/kottans-frontend)
+[github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
 
 #Hi! I'm Anna. I am incredibly excited to study with Kottans.
 
