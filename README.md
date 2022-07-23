@@ -1,4 +1,3 @@
-﻿
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -2376,11 +2375,10 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
-<<<<<<< HEAD
 ## Hello Kottans!
 My name is [Dmitry](https://github.com/martoff1980).
-Good Day, Commander!
-=======
+I'm happy to be here!
+
 ## Hi, everyone.
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ![Cat](./assets/images/stupid_cat.jpg)
@@ -2395,18 +2393,11 @@ My name is Vasyl
 
 ## Hi, Kottans!
 Well, let's learn and go hang out?)
-<<<<<<< HEAD
->>>>>>> 2fe18cb34b44946854ae6ae199a6c8554ba11f6a
-=======
 
 ## What's up boys and girls!
 My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
 ![pussy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/1200px-British_blue_2009_%28cropped%29.jpg)
-<<<<<<< HEAD
->>>>>>> 0f16cab226e87197cda5d1569bb721b85bbcecc6
-=======
 
 ## Okay Let`s go
 Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME, DIO
 ![Dio](./assets/images/DIO.jpg)
->>>>>>> 2feebe0ec2b0468445bfb1e7de1f85976267e084
