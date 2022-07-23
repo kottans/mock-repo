@@ -3,6 +3,8 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
+#Hi! I'm Anna. I am incredibly excited to study with Kottans.
+
 Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
@@ -2305,6 +2307,11 @@ So cool to be here!
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
 
+    
+## Hi! I'm Zhenia. Let's be friends!
+[LinkedIn](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
+
+    
 ## Hello, everyone!
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
@@ -2363,6 +2370,9 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
+## Hi, everyone.
+My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
+![Cat](./assets/images/stupid_cat.jpg)
 
 ## Hello Kottans!
 My name is Eugene
