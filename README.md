@@ -2338,7 +2338,6 @@ Hi everyone.
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
 I'm first time working with GitHub, its so fresh & cool expirience!!!
 
-
 ---------------------------------
 # Hello ~~World~~ Kottans
 My name is Illia. 
@@ -2355,6 +2354,12 @@ My name is [Ignat](https://github.com/CivilBitc4) and I'm happy to join this com
 I hope that I and all  Kottans will be able to achieve good results in studying)
 ![Kitten](./assets/images/my-cute-kitten.jpg)
 
+
+## Hello there! My name is [Serge](https://github.com/Serge044) and thats my commit ;)
+![Lada](./assets/images/Lada.jpeg)
+
+
 ## Hello Kottans!
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
+
