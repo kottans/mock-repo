@@ -2376,18 +2376,10 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> master
 ## Hello Kottans!
 My name is Dmitry(https://github.com/martoff1980)
 I'm happy to be here!
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
 ## Hi, everyone.
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ![Cat](./assets/images/stupid_cat.jpg)
