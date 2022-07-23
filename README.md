@@ -3,6 +3,12 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
+
+
+<h1 align="center">Hello, I'm Volodymyr </h1>
+<p> I'm glad to join the kottans community. Happy studying. </p>
+[github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
+
 #Hi! I'm Anna. I am incredibly excited to study with Kottans.
 
 Hi! I'm Pavlo and I learn GitHub.
@@ -2370,10 +2376,18 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> master
 ## Hello Kottans!
 My name is Dmitry(https://github.com/martoff1980)
 I'm happy to be here!
 
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
 ## Hi, everyone.
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ![Cat](./assets/images/stupid_cat.jpg)
@@ -2388,4 +2402,15 @@ My name is Vasyl
 
 ## Hi, Kottans!
 Well, let's learn and go hang out?)
+<<<<<<< HEAD
 >>>>>>> 2fe18cb34b44946854ae6ae199a6c8554ba11f6a
+=======
+<<<<<<< HEAD
+>>>>>>> 2fe18cb34b44946854ae6ae199a6c8554ba11f6a
+=======
+
+## What's up boys and girls!
+My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
+![pussy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/1200px-British_blue_2009_%28cropped%29.jpg)
+>>>>>>> 0f16cab226e87197cda5d1569bb721b85bbcecc6
+>>>>>>> master
