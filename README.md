@@ -2313,11 +2313,11 @@ So cool to be here!
 ## Hi all
 My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrastination. Let's see how far I can get with Kottans.
 
-    
+
 ## Hi! I'm Zhenia. Let's be friends!
 [LinkedIn](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
 
-    
+
 ## Hello, everyone!
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
 Thank you for this course!!!
@@ -2333,7 +2333,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello everyone! Sonia is here!
-I am very happy to see you all here! 
+I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
@@ -2353,7 +2353,7 @@ I'm first time working with GitHub, its so fresh & cool expirience!!!
 
 ---------------------------------
 # Hello ~~World~~ Kottans
-My name is Illia. 
+My name is Illia.
 Hope this kitty will grow up together with improving my programing skills
 
 ![kitty](./assets/images/koshak.jpg)
@@ -2383,3 +2383,14 @@ My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ## Hello Kottans!
 My name is Eugene
 I'm happy to be here!
+
+# Good evening, everebody!
+My name is Vasyl
+![spacecat](https://i.imgur.com/5cNY70b.png)
+
+## Hi, Kottans!
+Well, let's learn and go hang out?)
+
+## What's up boys and girls!
+My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
+![pussy](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/British_blue_2009_%28cropped%29.jpg/1200px-British_blue_2009_%28cropped%29.jpg)
