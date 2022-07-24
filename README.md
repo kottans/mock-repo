@@ -2338,7 +2338,10 @@ I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
 ![about me](https://github.com/Yuliia-Urikh/kottans-frontend/blob/master/git_basics/me.jpg)
 
 # Hi, my name is [Anton](http://github.com/AntonKottans)
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in enemy city Saint Petersburg:
 ![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
 
