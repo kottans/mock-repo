@@ -1,4 +1,4 @@
-﻿
+
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -2409,3 +2409,7 @@ I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
 ## Hi, Kottans!
 My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this experience!
 ![Cat art](./assets/images/cat-developer.jpg)
+
+## HelLo!
+My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
+![Zero](./assets/images/zero.jpg) 
