@@ -2295,3 +2295,7 @@ Thank you for this opportunity to be a part of this community and learn intersti
 ## Hello everyone! Sonia is here!
 I am very happy to see you all here! 
 Good luck, have fun and don't forget to practice coding every day <3
+
+## Hello everybody!
+My name is Andrii I'm new to programming, I hope we'll have fun while learning
+![js writer](./assets/images/cat-prog.jpg)
