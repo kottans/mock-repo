@@ -2378,7 +2378,7 @@ My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
 ## Hello Kottans!
-My name is Dmitry(https://github.com/martoff1980)
+My name is [Dmitry](https://github.com/martoff1980).
 I'm happy to be here!
 
 ## Hi, everyone.
