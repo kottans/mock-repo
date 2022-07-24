@@ -3,8 +3,7 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-<h1>Hi Everyone!</h1>
-My name is Natali. I'm glad to join the community!
+
 
 <h1 align="center">Hello, I'm Volodymyr </h1>
 <p> I'm glad to join the kottans community. Happy studying. </p>
@@ -17,7 +16,7 @@ I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
 
-<h1 align="center"> Добрий день , everybody</h1>
+<h1 align="center"> Hi , everybody</h1>
 <hr/>
 <p> <span>I am Alex.</span> I'm so glad to join the Kottans community! <br/> I am computer engineering student, looking for a new frond-end a knowledge and some friends : ) </p>
 <strong> Look at this engineer ☺</strong>
@@ -162,8 +161,9 @@ My name is Taras. I am glad that there is such an opportunity to get on an inter
 
 
 
-
-
+## Hello all!
+My name is Stanislav. I am glad to join this training, and I will try to complete all the tasks on time!
+[![Funny cat](./assets/images/funny_cat.jpg)](https://github.com/kottans/frontend)
 
 
 
@@ -2414,3 +2414,9 @@ My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this expe
 
 ## Hi, my name is Tomash!
 I'm glad to join kottans community!
+
+## Hi!
+I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join Kottans!
+
+## Hi Everyone!
+My name is Natali. I'm glad to join the community!
