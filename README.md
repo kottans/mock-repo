@@ -2413,3 +2413,7 @@ My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this expe
 
 ## Hi, my name is Tomash!
 I'm glad to join kottans community!
+
+## Hi!
+I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join Kottans!
+
