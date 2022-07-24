@@ -161,8 +161,9 @@ My name is Taras. I am glad that there is such an opportunity to get on an inter
 
 
 
-
-
+## Hello all!
+My name is Stanislav. I am glad to join this training, and I will try to complete all the tasks on time!
+[![Funny cat](./assets/images/funny_cat.jpg)](https://github.com/kottans/frontend)
 
 
 
