@@ -2384,14 +2384,6 @@ My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 My name is Eugene
 I'm happy to be here!
 
-<<<<<<< HEAD
-
-# Hi, everyone!
-
-My name is [Boghdana](https://github.com/Erudaberi). I have very high hopes for this course and I hope they come true.
-
-![The cat!](https://i.pinimg.com/originals/17/8e/dc/178edca885e2b1cb061c128c8cedf30c.jpg)
-=======
 # Good evening, everebody!
 My name is Vasyl
 ![spacecat](https://i.imgur.com/5cNY70b.png)
@@ -2406,11 +2398,12 @@ My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
 ## Okay Let`s go
 Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME, DIO
 ![Dio](./assets/images/DIO.jpg)
-<<<<<<< HEAD
->>>>>>> master
-=======
 
 ## Hi everyone!
 I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
 ![anotherCat](assets/images/cat_meme.jpg)
->>>>>>> master
+
+
+# Hi, everyone!
+My name is [Boghdana](https://github.com/Erudaberi). I have very high hopes for this course and I hope they come true.
+![The cat!](https://i.pinimg.com/originals/17/8e/dc/178edca885e2b1cb061c128c8cedf30c.jpg)
