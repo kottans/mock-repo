@@ -15,7 +15,7 @@ Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-
+<h2>hello there now. My name is Yura, and I amd a dinosaur</h2>
 <h1 align="center"> Добрий день , everybody</h1>
 <hr/>
 <p> <span>I am Alex.</span> I'm so glad to join the Kottans community! <br/> I am computer engineering student, looking for a new frond-end a knowledge and some friends : ) </p>
