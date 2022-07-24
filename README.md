@@ -2405,13 +2405,10 @@ Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME
 I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
 ![anotherCat](assets/images/cat_meme.jpg)
 
-
-<<<<<<< HEAD
 # Hi, everyone!
 My name is [Boghdana](https://github.com/Erudaberi). I have very high hopes for this course and I hope they come true.
 ![The cat!](https://i.pinimg.com/originals/17/8e/dc/178edca885e2b1cb061c128c8cedf30c.jpg)
-=======
+
 ## Hi, Kottans!
 My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this experience!
 ![Cat art](./assets/images/cat-developer.jpg)
->>>>>>> master
