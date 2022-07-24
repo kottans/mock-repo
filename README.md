@@ -5,6 +5,7 @@
 <h1 align="center">Hi! my name is Andrey </h1>
 <p> Pleased to meet you. </p>
 <a href="https://github.com/zadorogniyandrey">my github profile</a>
+[my github profile](https://github.com/zadorogniyandrey)
 
 <h1 align="center">Hello, I'm Volodymyr </h1>
 <p> I'm glad to join the kottans community. Happy studying. </p>
@@ -57,15 +58,6 @@ This is a training repository for Kottans [frontend](https://github.com/Kottans/
 and [git](https://github.com/Kottans/git-course) courses.
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
-
-<<<<<<< HEAD
-_This was an intentionally misspelled phrase_
-=======
-
-
-
-
->>>>>>> master
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -2347,7 +2339,7 @@ I`m [Yulia](https://github.com/Yuliia-Urikh). Very happy to join the community!
 
 # Hi, my name is [Anton](http://github.com/AntonKottans)
 
-I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in Saint Petersburg:
+I hope learning frontend with your community will feel easier, cos redux is really hard to understand at first sight. I don't like pictures or cats, so this is how april looks like in enemy city Saint Petersburg:
 ![Spring](/gif/usual_spring_in_saint_petersburg_2400.jpg)
 
 # Hi Everybody!
@@ -2592,12 +2584,8 @@ Thank you for this opportunity to be a part of this community and learn intersti
 I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
-<<<<<<< HEAD
 =======
 
-
-=======
->>>>>>> master
 ## Hello, everyone!
 
 My name is [Bogdan](https://github.com/BogdanGapon). Hello.
@@ -2674,11 +2662,8 @@ Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME
 
 I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
 ![anotherCat](assets/images/cat_meme.jpg)
-<<<<<<< HEAD
-=======
-
 
 ## Hi, Kottans!
+
 My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this experience!
 ![Cat art](./assets/images/cat-developer.jpg)
->>>>>>> master
