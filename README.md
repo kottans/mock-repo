@@ -61,7 +61,7 @@ and [git](https://github.com/Kottans/git-course) courses.
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
-*This was an intentionally misspelled phrase*
+
 
 
 
@@ -2337,6 +2337,8 @@ I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
+
+=======
 ## Hello, everyone!
 My name is [Bogdan](https://github.com/BogdanGapon). Hello.
 
@@ -2402,3 +2404,8 @@ Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME
 ## Hi everyone!
 I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
 ![anotherCat](assets/images/cat_meme.jpg)
+
+
+## Hi, Kottans!
+My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this experience!
+![Cat art](./assets/images/cat-developer.jpg)
