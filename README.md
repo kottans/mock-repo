@@ -1,5 +1,5 @@
 ﻿#Hi! My name is Yana. I'm happy to be here🌝 Good luck everyone!
-(./assets/images/Bruklin.jpg)
+![My kottans](./assets/images/Bruklin.jpg)
 
 # Hey cottans community, my name is Oleksandr.
 
