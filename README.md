@@ -1,4 +1,8 @@
-﻿# Hey cottans community, my name is Oleksandr.
+﻿# Hello kottans =(^.^)=, my name is Mykhailo :]
+Very happy to be part of your community. <br>
+![alf](./assets/images/alf_cat.jpg)
+
+# Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
@@ -13,7 +17,7 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 <p> I'm glad to join the kottans community. Happy studying. </p>
 [github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
 
-#Hi! I'm Anna. I am incredibly excited to study with Kottans.
+# Hi! I'm Anna. I am incredibly excited to study with Kottans.
 
 Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
