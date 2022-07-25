@@ -2428,3 +2428,7 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
+
+## Hello, everybody! I'm Oleh.
+Forward to new knowledge!!!
+Good luck with your learning!!!
