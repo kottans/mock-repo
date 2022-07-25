@@ -2337,7 +2337,7 @@ Thank you for this opportunity to be a part of this community and learn intersti
 
 ## Hi there!
 I'm Petro and I'm happy to join the community.Have a nice day and be happy!)
-![Petro](./assets/images/petro-cat.jpg)](https://github.com/PetroFedun)
+![Petro](https://github.com/PetroFedun)
 
 ## Hello everyone! Sonia is here!
 I am very happy to see you all here!
