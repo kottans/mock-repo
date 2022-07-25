@@ -1,4 +1,9 @@
-﻿# Hey cottans community, my name is Oleksandr.
+﻿
+## Hello!
+My name is Nadia. I am 21y.o.
+My repo [NVRepo](https://github.com/NadiaVorontsova/kottans-frontend.git). 
+
+# Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
