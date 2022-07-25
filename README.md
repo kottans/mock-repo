@@ -2335,18 +2335,17 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 ## Hi, there! It's Andre Masko onboard!
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
-<<<<<<< HEAD
 ## Hi there!
 I'm Petro and I'm happy to join the community.Have a nice day and be happy!)
 ![Petro](./assets/images/petro-cat.jpg)](https://github.com/PetroFedun)
-=======
+
 ## Hello everyone! Sonia is here!
 I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
 
-=======
+
 ## Hello, everyone!
 My name is [Bogdan](https://github.com/BogdanGapon). Hello.
 
