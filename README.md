@@ -2428,3 +2428,6 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
+
+<h1 style="color:blue; text-align: center;">Hello,<span style="color: yellow;"> I'm Natalya.</span></h1></br><div style="font-size: 18px; text-align: center;">Glad to be in this community and reveive new knowledge</div>
+<img src='assets/images/meow_kottans.jpg' width="400" height="400" alt='Kitten say hello'>
