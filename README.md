@@ -2286,3 +2286,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 
 ## Hi, there! It's Andre Masko onboard!
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
+
+## Hello, friends!
+My name is [Liza](https://github.com/LizaKind07) and I'm happy to join this community!
+![Cat](./assets/images/cattys_l.jpg)
