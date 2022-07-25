@@ -5,6 +5,10 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
+## WAD Thread
+---
+This intro repo size over 200 MB now! fck gif dir.
+
 <h1 align="center">Hi! my name is Andrey </h1>
 <p> Pleased to meet you. </p>
 [my github profile](https://github.com/zadorogniyandrey)
