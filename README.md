@@ -329,7 +329,7 @@ WANNA COMPLETE THIS COURSE!
 
 
 # HI KOTTANKIND!
-I am Dainis ,dude what want to learn back end.
+I am Dainis, dude what want to learn back end.
 ![Alt text](https://github.com/RazdolbayOne/kottans-backend/blob/master/Tombili-3.jpg)
 
 
@@ -346,7 +346,7 @@ _________________________________________________
 # Hi, kottans!
 
 I am [Liu](https://github.com/Jam-Iko)
-Here's a tipo for somebody to fix :)
+Here's a typo for somebody to fix :)
 
 _________________________________________________
 
@@ -2428,3 +2428,6 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
+
+## Pryvit!
+I am very proud we have such an amazing group of enthusiasts that created this course!
