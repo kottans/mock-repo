@@ -5,6 +5,14 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
+
+<h1 align="center">Hey, I'm Dima </h1>
+<p> Really glad to get together with ya'll , I'm sure that we can combine learning and having fun! </p>
+<a href=https://github.com/DinoDima666/kottans-frontend.git>Here's my GitHub repository</a>
+<p>And my smoll cat Sirius also excited!</p>
+<img src="assets/images/sirius.jpg"/>
+
+
 <h1 align="center">Hi! my name is Andrey </h1>
 <p> Pleased to meet you. </p>
 [my github profile](https://github.com/zadorogniyandrey)
