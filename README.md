@@ -128,7 +128,6 @@ good luck)
 Glad to join to the community)
 ![Excited cat](https://www.meme-arsenal.com/memes/aa4bcbdd3663951801bae2d4fb1a1d0a.jpg)
 
-
 ## Hi, I'm Masha
 Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
 ![The cat bangs its head against the laptop](https://giphy.com/gifs/hoppip-cat-drawing-11dR2hEgtN5KoM)
@@ -2337,8 +2336,6 @@ My name is [Bohdan](https://github.com/bmukha) and I have black belt in procrast
 
 
 ## Hi! I'm Zhenia. Let's be friends!
-[LinkedIn](https://www.linkedin.com/in/zhenia-stupiak-908127211/)
-
 
 ## Hello, everyone!
 My name is [Yulya] (https://github.com/FoxYulya) and I'm happy to join this community!
@@ -2354,6 +2351,12 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
   
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
+
+## Hi there!
+I'm [Petro](https://github.com/PetroFedun) and I'm happy to join the community.Have a nice day and be happy!)
+![Cat](./assets/images/petro-cat.jpg)
+
+
 ## Hello, I`m Margarita!
 
 I am happy to find this community for studying frontend.
@@ -2368,6 +2371,7 @@ Good luck, have fun and don't forget to practice coding every day <3
 ## Hello everybody!
 My name is Andrii I'm new to programming, I hope we'll have fun while learning
 ![js writer](./assets/images/cat-prog.jpg)
+
 
 ## Hello, everyone!
 My name is [Bogdan](https://github.com/BogdanGapon). Hello.
