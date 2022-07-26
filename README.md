@@ -1,5 +1,6 @@
-﻿#Hello World
-<p>My name is Artem i am a programmist</p>
+#Hello World
+<p>My name is Artem and i am programist</p>
+﻿
 # Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
