@@ -2442,6 +2442,11 @@ I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
 Hi, I'm Vlada. I'm so glad to join Kottans team.) 
 [My gitHub](https://github.com/Vlada-khom)
 
+
 ## Hello!
 My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ![Zero](./assets/images/zero.jpg)
+
+
+## HI, THERE! My name is Vitaliy
+I'm glad to be here!
