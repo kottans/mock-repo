@@ -1,3 +1,9 @@
+﻿## Hey guys, whats up?)
+My name is Dmytryj.
+[Link](https://github.com/DmytryjK/kottans-frontend) to my repo on GitHub.
+<img src="assets/images/mycat.png" alt="cat" style="width: 100%; height: 100%">
+
+
 # Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
