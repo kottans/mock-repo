@@ -2719,8 +2719,6 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 
 My name is Natali. I'm glad to join the community!
 
-<<<<<<< HEAD
-
 ## Hi!
 
 I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
@@ -2736,11 +2734,7 @@ Hi, I'm Vlada. I'm so glad to join Kottans team.)
 Hi, I'm Vlada. I'm so glad to join Kottans team.)
 [My gitHub](https://github.com/Vlada-khom)
 
-=======
-
 ## It's awesome, Kottans!
 
 I am [Vlad](https://github.com/Eg-Vostochniy). I`d like to keep learning frontend and learn a lot of new and useful things!
-Good luck to all!(https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png)
-
-> > > > > > >
+Good luck to all![Ukraine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/250px-Flag_of_Ukraine.svg.png)
