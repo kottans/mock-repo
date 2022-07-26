@@ -2352,6 +2352,11 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 
+
+## Hello, friends!
+My name is [Liza](https://github.com/LizaKind07) and I'm happy to join this community!
+![Cat](./assets/images/cattys_l.jpg)
+
 ## Hi there!
 I'm [Petro](https://github.com/PetroFedun) and I'm happy to join the community.Have a nice day and be happy!)
 ![Cat](./assets/images/petro-cat.jpg)
@@ -2363,10 +2368,12 @@ I am happy to find this community for studying frontend.
 Hope for help when I need. Good luck.
 ![Kitten](https://pixabay.com/photos/kitten-blue-eyes-cat-s-eyes-cat-1866475/)
 
+
 ## Hello everyone! Sonia is here!
 
 I am very happy to see you all here! 
 Good luck, have fun and don't forget to practice coding every day <3
+
 
 ## Hello everybody!
 My name is Andrii I'm new to programming, I hope we'll have fun while learning
