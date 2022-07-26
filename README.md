@@ -2448,6 +2448,11 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 My name is Natali. I'm glad to join the community!
 
 
+# Hi, everyone!
+My name is [Hanna](https://github.com/AnnaSobchenko). I'm happy to join this community!
+![Cat happy](./assets/images/cat-happy.png)
+
+
 ## Hello everyone, Just start to learn about programming!
 Hey, I'm [Kong](https://github.com/manchester013) super excited to join this community and learn from it. Just with Git alone is so much fun!
 
