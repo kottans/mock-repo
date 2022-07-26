@@ -2357,12 +2357,14 @@ Hope for help when I need. Good luck.
 ![Kitten](https://pixabay.com/photos/kitten-blue-eyes-cat-s-eyes-cat-1866475/)
 
 ## Hello everyone! Sonia is here!
-I am very happy to see you all here!
+
+I am very happy to see you all here! 
 Good luck, have fun and don't forget to practice coding every day <3
 
+## Hello everybody!
+My name is Andrii I'm new to programming, I hope we'll have fun while learning
+![js writer](./assets/images/cat-prog.jpg)
 
-
-=======
 ## Hello, everyone!
 My name is [Bogdan](https://github.com/BogdanGapon). Hello.
 
@@ -2478,4 +2480,3 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
-
