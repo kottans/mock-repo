@@ -1,7 +1,7 @@
-﻿# Hey cottans community, my name is Oleksandr.
+# Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
-﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
@@ -2441,6 +2441,12 @@ I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
 ## Hello, Everyone!
 Hi, I'm Vlada. I'm so glad to join Kottans team.) 
 [My gitHub](https://github.com/Vlada-khom)
+
+
+## Hello!
+My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
+![Zero](./assets/images/zero.jpg)
+
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
