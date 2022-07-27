@@ -1,8 +1,7 @@
-<h1>Hello, kottans!</h1>
+<h2>Hi, kottans!!!<h2>
 
 ##Hello World
 I am Artem good luck
-
 
 ﻿## Hey guys, whats up?)
 My name is Dmytryj.
