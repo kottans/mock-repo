@@ -1,14 +1,10 @@
 <h2>Hi, kottans!<h2>
 
-# Hey cottans community, my name is Oleksandr.
-||||||| 09c222d
-# Hey cottans community, my name is Oleksandr.
-
 ##Hello World
 I am Artem good luck
 
 
-## Hey guys, whats up?)
+﻿## Hey guys, whats up?)
 My name is Dmytryj.
 [Link](https://github.com/DmytryjK/kottans-frontend) to my repo on GitHub.
 <img src="assets/images/mycat.png" alt="cat" style="width: 100%; height: 100%">
