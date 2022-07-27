@@ -2495,3 +2495,8 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
+
+
+﻿## Hey guys, whats up?)
+My name is Vitalii.
+[Link](https://github.com/macakklett/kottans-frontend) to my repo on GitHub.
