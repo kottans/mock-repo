@@ -2207,6 +2207,11 @@ I took an HTML&CSS course in Spalah IT School about five years ago. I stopped de
 
 ![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
 
+
+## Hi everybody!
+I'm Ivan. I am glad to become one of the participants.
+[![Botan kottan](./assets/images/botan_cat.jpg)](https://github.com/SinchUK/kottans-frontend)
+=======
 ## Hello kottans!
 
 I'm Alexey, thank you for your course!
@@ -2506,6 +2511,7 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
 
+
 ## Hello! I'm Steve!
 Thanks for good opportunity to join in progressive learning of front-end ! 
 My [GitHub](https://github.com/serentinos) :)
@@ -2513,3 +2519,4 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
