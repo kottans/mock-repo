@@ -3,6 +3,7 @@
 <img src="assets/images/well-done-cat.jpeg" alt="cat" width="500">
 
 # Hello Kottans!
+
 **_My name is Natalia_**
 
 Fortunatelly I discovered **_Kottans_** on dou.ua, and now I'm here with you whether you like it or not :-P
@@ -2758,16 +2759,9 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 
 My name is Natali. I'm glad to join the community!
 
-<<<<<<< HEAD
-||||||| 8e94cd0
-
-=======
-
 ## Hi Everyone!
 
 I'm Oleg. I'm glad to join the community!
-
-> > > > > > > master
 
 # Hi, everyone!
 
