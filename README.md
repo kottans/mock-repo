@@ -2495,3 +2495,6 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
