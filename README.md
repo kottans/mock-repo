@@ -2496,4 +2496,10 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
 
+<<<<<<< HEAD
 #Hi! My name is Aleks
+=======
+## Hello, Everyone!!!
+My name is [Anna](https://github.com/just-ann12). 
+I'm really exited to join Kottans!
+>>>>>>> master
