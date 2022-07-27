@@ -2495,3 +2495,12 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
+
+
+## Greetings everyone !
+
+My name is [Oleksii](https://github.com/Tedzury) and I'm so happy to be a part of such warm and friendly community!
+
+Looking forward for studying like my fluffy friend!
+
+![Kokos](./assets/images/Kokos.jpg)
