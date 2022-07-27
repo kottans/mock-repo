@@ -1,7 +1,4 @@
-﻿#Hi! My name is Yana. I'm happy to be here🌝 Good luck everyone!
-![My kottans](./assets/images/Bruklin.jpg)
-
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
+﻿This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -2695,3 +2692,8 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 ## Hi Everyone!
 
 My name is Natali. I'm glad to join the community!
+
+### Hi!
+
+My name is Yana. I'm happy to be here🌝 Good luck everyone!
+![My kottans](./assets/images/Bruklin.jpg)
