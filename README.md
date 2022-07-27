@@ -1,3 +1,13 @@
+
+## Hi everyone!
+
+I am Yulia.
+I wish everyone to have a lot of practice and fun :)
+
+This is my [repo](https://github.com/yhorodechna/kottans-frontend.git).
+
+---
+
 ##Hello World
 I am Artem good luck
 
