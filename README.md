@@ -2499,4 +2499,4 @@ I'm glad to be here!
 
 Hey guys, how are you?)
 My name is Vitalii.
-[Link](https://macakklett.github.io/cottans-frontend/) to my repo on GitHub.
+[Link](https://github.com/macakklett) to my repo on GitHub.
