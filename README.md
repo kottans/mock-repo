@@ -2653,18 +2653,14 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 
 ## Hi, there! It's Andre Masko onboard!
 
-<<<<<<< HEAD
-
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hi!
 
 My name is [Maria](https://github.com/filoxera140) and I'm very glad to join the community!
-This is my cat Summer [Meow](./assets/images/summer.jpg)
+This is my cat Summer
+![Meow](./assets/images/summer.jpg)
 Thank you for this amazing course!
-=======
-
-Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello, friends!
 
