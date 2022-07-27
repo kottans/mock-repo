@@ -1,4 +1,14 @@
-﻿# Hello Kottans! 
+﻿# Hey there! 
+**I'm Anna**
+
+Glad to become a part of that story!)) Wish luck to all of us
+
+Please **don't upload** heavy media files, I was cloning the repo for ages :)
+
+___
+
+
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
