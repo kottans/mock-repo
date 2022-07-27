@@ -1,3 +1,9 @@
+## Hi, I'm Artem
+And I learn Kottans course with you. Patience and good luck.
+See you at work as FrontEnd Developer!
+[Me repo](https://github.com/IrbisKronos)
+
+---
 ##Hello World
 I am Artem good luck
 
@@ -9,7 +15,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -2348,7 +2354,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 ![Chill](./assets/images/chill.jpg)
 
 ## Hi, there! It's Andre Masko onboard!
-  
+
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 
@@ -2371,7 +2377,7 @@ Hope for help when I need. Good luck.
 
 ## Hello everyone! Sonia is here!
 
-I am very happy to see you all here! 
+I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
@@ -2479,7 +2485,7 @@ I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
 
 
 ## Hello, Everyone!
-Hi, I'm Vlada. I'm so glad to join Kottans team.) 
+Hi, I'm Vlada. I'm so glad to join Kottans team.)
 [My gitHub](https://github.com/Vlada-khom)
 
 
