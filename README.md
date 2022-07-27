@@ -162,12 +162,6 @@ I hope meet there interesting projects and friends.)
 
 I know that you are than me.
 
-## Hi Guys!
-
-I'm Nastia! Thanks for the course :)
-
----
-
 ## Hi Everyone! 😁
 
 My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
@@ -204,6 +198,9 @@ It was an explosive start to front-end learning! At first it was hard for me bec
 ## My name is [Dania](https://github.com/DaniaB24).I just started learning front-end and I am Glad to join the community!
 
 [![Kottans-Frontend](https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_1280w__no_aspect_/public/cat_1280p_0.jpg?itok=ZPUkZ5_m)](https://github.com/kottans/frontend)
+
+##Hello there!!
+I'm Nastia!
 
 # Hey folks!
 
@@ -259,6 +256,7 @@ Hi and pryvit 😺😺😺.
 ![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
 
 # Hello =)
+
 I am [Yaroslav](https://github.com/littleproger)
 Have a nice day and be happy!)))
 ![cat](gif/kotans.gif)
