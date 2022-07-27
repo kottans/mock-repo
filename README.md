@@ -2480,6 +2480,9 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 My name is Natali. I'm glad to join the community!
 
 
+## Hi Everyone!
+I'm Oleg. I'm glad to join the community!
+
 # Hi, everyone!
 My name is [Hanna](https://github.com/AnnaSobchenko). I'm happy to join this community!
 ![Cat happy](./assets/images/cat-happy.png)
@@ -2519,4 +2522,3 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
-
