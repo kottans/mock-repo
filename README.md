@@ -2102,3 +2102,6 @@ I took an HTML&CSS course in Spalah IT School about five years ago. I stopped de
 ![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
 =======
 
+## Hi everybody!
+I'm Ivan. I am glad to become one of the participants.
+[![Botan kottan](./assets/images/botan_cat.jpg)](https://github.com/SinchUK/kottans-frontend)
