@@ -1,4 +1,9 @@
 
+# Hello kottans =(^.^)=, my name is Mykhailo :]
+Very happy to be part of your community. <br>
+![alf](./assets/images/alf_cat.jpg)
+
+
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
  
@@ -21,6 +26,7 @@ I am Artem good luck
 My name is Dmytryj.
 [Link](https://github.com/DmytryjK/kottans-frontend) to my repo on GitHub.
 <img src="assets/images/mycat.png" alt="cat" style="width: 100%; height: 100%">
+
 
 
 # Hey cottans community, my name is Oleksandr.
@@ -46,7 +52,7 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 <p> I'm glad to join the kottans community. Happy studying. </p>
 [github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
 
-#Hi! I'm Anna. I am incredibly excited to study with Kottans.
+# Hi! I'm Anna. I am incredibly excited to study with Kottans.
 
 Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
