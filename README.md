@@ -2522,3 +2522,30 @@ Hi, I'm Vlada. I'm so glad to join Kottans team.)
 ## Hello, Lads!
 Hi, I'm Bohdan. Look at us. FrontEnd buddyes.
 [My gitHub](https://github.com/H0us5)
+
+
+## Hello!
+
+
+My name is [Misha](https://github.com/MishaDerkach). I'm really happy to join Kottans!
+
+
+My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
+![Zero](./assets/images/zero.jpg)
+
+
+## HI, THERE! My name is Vitaliy
+I'm glad to be here!
+
+    
+## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
+
+    
+## Hello! I'm Steve!
+Thanks for good opportunity to join in progressive learning of front-end ! 
+My [GitHub](https://github.com/serentinos) :)
+
+
+## Hello, Everyone!!!
+My name is [Anna](https://github.com/just-ann12). 
+I'm really exited to join Kottans!
