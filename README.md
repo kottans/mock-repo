@@ -1,4 +1,4 @@
-<h1>Hi! I'm Alona.</h1>
+﻿<h1>Hi! I'm Alona.</h1>
 <a href=https://github.com/AaLin-Git/kottans-frontend>My Git repository</a>
 <img src="assets/images/well-done-cat.jpeg" alt="cat" width="500">
 
@@ -2778,8 +2778,18 @@ I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
 
 ## Hello, Everyone!
 
+<<<<<<< HEAD
 Hi, I'm Vlada. I'm so glad to join Kottans team.)
 [My gitHub](https://github.com/Vlada-khom)
+||||||| 909900f
+=======
+
+## Hello, Lads!
+
+Hi, I'm Bohdan. Look at us. FrontEnd buddyes.
+[My gitHub](https://github.com/H0us5)
+
+> > > > > > > master
 
 ## Hello!
 
