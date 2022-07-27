@@ -1,3 +1,11 @@
+﻿# Hello Kottans! 
+***My name is Natalia***
+
+Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
+
+By no means look on my repo. [Here it is](https://github.com/natalia-artsiukh/kottans-frontend.git), by the way.
+
+___
 
 # Hello kottans =(^.^)=, my name is Mykhailo :]
 Very happy to be part of your community. <br>
