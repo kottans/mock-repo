@@ -2495,3 +2495,7 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
+
+# Hi! My name is Yana
+## Good luck everyone!
+![Bruklin](./assets/images/Bruklin.jpg)
