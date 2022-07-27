@@ -3,7 +3,6 @@
 ##Hello World
 I am Artem good luck
 
-
 ﻿## Hey guys, whats up?)
 My name is Dmytryj.
 [Link](https://github.com/DmytryjK/kottans-frontend) to my repo on GitHub.
@@ -11,6 +10,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
+>>>>>>> master
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
