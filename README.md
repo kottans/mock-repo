@@ -1,4 +1,11 @@
-﻿# Hello Kottans! 
+﻿# Hello Kottans! (^･ｪ･^)
+
+My name is Nick!
+
+Good luck for everybody!
+
+
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
