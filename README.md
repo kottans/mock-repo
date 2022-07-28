@@ -1,4 +1,9 @@
-﻿# Hello Kottans! 
+﻿# Hello everybody!
+I am Yaroslav. I am studing in Ivan Franko National University of Lviv/
+I like this community and course, It is a bit difficult, but I think it`s okay.
+This is my [repo](https://github.com/YaroslavYarynych/kottans-frontend.git)
+
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
