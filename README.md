@@ -1,4 +1,7 @@
-﻿# Hello Kottans! 
+﻿## Hi everyone!
+My name is Yaroslav, I`m 20 years old. I am studing in Ivan Franko National University of Lviv.
+This is my [repo](https://github.com/YaroslavYarynych/kottans-frontend).
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
