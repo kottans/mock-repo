@@ -1,6 +1,8 @@
+
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
 Glory to AFU!
+
 
 # Hello Kottans! 
 ***My name is Natalia***
@@ -2553,3 +2555,6 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+## Hi my name is Anastasia😺😺
+I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
