@@ -1,3 +1,10 @@
+﻿# <h1 align="center">Hi! my name is Vitalii </h1>
+
+I’m glad to be a peace of kottans team, I wish all of you good luck and don’t stop continue do what you LOVE
+
+<h1 align="center"> (^:^) </h1>
+
+
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
@@ -302,7 +309,7 @@ Come on to my [GitHub](https://github.com/dankor1498)
 ## Hello to you all!
 It is awesome)
 
-Hi and pryvit 😺😺😺.
+Hi and pryvit Hi😺😺.
 ## My name is Yevhen Tkachenko (https://github.com/t-jay-777)
 # Dont worry and be happy!
 ![be happy](https://user-images.githubusercontent.com/48657526/68239702-bf290c00-000b-11ea-9ebc-915858d6444a.jpg)
