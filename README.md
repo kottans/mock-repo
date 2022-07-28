@@ -1,6 +1,15 @@
-﻿<h1>Hi! I'm Alona.</h1>
+﻿﻿<h1>Hi! I'm Alona.</h1>
 <a href=https://github.com/AaLin-Git/kottans-frontend>My Git repository</a>
 <img src="assets/images/well-done-cat.jpeg" alt="cat" width="500">
+
+# Добрий вечір, everybody :)
+
+In spite of everything, lets enjoy this course!
+Glory to AFU!
+
+# Hello Kottans!
+
+**_My name is Natalia_**
 
 # Hello Kottans!
 
@@ -18,6 +27,13 @@ Very happy to be part of your community. <br>
 ![alf](./assets/images/alf_cat.jpg)
 
 # Hi kottans! I'm Konstiantyn and i will work for you soon
+
+## Hello, everybody!
+
+My name is Olena.
+I joined kottans to gain knowledge in Front-end.
+Here is my cat Knopa:
+![bengal-cat](./assets/images/bengal-cat-Knopa.jpeg)
 
 ## Hi everyone!
 
@@ -2802,6 +2818,26 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 I'm glad to be here!
 
+<<<<<<< HEAD
+||||||| e81e032
+
+=======
+
+# Hi! My name is Yana
+
+## Good luck everyone!
+
+![Bruklin](./assets/images/Bruklin.jpg)
+
+## Hi!
+
+I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
+![Part of cat](./gif/some_part_of_cat.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
+
+> > > > > > > master
+
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
 ## Hello! I'm Steve!
@@ -2813,3 +2849,7 @@ My [GitHub](https://github.com/serentinos) :)
 
 My name is [Anna](https://github.com/just-ann12).
 I'm really exited to join Kottans!
+
+## Hi my name is Anastasia😺😺
+
+I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
