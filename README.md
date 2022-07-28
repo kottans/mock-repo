@@ -1,4 +1,8 @@
-﻿
+
+﻿# Добрий вечір, everybody :)
+In spite of everything, lets enjoy this course!
+Glory to AFU!
+
 
 # Hello Kottans! 
 ***My name is Natalia***
