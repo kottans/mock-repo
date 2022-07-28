@@ -1,3 +1,6 @@
+Hello everybody!
+My name is Ivan. 
+I'm glad to join Kottans and looking forward to starting our journey in the world of Front-End!
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
