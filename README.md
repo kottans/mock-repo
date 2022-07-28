@@ -2549,3 +2549,6 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+ 
+## Hi everyone! 
+I'm Yulia.
