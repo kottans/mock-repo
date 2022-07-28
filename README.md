@@ -2549,3 +2549,7 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+
+##Hi. I am glad to join Kottans Frontend course.
+My name is Eugene. My [github](https://github.com/expero1)
