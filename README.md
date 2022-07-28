@@ -1,4 +1,8 @@
-﻿# Hello Kottans! 
+﻿# Добрий вечір, everybody :)
+In spite of everything, lets enjoy this course!
+Glory to AFU!
+
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
