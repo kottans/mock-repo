@@ -1,10 +1,10 @@
-﻿
-## Hi there!
-
+﻿## Hi there!
 My name is Dima and I'm so happy to join the community 🙂
 </br>
 This is [link](https://github.com/chernetskyi8704/kottans-frontend.git) to my repo.
+
 ![greetCat](/assets/images/Syoma2.jpg)
+
 
 
 ##Hello World
@@ -2739,12 +2739,18 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 My name is Natali. I'm glad to join the community!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 ## Hi Everyone!
 I'm Oleg. I'm glad to join the community!
 
 >>>>>>> master
+=======
+## Hi Everyone!
+I'm Oleg. I'm glad to join the community!
+
+>>>>>>> 1716b068fd489bbde055d23ba9210da42b92d0f1
 # Hi, everyone!
 
 My name is [Hanna](https://github.com/AnnaSobchenko). I'm happy to join this community!
@@ -2760,6 +2766,7 @@ I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
 
 ## Hello, Everyone!
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 Hi, I'm Vlada. I'm so glad to join Kottans team.)
 [My gitHub](https://github.com/Vlada-khom)
@@ -2793,3 +2800,5 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+=======
+>>>>>>> 1716b068fd489bbde055d23ba9210da42b92d0f1
