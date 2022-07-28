@@ -2549,3 +2549,12 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+    
+## Hello there!
+
+I'm [Nataliia](https://github.com/kosh3n), glad to be here. Wish everyone luck!
+
+Sorry, no cats, just birds (plz don't eat)
+
+![1658929226599](https://user-images.githubusercontent.com/95924961/181264546-efabbc8a-f23a-45d4-812f-939b3ec67e11.jpg)
