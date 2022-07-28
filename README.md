@@ -1,3 +1,5 @@
+# Hello everybody!
+Hi! My name is Yaroslav. Im 20 years old. Im studing in Ivan Franko National University of Lviv. I found a lot of buddies and it`s cool. 
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
