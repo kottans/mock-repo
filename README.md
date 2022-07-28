@@ -2551,12 +2551,17 @@ I'm glad to be here!
 
 
 
+# Hi! My name is Yana
+## Good luck everyone!
+![Bruklin](./assets/images/Bruklin.jpg)
+
 ## Hi!
 I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
 ![Part of cat](./gif/some_part_of_cat.png)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
+
 
     
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
@@ -2574,3 +2579,4 @@ I'm really exited to join Kottans!
 
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
+
