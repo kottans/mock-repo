@@ -9,6 +9,7 @@ My name is Dmytryj.
 <img src="assets/images/mycat.png" alt="cat" style="width: 100%; height: 100%">
 
 
+
 # Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
@@ -32,7 +33,7 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 <p> I'm glad to join the kottans community. Happy studying. </p>
 [github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
 
-#Hi! I'm Anna. I am incredibly excited to study with Kottans.
+# Hi! I'm Anna. I am incredibly excited to study with Kottans.
 
 Hi! I'm Pavlo and I learn GitHub.
 I'm happy to be with kottans
@@ -2198,6 +2199,11 @@ I took an HTML&CSS course in Spalah IT School about five years ago. I stopped de
 
 ![Cat greetings](https://media.tenor.com/images/5e43669b9573fea08ede20a5bbbbe2df/tenor.gif)
 
+
+## Hi everybody!
+I'm Ivan. I am glad to become one of the participants.
+[![Botan kottan](./assets/images/botan_cat.jpg)](https://github.com/SinchUK/kottans-frontend)
+=======
 ## Hello kottans!
 
 I'm Alexey, thank you for your course!
@@ -2466,6 +2472,9 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 My name is Natali. I'm glad to join the community!
 
 
+## Hi Everyone!
+I'm Oleg. I'm glad to join the community!
+
 # Hi, everyone!
 My name is [Hanna](https://github.com/AnnaSobchenko). I'm happy to join this community!
 ![Cat happy](./assets/images/cat-happy.png)
@@ -2483,6 +2492,10 @@ I'm [Larysa](https://github.com/Lara-trost). I'm happy to be here.
 Hi, I'm Vlada. I'm so glad to join Kottans team.) 
 [My gitHub](https://github.com/Vlada-khom)
 
+## Hello, Lads!
+Hi, I'm Bohdan. Look at us. FrontEnd buddyes.
+[My gitHub](https://github.com/H0us5)
+
 
 ## Hello!
 
@@ -2496,3 +2509,16 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
+
+    
+## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
+
+    
+## Hello! I'm Steve!
+Thanks for good opportunity to join in progressive learning of front-end ! 
+My [GitHub](https://github.com/serentinos) :)
+
+
+## Hello, Everyone!!!
+My name is [Anna](https://github.com/just-ann12). 
+I'm really exited to join Kottans!
