@@ -22,6 +22,12 @@ Very happy to be part of your community. <br>
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
  
 
+## Hello, everybody!
+My name is Olena.
+I joined kottans to gain knowledge in Front-end.
+Here is my cat Knopa:
+![bengal-cat](./assets/images/bengal-cat-Knopa.jpeg)
+
 ## Hi everyone!
 
 I am Yulia.
@@ -44,7 +50,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
