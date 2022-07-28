@@ -2537,6 +2537,7 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
 
+=======
     
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
@@ -2549,3 +2550,12 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+
+## Greetings everyone !
+
+My name is [Oleksii](https://github.com/Tedzury) and I'm so happy to be a part of such warm and friendly community!
+
+Looking forward for studying like my fluffy friend!
+
+![Kokos](./assets/images/Kokos.jpg)
