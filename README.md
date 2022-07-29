@@ -1,5 +1,5 @@
 ﻿﻿## Hi there!
-My name is Dima and I'm so happy to join the community 🙂.
+My name is Dima and I'm so happy to join the community 🙂
 </br>
 This is [link](https://github.com/chernetskyi8704/kottans-frontend.git) to my repo.
 
