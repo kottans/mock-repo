@@ -2580,3 +2580,7 @@ I'm really exited to join Kottans!
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
 
+
+## Hello all!!! My name is Andriy.😎
+I am glad to get such an opportunity to study with people who already have experience and are happy to share it! Kottans, I'm with you!\
+My [github](https://github.com/Berezovskiy-Andriy) 
