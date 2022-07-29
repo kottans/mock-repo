@@ -2589,3 +2589,8 @@ I am very glad that I have the opportunity to take this course. Already from the
 I am happy to be with you!
 
 
+## Greetings, everyone.!!!
+
+My name is [Anton](https://github.com/Marionetko).
+Very happy to join the Kottans community!
+[cat](./assets/images/winking-cat.png)
