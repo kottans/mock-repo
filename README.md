@@ -1,4 +1,11 @@
-﻿# Hello Kottans! 
+﻿# Hello Kottans!
+
+<h3 align="center">Hi everyone! My name is Dmytro</h3>
+Pleased to meet all the members! I am glad that ITC.ua helped me to find out about this course. I wish everyone to get a lot of useful things here.
+
+You can see my repo [here](https://github.com/dmytro-botnarenko/kottans-frontend).
+
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
