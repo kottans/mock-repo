@@ -1,4 +1,23 @@
+
 ﻿# Hello Kottans! 
+
+
+## Hi, kottans!!!
+
+# Hi for everyone!!! I am Oleksandr!
+I honor to be on this course.
+Good luck for everybody)))
+
+
+
+
+﻿# Добрий вечір, everybody :)
+In spite of everything, lets enjoy this course!
+Glory to AFU!
+
+
+# Hello Kottans! 
+
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
@@ -23,12 +42,9 @@ I wish everyone to have a lot of practice and fun :)
 
 This is my [repo](https://github.com/yhorodechna/kottans-frontend.git).
 
----
-
 
 ##Hello World
 I am Artem good luck
-
 
 ﻿## Hey guys, whats up?)
 My name is Dmytryj.
@@ -437,7 +453,7 @@ _________________________________________________
 ![Buba](gif/bubacat.jpg)
 I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
 _________________________________________________
-===============================
+
 __________________________________________________________________________
 
 # Hi, Kottans people!
@@ -2537,6 +2553,26 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
 
+
+
+
+Hey guys, how are you?)
+My name is Vitalii.
+[Link](https://github.com/macakklett) to my repo on GitHub.
+
+
+# Hi! My name is Yana
+## Good luck everyone!
+![Bruklin](./assets/images/Bruklin.jpg)
+
+## Hi!
+I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
+![Part of cat](./gif/some_part_of_cat.png)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
+
+
     
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
@@ -2556,6 +2592,25 @@ I'm really exited to join Kottans!
 I'm [Nataliia](https://github.com/kosh3n), glad to be here. 
 Wish everyone luck!
 
+
 Sorry, no cats, just birds (plz don't eat)
+=======
+## Hi my name is Anastasia😺😺
+I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
+    
+## Hello, Kottans! I'm Vasyl!
+I am happy to be with you!
+
+## Hello all!!! My name is Andriy.😎
+I am glad to get such an opportunity to study with people who already have experience and are happy to share it! Kottans, I'm with you!\
+My [github](https://github.com/Berezovskiy-Andriy) 
+
+
+## Greetings, everyone.!!!
+
+My name is [Anton](https://github.com/Marionetko).
+Very happy to join the Kottans community!
+[cat](./assets/images/winking-cat.png)
+
 
 ![1658929226599](https://user-images.githubusercontent.com/95924961/181264546-efabbc8a-f23a-45d4-812f-939b3ec67e11.jpg)
