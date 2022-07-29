@@ -1,4 +1,4 @@
-﻿# Hey there! 
+﻿﻿# Hey there! 
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
@@ -6,6 +6,10 @@ Glad to become a part of that story!)) Wish luck to all of us
 Please **don't upload** heavy media files, I was cloning the repo for ages :)
 
 ___
+
+﻿# Добрий вечір, everybody :)
+In spite of everything, lets enjoy this course!
+Glory to AFU!
 
 
 # Hello Kottans! 
@@ -25,6 +29,12 @@ Very happy to be part of your community. <br>
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
  
+
+## Hello, everybody!
+My name is Olena.
+I joined kottans to gain knowledge in Front-end.
+Here is my cat Knopa:
+![bengal-cat](./assets/images/bengal-cat-Knopa.jpeg)
 
 ## Hi everyone!
 
@@ -48,7 +58,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -2547,6 +2557,20 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ## HI, THERE! My name is Vitaliy
 I'm glad to be here!
 
+
+
+# Hi! My name is Yana
+## Good luck everyone!
+![Bruklin](./assets/images/Bruklin.jpg)
+
+## Hi!
+I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
+![Part of cat](./gif/some_part_of_cat.png)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
+
+
     
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
@@ -2559,3 +2583,8 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+
+## Hi my name is Anastasia😺😺
+I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
+
