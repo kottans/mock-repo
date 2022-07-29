@@ -2605,3 +2605,6 @@ My name is [Anton](https://github.com/Marionetko).
 Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
+## Congratulation, everyone.!!!
+If youeveryone who is here now has walked a small path that brings us closer to the goal. 
+My name is Yaroslav and I will make every effort to go all the way.
