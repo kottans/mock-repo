@@ -1,3 +1,8 @@
+# Hi for everyone!!! I am Oleksandr!
+I honor to be on this course.
+Good luck for everybody)))
+
+
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
@@ -2551,6 +2556,11 @@ I'm glad to be here!
 
 
 
+Hey guys, how are you?)
+My name is Vitalii.
+[Link](https://github.com/macakklett) to my repo on GitHub.
+
+
 # Hi! My name is Yana
 ## Good luck everyone!
 ![Bruklin](./assets/images/Bruklin.jpg)
@@ -2579,8 +2589,18 @@ I'm really exited to join Kottans!
 
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
-
+    
+## Hello, Kottans! I'm Vasyl!
+I am happy to be with you!
 
 ## Hello all!!! My name is Andriy.😎
 I am glad to get such an opportunity to study with people who already have experience and are happy to share it! Kottans, I'm with you!\
 My [github](https://github.com/Berezovskiy-Andriy) 
+
+
+## Greetings, everyone.!!!
+
+My name is [Anton](https://github.com/Marionetko).
+Very happy to join the Kottans community!
+[cat](./assets/images/winking-cat.png)
+
