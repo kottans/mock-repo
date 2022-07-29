@@ -2594,9 +2594,14 @@ I am very glad that I have the opportunity to take this course. Already from the
 ## Hello, Kottans! I'm Vasyl!
 I am happy to be with you!
 
+## Hello all!!! My name is Andriy.😎
+I am glad to get such an opportunity to study with people who already have experience and are happy to share it! Kottans, I'm with you!\
+My [github](https://github.com/Berezovskiy-Andriy) 
+
 
 ## Greetings, everyone.!!!
 
 My name is [Anton](https://github.com/Marionetko).
 Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
+
