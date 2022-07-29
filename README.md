@@ -6,6 +6,10 @@ Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whe
 By no means look on my repo. [Here it is](https://github.com/natalia-artsiukh/kottans-frontend.git), by the way.
 
 ___
+##Hello kottans!
+My name is Vitaliy. I'm switcher )) I hope we'll have fun while learning. Good luck!
+Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/MosQuitO404/kottans-frontend)  
+![kote](./gif/cat-computer.gif)
 
 # Hello kottans =(^.^)=, my name is Mykhailo :]
 Very happy to be part of your community. <br>
