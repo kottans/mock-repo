@@ -1,4 +1,19 @@
-﻿# Hello Kottans! 
+
+## Hi, kottans!!!
+
+# Hi for everyone!!! I am Oleksandr!
+I honor to be on this course.
+Good luck for everybody)))
+
+
+
+
+﻿# Добрий вечір, everybody :)
+In spite of everything, lets enjoy this course!
+Glory to AFU!
+
+
+# Hello Kottans! 
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
@@ -16,6 +31,12 @@ Very happy to be part of your community. <br>
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
  
 
+## Hello, everybody!
+My name is Olena.
+I joined kottans to gain knowledge in Front-end.
+Here is my cat Knopa:
+![bengal-cat](./assets/images/bengal-cat-Knopa.jpeg)
+
 ## Hi everyone!
 
 I am Yulia.
@@ -23,12 +44,9 @@ I wish everyone to have a lot of practice and fun :)
 
 This is my [repo](https://github.com/yhorodechna/kottans-frontend.git).
 
----
-
 
 ##Hello World
 I am Artem good luck
-
 
 ﻿## Hey guys, whats up?)
 My name is Dmytryj.
@@ -38,7 +56,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -2538,9 +2556,29 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 I'm glad to be here!
 
 
+
 ## Hello! My name is Pavel
 
 ![Dog](./assets/images/dog.jpg)
+
+
+Hey guys, how are you?)
+My name is Vitalii.
+[Link](https://github.com/macakklett) to my repo on GitHub.
+
+
+# Hi! My name is Yana
+## Good luck everyone!
+![Bruklin](./assets/images/Bruklin.jpg)
+
+## Hi!
+I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
+![Part of cat](./gif/some_part_of_cat.png)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
+
+
 
     
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
@@ -2554,4 +2592,20 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+
+
+
+## Hi my name is Anastasia😺😺
+I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
+    
+## Hello, Kottans! I'm Vasyl!
+I am happy to be with you!
+
+
+## Greetings, everyone.!!!
+
+My name is [Anton](https://github.com/Marionetko).
+Very happy to join the Kottans community!
+[cat](./assets/images/winking-cat.png)
 
