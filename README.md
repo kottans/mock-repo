@@ -1,3 +1,8 @@
+# Hi for everyone!!! I am Oleksandr!
+I honor to be on this course.
+Good luck for everybody)))
+
+
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
