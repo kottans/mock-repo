@@ -1,4 +1,13 @@
-﻿﻿# Hey there! 
+﻿﻿# Hello Kottans! 
+
+***My name is Yevhen***
+I'm 23 years old. Student. Musician.
+
+I discovered this course on [dou.ua](dou.ua).
+I am here to improve my frontend knowledges and just for fun too!
+
+P.S. I'm not going to upload any images here so I hope you wont't clone the repo as long as I did 🙃.
+# Hey there! 
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
