@@ -2534,7 +2534,6 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
 
-
 ## Hi Everyone!
 I'm Oleg. I'm glad to join the community!
 
@@ -2664,6 +2663,11 @@ My name is Yaroslav and I will make every effort to go all the way.
 
 
 ![1658929226599](https://user-images.githubusercontent.com/95924961/181264546-efabbc8a-f23a-45d4-812f-939b3ec67e11.jpg)
+
+
+## Hi Everyone!
+I am Anatolii. I'm glad to join the community!
+
 
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
