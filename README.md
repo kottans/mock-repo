@@ -2646,6 +2646,12 @@ My name is [Anton](https://github.com/Marionetko).
 Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
+
+## Congratulation, everyone.!!!
+If youeveryone who is here now has walked a small path that brings us closer to the goal. 
+My name is Yaroslav and I will make every effort to go all the way.
+
+
 ## Hello everyone. My neme is Andrew. I'm very glad to learn with you.
 
 ![Andrew](./assets/images/cat-prog.jpg)
@@ -2656,5 +2662,3 @@ Very happy to join the Kottans community!
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
-
-
