@@ -75,7 +75,7 @@ By no means look on my repo. [Here it is](https://github.com/natalia-artsiukh/ko
 Very happy to be part of your community. <br>
 ![alf](./assets/images/alf_cat.jpg)
 
-# Hi kottans! I'm Konstiantyn and i will work for you soon
+# Hi kottans! I'm Konstiantyn and i will work for you soon.
 
 ## Hi everyone!
 
@@ -2904,9 +2904,20 @@ My name is [Anna](https://github.com/just-ann12).
 I'm really exited to join Kottans!
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ||||||| 487d7a1
 
 =======
+
+||||||| a9b27ec
+
+=======
+
+## Hi there!
+
+I'm learning to use Git!
+
+> > > > > > > master
 
 ## Hello there!
 
@@ -2975,6 +2986,18 @@ My name is Yaroslav and I will make every effort to go all the way.
 ## Hi Everyone!
 
 I am Anatolii. I'm glad to join the community!
+
+<<<<<<< HEAD
+||||||| a9b27ec
+
+=======
+
+## Hi There!
+
+I'm [Vladyslav](https://github.com/vladyslavmaistruk).
+I'm glad to join Kottans
+
+> > > > > > > master
 
 ## Greetings, lady and gentlemen.
 
