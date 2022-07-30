@@ -1,4 +1,8 @@
-﻿# Hello Kottans!
+## Hi, everybody.
+My name is Dmytro and it`s a big honour to study front-end with you!
+
+
+# Hello Kottans!
 
 <h3 align="center">Hi everyone! My name is Dmytro</h3>
 Pleased to meet all the members! I am glad that ITC.ua helped me to find out about this course. I wish everyone to get a lot of useful things here.
