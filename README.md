@@ -2622,6 +2622,13 @@ Sorry, no cats, just birds (plz don't eat)
 
 
 
+## Greetings everyone !
+
+My name is [Oleksii](https://github.com/Tedzury) and I'm so happy to be a part of such warm and friendly community!
+Looking forward for studying like my fluffy friend!
+![Kokos](./assets/images/Kokos.jpg)
+
+
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
     
@@ -2649,4 +2656,5 @@ Very happy to join the Kottans community!
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
+
 
