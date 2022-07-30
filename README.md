@@ -1,3 +1,10 @@
+﻿# Hello Kottans!
+
+<h3 align="center">Hi everyone! My name is Dmytro</h3>
+Pleased to meet all the members! I am glad that ITC.ua helped me to find out about this course. I wish everyone to get a lot of useful things here.
+
+You can see my repo [here](https://github.com/dmytro-botnarenko/kottans-frontend).
+
 Hi!!!
 My name is Vyacheslav.
 I glad to see you.
@@ -13,10 +20,12 @@ I'm glad to join the kottans community.
 I honor to be on this course.
 Good luck for everybody)))
 
+
 ## Hello kottans!
 My name is Vitaliy. I'm switcher )) I hope we'll have fun while learning. Good luck!  
 Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/MosQuitO404/kottans-frontend)    
 ![kote](./gif/cat-computer.gif)
+
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
