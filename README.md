@@ -1,7 +1,7 @@
 ﻿﻿# Hello Kottans! 
 
-***My name is Yevhen***
-I'm 23 years old. Student. Musician.
+***My name is Yevhen***<br />
+I'm 23 years old. Student. Musician.<br />
 Here is my [repo](https://github.com/zhenyakornilov/kottans-frontend).
 
 I discovered this course on [dou.ua](dou.ua).
