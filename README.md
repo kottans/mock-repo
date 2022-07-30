@@ -1,3 +1,8 @@
+Hello everybody!
+My name is Ivan. 
+I'm glad to join Kottans and looking forward to starting our journey in the world of Front-End!
+
+
 ## Hi, everybody.
 My name is Dmytro and it`s a big honour to study front-end with you!
 
