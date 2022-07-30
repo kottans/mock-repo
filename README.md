@@ -1,3 +1,22 @@
+## Hi, everybody.
+My name is Dmytro and it`s a big honour to study front-end with you!
+
+
+# Hello Kottans!
+
+<h3 align="center">Hi everyone! My name is Dmytro</h3>
+Pleased to meet all the members! I am glad that ITC.ua helped me to find out about this course. I wish everyone to get a lot of useful things here.
+
+You can see my repo [here](https://github.com/dmytro-botnarenko/kottans-frontend).
+
+Hi!!!
+My name is Vyacheslav.
+I glad to see you.
+I'm glad to join the kottans community.
+
+
+﻿# Hello Kottans! 
+
 
 ## Hi, kottans!!!
 
@@ -6,6 +25,10 @@ I honor to be on this course.
 Good luck for everybody)))
 
 
+## Hello kottans!
+My name is Vitaliy. I'm switcher )) I hope we'll have fun while learning. Good luck!  
+Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/MosQuitO404/kottans-frontend)    
+![kote](./gif/cat-computer.gif)
 
 
 ﻿# Добрий вечір, everybody :)
@@ -14,6 +37,7 @@ Glory to AFU!
 
 
 # Hello Kottans! 
+
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
@@ -30,12 +54,6 @@ Very happy to be part of your community. <br>
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
  
-
-## Hello, everybody!
-My name is Olena.
-I joined kottans to gain knowledge in Front-end.
-Here is my cat Knopa:
-![bengal-cat](./assets/images/bengal-cat-Knopa.jpeg)
 
 ## Hi everyone!
 
@@ -56,7 +74,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -455,7 +473,7 @@ _________________________________________________
 ![Buba](gif/bubacat.jpg)
 I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
 _________________________________________________
-===============================
+
 __________________________________________________________________________
 
 # Hi, Kottans people!
@@ -2557,6 +2575,11 @@ I'm glad to be here!
 
 
 
+## Hello! My name is Pavel
+
+![Dog](./assets/images/dog.jpg)
+
+
 Hey guys, how are you?)
 My name is Vitalii.
 [Link](https://github.com/macakklett) to my repo on GitHub.
@@ -2574,6 +2597,7 @@ I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
 
 
+
     
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
@@ -2586,6 +2610,23 @@ My [GitHub](https://github.com/serentinos) :)
 ## Hello, Everyone!!!
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
+
+    
+## Hello there!
+
+I'm [Nataliia](https://github.com/kosh3n), glad to be here. 
+Wish everyone luck!
+
+
+Sorry, no cats, just birds (plz don't eat)
+
+
+
+## Greetings everyone !
+
+My name is [Oleksii](https://github.com/Tedzury) and I'm so happy to be a part of such warm and friendly community!
+Looking forward for studying like my fluffy friend!
+![Kokos](./assets/images/Kokos.jpg)
 
 
 ## Hi my name is Anastasia😺😺
@@ -2605,6 +2646,19 @@ My name is [Anton](https://github.com/Marionetko).
 Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
+
 ## Congratulation, everyone.!!!
 If youeveryone who is here now has walked a small path that brings us closer to the goal. 
 My name is Yaroslav and I will make every effort to go all the way.
+
+
+## Hello everyone. My neme is Andrew. I'm very glad to learn with you.
+
+![Andrew](./assets/images/cat-prog.jpg)
+
+
+![1658929226599](https://user-images.githubusercontent.com/95924961/181264546-efabbc8a-f23a-45d4-812f-939b3ec67e11.jpg)
+
+## Greetings, lady and gentlemen.
+My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
+Looking forward to great cooperation! Live long and prosper. 🖖
