@@ -1,4 +1,9 @@
-﻿﻿# Hey there! 
+﻿﻿# Hello kottans!
+My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
+Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend).
+
+
+# Hey there! 
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
