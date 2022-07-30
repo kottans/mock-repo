@@ -2,6 +2,7 @@
 
 ***My name is Yevhen***
 I'm 23 years old. Student. Musician.
+Here is my [repo](https://github.com/zhenyakornilov/kottans-frontend).
 
 I discovered this course on [dou.ua](dou.ua).
 I am here to improve my frontend knowledges and just for fun too!
