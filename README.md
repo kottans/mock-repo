@@ -4,6 +4,9 @@ I glad to see you.
 I'm glad to join the kottans community.
 
 
+﻿# Hello Kottans! 
+
+
 ## Hi, kottans!!!
 
 # Hi for everyone!!! I am Oleksandr!
@@ -21,6 +24,7 @@ Glory to AFU!
 
 
 # Hello Kottans! 
+
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
@@ -37,12 +41,6 @@ Very happy to be part of your community. <br>
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
  
-
-## Hello, everybody!
-My name is Olena.
-I joined kottans to gain knowledge in Front-end.
-Here is my cat Knopa:
-![bengal-cat](./assets/images/bengal-cat-Knopa.jpeg)
 
 ## Hi everyone!
 
@@ -63,7 +61,7 @@ My name is Dmytryj.
 
 
 # Hey cottans community, my name is Oleksandr.
-This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo. 
 
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
@@ -462,7 +460,7 @@ _________________________________________________
 ![Buba](gif/bubacat.jpg)
 I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
 _________________________________________________
-===============================
+
 __________________________________________________________________________
 
 # Hi, Kottans people!
@@ -2564,6 +2562,7 @@ I'm glad to be here!
 
 
 
+
 Hey guys, how are you?)
 My name is Vitalii.
 [Link](https://github.com/macakklett) to my repo on GitHub.
@@ -2594,6 +2593,14 @@ My [GitHub](https://github.com/serentinos) :)
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
 
+    
+## Hello there!
+
+I'm [Nataliia](https://github.com/kosh3n), glad to be here. 
+Wish everyone luck!
+
+
+Sorry, no cats, just birds (plz don't eat)
 
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
@@ -2613,6 +2620,10 @@ Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
 
+
+![1658929226599](https://user-images.githubusercontent.com/95924961/181264546-efabbc8a-f23a-45d4-812f-939b3ec67e11.jpg)
+
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
+
