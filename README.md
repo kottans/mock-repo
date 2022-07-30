@@ -1,3 +1,11 @@
+﻿﻿# Hey there! 
+**I'm Anna**
+
+Glad to become a part of that story!)) Wish luck to all of us
+
+Please **don't upload** heavy media files, I was cloning the repo for ages :)
+
+
 # Hello everybody!
 Hi! My name is Yaroslav. Im 20 years old. Im studing in Ivan Franko National University of Lviv. I found a lot of buddies and it`s cool. 
 
