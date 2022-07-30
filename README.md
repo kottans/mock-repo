@@ -2605,3 +2605,7 @@ My name is [Anton](https://github.com/Marionetko).
 Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
+## Hi Everyone!
+
+My name is [Vitalii](https://github.com/vmahdych).
+Let`s get fun, Kotans! :stuck_out_tongue:
