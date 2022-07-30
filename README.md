@@ -1,4 +1,4 @@
-﻿﻿# Hello Kottans! 
+# Hello Kottans! 
 
 ***My name is Yevhen***<br />
 I'm 23 years old. Student. Musician.<br />
