@@ -1,3 +1,7 @@
+# Hello everybody!
+Hi! My name is Yaroslav. Im 20 years old. Im studing in Ivan Franko National University of Lviv. I found a lot of buddies and it`s cool. 
+
+
 Hello everybody!
 My name is Ivan. 
 I'm glad to join Kottans and looking forward to starting our journey in the world of Front-End!
