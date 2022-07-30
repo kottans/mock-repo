@@ -69,7 +69,7 @@ Very happy to be part of your community. <br>
 
 
 
-﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
+﻿# Hi kottans! I'm Konstiantyn and i will work for you soon.
  
 
 ## Hi everyone!
