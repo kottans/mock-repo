@@ -2575,6 +2575,10 @@ I'm glad to be here!
 
 
 
+## Hello! My name is Pavel
+
+![Dog](./assets/images/dog.jpg)
+
 
 Hey guys, how are you?)
 My name is Vitalii.
@@ -2591,6 +2595,7 @@ I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
+
 
 
     
@@ -2614,6 +2619,8 @@ Wish everyone luck!
 
 
 Sorry, no cats, just birds (plz don't eat)
+
+
 
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
