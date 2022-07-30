@@ -2645,6 +2645,9 @@ Looking forward for studying like my fluffy friend!
 ![Kokos](./assets/images/Kokos.jpg)
 
 
+## Hi. I am glad to join Kottans Frontend course.
+My name is Eugene. My [github](https://github.com/expero1)
+
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
     
