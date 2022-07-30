@@ -2627,6 +2627,9 @@ My [GitHub](https://github.com/serentinos) :)
 My name is [Anna](https://github.com/just-ann12). 
 I'm really exited to join Kottans!
 
+## Hi there!
+I'm learning to use Git!
+
     
 ## Hello there!
 
@@ -2697,4 +2700,3 @@ I'm glad to join Kottans
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
-
