@@ -2569,7 +2569,7 @@ I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
     
 ## Hello! I'm Steve!
 Thanks for good opportunity to join in progressive learning of front-end ! 
-My [GitHub](https://github.com/serentinos) :)
+M(https:y [GitHub]//github.com/serentinos) :)
 
 
 ## Hello, Everyone!!!
@@ -2581,3 +2581,5 @@ I'm really exited to join Kottans!
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
 
 ## Hi, I'm Olga
+**I'm glad to be here!**
+(https:y [GitHub]//github.com/Olha3001)	😺
