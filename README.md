@@ -2582,4 +2582,4 @@ I am very glad that I have the opportunity to take this course. Already from the
 
 ## Hi, I'm Olga
 **I'm glad to be here!**
-(https:y [GitHub]//github.com/Olha3001)	😺😺😺👀
+(https:y [GitHub]//github.com/Olha3001)	😺😺😺👀.
