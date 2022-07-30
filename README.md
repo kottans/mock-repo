@@ -1,3 +1,8 @@
+Hi!!!
+My name is Vyacheslav.
+I glad to see you.
+I'm glad to join the kottans community.
+
 
 ﻿# Hello Kottans! 
 
@@ -8,8 +13,10 @@
 I honor to be on this course.
 Good luck for everybody)))
 
-
-
+## Hello kottans!
+My name is Vitaliy. I'm switcher )) I hope we'll have fun while learning. Good luck!  
+Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/MosQuitO404/kottans-frontend)    
+![kote](./gif/cat-computer.gif)
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
@@ -2594,7 +2601,7 @@ Wish everyone luck!
 
 
 Sorry, no cats, just birds (plz don't eat)
-=======
+
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
     
@@ -2613,4 +2620,10 @@ Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
 
+
 ![1658929226599](https://user-images.githubusercontent.com/95924961/181264546-efabbc8a-f23a-45d4-812f-939b3ec67e11.jpg)
+
+## Greetings, lady and gentlemen.
+My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
+Looking forward to great cooperation! Live long and prosper. 🖖
+
