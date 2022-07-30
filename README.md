@@ -5,8 +5,10 @@
 I honor to be on this course.
 Good luck for everybody)))
 
-
-
+## Hello kottans!
+My name is Vitaliy. I'm switcher )) I hope we'll have fun while learning. Good luck!  
+Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/MosQuitO404/kottans-frontend)    
+![kote](./gif/cat-computer.gif)
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
