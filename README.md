@@ -2728,3 +2728,8 @@ Looking forward to great cooperation! Live long and prosper. 🖖
 ## Hello everyone 
 Have a good day and good luck in your studies! 
 🖖
+
+## Oh! Hi! 
+Learned the basic commands for working in the terminal. turned out to be very useful. Now it is necessary to consolidate everything in practice in order to sharpen the speed and store it well in the memory
+
+It will be exciting if everything works out the first time
