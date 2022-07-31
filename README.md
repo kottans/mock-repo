@@ -48,9 +48,9 @@ Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-ora
 ![kote](./gif/cat-computer.gif)
 
 
-#Hi! It's Ihor and I learn GitHub, at least i am tryyy
+# Hi! It's [Ihor](https://github.com/IhorOzerov) and I learn GitHub, at least i am tryyy
 I'm happy to be with kottans
-https://github.com/kottans/mock-repo/blob/master/assets/images/ninja.jpg
+![Ninja-Cat](https://github.com/kottans/mock-repo/blob/master/assets/images/ninja.jpg)
 
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
