@@ -1,7 +1,7 @@
 ﻿﻿# Good day, everybody!
 
 My name is Oleksii. I am 28. The course is very informative, I knew most of it, but also emphasized new points. The course and problem solving paid off. It was informative, structured in a planned manner.
-I share you my repo [here](https://github.com/dmytro-botnarenko/kottans-frontend).
+I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
 # Hey there! 
 **I'm Anna**
