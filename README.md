@@ -1,4 +1,11 @@
+
 #Hi! My name is Di and its my first steps in IT.
+
+# Hello kottans!
+My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
+Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend).
+
+
 
 # Hello Kottans! 
 
@@ -48,6 +55,8 @@ Please **don't upload** heavy media files, I was cloning the repo for ages :)
 # Hello everybody!
 Hi! My name is Yaroslav. Im 20 years old. Im studing in Ivan Franko National University of Lviv. I found a lot of buddies and it`s cool. 
 
+# Hi there, I'm Yuliia.
+### I'm from Ukraine 🇺🇦 and going to change my life with kottans
 
 Hello everybody!
 My name is Ivan. 
