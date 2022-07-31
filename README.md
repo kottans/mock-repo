@@ -4,6 +4,25 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
 # Hey there! 
+﻿﻿### hello! 
+
+**I'm Natalie**
+
+Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+
+
+# Hey there! 
+
+﻿# Hi, kottans! 
+My name is Anastasia. Let's studying together! 
+
+﻿# Hey there! 
+
+﻿﻿# Hello Kottans!
+Мене звати Влад, і це мої перші кроки у frontend))
+
+
+# Hey there! 
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
@@ -2705,3 +2724,7 @@ I'm glad to join Kottans
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
+
+## Hello everyone 
+Have a good day and good luck in your studies! 
+🖖
