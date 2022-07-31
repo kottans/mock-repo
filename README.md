@@ -98,6 +98,10 @@ Link to my repo [![git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-ora
 ![kote](./gif/cat-computer.gif)
 
 
+# Hi! It's [Ihor](https://github.com/IhorOzerov) and I learn GitHub, at least i am tryyy
+I'm happy to be with kottans
+![Ninja-Cat](https://github.com/kottans/mock-repo/blob/master/assets/images/ninja.jpg)
+
 ﻿# Добрий вечір, everybody :)
 In spite of everything, lets enjoy this course!
 Glory to AFU!
@@ -118,6 +122,11 @@ Very happy to be part of your community. <br>
 ![alf](./assets/images/alf_cat.jpg)
 
 
+﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
+ 
+## Hello!
+My name is Nadia. I am 21y.o.
+My repo [NVRepo](https://github.com/NadiaVorontsova/kottans-frontend.git).
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon.
 
@@ -2782,7 +2791,6 @@ It will be exciting if everything works out the first time.
 
 ## Hello everybody kottans!
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
-
 >>>>>>> master
 =======
 
