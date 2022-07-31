@@ -1,3 +1,12 @@
+﻿﻿### hello! 
+
+**I'm Natalie**
+
+Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+
+
+# Hey there! 
+
 ﻿# Hi, kottans! 
 My name is Anastasia. Let's studying together! 
 
