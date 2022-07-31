@@ -2726,8 +2726,6 @@ Looking forward to great cooperation! Live long and prosper. 🖖
 ## I am I'm the one who fixed these mistakes 🙃.
 =======
 
->>>>>>> master
-
 ## Hello everyone 
 Have a good day and good luck in your studies! 
 🖖
