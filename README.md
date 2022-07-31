@@ -1,4 +1,10 @@
 ﻿﻿# Hey there! 
+
+**Hello everybody!
+My name is Iryna. 
+I hope this project will be of interest to each of us. 
+Good luck to all! :)
+
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
