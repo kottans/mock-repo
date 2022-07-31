@@ -6,7 +6,18 @@ Glad to join this group. I wish you all the fulfillment of your desires and drea
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 # Hey there!
-=======
+
+# Hello Kottans! 
+
+***My name is Yevhen***<br />
+I'm 23 years old. Student. Musician.<br />
+Here is my [repo](https://github.com/zhenyakornilov/kottans-frontend).
+
+I discovered this course on [dou.ua](dou.ua).
+I am here to improve my frontend knowledges and just for fun too!
+
+P.S. I'm not going to upload any images here so I hope you wont't clone the repo as long as I did 🙃.
+
 ﻿# Hello! My name is Alex!
 Good luck everybody!
 
@@ -33,6 +44,7 @@ My name is Anastasia. Let's studying together!
 
 # Hello Kottans!
 Мене звати Влад, і це мої перші кроки у frontend))
+
 
 
 
