@@ -1,4 +1,10 @@
-﻿﻿# Hey there! 
+﻿﻿# hello!
+
+**I'm Natalie**
+
+Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+
+# Hey there! 
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
