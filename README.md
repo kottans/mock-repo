@@ -1,8 +1,9 @@
-﻿﻿# hello! #
+﻿﻿### hello! 
 
 **I'm Natalie**
 
 Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+
 
 # Hey there! 
 **I'm Anna**
