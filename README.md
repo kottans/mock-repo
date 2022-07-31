@@ -118,6 +118,11 @@ Very happy to be part of your community. <br>
 ![alf](./assets/images/alf_cat.jpg)
 
 
+﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
+ 
+## Hello!
+My name is Nadia. I am 21y.o.
+My repo [NVRepo](https://github.com/NadiaVorontsova/kottans-frontend.git).
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon.
 
