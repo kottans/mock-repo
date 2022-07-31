@@ -148,12 +148,15 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
 
+## WAD Thread
+---
+This intro repo size over 200 MB now! fck gif dir.
+
 <h1 align="center">Hey, I'm Dima </h1>
 <p> Really glad to get together with ya'll , I'm sure that we can combine learning and having fun! </p>
 <a href=https://github.com/DinoDima666/kottans-frontend.git>Here's my GitHub repository</a>
 <p>And my smoll cat Sirius also excited!</p>
 <img src="assets/images/sirius.jpg"/>
-
 
 <h1 align="center">Hi! my name is Andrey </h1>
 <p> Pleased to meet you. </p>
@@ -2601,6 +2604,10 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
 
+
+## Hello, I'm Natalya. Glad to be in this community and reseive new knowledge
+![meow_kottans](./assets/images/meow_kottans.jpg)
+
 ## Hi Everyone!
 I'm Oleg. I'm glad to join the community!
 
@@ -2720,6 +2727,10 @@ My name is [Anton](https://github.com/Marionetko).
 Very happy to join the Kottans community!
 [cat](./assets/images/winking-cat.png)
 
+## Hi Everyone!
+
+My name is [Vitalii](https://github.com/vmahdych).
+Let`s get fun, Kotans! :stuck_out_tongue:
 
 ## Hello Everyone
 Just a changes to make pull request, without any useful information
@@ -2771,4 +2782,8 @@ It will be exciting if everything works out the first time.
 
 ## Hello everybody kottans!
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
+<<<<<<< HEAD
+>>>>>>> master
+=======
+
 >>>>>>> master
