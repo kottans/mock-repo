@@ -444,7 +444,7 @@ _________________________________________________
 I'm glad to be here!  Best wishes to the Kottans community!
 _________________________________________________
 # Hi, people! I'm Viktor.
-
+Hello Viktor. How are you? 
 # following the rest I want to introduce my kitty Buba's
 ![Buba](gif/bubacat.jpg)
 I hope for good cooperation. It is very pleasant to be in the company of like-minded people.
@@ -606,11 +606,11 @@ I want it to be a cat. Go! ![gopher](gif/catpher.png)
 Hello, everyone! Let the cats be with us!
 ***
 
-Hi, kottans. Feels like should be here.
+## **Hi, kottans. Feels like should be here.
 
 ![Anime picture](gif/Sh.jpg)
 ----------
-Hi, Kottans! Just finished a Git and GitHub course at Udacity.
+## **Hi, Kottans! Just finished a Git and GitHub course at Udacity.
 Thank you so much for this tip!
 ----------
 ## **Hi, dear Kottans! I'm so happy i'm not alone one my way to becoming a frontend ninja! Let's do it!** ❤️
@@ -626,7 +626,7 @@ while(true) {
 
 Ooops! File changed. This line can be removed.
 ----------------------------------------------
-##Hello! I'm Anton! I'm so happy to be in your team.
+## **Hello! I'm Anton! I'm so happy to be in your team.
 I think it should be here.
 ![Screenshot](gif/dancer.jpg)
 
@@ -791,7 +791,8 @@ Have fun and be :cat:
 
 -----------------------------------------------------------------
 
-Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
+## **Hello. 
+My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
 
 ## Hello Kottans!
 I'm excited that I opened this community. I would like to be part of that amazing team)
@@ -1047,7 +1048,7 @@ Thank you for your community!
 <br>
 <b>Are you ready for a new experience?</b>
 
-<img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635" />
+<img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635">
 <br>
 
 # Hi, Kottans-Frontend Club!
@@ -1226,7 +1227,7 @@ Let's see how it works!
 
 ![cat](https://i.imgur.com/O2PIAPq.jpg)
 
-##Hello, awesome comunity!!
+## Hello, awesome comunity!!
 I just started p2p - course and it is gonna be awesome)
 ![cat](https://www.meme-arsenal.com/memes/64ccae79dfab573fb7eb1b23d7a55e54.jpg)
 
@@ -1307,7 +1308,7 @@ In case anyone is from **Lviv**, let's keep in touch
     \__/  /(_E     \__/
       (  /
        MM
- </pre>
+</pre>
 _______________________________________
 ## Hi, my name is Mike. thank you all!
 ***
@@ -1379,7 +1380,7 @@ My name is Artem. I am excited to start the back-end course.
 
 ![Team kottan](https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif)
 
-**Hi everyone, my name is Denis.**
+## **Hi everyone, my name is Denis.**
 
 I ~~hope~~ know that this course will be useful for me :)
 
@@ -1422,7 +1423,7 @@ My Hello to Kottans! )
 My name is Alex, I got the job-offer for JS developer, that is why I need to find out what is Node.js. Previously I was a front-end Kottans's course student
 
 ---
-Hi!
+# Hi!
 ===
 I'm [Viacheslav](https://github.com/ViacheslavIT) and I'm very exciting to join
 to this very interesting backend cours.
@@ -1488,7 +1489,7 @@ I'm Viacheslav. https://github.com/dviacheslav
 
 
 
-Hello!
+## Hello!
 
 Im Vlad https://github.com/Wizardiq
 
@@ -1516,7 +1517,7 @@ Hi, Kottans!
 ============
 I'm [Serhii](https://github.com/serphiy). Nice to join you!
 
-#Hello Kottans!
+# Hello Kottans!
 
 My name is Evgen. I am from Kremenchug.
 This is my coder cat Plushka.
@@ -1528,7 +1529,7 @@ I'm [Igor](http://netcode.pro) and will be glad to join your community!
 
 ## Hello, Kottans!
 I am  [Max](https://github.com/ms76adf1). Nice to meet you, guys!
-<br />
+<br/>
 ![Cat](assets/images/cat.jpeg)
 
 ## Hello, Kottans!
@@ -2114,12 +2115,12 @@ My name is [Yuri](https://github.com/4zorbin) I will be happy to participate in 
 
 ---
 
-**Greetings!**
+## **Greetings!**
 
-Dear kottans,
+### Dear kottans,
 I am much obliged for your kindness. Thank you so much for preparing  these incredible educational materials! My name is [Anna](https://github.com/kt-std). I sincerely hope to become a part of your learning community.
 
-Have a lovely day:)
+# Have a lovely day:)
 
 ![Cat sitting in the bath with ducks](assets/images/cat_with_ducks.jpg)
 
@@ -2580,3 +2581,5 @@ I'm really exited to join Kottans!
 ## Hi my name is Anastasia😺😺
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
 
+# Helo, My name is Volodymyr.
+## I am I'm the one who fixed these mistakes 🙃.
