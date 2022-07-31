@@ -1,8 +1,28 @@
+
 ﻿﻿# Hello Kottans!
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
+
+# Hey there!
+﻿﻿### hello! 
+
+**I'm Natalie**
+
+Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+
+
+# Hey there! 
+
+﻿# Hi, kottans! 
+My name is Anastasia. Let's studying together! 
+
+﻿# Hey there! 
+
+﻿﻿# Hello Kottans!
+Мене звати Влад, і це мої перші кроки у frontend))
+
 
 # Hey there!
 
@@ -2948,3 +2968,7 @@ I'm glad to join Kottans
 
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
+
+## Hello everyone 
+Have a good day and good luck in your studies! 
+🖖
