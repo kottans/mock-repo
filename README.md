@@ -2728,3 +2728,11 @@ Looking forward to great cooperation! Live long and prosper. 🖖
 ## Hello everyone 
 Have a good day and good luck in your studies! 
 🖖
+
+## Добрий день everybody!
+|Feature|Description|
+|---    |---        |
+|Name|Alex|
+|Age|32 year|
+|Image|(./assets/images/alex_paradox.jpg)|
+|Greeting|**My best wishes for all kottans**|
