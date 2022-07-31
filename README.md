@@ -2,6 +2,13 @@
 My name is Anastasia. Let's studying together! 
 
 ﻿# Hey there! 
+
+﻿﻿# Hello Kottans!
+Мене звати Влад, і це мої перші кроки у frontend))
+
+
+# Hey there! 
+
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
