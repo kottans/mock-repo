@@ -2721,7 +2721,7 @@ I'm glad to join Kottans
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
 
-<<<<<<< HEAD
+
 # Helo, My name is Volodymyr.
 ## I am I'm the one who fixed these mistakes 🙃.
 =======
