@@ -62,6 +62,8 @@ Please **don't upload** heavy media files, I was cloning the repo for ages :)
 # Hello everybody!
 
 Hi! My name is Yaroslav. Im 20 years old. Im studing in Ivan Franko National University of Lviv. I found a lot of buddies and it`s cool.
+# Hi there, I'm Yuliia.
+### I'm from Ukraine 🇺🇦 and going to change my life with kottans
 
 Hello everybody!
 My name is Ivan.
