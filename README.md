@@ -1,4 +1,52 @@
 ﻿﻿# Hey there!
+
+
+#Hi! My name is Di and its my first steps in IT.
+
+# Hello kottans!
+My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
+Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend).
+
+
+
+# Hello Kottans! 
+
+***My name is Yevhen***<br />
+I'm 23 years old. Student. Musician.<br />
+Here is my [repo](https://github.com/zhenyakornilov/kottans-frontend).
+
+I discovered this course on [dou.ua](dou.ua).
+I am here to improve my frontend knowledges and just for fun too!
+
+P.S. I'm not going to upload any images here so I hope you wont't clone the repo as long as I did 🙃.
+
+﻿# Hello! My name is Alex!
+Good luck everybody!
+
+# Good day, everybody!
+
+My name is Oleksii. I am 28. The course is very informative, I knew most of it, but also emphasized new points. The course and problem solving paid off. It was informative, structured in a planned manner.
+I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
+
+# Hey there! 
+﻿﻿### hello! 
+
+**I'm Natalie**
+
+Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+
+
+# Hey there! 
+
+﻿# Hi, kottans! 
+My name is Anastasia. Let's studying together! 
+
+﻿# Hey there! 
+
+﻿﻿# Hello Kottans!
+Мене звати Влад, і це мої перші кроки у frontend))
+
+# Hey there! 
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
@@ -9,6 +57,8 @@ Please **don't upload** heavy media files, I was cloning the repo for ages :)
 # Hello everybody!
 Hi! My name is Yaroslav. Im 20 years old. Im studing in Ivan Franko National University of Lviv. I found a lot of buddies and it`s cool.
 
+# Hi there, I'm Yuliia.
+### I'm from Ukraine 🇺🇦 and going to change my life with kottans
 
 Hello everybody!
 My name is Ivan.
@@ -2701,9 +2751,17 @@ I'm glad to join Kottans
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
 
+
 ## Hello mates!
 
 My name is [Pavlo](https://github.com/v4voloshyn).
 I am here to write this comment and make rock and roll. As you see, the comment is already has written ;)
 Oh, and please, welcome my best mate - cat Leo :)
 [LEO](./assets/images/cat-leo.jpg)
+## Hello everyone 
+Have a good day and good luck in your studies! 
+🖖
+
+
+## Hello everybody kottans!
+Have a nice day! Ukraine is a capital of great people! 31.07.2022
