@@ -1,3 +1,7 @@
+Hello! 
+My name is Serhii!
+And I am grateful for this course. I wish everyone success in their studies!
+
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
