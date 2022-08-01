@@ -1,4 +1,9 @@
-﻿﻿# Hey there!
+<h2 align="center">Hi everyone! My name is Rostyslav</h2>
+Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
+
+
+# Hey there!
 
 
 #Hi! My name is Di and its my first steps in IT.
@@ -2568,6 +2573,7 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
+
 ## Hi, everyone.
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 ![Cat](./assets/images/stupid_cat.jpg)
@@ -2793,3 +2799,7 @@ g
 ## Hello everybody kottans!
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
 
+
+## Hello Kottans!
+My name is Eugene.
+I'm happy to be here!
