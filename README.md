@@ -2796,3 +2796,10 @@ Have a nice day! Ukraine is a capital of great people! 31.07.2022
 ## Hello Kottans!
 My name is Eugene.
 I'm happy to be here!
+
+
+## Hello Kottans!
+
+My name is [Ivan].
+This is my first practice with Git.
+Good luck to all!
