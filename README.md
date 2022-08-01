@@ -3,6 +3,10 @@ Glad to join this group. I wish you all the fulfillment of your desires and drea
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
+# Hi kottans!
+
+"Hello there" i m switcher nice to be with you in this wonderful project. Have fun learnig ^)
+
 # Hey there!
 
 
