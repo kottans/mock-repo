@@ -1,3 +1,13 @@
+## Greetings 
+
+My name is Vlad and I am alco^w glad to be here! I want to learn alot of cool stuff with you guys. 
+I am already know some about HTML, CSS, JS, and have few pet-projects (you can see it on [my github](https://github.com/rashevskyv)),
+but I am not have alot of motivation for finished what I've starts to learn =)
+
+I hope I can find here that will motivate me to reach the end! Good luck everyone and Glory to Ukraine!
+
+____
+
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
