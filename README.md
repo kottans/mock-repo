@@ -6,6 +6,6 @@
 [screenshot first week](https://skr.sh/sFDuALBDqMr)  
 [screenshot second week](https://skr.sh/sFDHYLHtKcJ)  
 
-### learngitbranching.js.org:
+### learngitbranching.js.org
 Основи: Introduction Sequence: [https://skr.sh/sFDlkvrcAuY](https://skr.sh/sFDlkvrcAuY)  
 Віддалені репозиторії: Push & Pull: [https://skr.sh/sFDp6mpqaho](https://skr.sh/sFDp6mpqaho)
