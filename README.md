@@ -5,7 +5,7 @@ This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to
 
 # Hi kottans!
 
-"Hello there" i m switcher nice to be with you in this wonderful project. Have fun learnig ^)
+"Hello there" i m switcher nice to be with you in this wonderful project. Have fun learnig ^). I will try my best.
 
 # Hey there!
 
