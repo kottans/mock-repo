@@ -2787,7 +2787,7 @@ g
 |---    |---        |
 |Name|Alex|
 |Age|32 year|
-|Image|(./assets/images/alex_paradox.jpg)|
+|Image| ![Cat Alex](./assets/images/alex_paradox.jpg)|
 |Greeting|**My best wishes for all kottans**|
 
 ## Hello everybody kottans!
