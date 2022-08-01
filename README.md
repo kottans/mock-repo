@@ -1,5 +1,18 @@
+<<<<<<< HEAD
+## Hi, I'm Artem
+=======
+﻿﻿## Hi, I'm Artem
+>>>>>>> master
+And I learn Kottans course with you. Patience and good luck.
+See you at work as FrontEnd Developer!
+[Me repo](https://github.com/IrbisKronos)
+
+---
+
+﻿# Hey there!
+=======
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
-Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
@@ -14,7 +27,7 @@ Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend)
 
 
 
-# Hello Kottans! 
+# Hello Kottans!
 
 ***My name is Yevhen***<br />
 I'm 23 years old. Student. Musician.<br />
@@ -33,25 +46,26 @@ Good luck everybody!
 My name is Oleksii. I am 28. The course is very informative, I knew most of it, but also emphasized new points. The course and problem solving paid off. It was informative, structured in a planned manner.
 I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
-# Hey there! 
-﻿﻿### hello! 
+# Hey there!
+﻿﻿### hello!
 
 **I'm Natalie**
 
-Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:    
+Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:
 
 
-# Hey there! 
+# Hey there!
 
-﻿# Hi, kottans! 
-My name is Anastasia. Let's studying together! 
+﻿# Hi, kottans!
+My name is Anastasia. Let's studying together!
 
-﻿# Hey there! 
+﻿# Hey there!
 
 ﻿﻿# Hello Kottans!
 Мене звати Влад, і це мої перші кроки у frontend))
 
-# Hey there! 
+# Hey there!
+>>>>>>> 024851dfc919871eed4209b147e51f08983ea971
 **I'm Anna**
 
 Glad to become a part of that story!)) Wish luck to all of us
@@ -114,6 +128,7 @@ Glory to AFU!
 
 # Hello Kottans!
 
+>>>>>>> master
 ***My name is Natalia***
 
 Fortunatelly I discovered ***Kottans*** on dou.ua, and now I'm here with you whether you like it or not :-P
@@ -128,12 +143,16 @@ Very happy to be part of your community. <br>
 
 
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
- 
+
 ## Hello!
 My name is Nadia. I am 21y.o.
 My repo [NVRepo](https://github.com/NadiaVorontsova/kottans-frontend.git).
 
+<<<<<<< HEAD
+﻿# Hi kottans! I'm Konstiantyn and i will work for you soon
+=======
 ﻿# Hi kottans! I'm Konstiantyn and i will work for you soon.
+>>>>>>> master
 
 
 ## Hi everyone!
@@ -144,6 +163,7 @@ I wish everyone to have a lot of practice and fun :)
 This is my [repo](https://github.com/yhorodechna/kottans-frontend.git).
 
 
+>>>>>>> master
 ##Hello World
 I am Artem good luck
 
@@ -2662,6 +2682,8 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 I'm glad to be here!
 
 
+<<<<<<< HEAD
+=======
 
 ## Hello! My name is Pavel
 
@@ -2687,6 +2709,7 @@ I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
 
 
 
+>>>>>>> master
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
 
@@ -2784,8 +2807,8 @@ My name is [Pavlo](https://github.com/v4voloshyn).
 I am here to write this comment and make rock and roll. As you see, the comment is already has written ;)
 Oh, and please, welcome my best mate - cat Leo :)
 [LEO](./assets/images/cat-leo.jpg)
-## Hello everyone 
-Have a good day and good luck in your studies! 
+## Hello everyone
+Have a good day and good luck in your studies!
 🖖
 
 
