@@ -1,3 +1,13 @@
+# kottans-frontend
+
+![images](assets/images/artiomdumchykovfrontend.jpg)
+
+## Hi there
+
+My name is Artiom, I'm a student and a beginner developer.
+My repo is [here](https://github.com/ArtiomDumchykov/kottans-frontend)
+Talk less, work mor
+
 # Hi there! 
 I'm Oleksandr. **I'm glad to be with Kottans!** Have a great day everyone! My [repo](https://github.com/aleck3/kottans-frontend)
 
