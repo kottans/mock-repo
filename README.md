@@ -1,3 +1,8 @@
+# Hello everyone!
+
+
+# Hi! My name is Yana and [here is my repo](https://github.com/9yasya9/kottans-frontend)!
+
 # Hello kottans!
 I am Anton I hope you will be successful
 
@@ -24,7 +29,7 @@ All cool )))
 
 # Hello kottans!
 My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
-Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend).
+Link to my repo [here](https://github.com/OlegPopovych/kottans-frontend).
 
 
 
