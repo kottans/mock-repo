@@ -3195,6 +3195,7 @@ Have a good day and good luck in your studies!
 
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
 
+
 ## Hello Kottans!
 
 My name is Eugene.
@@ -3207,6 +3208,10 @@ Let's learn together
 
 I'm happy to be here!
 
+
+## Hello!
+My name is Krystyna.
+Good luck!
 
 ## Hey Guys
 
