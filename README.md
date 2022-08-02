@@ -24,6 +24,7 @@ Because today we have many courses about deployment in internet. But not all of 
 Great and importand job 👍
 
 Let`s continue. Good luck everyone
+
 Hello! 
 
 My name is Serhii!
@@ -63,7 +64,6 @@ My name is Aleksandr, very glad to join you!
 
 
 # Hey there!!
-
 
 # Hello Kottans!
 
@@ -136,6 +136,7 @@ I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 # Hey there!
 
 ### hello!
+
 
 **I'm Natalie**
 
@@ -685,7 +686,7 @@ I'm glad to be here! Best wishes to the Kottans community!
 ---
 
 # Hi, people! I'm Viktor.
-
+Hello Viktor. How are you? 
 # following the rest I want to introduce my kitty Buba's
 
 ![Buba](gif/bubacat.jpg)
@@ -861,11 +862,13 @@ Hello, everyone! Let the cats be with us!
 
 ---
 
-Hi, kottans. Feels like should be here.
+## **Hi, kottans. Feels like should be here.
+
 
 ## ![Anime picture](gif/Sh.jpg)
 
 Hi, Kottans! Just finished a Git and GitHub course at Udacity.
+
 Thank you so much for this tip!
 
 ---
@@ -882,9 +885,11 @@ while (true) {
 }
 ```
 
+
 ## Ooops! File changed. This line can be removed.
 
 ##Hello! I'm Anton! I'm so happy to be in your team.
+
 I think it should be here.
 ![Screenshot](gif/dancer.jpg)
 
@@ -1071,7 +1076,8 @@ Have fun and be :cat:
 
 ---
 
-Hello. My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
+## **Hello. 
+My name is Vlad. I'm very excited too. If you don't see it just believe me. Really.
 
 ## Hello Kottans!
 
@@ -1347,7 +1353,7 @@ Thank you for your community!
 <br>
 <b>Are you ready for a new experience?</b>
 
-<img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635" />
+<img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635">
 <br>
 
 # Hi, Kottans-Frontend Club!
@@ -1541,7 +1547,7 @@ Let's see how it works!
 
 ![cat](https://i.imgur.com/O2PIAPq.jpg)
 
-##Hello, awesome comunity!!
+## Hello, awesome comunity!!
 I just started p2p - course and it is gonna be awesome)
 ![cat](https://www.meme-arsenal.com/memes/64ccae79dfab573fb7eb1b23d7a55e54.jpg)
 
@@ -1630,9 +1636,11 @@ In case anyone is from **Lviv**, let's keep in touch
     \__/  /(_E     \__/
       (  /
        MM
+
  </pre>
 
 ---
+
 
 ## Hi, my name is Mike. thank you all!
 
@@ -1712,7 +1720,7 @@ My name is Artem. I am excited to start the back-end course.
 
 ![Team kottan](https://media.giphy.com/media/10dU7AN7xsi1I4/giphy.gif)
 
-**Hi everyone, my name is Denis.**
+## **Hi everyone, my name is Denis.**
 
 I ~~hope~~ know that this course will be useful for me :)
 
@@ -1756,6 +1764,7 @@ My name is Serhii. Nice to meet you all :)
 My name is Alex, I got the job-offer for JS developer, that is why I need to find out what is Node.js. Previously I was a front-end Kottans's course student
 
 ---
+
 
 # Hi!
 
@@ -1827,7 +1836,7 @@ I'm Vitaliy. https://github.com/vik1803
 
 I'm Viacheslav. https://github.com/dviacheslav
 
-Hello!
+## Hello!
 
 Im Vlad https://github.com/Wizardiq
 
@@ -1858,7 +1867,7 @@ And you can find me here - https://github.com/ABondar-Neph
 
 I'm [Serhii](https://github.com/serphiy). Nice to join you!
 
-#Hello Kottans!
+# Hello Kottans!
 
 My name is Evgen. I am from Kremenchug.
 This is my coder cat Plushka.
@@ -1871,7 +1880,7 @@ I'm [Igor](http://netcode.pro) and will be glad to join your community!
 ## Hello, Kottans!
 
 I am [Max](https://github.com/ms76adf1). Nice to meet you, guys!
-<br />
+
 ![Cat](assets/images/cat.jpeg)
 
 ## Hello, Kottans!
@@ -2556,12 +2565,14 @@ My name is [Yuri](https://github.com/4zorbin) I will be happy to participate in 
 
 ---
 
-**Greetings!**
+## **Greetings!**
+
 
 Dear kottans,
 I am much obliged for your kindness. Thank you so much for preparing these incredible educational materials! My name is [Anna](https://github.com/kt-std). I sincerely hope to become a part of your learning community.
 
-Have a lovely day:)
+
+# Have a lovely day:)
 
 ![Cat sitting in the bath with ducks](assets/images/cat_with_ducks.jpg)
 
@@ -3211,9 +3222,12 @@ Happy to join the community! 😺
 
 I am Anton. Making first pull-request!
 
+
+=======
 ## Hi Everyone!
 
 I am Vlad. Making first pull-request! TNX GUYS!
+
 
 ## Hello guys and girls
 
