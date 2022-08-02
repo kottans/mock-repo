@@ -2807,6 +2807,10 @@ I'm happy to be here!
 
 
 
+Hi there!
+I like this community!
+
+
 ## Hi Everyone!  
 I'm [Liudmyla](https://github.com/liudmylapanchenko/kottans-frontend.git).  
 Happy to join the community! 😺
