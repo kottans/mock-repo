@@ -1,9 +1,9 @@
 # Warm greetings
-
-<h1 align="center">Hi there, I'm Dasha<h1>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Hi there, I'm Dasha<h3>
 <h3 align="center"> IT Recruiter from Kyiv</h3>
-I am studyng a FE course from Kottans
+I am studyng a FE course from Kottans.
+
 Good luck to everybody who is also beginning this challenging journey!
 
 
