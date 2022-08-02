@@ -1,3 +1,9 @@
+# Hello Kottans!
+
+My name is Natasha. This is [my repo](https://github.com/Nataliya-Petrenko/kottans-frontend) for this course. I am very glad to be a part of Kottans community.
+
+![Cat-pro](gif/ebde5f53c272b9111b40cc210a53dc64.gif)
+
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
