@@ -1,3 +1,14 @@
+﻿﻿# Hey there! 
+
+# Hello everybody!
+
+My name is Iryna. 
+
+I hope this project will be of interest to each of us. 
+
+**Good luck to all! :)**
+
+
 # Hello KOTTANS!
 My name is Stas, I'm begginner , have some knowledge in HTML , CSS.
 I've a big wish to become frontend developer.
@@ -177,6 +188,7 @@ My name is Anastasia. Let's studying together!
 
 # Hello Kottans!
 Мене звати Влад, і це мої перші кроки у frontend))
+
 
 # Hey there!
 
