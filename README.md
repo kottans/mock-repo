@@ -1,3 +1,9 @@
+# Hello, Kottans!
+My name is Vitaly. I'm switcher. Happy to join the community!  
+I used to have some experience with Git, but that wasn't enough. This course and several other tutorials have helped me become more confident with Git.
+
+![The new Kottan](https://i.ibb.co/6F5zFTz/Cat-480.jpg "The new Kottan")
+
 ## Hello!
 
 My name is Mila. I want to become a front-end developer one day:) Wish ypu all good luck here!
@@ -108,7 +114,11 @@ All cool )))
 
 #Hi! My name is Di and its my first steps in IT.
 
-# Hello kottans!
+
+# Hello, kottans!
+My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
+Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend).
+
 
 My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
 Link to my repo [here](https://github.com/OlegPopovych/kottans-frontend).
