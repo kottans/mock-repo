@@ -3187,6 +3187,9 @@ Happy to join the community! 😺
 ## Hi Everyone!
 I am Anton. Making first pull-request!
 
-# Helo, My name is Volodymyr.
-## I am I'm the one who fixed these mistakes 🙃.
+
 =======
+## Hi Everyone!
+
+I am Vlad. Making first pull-request! TNX GUYS!
+
