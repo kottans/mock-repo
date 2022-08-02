@@ -3168,6 +3168,10 @@ My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although i
 Looking forward to great cooperation! Live long and prosper. 🖖
 
 
+
+# Hello :wave:
+My name's Anastasiia and I'm an absolute beginner in programming. But because of this, my journey will be more interesting. Glad to be here with you :)
+
 ## Hello mates!
 
 My name is [Pavlo](https://github.com/v4voloshyn).
