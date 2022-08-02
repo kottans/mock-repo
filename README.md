@@ -9,7 +9,8 @@ Glad to join this group. I wish you all the fulfillment of your desires and drea
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
-# Hey there!
+# Hey there! :)
+All cool )))
 
 
 #Hi! My name is Di and its my first steps in IT.
