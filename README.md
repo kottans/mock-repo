@@ -1,5 +1,5 @@
 # Warm greetings
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+:wave:
 <h3 align="center">Hi there, I'm Dasha<h3>
 <h3 align="center"> IT Recruiter from Kyiv</h3>
 I am studyng a FE course from Kottans.
