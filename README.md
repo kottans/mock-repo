@@ -31,6 +31,14 @@ Glad to join this group. I wish you all the fulfillment of your desires and drea
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
+# Hello, everybody 
+
+My name is Oleksandr and I am happy to study with all of you!
+<details><summary>there could be a picture</summary>
+...but not this time
+</details>
+---
+
 # Hey there!
 
 
