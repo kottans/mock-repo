@@ -1,3 +1,7 @@
+# Hi all! My name is Serhii.
+I am a freelancer, designer and developer. I love learning, and I hope to get new knowledge here to improve my products.
+
+
 # Hello There
 My name is Aleksandr, very glad to join you!
 
@@ -17,6 +21,7 @@ My name is Natasha. This is [my repo](https://github.com/Nataliya-Petrenko/kotta
 
 # Hello kottans!
 I am Anton I hope you will be successful
+
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
