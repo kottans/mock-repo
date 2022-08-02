@@ -3092,6 +3092,12 @@ My name is Eugene.
 I'm happy to be here!
 
 
+## Всім привіт!
+Мене звати Андрій, а це мій [репозиторій](https://github.com/kotlyar-andrey/kottans-frontend).
+
+Успіхів у навчанні!
+
+
 ## Hi all!
 I hope to work together in an interesting way and learn new material.
 Good luck.
