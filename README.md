@@ -3107,6 +3107,13 @@ My name is Eugene.
 I'm happy to be here!
 
 
+## Hello Kottans!
+
+My name is [Ivan].
+This is my first practice with Git.
+Good luck to all!
+![Iris](./assets/images/Iris.jpg)
+
 ## Всім привіт!
 Мене звати Андрій, а це мій [репозиторій](https://github.com/kotlyar-andrey/kottans-frontend).
 
