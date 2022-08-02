@@ -3207,6 +3207,14 @@ Let's learn together
 
 I'm happy to be here!
 
+
+## Hey Guys
+
+My name is [Ksenia](https://github.com/ksalpern) and it's so nice to meet you here! 
+
+![](https://c.tenor.com/HrPoPmKEMCoAAAAd/cat-typing.gif)
+
+
 ## Hi There!
 I'm [Nikita](https://github.com/darkmindskiller). 
 I'm glad to join Kottans
