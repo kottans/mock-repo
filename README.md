@@ -3077,11 +3077,18 @@ My name is Eugene.
 I'm happy to be here!
 
 
+
+## Hi all!
+I hope to work together in an interesting way and learn new material.
+Good luck.
+
+
 ## Hi everybody!
 
 I'm Andriy.
 This is my **[repo](https://github.com/andysmokk)**.
 See you soon:exclamation::exclamation::exclamation:
+
 
 # Hello, guys!
   I wish you all a good luck! 02.08.22
@@ -3097,3 +3104,4 @@ Happy to join the community! 😺
 
 ## Hi Everyone!
 I am Anton. Making first pull-request!
+
