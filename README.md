@@ -1,3 +1,8 @@
+# Hello everyone!
+
+
+#Hi! My name is Yana and [here is my repo](https://github.com/9yasya9/kottans-frontend)!
+
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
@@ -10,7 +15,7 @@ This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to
 
 # Hello kottans!
 My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
-Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend).
+Link to my repo [here](https://github.com/OlegPopovych/kottans-frontend).
 
 
 
