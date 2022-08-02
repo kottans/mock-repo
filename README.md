@@ -1,3 +1,9 @@
+## Hi guys!
+My name is ~~Pablo Escobar~~ Pavlo))
+My [repo](https://github.com/zenoksi4/kottans-frontend).
+My cat it so cute)
+![cat_pablo_escobar](\assets\images\my_cate_so_cute.png)
+
 # Hello, Kottans!
 My name is Vitaly. I'm switcher. Happy to join the community!  
 I used to have some experience with Git, but that wasn't enough. This course and several other tutorials have helped me become more confident with Git.
@@ -89,7 +95,6 @@ I am Anton I hope you will be successful
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
-
 
 # Hello, everybody
 
