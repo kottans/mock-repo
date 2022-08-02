@@ -1,3 +1,6 @@
+# Hi there! 
+I'm Oleksandr. **I'm glad to be with Kottans!** Have a great day everyone! My [repo](https://github.com/aleck3/kottans-frontend)
+
 # Hi all! My name is Serhii.
 I am a freelancer, designer and developer. I love learning, and I hope to get new knowledge here to improve my products.
 
