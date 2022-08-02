@@ -1,3 +1,6 @@
+﻿<h2 align="center">Hi everyone! My name is Rostyslav</h2>
+Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+
 ## Hi guys!
 My name is ~~Pablo Escobar~~ Pavlo))
 My [repo](https://github.com/zenoksi4/kottans-frontend).
@@ -94,6 +97,7 @@ I am Anton I hope you will be successful
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams.
+
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 # Hello, everybody
@@ -3195,6 +3199,11 @@ Have a good day and good luck in your studies!
 
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
 
+## Hello)
+My name is Dasha. [https://github.com/loki13btz]
+Happy to learn with you)
+and this is Onyx
+![Onyx](./assets/images/Onyx.jpg) 
 
 ## Hello Kottans!
 
