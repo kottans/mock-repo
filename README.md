@@ -3209,6 +3209,10 @@ Let's learn together
 I'm happy to be here!
 
 
+
+## Hi. I am glad to join Kottans Frontend course.
+My name is Olga. My [github](https://github.com/Olha3001)😺😺
+
 ## Hello!
 My name is Krystyna.
 Good luck!
