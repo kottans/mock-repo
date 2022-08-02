@@ -3166,6 +3166,18 @@ I am here to write this comment and make rock and roll. As you see, the comment 
 Oh, and please, welcome my best mate - cat Leo :)
 [LEO](./assets/images/cat-leo.jpg)
 
+## Hello everyone 
+Have a good day and good luck in your studies! 
+🖖
+g
+## Добрий день everybody!
+|Feature|Description|
+|---    |---        |
+|Name|Alex|
+|Age|32 year|
+|Image| ![Cat Alex](./assets/images/alex_paradox.jpg)|
+|Greeting|**My best wishes for all kottans**|
+
 
 ## Hello everyone
 
