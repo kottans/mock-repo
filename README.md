@@ -68,7 +68,8 @@ Glad to join to the community)
 
 ## Hi, I'm Masha
 Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
-![The cat bangs its head against the laptop](https://giphy.com/gifs/hoppip-cat-drawing-11dR2hEgtN5KoM)
+![The cat bangs its head against the laptop](https://media1.giphy.com/media/11dR2hEgtN5KoM/giphy.gif?cid=790b7611bd38c655d9754122a87f56905d33fb000fb27494&rid=giphy.gif&ct=g)
+
 ## Hi, I'm Armen!
 
 I`m glad to join to Kottens community. Let's start our Front-End journey! Good luck to all of you!
