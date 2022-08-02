@@ -3330,8 +3330,19 @@ I am Anton. Making first pull-request!
 I am Vlad. Making first pull-request! TNX GUYS!
 
 
+=======
+
 ## Hello guys and girls
 
 I am Alex. And I am happy to study with you
 
 ![go-go-dance](gif/go-go-dance.gif)
+
+
+## Hello guys!
+
+I'm [Allozavrr](https://github.com/allozavrr).
+Remember that in Internet no one knows that you're a cat =)
+Good luck friend and have a nice game!
+
+![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
