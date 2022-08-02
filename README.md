@@ -2980,6 +2980,11 @@ My [GitHub](https://github.com/serentinos) :)
 My name is [Anna](https://github.com/just-ann12).
 I'm really exited to join Kottans!
 
+ 
+## Hi everyone! 
+I'm Yulia.
+
+
 ## Hi there!
 
 I'm learning to use Git!
@@ -3077,7 +3082,6 @@ My name is Eugene.
 I'm happy to be here!
 
 
-
 ## Hi all!
 I hope to work together in an interesting way and learn new material.
 Good luck.
@@ -3104,4 +3108,3 @@ Happy to join the community! 😺
 
 ## Hi Everyone!
 I am Anton. Making first pull-request!
-
