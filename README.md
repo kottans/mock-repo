@@ -1,3 +1,6 @@
+
+Hello!
+
 # Добрий день eyerybody 👋
 I`m Alex: https://github.com/Rybchynskyi/
 
@@ -22,9 +25,9 @@ Hello!
 My name is Serhii!
 And I am grateful for this course. I wish everyone success in their studies!
 
-## Greetings 
+## Greetings
 
-My name is Vlad and I am alco^w glad to be here! I want to learn alot of cool stuff with you guys. 
+My name is Vlad and I am alco^w glad to be here! I want to learn alot of cool stuff with you guys.
 I am already know some about HTML, CSS, JS, and have few pet-projects (you can see it on [my github](https://github.com/rashevskyv)),
 but I am not have alot of motivation for finished what I've starts to learn =)
 
@@ -41,7 +44,7 @@ My name is Artiom, I'm a student and a beginner developer.
 My repo is [here](https://github.com/ArtiomDumchykov/kottans-frontend)
 Talk less, work mor
 
-# Hi there! 
+# Hi there!
 I'm Oleksandr. **I'm glad to be with Kottans!** Have a great day everyone! My [repo](https://github.com/aleck3/kottans-frontend)
 
 # Hi all! My name is Serhii.
@@ -51,7 +54,7 @@ I am a freelancer, designer and developer. I love learning, and I hope to get ne
 # Hello There
 My name is Aleksandr, very glad to join you!
 
-﻿﻿# Hey there!! 
+﻿﻿# Hey there!!
 
 # Hello Kottans!
 
@@ -71,11 +74,11 @@ I am Anton I hope you will be successful
 
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
-Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
-# Hello, everybody 
+# Hello, everybody
 
 My name is Oleksandr and I am happy to study with all of you!
 <details><summary>there could be a picture</summary>
@@ -3049,8 +3052,8 @@ My [GitHub](https://github.com/serentinos) :)
 My name is [Anna](https://github.com/just-ann12).
 I'm really exited to join Kottans!
 
- 
-## Hi everyone! 
+
+## Hi everyone!
 I'm Yulia.
 
 
@@ -3189,8 +3192,8 @@ Hi there!
 I like this community!
 
 
-## Hi Everyone!  
-I'm [Liudmyla](https://github.com/liudmylapanchenko/kottans-frontend.git).  
+## Hi Everyone!
+I'm [Liudmyla](https://github.com/liudmylapanchenko/kottans-frontend.git).
 Happy to join the community! 😺
 
 ## Hi Everyone!
@@ -3199,3 +3202,9 @@ I am Anton. Making first pull-request!
 ## Hi Everyone!
 
 I am Vlad. Making first pull-request! TNX GUYS!
+
+## Hello guys and girls
+
+I am Alex. And I am happy to study with you
+
+![go-go-dance](gif/go-go-dance.gif)
