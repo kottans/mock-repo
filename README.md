@@ -113,6 +113,10 @@ I'm glad to join Kottans and looking forward to starting our journey in the worl
 
 ## Hi, everybody.
 
+
+## Hi, everybody.
+My name is Anzhelika :) And it`s a big honour to study front-end with you!
+
 My name is Dmytro and it`s a big honour to study front-end with you!
 
 # Hello Kottans!
