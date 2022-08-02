@@ -1,14 +1,28 @@
 # Hello everyone!
 
 
-#Hi! My name is Yana and [here is my repo](https://github.com/9yasya9/kottans-frontend)!
+# Hi! My name is Yana and [here is my repo](https://github.com/9yasya9/kottans-frontend)!
+
+# Hello kottans!
+I am Anton I hope you will be successful
+
+
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
+
+# Hi kottans!
+
+"Hello there" i m switcher nice to be with you in this wonderful project. Have fun learnig ^). I will try my best.
+
 # Hey there!
+
+# Hey there! :)
+All cool )))
+
 
 
 #Hi! My name is Di and its my first steps in IT.
@@ -2794,6 +2808,7 @@ Have a good day and good luck in your studies!
 🖖
 
 
+
 ## Hello everybody kottans!
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
 
@@ -2801,3 +2816,19 @@ Have a nice day! Ukraine is a capital of great people! 31.07.2022
 ## Hello Kottans!
 My name is Eugene.
 I'm happy to be here!
+
+
+# Hello, guys!
+  I wish you all a good luck! 02.08.22
+
+
+Hi there!
+I like this community!
+
+
+## Hi Everyone!  
+I'm [Liudmyla](https://github.com/liudmylapanchenko/kottans-frontend.git).  
+Happy to join the community! 😺
+
+## Hi Everyone!
+I am Anton. Making first pull-request!
