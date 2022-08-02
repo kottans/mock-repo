@@ -117,6 +117,7 @@ My name is Oleksandr and I am happy to study with all of you!
 
 All cool )))
 
+
 #Hi! My name is Di and its my first steps in IT.
 
 
@@ -150,24 +151,21 @@ I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
 # Hey there!
 
-
 ### hello!
+
 
 **I'm Natalie**
 
 Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:
 
-# Hey there!
-
-
 # Hi, kottans!
+
 
 My name is Anastasia. Let's studying together!
 
 # Hey there!
 
 # Hello Kottans!
-
 Мене звати Влад, і це мої перші кроки у frontend))
 
 # Hey there!
@@ -251,6 +249,7 @@ Very happy to be part of your community. <br>
 ![alf](./assets/images/alf_cat.jpg)
 
 # Hi kottans! I'm Konstiantyn and i will work for you soon
+
 
 ## Hello!
 
@@ -3171,8 +3170,10 @@ I am here to write this comment and make rock and roll. As you see, the comment 
 Oh, and please, welcome my best mate - cat Leo :)
 [LEO](./assets/images/cat-leo.jpg)
 
-## Hello everyone 
-Have a good day and good luck in your studies! 
+## Hello everyone
+Have a good day and good luck in your studies!
+
+
 🖖
 g
 ## Добрий день everybody!
