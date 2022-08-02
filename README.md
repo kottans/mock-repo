@@ -3,6 +3,29 @@
 My name is Mila. I want to become a front-end developer one day:) Wish ypu all good luck here!
 
 Hello!
+
+# Добрий день eyerybody 👋
+I`m Alex: https://github.com/Rybchynskyi/
+
+Its my repo repository for kottans
+
+My first expression about Git:
+Actually, i think that git is the most important think in teamwork. It`s like time-mashine ⏱, that can move you in past statement of the project.
+
+I can`t imaging how developers worked before git was deweloped 😵‍💫
+
+The most important think that I understand, is that you can make many branches. And in each branch you can code new features for the main project.
+
+I thtink that I will use not all commands that I learned. But i must understand this commands for sure.
+Because if you dont understand philosofy of git - yoy can make many mistakes in deployment.
+
+Espetialy thanks for the selection of learning materials.
+Because today we have many courses about deployment in internet. But not all of them are useful and understandable.
+Great and importand job 👍
+
+Let`s continue. Good luck everyone
+Hello! 
+
 My name is Serhii!
 And I am grateful for this course. I wish everyone success in their studies!
 
@@ -38,7 +61,9 @@ I am a freelancer, designer and developer. I love learning, and I hope to get ne
 
 My name is Aleksandr, very glad to join you!
 
+
 # Hey there!!
+
 
 # Hello Kottans!
 
@@ -54,9 +79,11 @@ My name is Natasha. This is [my repo](https://github.com/Nataliya-Petrenko/kotta
 
 I am Anton I hope you will be successful
 
+
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
-Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
+
 
 # Hello, everybody
 
@@ -3032,8 +3059,8 @@ My [GitHub](https://github.com/serentinos) :)
 My name is [Anna](https://github.com/just-ann12).
 I'm really exited to join Kottans!
 
-## Hi everyone!
 
+## Hi everyone!
 I'm Yulia.
 
 ## Hi there!
@@ -3129,6 +3156,13 @@ Have a nice day! Ukraine is a capital of great people! 31.07.2022
 ## Hello Kottans!
 
 My name is Eugene.
+
+I'm happy to be here! 
+
+## My name is Ksenia !
+Let's learn together 
+[Ksenia](https://github.com/KseniaZahorodniuk)
+
 I'm happy to be here!
 
 ## Hello Kattans)
@@ -3168,7 +3202,9 @@ I like this community!
 
 ## Hi Everyone!
 
+
 I'm [Liudmyla](https://github.com/liudmylapanchenko/kottans-frontend.git).  
+
 Happy to join the community! 😺
 
 ## Hi Everyone!
@@ -3178,3 +3214,9 @@ I am Anton. Making first pull-request!
 ## Hi Everyone!
 
 I am Vlad. Making first pull-request! TNX GUYS!
+
+## Hello guys and girls
+
+I am Alex. And I am happy to study with you
+
+![go-go-dance](gif/go-go-dance.gif)
