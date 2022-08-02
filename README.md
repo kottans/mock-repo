@@ -7,20 +7,6 @@ Hi! It's Pavlo and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hi,
 
 This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
@@ -30,9 +16,6 @@ You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 *This was an intentionally misspelled phrase*
-
-
-
 
 Tell other kottans a couple of words and add a fancy picture.
 
