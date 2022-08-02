@@ -135,14 +135,15 @@ I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
 # Hey there!
 
-### hello!
 
+### hello!
 
 **I'm Natalie**
 
 Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:
 
 # Hey there!
+
 
 # Hi, kottans!
 
@@ -3155,6 +3156,7 @@ I am here to write this comment and make rock and roll. As you see, the comment 
 Oh, and please, welcome my best mate - cat Leo :)
 [LEO](./assets/images/cat-leo.jpg)
 
+
 ## Hello everyone
 
 Have a good day and good luck in your studies!
@@ -3175,6 +3177,11 @@ Let's learn together
 [Ksenia](https://github.com/KseniaZahorodniuk)
 
 I'm happy to be here!
+
+
+## Hi there
+Nice to add to community from backend dev
+![Blair](./assets/images/blair-the-cat.png)
 
 ## Hello Kattans)
 
@@ -3223,7 +3230,6 @@ Happy to join the community! 😺
 I am Anton. Making first pull-request!
 
 
-=======
 ## Hi Everyone!
 
 I am Vlad. Making first pull-request! TNX GUYS!
