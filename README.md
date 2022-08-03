@@ -3369,3 +3369,6 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 
 ## Hello world!
 What's up, guys?
+
+## Hi! Have a nice day!
+It's very usefull and comletely easy to understand course
