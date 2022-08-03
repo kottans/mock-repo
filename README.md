@@ -102,6 +102,7 @@ My name is Aleksandr, very glad to join you!
 # Hey there!!
 
 # Hello Kottans!
+My name is Nataliia, i'm glad to be with kottans community
 
 # Hello everyone!
 
