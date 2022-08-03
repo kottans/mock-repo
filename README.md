@@ -1,9 +1,12 @@
 Dasha
 # Warm greetings
 :wave:
-<h3 align="center">Hi there, I'm Dasha<h3>
-<h3 align="center"> IT Recruiter from Kyiv</h3>
-I am studyng a FE course from Kottans.
+### Hi there, I'm Dasha
+
+### IT Recruiter from Kyiv
+
+I am studyng a FE course from Kottans
+My github is [DanyaBu](https://github.com/DanyaBu)
 
 Good luck to everybody who is also beginning this challenging journey!
 
