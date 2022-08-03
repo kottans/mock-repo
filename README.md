@@ -3080,6 +3080,9 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 
 I'm glad to be here!
 
+
+## Hey!
+
 ## HI, THERE! My name is Aleks. I'm python developer.
 
 
@@ -3329,8 +3332,6 @@ I am Anton. Making first pull-request!
 
 I am Vlad. Making first pull-request! TNX GUYS!
 
-
-=======
 
 ## Hello guys and girls
 
