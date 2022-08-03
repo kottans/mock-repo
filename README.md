@@ -1,3 +1,15 @@
+#Hello!
+My name is Kyryl.
+I want to complete all tasks and go to Stage 1.
+
+[Link](https://github.com/kirill8210/kottans-frontend) to my repo on GitHub.
+
+#My cat is watching me))
+<p>
+![Introduction Sequence](./assets/images/chester.jpg)
+</p>
+
+
 ##Hello World
 I am Artem good luck
 
