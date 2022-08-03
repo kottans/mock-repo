@@ -4,7 +4,6 @@
 # Hey there!
 
 
-
 # Hello everybody!
 
 My name is Iryna. 
@@ -20,9 +19,7 @@ I've a big wish to become frontend developer.
 My repo :(https://github.com/stass777/kottans-frontend)
 
 
-
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
-
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 
 ## Hi guys!
