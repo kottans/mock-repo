@@ -1,4 +1,4 @@
-﻿# Hey there!
+# Hey there!
 
 
 # Hello everybody!
@@ -3335,6 +3335,8 @@ Happy to join the community! 😺
 
 I am Anton. Making first pull-request!
 
+## Hi there!
+I am Dima. Glad to join to team!)
 
 ## Hi Everyone!
 
@@ -3355,3 +3357,4 @@ Remember that in Internet no one knows that you're a cat =)
 Good luck friend and have a nice game!
 
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
+
