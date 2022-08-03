@@ -2526,5 +2526,6 @@ Thank you for this opportunity to be a part of this community and learn intersti
 ## Hi!
 
 My name is [Maria](https://github.com/filoxera1409) and I'm very glad to join the community! This is my cat Summer
-[Meow](https://github.com/filoxera1409/mock-repo/blob/firstbranch/assets/images/summer.jpg)
+
+<img src = "https://github.com/filoxera1409/mock-repo/blob/firstbranch/assets/images/summer.jpg>
 Thank you for this amazing course!
