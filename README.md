@@ -1,4 +1,4 @@
-# Hi there! 
+﻿# Hi there! 
 I'm Oleksandr. **I'm glad to be with Kottans!** Have a great day everyone! My [repo](https://github.com/aleck3/kottans-frontend)
 
 # Hi all! My name is Serhii.
@@ -3131,3 +3131,6 @@ Happy to join the community! 😺
 
 ## Hi Everyone!
 I am Anton. Making first pull-request!
+
+## Hi there!
+I am Dima. Glad to join to team!)
