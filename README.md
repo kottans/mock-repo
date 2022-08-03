@@ -2,6 +2,10 @@
 
 My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to learn frontend development.
 
+# Hello Kottans!
+
+# Hey there!
+
 # Hey there!
 
 # Hello everybody!
@@ -3471,6 +3475,14 @@ Happy to join the community! 😺
 
 I am Anton. Making first pull-request!
 
+# <<<<<<< HEAD
+
+## Hi there!
+
+I am Dima. Glad to join to team!)
+
+> > > > > > > 598b423070112c64bc2f4044f60aa6180c2eb1c6
+
 ## Hi Everyone!
 
 I am Vlad. Making first pull-request! TNX GUYS!
@@ -3488,3 +3500,13 @@ Remember that in Internet no one knows that you're a cat =)
 Good luck friend and have a nice game!
 
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
+
+## Hi everyone!
+
+My name is Liza and I'm happy to be here and to learn something new!
+
+Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
+
+## Hello world!
+
+What's up, guys?
