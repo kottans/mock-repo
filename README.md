@@ -3355,3 +3355,9 @@ Remember that in Internet no one knows that you're a cat =)
 Good luck friend and have a nice game!
 
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
+
+## Hi everyone!
+
+My name is Liza and I'm happy to be here and to learn something new!
+<br />
+Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
