@@ -1,4 +1,7 @@
-﻿# Hey there!
+# Hello Kottans!
+
+
+# Hey there!
 
 
 # Hello everybody!
@@ -3335,6 +3338,8 @@ Happy to join the community! 😺
 
 I am Anton. Making first pull-request!
 
+## Hi there!
+I am Dima. Glad to join to team!)
 
 ## Hi Everyone!
 
@@ -3359,5 +3364,8 @@ Good luck friend and have a nice game!
 ## Hi everyone!
 
 My name is Liza and I'm happy to be here and to learn something new!
-<br />
+
 Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
+
+## Hello world!
+What's up, guys?
