@@ -3370,6 +3370,3 @@ Good luck friend and have a nice game!
 My name is Liza and I'm happy to be here and to learn something new!
 
 Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
-
-## Hello world!
-What's up, guys?
