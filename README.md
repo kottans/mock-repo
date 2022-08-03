@@ -3039,6 +3039,10 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 My name is Natali. I'm glad to join the community!
 
 
+
+## Hi, mya name is Yaroslava!
+I am happy to be a part of cottans community!
+
 ## Hello, everybody! I'm Oleh.
 Forward to new knowledge!!!
 Good luck with your learning!!!
