@@ -1,7 +1,13 @@
+
 ## Hi, I'm Artem
 And I learn Kottans course with you. Patience and good luck.
 See you at work as FrontEnd Developer!
 [Me repo](https://github.com/IrbisKronos)
+
+#HI!!!!
+
+Have a good day, guys!!!!
+
 
 # Hello Kottans!
 
