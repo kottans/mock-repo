@@ -1,6 +1,3 @@
-﻿
-﻿﻿<h2 align="center">Hi everyone! My name is Rostyslav</h2>
-
 ﻿# Hey there!
 
 
@@ -3043,6 +3040,15 @@ I am [Illia](https://github.com/illyaillya). I`d like to learn frontend and join
 
 My name is Natali. I'm glad to join the community!
 
+
+
+## Hi, mya name is Yaroslava!
+I am happy to be a part of cottans community!
+
+## Hello, everybody! I'm Oleh.
+Forward to new knowledge!!!
+Good luck with your learning!!!
+
 ## Hello, I'm Natalya. Glad to be in this community and reseive new knowledge
 
 ![meow_kottans](./assets/images/meow_kottans.jpg)
@@ -3084,6 +3090,8 @@ My name is [Yuliia](https://github.com/YuliiaDikun) glad to see you!
 ## HI, THERE! My name is Vitaliy
 
 I'm glad to be here!
+
+## Hey!
 
 ## HI, THERE! My name is Aleks. I'm python developer.
 
@@ -3264,12 +3272,6 @@ Let's learn together
 [Ksenia](https://github.com/KseniaZahorodniuk)
 
 I'm happy to be here!
-<<<<<<< HEAD
->>>>>>> master
-=======
->>>>>>> master
-=======
-
 
 
 ## Hi. I am glad to join Kottans Frontend course.
@@ -3341,6 +3343,8 @@ Happy to join the community! 😺
 
 I am Anton. Making first pull-request!
 
+## Hi there!
+I am Dima. Glad to join to team!)
 
 ## Hi Everyone!
 
@@ -3352,4 +3356,11 @@ I am Vlad. Making first pull-request! TNX GUYS!
 I am Alex. And I am happy to study with you
 
 ![go-go-dance](gif/go-go-dance.gif)
->>>>>>> master
+
+## Hello guys!
+
+I'm [Allozavrr](https://github.com/allozavrr).
+Remember that in Internet no one knows that you're a cat =)
+Good luck friend and have a nice game!
+
+![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
