@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Hello!
 My name is Kyryl.
 I want to complete all tasks and go to Stage 1.
@@ -11,7 +10,6 @@ I want to complete all tasks and go to Stage 1.
 </p>
 
 
-=======
 ﻿# Hey there!
 
 
