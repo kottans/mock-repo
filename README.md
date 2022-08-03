@@ -2523,8 +2523,8 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
-## Hi!
+## Hello, everyone!
 
-My name is [Maria](https://github.com/filoxera1409) and I'm very glad to join the community! This is my cat Summer
-[Meow](/mock-repo/assets/images/summer.jpg)
-Thank you for this amazing course!
+My name is [Maria](https://github.com/filoxera1409) and I'm very glad to join the community of Kottans! This is my cat Summer
+![Cat](https://github.com/filoxera1409/mock-repo/blob/firstbranch/assets/images/summer.jpg)
+Thank you for your efforts and this amazing course!
