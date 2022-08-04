@@ -3364,6 +3364,12 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 
 What's up, guys?
 
+<<<<<<< HEAD
 ## Hi friends!
 
 I'm [Dima](https://github.com/Oberiin). Happy to join to this challenge. Let's rock and roll!
+=======
+
+## Test
+That my test
+>>>>>>> master
