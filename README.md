@@ -2702,6 +2702,6 @@ My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although i
 Looking forward to great cooperation! Live long and prosper. 🖖
 
 
-## Hello everyone, my name is [Mykola]
+## Hello everyone
+My name is [Mykola](https://github.com/DeamonFire)
 I am learning Frontend (for now on my own) And from now on together with all of you =)
-https://github.com/DeamonFire
