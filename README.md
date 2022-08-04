@@ -3379,3 +3379,9 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 
 ## Hello world!
 What's up, guys?
+||||||| b2d48a8
+
+
+## Hello Kottans!
+My name is Eugene
+I'm happy to be here!
