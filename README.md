@@ -3372,4 +3372,4 @@ That my test
 
 My name is Vadim and I'm glad to study here. I hope i'll learn a lot of new features due this course.
 
-There is link to my [repository](https://github.com/vadiimvooo)
+There is link to my [acc](https://github.com/vadiimvooo)
