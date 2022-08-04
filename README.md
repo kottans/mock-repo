@@ -1,4 +1,5 @@
 Dasha
+Dasha
 # Warm greetings
 :wave:
 ### Hi there, I'm Dasha
@@ -10,6 +11,10 @@ My github is [DanyaBu](https://github.com/DanyaBu)
 
 Good luck to everybody who is also beginning this challenging journey!
 
+#HI!!!!
+
+Have a good day, guys!!!!
+master
 
 # Hello Kottans!
 
