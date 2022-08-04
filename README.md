@@ -2,6 +2,8 @@
 
 # Hello everyone!
 
+# Hi! My name is Aleks and [here is my repo](https://github.com/ShadePrima/kottans-frontend.git)!
+
 
 # Hi! My name is Yana and [here is my repo](https://github.com/9yasya9/kottans-frontend)!
 
