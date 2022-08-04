@@ -2700,3 +2700,7 @@ I'm glad to join Kottans
 ## Greetings, lady and gentlemen.
 My name is [Viktor](https://github.com/urchnk) and I am a Python dev, although it is never too late to turn into a FullStack.
 Looking forward to great cooperation! Live long and prosper. 🖖
+
+## Hello there. 
+My name is Dima. I'm new in web-dev. 
+Link to my bithub (https://github.com/Saint-Naklz/kottans-frontend).
