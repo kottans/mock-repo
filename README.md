@@ -1,3 +1,7 @@
+# Best wishes from Kharkiv!!!
+My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to learn frontend development.
+
+
 #HI!!!!
 
 Have a good day, guys!!!!
