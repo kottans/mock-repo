@@ -6,13 +6,6 @@ My repo - https://github.com/Khatsur/kottans-frontend
 ![railroad](./assets/images/railroad.jpg)
 
 
-
-# Hello Kottans!
-
-
-# Hey there!
-
-
 # Hello everybody!
 
 My name is Iryna. 
