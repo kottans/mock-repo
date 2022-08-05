@@ -1,3 +1,10 @@
+# Hi there!
+
+## Interesting fact about cats :)
+The whiskers on a cat aren’t just cute, they serve a very important function in assisting cats with getting around, especially at night. Whiskers are embedded deep in the cat’s body and are connected to the cat’s sensitive muscular and nervous systems, acting as touch receptors (or a “kitty radar”). Whiskers allow a cat to detect and respond to changes in their surroundings.
+
+### Here is my [Github](https://github.com/Simplypurr)
+
 # Hi everyone, my name is Dmytro, and I'm probably oldest student here, have a great learn!
 
 #HELLO!!!!
