@@ -3,36 +3,17 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-Hi! It's Pavlo and I learn GitHub.
+Hi! It's Anushavan and I learn GitHub.
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hi,
-
-This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
+Hi, this is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
 [backend](https://github.com/Kottans/backend),
 and [git](https://github.com/Kottans/git-course) courses.
 You can try sending pull-requests to this repository proposing a change.
 The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
 
 *This was an intentionally misspelled phrase*
-
-
-
 
 Tell other kottans a couple of words and add a fancy picture.
 
@@ -87,7 +68,6 @@ My name is Maks. I've started to study the front-end and I am glad to join the c
 Thanks for the course :) I am Luba, and I am extremely excited to be here.
 [![Pixie-and-brutus](./assets/images/pixie-and-brutus.jpeg)]
 
-
 ## Hello Kottnas! :joy_cat:
 My name is Alex! I'm very happy to join the community!
 [![Evangelion Cat](./assets/images/evaCat.png)]
@@ -100,11 +80,9 @@ I'm Sasha and I'm happy to join the community :wink:
 I'm Mitya, going back to learn the frontend, each time gaining more and more knowledge, hopefully, this time it will be event better. So let's do it
 [![Cat hi](https://thesmartcanine.com/wp-content/uploads/2020/02/are-beagles-good-with-cats-min.jpg)
 
-
 ## Hi Kottans ))
 I'm Nataliya and these are my first steps in FrontEnd. I really hope that everyone of us will get his (or her :) ) dream )
 [![Siamese Cat](./assets/images/old_fashioned_siamese_cat_with_amazing_eyes.jpg)](https://github.com/kottans/frontend)
-
 
 ## Hi Kottans community!
 I'm George and I'm beginner in FrontEnd.
@@ -119,20 +97,11 @@ I know that you are than me.
 My name is Taras. I am glad that there is such an opportunity to get on an interesting course and meet nice people.
 [![Kitty cat](./assets/images/kitty_cat.jpg)](https://github.com/kottans/frontend)
 
-
-
-
-
-
-
-
-
 ## Hi Everyone!
 My name is Alexey. I'm happy to join to Kottans comunity!
 I'm an absolute beginner in frontend so it will be an
 interesting experience for me to study with your help and support.
 ![Cat hello](https://img4.goodfon.ru/original/1600x900/b/1c/kot-koshka-ryzhii-portret-1.jpg)
-
 
 # Git and GitHub
 
