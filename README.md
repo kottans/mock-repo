@@ -2796,3 +2796,15 @@ Have a nice day! Ukraine is a capital of great people! 31.07.2022
 ## Hello Kottans!
 My name is Eugene.
 I'm happy to be here!
+
+## Hello, Kottans!## :partying_face:
+i`m Tina.
+I started my coding adventure a year ago.
+Now I want to study it more deeply, because I want to work in this field
+
+:upside_down_face: Make fun in studying :blush: 
+
+My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
+:kissing_cat:
+***meow***
+![nice cat-octopus](./assets/images/image-rendered.png)
