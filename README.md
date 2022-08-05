@@ -3369,3 +3369,14 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 
 ## Hello world!
 What's up, guys?
+
+
+## Hi kottans community!
+
+I'm Alexandr, that's my [repo](https://github.com/iSefero)
+
+![](/assets//images/catWorking.jpg)
+
+***Don't work hard, work intelligence***
+
+Let's go!
