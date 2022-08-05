@@ -1686,10 +1686,8 @@ In case anyone is from **Lviv**, let's keep in touch
 
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> master
+
 ## Hi, my name is Mike. thank you all!
 
 ---
@@ -1813,10 +1811,7 @@ My name is Alex, I got the job-offer for JS developer, that is why I need to fin
 
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> master
 # Hi!
 
 I'm [Viacheslav](https://github.com/ViacheslavIT) and I'm very exciting to join
