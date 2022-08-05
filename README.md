@@ -3381,6 +3381,13 @@ g
 Have a good day and good luck in your studies!
 🖖
 
+
+
+## Oh! Hi! 
+Learned the basic commands for working in the terminal. turned out to be very useful. Now it is necessary to consolidate everything in practice in order to sharpen the speed and store it well in the memory
+
+It will be exciting if everything works out the first time.
+
 ## Hello everybody kottans!
 
 Have a nice day! Ukraine is a capital of great people! 31.07.2022
@@ -3407,7 +3414,6 @@ Let's learn together
 [Ksenia](https://github.com/KseniaZahorodniuk)
 
 I'm happy to be here!
-
 
 
 ## Hi. I am glad to join Kottans Frontend course.
@@ -3492,7 +3498,6 @@ I am Vlad. Making first pull-request! TNX GUYS!
 I am Alex. And I am happy to study with you
 
 ![go-go-dance](gif/go-go-dance.gif)
-
 
 ## Hello guys!
 
