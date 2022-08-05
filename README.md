@@ -52,6 +52,7 @@ Because today we have many courses about deployment in internet. But not all of 
 Great and importand job 👍
 
 Let's continue. Good luck everyone
+
 ![Alt text](/gif/crazy_cat.gif?raw=true "crazy_cat")
 
 Hello! 
