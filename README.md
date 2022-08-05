@@ -3612,6 +3612,11 @@ I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-
 ## Test
 That my test
 
+## Hello everyone!
+
+My name is Vadim and I'm glad to study here. I hope i'll learn a lot of new features due this course.
+
+There is link to my [acc](https://github.com/vadiimvooo)
 
 ## Hello everyone!
 My name's Daria and I'm excited to learn new things from the course. Wish we all complete this challenge :)
