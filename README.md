@@ -1,6 +1,9 @@
 # Hi, kottans ! I`m Max 
 thanks for the awesome course!
 
+
+# Hallo
+
 # Hi! I'm Alona
 [My Git repository](https://github.com/AaLin-Git/kottans-frontend)
 
@@ -77,8 +80,13 @@ I want to complete all tasks and go to Stage 1.
 
 
 #HI!!!!
-
 Have a good day, guys!!!!
+## Ich heiße Nikolas
+I'm a very old guy. Maybe I'm a switcher. But I don't know what kind of switcher. Maybe electromechanical or manual. If you don`t understand me please sorry. It is not me. It is a google translater.
+My repo - https://github.com/Khatsur/kottans-frontend
+![railroad](./assets/images/railroad.jpg)
+
+Mit freundlichen Grüßen
 
 
 # Hello Kottans!
