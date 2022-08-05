@@ -2403,8 +2403,6 @@ My name is [Denis](https://github.com/denismaysov/kottans-frontend.git).
 ## Okay Let`s go
 Hi my name [Oleg](https://github.com/Kelar-r/kottans-frontend.git) BUT IT WAS ME, DIO
 ![Dio](./assets/images/DIO.jpg)
-<<<<<<< HEAD
-=======
 
 ## Hi everyone!
 I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
@@ -2414,4 +2412,3 @@ I'm [Bella](https://github.com/the-darkesttt) and I'm happy to join Kottans!
 ## Hi, Kottans!
 My name is [Dmytro](https://github.com/DmytroMukhin) and thank you for this experience!
 ![Cat art](./assets/images/cat-developer.jpg)
->>>>>>> master
