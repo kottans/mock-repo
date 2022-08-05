@@ -1,3 +1,7 @@
+# Hey cottans community, my name is Oleksandr.
+This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
+
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -3573,6 +3577,12 @@ Here is my [repo](https://github.com/d-pozniak/kottans-frontend), you can check 
 ## Hello everybody
 Всім привіт!
 Пройшла курс "Version control with GIT" на Udacity, потім 2 тижні "Introduction to Git" від Google. Це було моє перше знайомство з Git. Гадаю, добре, що почала саме з Udacity, там метеріал подають більш доступно і наочно.Потім перейшла до learngitbranching, дуже цікаво, ніби вчишся граючись. То була однозначно чудова задумка створити такий сайт) Загалом все зрозуміло. Поки що трохи плутаюсь, але, впевнена, що це через брак практики і з часом в голові все стане на місце. 
+
+## Hi Everyone!
+My name is Natali. I'm glad to join the community!
+
+## Hi Everybody!
+My name is Andriy. I love Javascript!
 
 ## Hello, Kottans cheeks!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
