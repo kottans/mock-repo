@@ -4,12 +4,39 @@ And I learn Kottans course with you. Patience and good luck.
 See you at work as FrontEnd Developer!
 [Me repo](https://github.com/IrbisKronos)
 
+## HELLO, GAYS!
+<h1>HELLO, WORLD! My name is Tony</h1>
+
+# Hello kottans!
+My name is Vlad. Буде цікаво!
+
+<h2 align="center">Hi everyone! My name is Rostyslav</h2>
+Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
+
+
+#Hello!
+My name is Kyryl.
+I want to complete all tasks and go to Stage 1.
+
+[Link](https://github.com/kirill8210/kottans-frontend) to my repo on GitHub.
+
+#My cat is watching me))
+<p>
+![Introduction Sequence](./assets/images/chester.jpg)
+</p>
+
+
+﻿# Hey there!
+
+
 #HI!!!!
 
 Have a good day, guys!!!!
 
 
 # Hello Kottans!
+
 
 
 # Hey there!
@@ -113,6 +140,7 @@ My name is Aleksandr, very glad to join you!
 # Hey there!!
 
 # Hello Kottans!
+My name is Nataliia, i'm glad to be with kottans community
 
 # Hello everyone!
 
@@ -3370,6 +3398,7 @@ I'm [Allozavrr](https://github.com/allozavrr).
 Remember that in Internet no one knows that you're a cat =)
 Good luck friend and have a nice game!
 
+
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
 
 ## Hi everyone!
@@ -3380,3 +3409,52 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 
 ## Hello world!
 What's up, guys?
+    
+## Hello!
+I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-frontend)
+
+## Hello, kottans from your new kitten!
+I am Olga. I`m here to become a front-end developer!
+![hello-from-kitten](./assets/images/cat-hello.jpeg)
+
+## Hello there!
+
+My name is Max. I wish us all to complete this course successfully.
+
+## Hello everyone!!!
+
+I'm glad to be be a part of the community and learn something new)))
+
+## Hi there!
+First of all I need to figure out how markdown works))
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
+Not bad, not bad))
+
+
+## Hi Everyone!
+Here is the link to my [repo](https://github.com/Vladimir-Zubenko/mock-repo)
+
+
+## Hi! Have a nice day!
+It's very usefull and comletely easy to understand course
+
+
+## Hi!
+
+My name is Dima and I'm happy to be here and to learn something new!
+
+Here is the link to my [repo](https://github.com/ChadDmitriy/mock-repo)
+
+## Hello guys!
+
+Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-frontend)
+
+
+## Hello!
+I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-frontend)
+
+## Test
+That my test
