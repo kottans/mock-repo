@@ -1,3 +1,9 @@
+# Hello Kottans!
+
+Привіт! Я Володимир, радий що після 2х днів вивчення Git я нарешті тут. 
+
+# HI!!!!
+
 HI Dear Kottans.
 ##
 My Name is Bogdan and im a cat, I'm trying to figure it out or have already figured it out
