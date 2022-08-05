@@ -1,3 +1,6 @@
+# Hi, kottans ! I`m Max 
+thanks for the awesome course!
+
 # Hi! I'm Alona
 [My Git repository](https://github.com/AaLin-Git/kottans-frontend)
 
