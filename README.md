@@ -1,3 +1,5 @@
+#  ,,,^._.^,,,
+
 # Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
@@ -6,7 +8,7 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-# Hi, kottans ! I`m Max 
+# Hi, kottans ! I`m Max
 thanks for the awesome course!
 
 Hi! My name is Svyat
@@ -30,7 +32,7 @@ My name is Iryna. Here to dive into frontend.
 
 # Hello Kottans!
 
-Привіт! Я Володимир, радий що після 2х днів вивчення Git я нарешті тут. 
+Привіт! Я Володимир, радий що після 2х днів вивчення Git я нарешті тут.
 
 # HI!!!!
 
@@ -71,7 +73,7 @@ See you at work as FrontEnd Developer!
 My name is Vlad. Буде цікаво!
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
-Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
 
@@ -3349,8 +3351,8 @@ Looking forward to great cooperation! Live long and prosper. 🖖
 My name is [Mykola](https://github.com/DeamonFire)
 I am learning Frontend (for now on my own) And from now on together with all of you =)
 
-## Hello there. 
-My name is Dima. I'm new in web-dev. 
+## Hello there.
+My name is Dima. I'm new in web-dev.
 Link to my bithub (https://github.com/Saint-Naklz/kottans-frontend).
 
 
@@ -3387,7 +3389,7 @@ Have a good day and good luck in your studies!
 
 
 
-## Oh! Hi! 
+## Oh! Hi!
 Learned the basic commands for working in the terminal. turned out to be very useful. Now it is necessary to consolidate everything in practice in order to sharpen the speed and store it well in the memory
 
 It will be exciting if everything works out the first time.
@@ -3542,13 +3544,13 @@ Let's go!
 How are you?
 
 ## Hello Kottans!
-Hi, my name is Oleksandr. I am very pleased to start this course. 
+Hi, my name is Oleksandr. I am very pleased to start this course.
 
 
 ## Hello Kottans
 
 My name is [Ihor](https://github.com/AsaMitaka/kottans-frontend)
-    
+
 ## Hello!
 I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-frontend)
 
@@ -3628,7 +3630,7 @@ Here is my [repo](https://github.com/d-pozniak/kottans-frontend), you can check 
 
 ## Hello everybody
 Всім привіт!
-Пройшла курс "Version control with GIT" на Udacity, потім 2 тижні "Introduction to Git" від Google. Це було моє перше знайомство з Git. Гадаю, добре, що почала саме з Udacity, там метеріал подають більш доступно і наочно.Потім перейшла до learngitbranching, дуже цікаво, ніби вчишся граючись. То була однозначно чудова задумка створити такий сайт) Загалом все зрозуміло. Поки що трохи плутаюсь, але, впевнена, що це через брак практики і з часом в голові все стане на місце. 
+Пройшла курс "Version control with GIT" на Udacity, потім 2 тижні "Introduction to Git" від Google. Це було моє перше знайомство з Git. Гадаю, добре, що почала саме з Udacity, там метеріал подають більш доступно і наочно.Потім перейшла до learngitbranching, дуже цікаво, ніби вчишся граючись. То була однозначно чудова задумка створити такий сайт) Загалом все зрозуміло. Поки що трохи плутаюсь, але, впевнена, що це через брак практики і з часом в голові все стане на місце.
 
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
