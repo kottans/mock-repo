@@ -3523,7 +3523,6 @@ Have a good day, guys!!!!
 ## Hello world!
 What's up, guys?
 
-<<<<<<< HEAD
 
 ## Hi kottans community!
 
@@ -3534,7 +3533,7 @@ I'm Alexandr, that's my [repo](https://github.com/iSefero)
 ***Don't work hard, work intelligence***
 
 Let's go!
-=======
+
 ## Hello!
 How are you?
 
@@ -3634,4 +3633,3 @@ My name is Andriy. I love Javascript!
 
 ## Hello, Kottans cheeks!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
->>>>>>> master
