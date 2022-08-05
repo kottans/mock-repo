@@ -5,6 +5,9 @@
 # Hi, kottans ! I`m Max 
 thanks for the awesome course!
 
+Hi! My name is Svyat
+It`s amazing to study with cotans
+
 
 # Hallo
 
