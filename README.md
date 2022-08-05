@@ -1,3 +1,7 @@
+[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
+[![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
+[![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
+
 # Hi, kottans ! I`m Max 
 thanks for the awesome course!
 
@@ -3528,6 +3532,14 @@ It's very usefull and comletely easy to understand course
 My name is Dima and I'm happy to be here and to learn something new!
 
 Here is the link to my [repo](https://github.com/ChadDmitriy/mock-repo)
+
+## Hello Kottans!
+My name is [Dmitry](https://github.com/martoff1980).
+I'm happy to be here!
+
+## Hi, everyone.
+My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
+![Cat](./assets/images/stupid_cat.jpg)
 
 ## Hello guys!
 
