@@ -3421,6 +3421,9 @@ Have a good day, guys!!!!
 ## Hello world!
 What's up, guys?
 
+## Hello Kottans!
+Hi, my name is Oleksandr. I am very pleased to start this course. 
+
 
 ## Hello Kottans
 
