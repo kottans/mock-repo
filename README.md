@@ -84,6 +84,9 @@ Good luck everyone :raised_hands:
 
 # Hey there!
 
+# Hi! My name is Aleks and [here is my repo](https://github.com/ShadePrima/kottans-frontend.git)!
+
+
 
 # Hello everybody!
 
