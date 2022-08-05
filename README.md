@@ -1,4 +1,33 @@
+# Hello kottans!
+My name is Vlad. Буде цікаво!
+
+<h2 align="center">Hi everyone! My name is Rostyslav</h2>
+Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
+This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
+
+
+#Hello!
+My name is Kyryl.
+I want to complete all tasks and go to Stage 1.
+
+[Link](https://github.com/kirill8210/kottans-frontend) to my repo on GitHub.
+
+#My cat is watching me))
+<p>
+![Introduction Sequence](./assets/images/chester.jpg)
+</p>
+
+
+﻿# Hey there!
+
+
+#HI!!!!
+
+Have a good day, guys!!!!
+
+
 # Hello Kottans!
+
 
 
 # Hey there!
@@ -3370,6 +3399,38 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 ## Hello world!
 What's up, guys?
 
+
 ## Hello everyone!!!
 
 I'm glad to be be a part of the community and learn something new)))
+
+## Hi there!
+First of all I need to figure out how markdown works))
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
+Not bad, not bad))
+
+
+## Hi Everyone!
+Here is the link to my [repo](https://github.com/Vladimir-Zubenko/mock-repo)
+
+
+## Hi! Have a nice day!
+It's very usefull and comletely easy to understand course
+
+
+## Hi!
+
+My name is Dima and I'm happy to be here and to learn something new!
+
+Here is the link to my [repo](https://github.com/ChadDmitriy/mock-repo)
+
+## Hello guys!
+
+Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-frontend)
+
+
+## Test
+That my test
