@@ -18,7 +18,6 @@ I want to complete all tasks and go to Stage 1.
 # Hey there!
 
 
-
 # Hello everybody!
 
 My name is Iryna. 
@@ -306,7 +305,6 @@ I wish everyone to have a lot of practice and fun :)
 
 This is my [repo](https://github.com/yhorodechna/kottans-frontend.git).
 
->>>>>>> master
 ##Hello World
 I am Artem good luck
 
