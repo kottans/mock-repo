@@ -3,16 +3,14 @@
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
-<<<<<<< HEAD
+
 Hi! My name is Svyat
 It`s amazing to study with cotans
-=======
 
 
 <h1 align="center">Hello, I'm Volodymyr </h1>
 <p> I'm glad to join the kottans community. Happy studying. </p>
 [github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
->>>>>>> master
 
 #Hi! I'm Anna. I am incredibly excited to study with Kottans.
 
