@@ -371,7 +371,8 @@ Glory to AFU!
 
 # Hello Kottans!
 
-**_My name is Natalia_**
+# Hello Kottans!
+***My name is Natalia***
 
 Fortunatelly I discovered **_Kottans_** on dou.ua, and now I'm here with you whether you like it or not :-P
 
@@ -386,6 +387,8 @@ Very happy to be part of your community. <br>
 
 # Hi kottans! I'm Konstiantyn and i will work for you soon
 
+
+# Hi kottans! I'm Konstiantyn and i will work for you soon
 
 ## Hello!
 
@@ -3024,6 +3027,9 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 
 ## Hi, there! It's Andre Masko onboard!
 
+
+Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
+
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello, friends!
@@ -3228,9 +3234,19 @@ I'm [Yaroslav](https://github.com/ceruleanlights). I'm happy to be here.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=35&color=34D8FB&center=true&vCenter=true&multiline=true&height=350&lines=Hi+everyone!!!;Nice+to+meet+you!;I'm+Roman)](https://git.io/typing-svg)
 
+
+
+## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
+
+
+## Hello! I'm Steve!
+Thanks for good opportunity to join in progressive learning of front-end !
+My [GitHub](https://github.com/serentinos) :)
+
 ## Hello, Kottans! I'm excited to join the community and to start front-end 2022 course! Link to my course repo in GitHub is [here](https://github.com/maks-n/kottans-frontend). Peace :)
 
 ## Hello! I'm Steve!
+
 
 Thanks for good opportunity to join in progressive learning of front-end !
 My [GitHub](https://github.com/serentinos) :)
@@ -3268,6 +3284,11 @@ My name is Eugene. My [github](https://github.com/expero1)
 ## Hi my name is Anastasia😺😺
 
 I am very glad that I have the opportunity to take this course. Already from the first task I learned a lot of new information😻
+
+## Hello! My name is Natalia. Nice to meet you!
+I'm very excited to join your community!
+My [GitHub](https://github.com/nvgudz/).
+![KuzjaCat](./assets/images/kuzja_cat.jpg)
 
 ## Hello, Kottans! I'm Vasyl!
 
