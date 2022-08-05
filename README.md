@@ -1,3 +1,5 @@
+# Best wishes from Kharkiv!!!
+My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to learn frontend development.
 
 ## Hi, I'm Artem
 And I learn Kottans course with you. Patience and good luck.
