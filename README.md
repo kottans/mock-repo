@@ -3374,12 +3374,12 @@ Have a good day and good luck in your studies!
 🖖
 g
 ## Добрий день everybody!
-|Feature|Description|
-|---    |---        |
-|Name|Alex|
-|Age|32 year|
-|Image| ![Cat Alex](./assets/images/alex_paradox.jpg)|
-|Greeting|**My best wishes for all kottans**|
+| Feature  | Description                                   |
+| -------- | --------------------------------------------- |
+| Name     | Alex                                          |
+| Age      | 32 year                                       |
+| Image    | ![Cat Alex](./assets/images/alex_paradox.jpg) |
+| Greeting | **My best wishes for all kottans**            |
 
 
 ## Hello everyone
@@ -3644,3 +3644,6 @@ My name is Andriy. I love Javascript!
 
 ## Hello, Kottans cheeks!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
+
+
+## Hello. My name is Tetiana. I am glad to join you
