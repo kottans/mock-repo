@@ -3546,6 +3546,16 @@ My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
 Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-frontend)
 
 
+## Hi, everybody !
+My name is [Ignat](https://github.com/CivilBitc4) and I'm happy to join this community!Thank you for this opportunity to be a part of this community.
+I hope that I and all  Kottans will be able to achieve good results in studying)
+![Kitten](./assets/images/my-cute-kitten.jpg)
+-----------------------------------
+
+
+Hi I'm Yuriy from Ukraine!
+It's good lesson! Have a good day guys! My git https://github.com/Yuriy856
+
 ## Hello!
 I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-frontend)
 
