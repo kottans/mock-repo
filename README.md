@@ -1,3 +1,6 @@
+# Hi there
+My name is Iryna. Here to dive into frontend.
+
 # Hello Kottans!
 
 Привіт! Я Володимир, радий що після 2х днів вивчення Git я нарешті тут. 
