@@ -3492,3 +3492,6 @@ I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-
 
 ## Test
 That my test
+
+## Hello, Kottans cheeks!
+I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
