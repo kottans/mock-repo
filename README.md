@@ -3374,7 +3374,6 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 ## Hello world!
 What's up, guys?
 
-Dpavlov99_branch
 ## Hello guys!
 
 Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-frontend)
@@ -3382,4 +3381,3 @@ Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-fronten
 
 ## Test
 That my test
-master
