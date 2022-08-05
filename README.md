@@ -3377,12 +3377,9 @@ What's up, guys?
 
 ## Test
 That my test
-<<<<<<< HEAD
 
 ## Hello everyone!
 
 My name is Vadim and I'm glad to study here. I hope i'll learn a lot of new features due this course.
 
 There is link to my [acc](https://github.com/vadiimvooo)
-=======
->>>>>>> parent of 4135968 (Changes to README.md)
