@@ -3581,6 +3581,10 @@ Here is my [repo](https://github.com/d-pozniak/kottans-frontend), you can check 
 ## Hi Everyone!
 My name is Natali. I'm glad to join the community!
 
+## Hi Kottans!
+My name is [Viacheslav](https://github.com/SivashFrontEnd)! I'm very happy to join the community! Good luck everyone!
+![Cat](./assets/images/300.png)
+
 ## Hi Everybody!
 My name is Andriy. I love Javascript!
 
