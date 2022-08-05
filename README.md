@@ -3400,6 +3400,10 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 What's up, guys?
 
 
+## Hello everyone!!!
+
+I'm glad to be be a part of the community and learn something new)))
+
 ## Hi there!
 First of all I need to figure out how markdown works))
 # The largest heading
