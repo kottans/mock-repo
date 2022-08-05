@@ -5,6 +5,13 @@ I'm a very old guy. Maybe I'm a switcher. But I don't know what kind of switcher
 My repo - https://github.com/Khatsur/kottans-frontend
 ![railroad](./assets/images/railroad.jpg)
 
+Mit freundlichen Grüßen
+
+# Hello Kottans!
+
+
+# Hey there!
+
 
 # Hello everybody!
 
