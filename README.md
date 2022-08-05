@@ -38,6 +38,9 @@ Have a good day, guys!!!!
 # Hello Kottans!
 
 
+## Hi there!
+Good luck everyone :raised_hands:
+
 
 # Hey there!
 
@@ -74,7 +77,7 @@ I used to have some experience with Git, but that wasn't enough. This course and
 
 ## Hello!
 
-My name is Mila. I want to become a front-end developer one day:) Wish ypu all good luck here!
+My name is Mila. I want to become a front-end developer one day:) Wish you all good luck here!
 
 Hello!
 
