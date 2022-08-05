@@ -1,3 +1,10 @@
+HI Dear Kottans.
+##
+My Name is Bogdan and im a cat, I'm trying to figure it out or have already figured it out
+##
+##
+##
+
 # Hi there!
 
 ## Interesting fact about cats :)
