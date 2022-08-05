@@ -1,3 +1,23 @@
+#Hello!
+My name is Kyryl.
+I want to complete all tasks and go to Stage 1.
+
+[Link](https://github.com/kirill8210/kottans-frontend) to my repo on GitHub.
+
+#My cat is watching me))
+<p>
+![Introduction Sequence](./assets/images/chester.jpg)
+</p>
+
+
+﻿# Hey there!
+
+
+#HI!!!!
+
+Have a good day, guys!!!!
+
+
 # Hello Kottans!
 
 
@@ -3370,8 +3390,17 @@ Here is the link to my [repo](https://github.com/lisakuchmenko/kottans-frontend)
 ## Hello world!
 What's up, guys?
 
+
 ## Hi!
 
 My name is Dima and I'm happy to be here and to learn something new!
 
 Here is the link to my [repo](https://github.com/ChadDmitriy/mock-repo)
+
+## Hello guys!
+
+Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-frontend)
+
+
+## Test
+That my test
