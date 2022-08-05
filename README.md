@@ -4,6 +4,8 @@
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
 
 Hi! It's Anushavan and I learn GitHub.
+I remember the time when we - me and my friends make a party!
+
 I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
