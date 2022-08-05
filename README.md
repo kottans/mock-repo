@@ -2358,7 +2358,6 @@ I hope that I and all  Kottans will be able to achieve good results in studying)
 
 Hi I'm Yuriy from Ukraine!
 It's good lesson! Have a good day guys! My git https://github.com/Yuriy856
-=======
 
 
 ## Hello there! My name is [Serge](https://github.com/Serge044) and thats my commit ;)
