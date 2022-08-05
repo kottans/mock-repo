@@ -3408,6 +3408,9 @@ What's up, guys?
 ## Hello!
 I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-frontend)
 
+## Hello, kottans from your new kitten!
+I am Olga. I`m here to become a front-end developer!
+![hello-from-kitten](./assets/images/cat-hello.jpeg)
 
 ## Hello there!
 
