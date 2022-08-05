@@ -3436,5 +3436,9 @@ Here is the link to my [repo](https://github.com/ChadDmitriy/mock-repo)
 Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-frontend)
 
 
+## Hello!
+I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-frontend)
+
 ## Test
 That my test
+
