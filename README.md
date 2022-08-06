@@ -9,7 +9,9 @@ I'm happy to be with kottans
 
 
 
-
+## Hello
+I'm Vasyl. I'm from Lviv.Thanks kottans for organizing such courses. Good luck to everyone!
+![image cat](./gif/kotans.gif)
 
 
 
@@ -2323,7 +2325,7 @@ My name is [Alexei](https://github.com/AlexeiGladkov) and I'm happy to join this
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
 ## Hello everyone! Sonia is here!
-I am very happy to see you all here! 
+I am very happy to see you all here!
 Good luck, have fun and don't forget to practice coding every day <3
 
 
@@ -2344,7 +2346,7 @@ I'm first time working with GitHub, its so fresh & cool expirience!!!
 
 ---------------------------------
 # Hello ~~World~~ Kottans
-My name is Illia. 
+My name is Illia.
 Hope this kitty will grow up together with improving my programing skills
 
 ![kitty](./assets/images/koshak.jpg)
