@@ -11,6 +11,9 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 # Hi, kottans ! I`m Max
 thanks for the awesome course!
 
+
+Hi,
+
 Hi! My name is Svyat
 It`s amazing to study with cotans
 
@@ -54,6 +57,9 @@ The whiskers on a cat aren’t just cute, they serve a very important function i
 
 #HELLO!!!!
 
+
+*This phrase was an intentionally misspelled.*
+
 My name is Denis.
 
 I want to become Frontend Developer.
@@ -65,6 +71,7 @@ My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to l
 And I learn Kottans course with you. Patience and good luck.
 See you at work as FrontEnd Developer!
 [Me repo](https://github.com/IrbisKronos)
+
 
 ## HELLO, GAYS!
 <h1>HELLO, WORLD! My name is Tony</h1>
@@ -92,12 +99,23 @@ I want to complete all tasks and go to Stage 1.
 ﻿# Hey there!
 
 
+## Hi there, I'm Stella!
+![Сміливий котик](https://cdn.abo.media/upload/article/res/770-430/o_1fvlg5oeb1gvq1v4rruvaq4gpccj.jpg)
+_*I wish everyone inspiration and endurance.*
+____
+## Hi, I'm Masha
+Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
+![The cat bangs its head against the laptop](https://media1.giphy.com/media/11dR2hEgtN5KoM/giphy.gif?cid=790b7611bd38c655d9754122a87f56905d33fb000fb27494&rid=giphy.gif&ct=g)
+
+## Hi, I'm Armen!
+
 #HI!!!!
 Have a good day, guys!!!!
 ## Ich heiße Nikolas
 I'm a very old guy. Maybe I'm a switcher. But I don't know what kind of switcher. Maybe electromechanical or manual. If you don`t understand me please sorry. It is not me. It is a google translater.
 My repo - https://github.com/Khatsur/kottans-frontend
 ![railroad](./assets/images/railroad.jpg)
+
 
 Mit freundlichen Grüßen
 
