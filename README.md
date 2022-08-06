@@ -3624,6 +3624,7 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
-# Hi, everybody!
+## Hi, everybody!
 My name Lussi. I start to study
-My repo: https://github.com/lussi-gubska
+Here is [My reposite](https://github.com/lussi-gubska)
+
