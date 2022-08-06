@@ -3644,3 +3644,5 @@ My name is Andriy. I love Javascript!
 
 ## Hello, Kottans cheeks!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
+##Good day, everybody
+My name is Roma, and I`m happy that studying git!!
