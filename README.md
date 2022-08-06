@@ -1,3 +1,6 @@
+# Hello GitHub
+It's my first time, so please be gentle, Git))
+
 #  ,,,^._.^,,,
 
 # Hey cottans community, my name is Oleksandr.
