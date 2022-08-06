@@ -49,6 +49,10 @@ Glad to join to the community)
 ![Excited cat](https://www.meme-arsenal.com/memes/aa4bcbdd3663951801bae2d4fb1a1d0a.jpg)
 
 
+## Hi there, I'm Stella!
+![Сміливий котик](https://cdn.abo.media/upload/article/res/770-430/o_1fvlg5oeb1gvq1v4rruvaq4gpccj.jpg)
+_*I wish everyone inspiration and endurance.*
+____
 ## Hi, I'm Masha
 Thank you for this opportunity to be a part of this community and learn intersting stuff. This cat is like me when I'm working on bugs in my code. Good luck!
 ![The cat bangs its head against the laptop](https://media1.giphy.com/media/11dR2hEgtN5KoM/giphy.gif?cid=790b7611bd38c655d9754122a87f56905d33fb000fb27494&rid=giphy.gif&ct=g)
