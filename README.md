@@ -3530,21 +3530,26 @@ I'm Dima. I'm happy to be here. My [repo]https://github.com/bulbasaur-d/kottans-
 That my test
 
 
-# Kottans-frontend
+# Hello, Kottans!
 
-<p> Hello! My name is Tania. I want to be a Frontend developer. I hope that this course helps me to achieve the goal. </p>
+Hello! My name is Tania. I want to be a Frontend developer. I hope that this course helps me to achieve the goal.
 
-____
 
 ## Git Basics
 
-<p> I studied the materials of the course Introduction to Git and GitHub on Coursera.</p> 
-<p> Before I used some basic Git's comands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
+I studied the materials of the course Introduction to Git and GitHub on Coursera.
+
+
+Before I used some basic Git's comands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
+
  		* prehistory of creating VCS
  		* detailed information about the basic Git workflow (when in each repository we have a Git directory, a working tree, and a staging area) 
  		* pull requests. 
-<p> Then I had some practice in the learngitbranching.js.org (basis and Push & Pull - remote repositories in Git!). These tasks were very usefull to understanding how the git works.</p>
-<p> So in the future I'll be used git in my projects.</p>	
+
+Then I had some practice in the learngitbranching.js.org (basis and Push & Pull - remote repositories in Git!). These tasks were very usefull to understanding how the git works.
+
+
+So in the future I'll be used git in my projects.
 
 
 ## Hello everyone!
