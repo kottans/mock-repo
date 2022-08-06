@@ -1068,7 +1068,6 @@ while (true) {
 }
 ```
 
-
 ## Ooops! File changed. This line can be removed.
 
 ##Hello! I'm Anton! I'm so happy to be in your team.
@@ -1825,6 +1824,7 @@ In case anyone is from **Lviv**, let's keep in touch
 ---
 
 
+
 ## Hi, my name is Mike. thank you all!
 
 ---
@@ -2060,10 +2060,10 @@ Hi everybody!
 
 I'm [Igor](http://netcode.pro) and will be glad to join your community!
 
+
 ## Hello, Kottans!
 
 I am [Max](https://github.com/ms76adf1). Nice to meet you, guys!
-
 ![Cat](assets/images/cat.jpeg)
 
 ## Hello, Kottans!
@@ -2122,8 +2122,6 @@ My name is [Sasha](https://github.com/askuznetsov) Nice to study with you :)
 ## I am glad!
 
 Best regards, [Alex](https://github.com/AlexPoliakov).
-
----
 
 ---
 
@@ -3056,6 +3054,11 @@ Thank you for this opportunity to be a part of this community and learn intersti
 
 Thank you for this opportunity to be a part of this community and learn intersting stuff. Good luck for all learners!
 
+## Hello, everyone!
+
+My name is [Maria](https://github.com/filoxera1409) and I'm very glad to join the community of Kottans! This is my cat Summer
+![Cat](https://github.com/filoxera1409/mock-repo/blob/firstbranch/assets/images/summer.jpg)
+Thank you for your efforts and this amazing course!
 ## Hello, friends!
 
 My name is [Liza](https://github.com/LizaKind07) and I'm happy to join this community!
