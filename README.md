@@ -3107,6 +3107,12 @@ I hope that I and all Kottans will be able to achieve good results in studying)
 My name is [Yaroslav](https://github.com/forestman-zt-ua).
 I'm happy to be here!
 
+
+## Hello Kottans!
+My name is EUGENE.
+I'm happy to be here!
+
+
 ## Hi, everyone.
 
 My name is [Bohdan](https://github.com/BohdanViniarskyi/kottans-frontend).
@@ -3650,3 +3656,8 @@ I'm happy to be here
 
 ## Hello, Kottans cheeks!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
+
+
+## Hello Kottans!
+My name is Eugene
+I'm happy to be here!
