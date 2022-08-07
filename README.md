@@ -3695,3 +3695,8 @@ I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
 
 ## Hello. My name is Nazarii. I am glad to join you
+
+## Hello Kottans!
+
+My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to join kottans community!
+![img](../assets/images/Masja.png)
