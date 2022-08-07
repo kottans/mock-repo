@@ -743,10 +743,6 @@ You can find me on [linkedin](https://www.linkedin.com/in/dm-poliuha/), or on [g
 
 ![dima](gif/giphy-hi.gif)
 
-# Hello! guys!
-My name is Ivan. Glory to Ukraine!
-Welcome my repo. [Here it is](https://github.com/ivanb24/mock-repo.git), by the way.
-
 # Hello, Kottans!
 
 ## I'm so happy to be here!
