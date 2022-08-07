@@ -1,3 +1,12 @@
+
+
+# Hello Kottans!
+
+Hello! My name is Evgen. I have previously taken web front-end development courses,
+ I hope to learn something interesting from these courses 
+My repo :(https://github.com/Evgen097/kottans-frontend)
+
+
 #HI!!!!
 
 Have a good day, guys!!!!
