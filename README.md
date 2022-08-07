@@ -3542,6 +3542,10 @@ Good luck friend and have a nice game!
 
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
 
+
+# Hello everyone!
+I'm Max. And I enjoy learning new things!
+
 ## Hi everyone!
 
 My name is Liza and I'm happy to be here and to learn something new!
@@ -3634,7 +3638,6 @@ Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-fronten
 My name is [Ignat](https://github.com/CivilBitc4) and I'm happy to join this community!Thank you for this opportunity to be a part of this community.
 I hope that I and all  Kottans will be able to achieve good results in studying)
 ![Kitten](./assets/images/my-cute-kitten.jpg)
------------------------------------
 
 
 Hi I'm Yuriy from Ukraine!
@@ -3723,3 +3726,7 @@ My  [repository](https://github.com/LiliaBilous)
 ## Hi, Everybody!
 My name Oksana.
 My  [repository](https://github.com/KsanaSal).
+
+## Hello, Kottans!
+My name is Helen (https://github.com/Alissy27)
+
