@@ -1,3 +1,7 @@
+﻿# Hello everyone!
+My name is Yevheniia. Happy to be here:)
+Good luck to all of you!
+
 # Hi! I'm Alona
 [My Git repository](https://github.com/AaLin-Git/kottans-frontend)
 
