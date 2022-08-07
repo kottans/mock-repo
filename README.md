@@ -3670,6 +3670,7 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
+
 ## Hey! Strength and patience to all!
 
 
@@ -3678,3 +3679,16 @@ I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am wi
 
 ## Hello! <br>
 My name is **Yevhen**. I'm glad to join you. It is my third time to try pass kottans. I'm persistent. So let's go!
+
+## Hi! my name is Yevhen.
+
+
+## Hi, Everybody!
+My name Lussi.
+My  [repository](https://github.com/lussi-gubska).
+
+### :wave: Hi there )
+I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
+
+
+## Hello. My name is Nazarii. I am glad to join you
