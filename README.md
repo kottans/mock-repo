@@ -3367,9 +3367,3 @@ What's up, guys?
 ## Test
 
 That my test
-
-## Hi!
-
-I'm Pasha.
-Glad to be a part of the community!
-ヽ(=^･ω･^=)丿
