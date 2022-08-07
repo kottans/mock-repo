@@ -1,3 +1,11 @@
+# :sparkles: Hello, Kottans! :sparkles:
+
+[I'm](https://github.com/galaxxyz) happy to join! And I wish everyone purrrfect code, cool cats!
+
+=(^.^)=
+
+:love_letter::heart::smile_cat::mechanical_arm::woman_technologist:
+
 # Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
