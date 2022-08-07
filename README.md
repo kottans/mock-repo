@@ -1,5 +1,4 @@
-HEAD
-﻿# Hello everyone!
+# Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
 
@@ -27,7 +26,6 @@ It`s amazing to study with cotans
 
 
 # Hallo
-master
 
 # Hi! I'm Alona
 [My Git repository](https://github.com/AaLin-Git/kottans-frontend)
