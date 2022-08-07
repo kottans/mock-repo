@@ -1,3 +1,7 @@
+# Hello everyone!
+My name is Yevheniia. Happy to be here:)
+Good luck to all of you!
+
 # Hello GitHub
 It's my first time, so please be gentle, Git))
 
@@ -3675,7 +3679,6 @@ I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am wi
 
 
 ## Hello. My name is Tetiana. I am glad to join you
-
 
 ## Hello! <br>
 My name is **Yevhen**. I'm glad to join you. It is my third time to try pass kottans. I'm persistent. So let's go!
