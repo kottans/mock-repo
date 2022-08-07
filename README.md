@@ -3652,6 +3652,28 @@ My name is Vadim and I'm glad to study here. I hope i'll learn a lot of new feat
 
 There is link to my [acc](https://github.com/vadiimvooo)
 
+# Hello, Kottans!
+
+Hello! My name is Tania. I want to be a Frontend developer. I hope that this course helps me to achieve the goal.
+
+
+## Git Basics
+
+I studied the materials of the course Introduction to Git and GitHub on Coursera.
+
+
+Before I used some basic Git's comands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
+
+ 		* prehistory of creating VCS
+ 		* detailed information about the basic Git workflow (when in each repository we have a Git directory, a working tree, and a staging area)
+ 		* pull requests.
+
+Then I had some practice in the learngitbranching.js.org (basis and Push & Pull - remote repositories in Git!). These tasks were very usefull to understanding how the git works.
+
+
+So in the future I'll be used git in my projects.
+
+
 ## Hello everyone!
 My name's Daria and I'm excited to learn new things from the course. Wish we all complete this challenge :)
 Here is my [repo](https://github.com/d-pozniak/kottans-frontend), you can check it out.
@@ -3674,7 +3696,6 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
-
 ## Hey! Strength and patience to all!
 
 
@@ -3695,6 +3716,11 @@ I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
 
 ## Hello. My name is Nazarii. I am glad to join you
+
+## Hi, Everybody!
+My name Oksana.
+My  [repository](https://github.com/KsanaSal).
+
 
 ## Hello Kottans!
 
