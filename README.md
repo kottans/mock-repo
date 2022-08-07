@@ -3670,10 +3670,16 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
+
 ## Hey! Strength and patience to all!
 
 
 ## Hello. My name is Tetiana. I am glad to join you
+
+
+## Hi, Everybody!
+My name Lussi.
+My  [repository](https://github.com/lussi-gubska).
 
 ### :wave: Hi there )
 I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
