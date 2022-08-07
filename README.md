@@ -1,3 +1,7 @@
+# Hello everyone!
+My name is Yevheniia. Happy to be here:)
+Good luck to all of you!
+
 # Hello GitHub
 
 It's my first time, so please be gentle, Git))
@@ -3537,6 +3541,10 @@ Good luck friend and have a nice game!
 
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
 
+
+# Hello everyone!
+I'm Max. And I enjoy learning new things!
+
 ## Hi everyone!
 
 My name is Liza and I'm happy to be here and to learn something new!
@@ -3657,6 +3665,28 @@ My name is Vadim and I'm glad to study here. I hope i'll learn a lot of new feat
 
 There is link to my [acc](https://github.com/vadiimvooo)
 
+# Hello, Kottans!
+
+Hello! My name is Tania. I want to be a Frontend developer. I hope that this course helps me to achieve the goal.
+
+
+## Git Basics
+
+I studied the materials of the course Introduction to Git and GitHub on Coursera.
+
+
+Before I used some basic Git's comands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
+
+ 		* prehistory of creating VCS
+ 		* detailed information about the basic Git workflow (when in each repository we have a Git directory, a working tree, and a staging area)
+ 		* pull requests.
+
+Then I had some practice in the learngitbranching.js.org (basis and Push & Pull - remote repositories in Git!). These tasks were very usefull to understanding how the git works.
+
+
+So in the future I'll be used git in my projects.
+
+
 ## Hello everyone!
 
 My name's Daria and I'm excited to learn new things from the course. Wish we all complete this challenge :)
@@ -3689,5 +3719,38 @@ I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am wi
 ## Hello. My name is Tetiana. I am glad to join you
 
 ## Hi Everyone!
-
 My name is [Lena](https://github.com/ElenaRiabova/kottans-frontend). Happy to be here :)
+
+## Hello! <br>
+My name is **Yevhen**. I'm glad to join you. It is my third time to try pass kottans. I'm persistent. So let's go!
+
+## Hi! my name is Yevhen.
+
+
+## Hi, Everybody!
+My name Lussi.
+My  [repository](https://github.com/lussi-gubska).
+
+### :wave: Hi there )
+I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
+
+
+## Hello. My name is Nazarii. I am glad to join you
+
+
+## Hello. My name is Oleksandr.
+[Oleksandr](https://github.com/sai7602)
+
+## Hi, Everybody!
+My name Oksana.
+My  [repository](https://github.com/KsanaSal).
+
+
+## Hello Kottans!
+
+My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to join kottans community!
+![img](../assets/images/Masja.png)
+
+## Hello, Kottans!
+My name is Helen (https://github.com/Alissy27)
+
