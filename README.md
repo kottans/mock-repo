@@ -1,3 +1,7 @@
+Hi!
+My name is Kostiantyn Rakhmanov.
+Happy to be part of Kottans Community!
+
 Hello! I'm Olga. 
 Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
