@@ -1,3 +1,9 @@
+Hello! I'm Olga. 
+Github is a new theme for me.
+I hope to be able to solve the tasks in this level and move on to the next one!
+I wish you all a good day, success in your studies, thank you Kottans!
+
+
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams. 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
