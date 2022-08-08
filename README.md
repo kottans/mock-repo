@@ -3787,6 +3787,9 @@ My name is Helen (https://github.com/Alissy27)
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
 
+## Hi, Kottans!
+<h1> Hi, everyone. My name is Kostia! </h1>
+
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 ## Whoever reading this, I wish you luck) 
 
