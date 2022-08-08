@@ -3736,3 +3736,8 @@ My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to jo
 
 ## Hello, Kottans!
 My name is Helen (https://github.com/Alissy27)
+
+## (=◉ᆽ◉=) .git/config
+also known as
+cat .git/config
+is a useful command by the way
