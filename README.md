@@ -3751,3 +3751,9 @@ My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to jo
 
 ## Hello, Kottans!
 My name is Helen (https://github.com/Alissy27)
+
+
+## Hi, Kottans!
+### I'm Valentyn. 
+My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
+:round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
