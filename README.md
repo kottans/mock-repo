@@ -3587,6 +3587,17 @@ Have a good day, guys!!!!
 What's up, guys?
 
 
+# Hello kottans-frontend!
+
+My name is Vladimir, I'm glad to join this course.
+
+This is my first communication on github.
+
+Here is the [link] to my repo on GitHub (https://github.com/ksevld/kottans-frontend)
+
+> *I love dogs more, but I'm with you anyway.* :smile:
+
+
 ## Hi kottans community!
 
 I'm Alexandr, that's my [repo](https://github.com/iSefero)
@@ -3771,3 +3782,4 @@ My name is Helen (https://github.com/Alissy27)
 ### I'm Valentyn. 
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
+
