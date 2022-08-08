@@ -1,3 +1,11 @@
+# Hi there!
+I'm Valeriy.
+
+Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
+
+Good luck in your studies!
+
+
 # Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
