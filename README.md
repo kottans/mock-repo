@@ -1,5 +1,7 @@
 Hello! I'm Olga. 
 Github is a new theme for me.
+I hope to be able to solve the tasks in this level and move on to the next one!
+Good luck, have a good day, success in your studies, thank you Kottans!
 
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
