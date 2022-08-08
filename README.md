@@ -3376,6 +3376,6 @@ My name is Vladimir, I'm glad to join this course.
 
 This is my first communication on github.
 
-Here is the link to my [repo](https://github.com/ksevld/kottans-frontend)
+Here is the [link] to my repo on GitHub (https://github.com/ksevld/kottans-frontend)
 
 > *I love dogs more, but I'm with you anyway.* :smile:
