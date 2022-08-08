@@ -1,3 +1,8 @@
+Hello! I'm Olga. 
+Github is a new theme for me.
+I hope to be able to solve the tasks in this level and move on to the next one!
+Good luck, have a good day, success in your studies, thank you Kottans!
+
 # :sparkles: Hello, Kottans! :sparkles:
 
 [I'm](https://github.com/galaxxyz) happy to join! And I wish everyone purrrfect code, cool cats!
