@@ -3771,3 +3771,6 @@ My name is Helen (https://github.com/Alissy27)
 ### I'm Valentyn. 
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
+
+## Hi, Kottans!
+<h1> Hi, everyone. My name is Kostia! </h1>
