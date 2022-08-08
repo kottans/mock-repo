@@ -1,6 +1,18 @@
+
+
+
+# Hello Kottans!
+
+Hello! My name is Evgen. I have previously taken web front-end development courses,
+ I hope to learn something interesting from these courses 
+
+
+#HI!!!!
+=======
 # Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
+
 
 # Hello GitHub
 It's my first time, so please be gentle, Git))
