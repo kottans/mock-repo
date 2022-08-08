@@ -1,3 +1,7 @@
+Hi!
+My name is Kostiantyn Rakhmanov.
+Happy to be part of Kottans Community!
+
 Hello! I'm Olga. 
 Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
@@ -3586,6 +3590,17 @@ Have a good day, guys!!!!
 
 What's up, guys?
 
+# Hello kottans-frontend!
+
+My name is Vladimir, I'm glad to join this course.
+
+This is my first communication on github.
+
+Here is the [link] to my repo on GitHub (https://github.com/ksevld/kottans-frontend)
+
+> *I love dogs more, but I'm with you anyway.* :smile:
+
+
 ## Hi kottans community!
 
 I'm Alexandr, that's my [repo](https://github.com/iSefero)
@@ -3790,3 +3805,14 @@ My name is Helen (https://github.com/Alissy27)
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
 
+
+## Hi, Kottans!
+<h1> Hi, everyone. My name is Kostia! </h1>
+
+## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
+## Whoever reading this, I wish you luck) 
+
+## (=◉ᆽ◉=) .git/config
+also known as
+cat .git/config
+is a useful command by the way
