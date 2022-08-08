@@ -30,7 +30,7 @@ Good luck to all of you!
 # Hello GitHub
 It's my first time, so please be gentle, Git))
 
-#  ,,,@._.@,,,
+#  ,,,^._.^,,,
 
 # Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
