@@ -5,7 +5,7 @@ Good luck to all of you!
 # Hello GitHub
 It's my first time, so please be gentle, Git))
 
-#  ,,,@._.@,,,
+#  ,,,^._.^,,,
 
 # Hey cottans community, my name is Oleksandr.
 This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
@@ -3736,3 +3736,6 @@ My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to jo
 
 ## Hello, Kottans!
 My name is Helen (https://github.com/Alissy27)
+
+## !!!
+cat .git/config is a useful command by the way
