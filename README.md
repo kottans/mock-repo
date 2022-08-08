@@ -3587,6 +3587,17 @@ Have a good day, guys!!!!
 What's up, guys?
 
 
+# Hello kottans-frontend!
+
+My name is Vladimir, I'm glad to join this course.
+
+This is my first communication on github.
+
+Here is the [link] to my repo on GitHub (https://github.com/ksevld/kottans-frontend)
+
+> *I love dogs more, but I'm with you anyway.* :smile:
+
+
 ## Hi kottans community!
 
 I'm Alexandr, that's my [repo](https://github.com/iSefero)
@@ -3774,3 +3785,8 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 ## Whoever reading this, I wish you luck) 
+
+## (=◉ᆽ◉=) .git/config
+also known as
+cat .git/config
+is a useful command by the way
