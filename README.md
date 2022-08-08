@@ -3783,3 +3783,7 @@ My name is Helen (https://github.com/Alissy27)
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
 
+## (=◉ᆽ◉=) .git/config
+also known as
+cat .git/config
+is a useful command by the way
