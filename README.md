@@ -6,9 +6,21 @@
 
 :love_letter::heart::smile_cat::mechanical_arm::woman_technologist:
 
+
+
+
+# Hello Kottans!
+
+Hello! My name is Evgen. I have previously taken web front-end development courses,
+ I hope to learn something interesting from these courses 
+
+
+#HI!!!!
+
 # Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
+
 
 # Hello GitHub
 It's my first time, so please be gentle, Git))
@@ -3725,6 +3737,9 @@ My  [repository](https://github.com/lussi-gubska).
 ### :wave: Hi there )
 I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
+#Hi there, my name is Lilya. 
+"Rome wasn’t built in a day" and  I'm ready to study hard and with fun)))
+My  [repository](https://github.com/LiliaBilous)
 
 ## Hello. My name is Nazarii. I am glad to join you
 
@@ -3744,3 +3759,10 @@ My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to jo
 
 ## Hello, Kottans!
 My name is Helen (https://github.com/Alissy27)
+
+## Hello world! :D
+
+## Hi, Kottans!
+### I'm Valentyn. 
+My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
+:round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
