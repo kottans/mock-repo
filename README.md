@@ -1,3 +1,6 @@
+# Hi Kottans!
+My name is Serhii. I am happy to be here))
+
 # Hi there!
 I'm Valeriy.
 
