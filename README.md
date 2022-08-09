@@ -10,10 +10,14 @@ Hi!
 My name is Kostiantyn Rakhmanov.
 Happy to be part of Kottans Community!
 
-Hello! I'm Olga. 
+Hello! I'm Olga.
 Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
 Good luck, have a good day, success in your studies, thank you Kottans!
+
+# Hello everybody!
+
+Hello! My name is Volodymyr. I'm quality assurance engineer but i want to be a frontend developer. I guess this course can help me. I'll very appreciate of all reviews. If you want to know something about testing and QA engineer work you can to write me in the telegram @RutskiyVladimir
 
 # :sparkles: Hello, Kottans! :sparkles:
 
@@ -29,7 +33,7 @@ Good luck, have a good day, success in your studies, thank you Kottans!
 # Hello Kottans!
 
 Hello! My name is Evgen. I have previously taken web front-end development courses,
- I hope to learn something interesting from these courses 
+ I hope to learn something interesting from these courses
 
 
 #HI!!!!
@@ -3767,7 +3771,7 @@ My  [repository](https://github.com/lussi-gubska).
 ### :wave: Hi there )
 I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
-#Hi there, my name is Lilya. 
+#Hi there, my name is Lilya.
 "Rome wasn’t built in a day" and  I'm ready to study hard and with fun)))
 My  [repository](https://github.com/LiliaBilous)
 
@@ -3793,7 +3797,7 @@ My name is Helen (https://github.com/Alissy27)
 ## Hello world! :D
 
 ## Hi, Kottans!
-### I'm Valentyn. 
+### I'm Valentyn.
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
 
@@ -3801,7 +3805,7 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 <h1> Hi, everyone. My name is Kostia! </h1>
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
-## Whoever reading this, I wish you luck) 
+## Whoever reading this, I wish you luck)
 
 ## (=◉ᆽ◉=) .git/config
 also known as
