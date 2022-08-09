@@ -3809,5 +3809,5 @@ cat .git/config
 is a useful command by the way
 
 ## Hello, Kottans!
-<h1> Hi, everyone. My name is Misha! </h1>
-![cat-bic](../assets/images/Misha.jpg)
+<h1> Hello, everyone. My name is Misha! </h1>
+
