@@ -3803,6 +3803,9 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 ## Whoever reading this, I wish you luck) 
 
+# Hello!
+My name is Diana. I'm happy to be here!
+
 ## (=◉ᆽ◉=) .git/config
 also known as
 cat .git/config
