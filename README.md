@@ -26,6 +26,10 @@ Good luck, have a good day, success in your studies, thank you Kottans!
 
 
 
+# Wussup guys!
+I'm Ivan. I wanna learn a lot of useful and interesting information from these courses. Good luck everyone! This is [link](https://github.com/barinio/kottans-frontend.git) to my repo.
+
+
 # Hello Kottans!
 
 Hello! My name is Evgen. I have previously taken web front-end development courses,
