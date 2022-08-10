@@ -1,4 +1,4 @@
-#Hello there!
+# Hello there!
 My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
 # Hi there!
 I'm Valeriy.
