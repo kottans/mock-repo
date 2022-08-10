@@ -112,6 +112,9 @@ My name is Denis.
 
 I want to become Frontend Developer.
 
+# Hello everyone!
+My name is Alexey. I repeat the basic knowledge of the Front-end. Best wishes from Nikopol city!
+
 # Best wishes from Kharkiv!!!
 My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to learn frontend development.
 
