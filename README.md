@@ -3695,3 +3695,5 @@ I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
 
 ## Hello. My name is Nazarii. I am glad to join you
+
+#Hello. My name Vlad, I'm glad taking this course)))
