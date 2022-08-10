@@ -3812,3 +3812,8 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 also known as
 cat .git/config
 is a useful command by the way
+
+# Hello, Kottans and everyone!
+I am Yaroslav and this is my [repository for Kottans](https://github.com/YaroslavZagreb/kottans-frontend)
+## Cats say us good luck and have fun!
+[cats](./assets/images/relaxcats.jpg)
