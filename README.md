@@ -1,5 +1,3 @@
-# Hello, kottans! :heart_eyes_cat:
-
 # Hi there!
 I'm Valeriy.
 
