@@ -1,3 +1,7 @@
+# Hello there!
+
+And good luck!
+
 # Hi there!
 I'm Valeriy.
 
