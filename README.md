@@ -3777,6 +3777,7 @@ My  [repository](https://github.com/LiliaBilous)
 
 ## Hello. My name is Nazarii. I am glad to join you
 
+#Hello. My name Vlad, I'm glad taking this course)))
 
 ## Hello. My name is Oleksandr.
 [Oleksandr](https://github.com/sai7602)
