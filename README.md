@@ -1,5 +1,6 @@
-# Hello, kottans! :heart_eyes_cat:
+# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+# Hello, kottans! :heart_eyes_cat:
 My name is Kris.
 
 # Hi there!
@@ -120,6 +121,9 @@ _This phrase was an intentionally misspelled._
 My name is Denis.
 
 I want to become Frontend Developer.
+
+# Hello everyone!
+My name is Alexey. I repeat the basic knowledge of the Front-end. Best wishes from Nikopol city!
 
 # Best wishes from Kharkiv!!!
 
