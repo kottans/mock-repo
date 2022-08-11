@@ -35,9 +35,6 @@ Hello! My name is Volodymyr. I'm quality assurance engineer but i want to be a f
 
 :love_letter::heart::smile_cat::mechanical_arm::woman_technologist:
 
-
-
-
 # Wussup guys!
 I'm Ivan. I wanna learn a lot of useful and interesting information from these courses. Good luck everyone! This is [link](https://github.com/barinio/kottans-frontend.git) to my repo.
 
