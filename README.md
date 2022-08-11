@@ -3868,6 +3868,11 @@ is a useful command by the way
 
 I'm Dmytro and this is my first introduction to Git
 
+Hi everyone, my name is Olga!
+My repository:
+https://github.com/controlia/mock-repo.git
+https://github.com/controlia/kottans-frontend.git
+
 ## Hello, Kottans!
 
 Hello, everyone. My name is Misha!
