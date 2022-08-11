@@ -1,10 +1,28 @@
+
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+﻿## Hi Kottans!&#128521;
+
+My name is **Yevhen**.
+
+_Thank you for this opportunity to be a part of this community and learn interesting stuff._<br>
+_And thanks to your team for this great work and this wonderful course!_
+
+### This is my repo:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YevhenChementsov/kottans-frontend)
+
+### And this is ASCII art kitty for you &#128536;
+
+![cute kitty](https://www.dougsartgallery.com/images/ASCII-cat-kitten-1-mmmm.gif)
+
+# Hi there!
 
 ## Hello there!
 My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
 
 ## Hi there!
+
 I'm Valeriy.
 
 Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
