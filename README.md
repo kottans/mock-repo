@@ -3823,6 +3823,12 @@ also known as
 cat .git/config
 is a useful command by the way
 
+
+## Hello Kottans! 😸
+
+My name is 🍩 LordPonchik 🍩.
+My repo [Repository for Kottans Front-End](https://github.com/lordponchik/kottans-frontend)
+
 ## Hi, Kottans!
 <h1> Hi, everyone. My name is Viktor! </h1>
 
