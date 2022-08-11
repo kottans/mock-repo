@@ -1,3 +1,7 @@
+# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
+
+
 # Hi there!
 I'm Valeriy.
 
