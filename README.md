@@ -1,6 +1,10 @@
-# Hello there!
+# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
+
+## Hello there!
 My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
-# Hi there!
+
+## Hi there!
 I'm Valeriy.
 
 Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
@@ -17,7 +21,7 @@ Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
 Good luck, have a good day, success in your studies, thank you Kottans!
 
-# :sparkles: Hello, Kottans! :sparkles:
+## :sparkles: Hello, Kottans! :sparkles:
 
 [I'm](https://github.com/galaxxyz) happy to join! And I wish everyone purrrfect code, cool cats!
 
@@ -113,6 +117,9 @@ The whiskers on a cat aren’t just cute, they serve a very important function i
 My name is Denis.
 
 I want to become Frontend Developer.
+
+# Hello everyone!
+My name is Alexey. I repeat the basic knowledge of the Front-end. Best wishes from Nikopol city!
 
 # Best wishes from Kharkiv!!!
 My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to learn frontend development.
@@ -3755,6 +3762,9 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
+## Hi, Kottans! My name is Yurii. I'm very glad to be a part of the community!
+
+
 ## Hey! Strength and patience to all!
 
 
@@ -3814,3 +3824,33 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 also known as
 cat .git/config
 is a useful command by the way
+
+## Hi
+Test
+
+## Hello there!
+My name is Natalia and I'm happy to become a part of kottans community
+
+#Hello World!
+> I am **Olexii Bulhakov** and [this](https://github.com/bulhakovolexii/kottans-frontend) is a diary of my studies with Kottans. I wish you good luck and inspiration!
+
+## Hello Kottans! 😸
+
+My name is 🍩 LordPonchik 🍩.
+My repo [Repository for Kottans Front-End](https://github.com/lordponchik/kottans-frontend)
+
+## Hi, Kottans!
+<h1> Hi, everyone. My name is Viktor! </h1>
+
+
+# Hello, Kottans and everyone!
+I am Yaroslav and this is my [repository for Kottans](https://github.com/YaroslavZagreb/kottans-frontend)
+## Cats say us good luck and have fun!
+[cats](./assets/images/relaxcats.jpg)
+
+## Hello everyone!
+
+My name is Vasyl!
+
+## Hello, kottans!
+My name is Kris!
