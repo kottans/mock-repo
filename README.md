@@ -3820,6 +3820,8 @@ also known as
 cat .git/config
 is a useful command by the way
 
+#Hello World!
+> I am **Olexii Bulhakov** and [this](https://github.com/bulhakovolexii/kottans-frontend) is a diary of my studies with Kottans. I wish you good luck and inspiration!
 
 # Hello, Kottans and everyone!
 I am Yaroslav and this is my [repository for Kottans](https://github.com/YaroslavZagreb/kottans-frontend)
