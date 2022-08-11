@@ -1,4 +1,3 @@
-
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ﻿## Hi Kottans!&#128521;
@@ -19,6 +18,7 @@ _And thanks to your team for this great work and this wonderful course!_
 # Hi there!
 
 ## Hello there!
+My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
 My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
 
 ## Hi there!
@@ -71,7 +71,7 @@ Good luck to all of you!
 
 It's my first time, so please be gentle, Git))
 
-# ,,,^.\_.^,,,
+#  ,,,^._.^,,,
 
 # Hey cottans community, my name is Oleksandr.
 
