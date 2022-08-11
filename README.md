@@ -1,8 +1,10 @@
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 
+## Hello there!
+My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
 
-# Hi there!
+## Hi there!
 I'm Valeriy.
 
 Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
@@ -19,7 +21,7 @@ Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
 Good luck, have a good day, success in your studies, thank you Kottans!
 
-# :sparkles: Hello, Kottans! :sparkles:
+## :sparkles: Hello, Kottans! :sparkles:
 
 [I'm](https://github.com/galaxxyz) happy to join! And I wish everyone purrrfect code, cool cats!
 
