@@ -3886,6 +3886,7 @@ also known as
 cat .git/config
 is a useful command by the way
 
+<<<<<<< HEAD
 Hi everyone, my name is Olga!
 My repository:
 https://github.com/controlia/mock-repo.git
@@ -3928,3 +3929,4 @@ My name is Kris!
 # HI there!
 My name is Yurii.
 
+## Всім привіт!Мене звати Віктор!!!Радий навчатися і працювати разом з Вами!!!
