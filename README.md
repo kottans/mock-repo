@@ -3809,6 +3809,8 @@ My  [repository](https://github.com/LiliaBilous)
 
 #Hello. My name Vlad, I'm glad taking this course)))
 
+## Hello, my name is Bogdan and I study Git
+
 ## Hello. My name is Oleksandr.
 [Oleksandr](https://github.com/sai7602)
 
