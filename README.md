@@ -3815,7 +3815,7 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
 
 ## Hi, Kottans!
-<h1> Hi, everyone. My name is Kostia! </h1>
+Hi, everyone. My name is Kostia!
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 ## Whoever reading this, I wish you luck) 
@@ -3824,6 +3824,9 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 also known as
 cat .git/config
 is a useful command by the way
+
+## Hello, Kottans!
+Hello, everyone. My name is Misha!
 
 ## Hi
 Test
