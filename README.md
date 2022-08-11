@@ -3809,14 +3809,10 @@ cat .git/config
 is a useful command by the way
 
 
-<h1>Hi everyone, my name is Olga!</h1>
-<p>
-  <h2>My repository:</h2>
-</p>
-<ul>
-  <li>https://github.com/controlia/mock-repo.git</li>
-  <li>https://github.com/controlia/kottans-frontend.git</li>
-</ul>
+Hi everyone, my name is Olga!
+My repository:
+https://github.com/controlia/mock-repo.git
+https://github.com/controlia/kottans-frontend.git
 
 
 
