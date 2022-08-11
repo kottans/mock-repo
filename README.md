@@ -1,6 +1,32 @@
+
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+
 # Hi there!
+
+
+﻿## Hi Kottans!&#128521;
+
+My name is **Yevhen**.
+
+_Thank you for this opportunity to be a part of this community and learn interesting stuff._<br>
+_And thanks to your team for this great work and this wonderful course!_
+
+### This is my repo:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YevhenChementsov/kottans-frontend)
+
+### And this is ASCII art kitty for you &#128536;
+
+![cute kitty](https://www.dougsartgallery.com/images/ASCII-cat-kitten-1-mmmm.gif)
+
+# Hi there!
+
+## Hello there!
+My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
+
+## Hi there!
+
 
 I'm Valeriy.
 
@@ -17,7 +43,7 @@ Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
 Good luck, have a good day, success in your studies, thank you Kottans!
 
-# :sparkles: Hello, Kottans! :sparkles:
+## :sparkles: Hello, Kottans! :sparkles:
 
 [I'm](https://github.com/galaxxyz) happy to join! And I wish everyone purrrfect code, cool cats!
 
@@ -3825,7 +3851,9 @@ My [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-fronte
 
 ## Hi, Kottans!
 
+
 <h1> Hi, everyone. My name is Kostia! </h1>
+
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 
@@ -3836,6 +3864,12 @@ My [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-fronte
 also known as
 cat .git/config
 is a useful command by the way
+
+## Hello, Kottans!
+Hello, everyone. My name is Misha!
+
+## Hi
+Test
 
 ## Hello there!
 
@@ -3865,3 +3899,6 @@ I am Yaroslav and this is my [repository for Kottans](https://github.com/Yarosla
 ## Hello everyone!
 
 My name is Vasyl!
+
+## Hello, kottans!
+My name is Kris!
