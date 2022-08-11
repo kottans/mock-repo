@@ -3843,6 +3843,11 @@ also known as
 cat .git/config
 is a useful command by the way
 
+Hi everyone, my name is Olga!
+My repository:
+https://github.com/controlia/mock-repo.git
+https://github.com/controlia/kottans-frontend.git
+
 ## Hello, Kottans!
 Hello, everyone. My name is Misha!
 
