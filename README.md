@@ -3760,6 +3760,9 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
+## Hi, Kottans! My name is Yurii. I'm very glad to be a part of the community!
+
+
 ## Hey! Strength and patience to all!
 
 
@@ -3822,6 +3825,15 @@ is a useful command by the way
 
 #Hello World!
 > I am **Olexii Bulhakov** and [this](https://github.com/bulhakovolexii/kottans-frontend) is a diary of my studies with Kottans. I wish you good luck and inspiration!
+
+## Hello Kottans! 😸
+
+My name is 🍩 LordPonchik 🍩.
+My repo [Repository for Kottans Front-End](https://github.com/lordponchik/kottans-frontend)
+
+## Hi, Kottans!
+<h1> Hi, everyone. My name is Viktor! </h1>
+
 
 # Hello, Kottans and everyone!
 I am Yaroslav and this is my [repository for Kottans](https://github.com/YaroslavZagreb/kottans-frontend)
