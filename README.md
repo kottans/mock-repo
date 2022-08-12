@@ -1,6 +1,11 @@
 
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+## Hello there!
+
+My name is Vova and I'm happy to be here!
+
+
 ﻿## Hi Kottans!&#128521;
 
 My name is **Yevhen**.
