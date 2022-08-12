@@ -48,9 +48,6 @@ Good luck, have a good day, success in your studies, thank you Kottans!
 
 :love_letter::heart::smile_cat::mechanical_arm::woman_technologist:
 
-
-
-
 # Wussup guys!
 I'm Ivan. I wanna learn a lot of useful and interesting information from these courses. Good luck everyone! This is [link](https://github.com/barinio/kottans-frontend.git) to my repo.
 
@@ -60,13 +57,11 @@ I'm Ivan. I wanna learn a lot of useful and interesting information from these c
 Hello! My name is Evgen. I have previously taken web front-end development courses,
  I hope to learn something interesting from these courses 
 
-
 #HI!!!!
 
 # Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
-
 
 # Hello GitHub
 It's my first time, so please be gentle, Git))
@@ -154,6 +149,8 @@ See you at work as FrontEnd Developer!
 
 # Hello kottans!
 My name is Vlad. Буде цікаво!
+
+#good afternoon)
 
 <h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams.
