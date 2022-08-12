@@ -366,7 +366,7 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
 # Hey there!
-﻿﻿### hello!
+### hello!
 
 **I'm Natalie**
 
@@ -376,7 +376,7 @@ Happy to join this very energetic and inspiring community! Wish all of us to bec
 
 # Hey there!
 
-﻿# Hi, kottans!
+# Hi, kottans!
 My name is Anastasia. Let's studying together!
 
 ﻿# Hey there!
