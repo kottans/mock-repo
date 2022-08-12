@@ -19,6 +19,9 @@ _And thanks to your team for this great work and this wonderful course!_
 
 # Hi there!
 
+# Hi Kottans!
+My name is Serhii. I am happy to be here))
+
 ## Hello there!
 My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
 
