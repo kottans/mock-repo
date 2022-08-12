@@ -2,6 +2,11 @@
 
 ﻿## Hi Kottans!&#128521;
 
+### Hello Everyone!
+
+My name is Vova and I'm happy to be here!
+
+
 My name is **Yevhen**.
 
 _Thank you for this opportunity to be a part of this community and learn interesting stuff._<br>
