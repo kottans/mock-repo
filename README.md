@@ -38,7 +38,7 @@ Hi!
 My name is Kostiantyn Rakhmanov.
 Happy to be part of Kottans Community!
 
-Hello! I'm Olga. 
+Hello! I'm Olga.
 Github is a new theme for me.
 I hope to be able to solve the tasks in this level and move on to the next one!
 Good luck, have a good day, success in your studies, thank you Kottans!
@@ -58,7 +58,7 @@ I'm Ivan. I wanna learn a lot of useful and interesting information from these c
 # Hello Kottans!
 
 Hello! My name is Evgen. I have previously taken web front-end development courses,
- I hope to learn something interesting from these courses 
+ I hope to learn something interesting from these courses
 
 #HI!!!!
 
@@ -3524,7 +3524,7 @@ i'm Tina.
 I started my coding adventure a year ago.
 Now I want to study it more deeply, because I want to work in this field
 
-:upside_down_face: Make fun in studying :blush: 
+:upside_down_face: Make fun in studying :blush:
 
 My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
 :kissing_cat:
@@ -3819,7 +3819,7 @@ My  [repository](https://github.com/lussi-gubska).
 ### :wave: Hi there )
 I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
-#Hi there, my name is Lilya. 
+#Hi there, my name is Lilya.
 "Rome wasn’t built in a day" and  I'm ready to study hard and with fun)))
 My  [repository](https://github.com/LiliaBilous)
 
@@ -3847,7 +3847,7 @@ My name is Helen (https://github.com/Alissy27)
 ## Hello world! :D
 
 ## Hi, Kottans!
-### I'm Valentyn. 
+### I'm Valentyn.
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
 
@@ -3856,7 +3856,7 @@ My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-front
 Hi, everyone. My name is Kostia!
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
-## Whoever reading this, I wish you luck) 
+## Whoever reading this, I wish you luck)
 
 # Hello!
 My name is Diana. I'm happy to be here!
@@ -3908,3 +3908,8 @@ My name is Kris!
 # HI there!
 My name is Yurii.
 
+# Hello Kottans!
+
+My name is Volodya.
+My repo [Repository for Kottans Front-End]https://github.com/twenty2119/kottans-frontend.git
+I hope to pass stage 1 and change my life with the help of programming!!!
