@@ -1,10 +1,5 @@
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
-## Добрий день everybody!
-
-My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
-![Kitten](./assets/images/cat-Mini.jpg)
-
 ## Hi Kottans!&#128521;
 
 My name is **Yevhen**.
@@ -3939,3 +3934,8 @@ My name is Kris!
 # HI there!
 
 My name is Yurii.
+
+## Добрий день everybody!
+
+My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
+![Kitten](./assets/images/cat-Mini.jpg)
