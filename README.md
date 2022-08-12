@@ -1,4 +1,3 @@
-
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ﻿## Hi Kottans!&#128521;
@@ -15,6 +14,8 @@ _And thanks to your team for this great work and this wonderful course!_
 ### And this is ASCII art kitty for you &#128536;
 
 ![cute kitty](https://www.dougsartgallery.com/images/ASCII-cat-kitten-1-mmmm.gif)
+
+##good afternoon))
 
 # Hi there!
 
