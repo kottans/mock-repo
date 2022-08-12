@@ -3511,6 +3511,19 @@ My name is Eugene.
 
 I'm happy to be here!
 
+
+## Hello, Kottans!## :partying_face:
+i'm Tina.
+I started my coding adventure a year ago.
+Now I want to study it more deeply, because I want to work in this field
+
+:upside_down_face: Make fun in studying :blush: 
+
+My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
+:kissing_cat:
+***meow***
+![nice cat-octopus](./assets/images/image-rendered.png)
+=======
 ## My name is Ksenia !
 Let's learn together
 [Ksenia](https://github.com/KseniaZahorodniuk)
@@ -3823,12 +3836,14 @@ My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to jo
 ## Hello, Kottans!
 My name is Helen (https://github.com/Alissy27)
 
+
 ## Hello world! :D
 
 ## Hi, Kottans!
 ### I'm Valentyn. 
 My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
 :round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
+
 
 ## Hi, Kottans!
 Hi, everyone. My name is Kostia!
@@ -3879,5 +3894,7 @@ My name is Vasyl!
 ## Hello, kottans!
 My name is Kris!
 
+
 # HI there!
 My name is Yurii.
+
