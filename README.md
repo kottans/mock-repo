@@ -366,18 +366,12 @@ My name is Oleksii. I am 28. The course is very informative, I knew most of it, 
 I share you my repo [here](https://github.com/OleksiiPry/kottans-frontend).
 
 # Hey there!
-<<<<<<< HEAD
 ﻿﻿### hello!
-=======
-
-### hello!
-
->>>>>>> master
 
 **I'm Natalie**
 
 Happy to join this very energetic and inspiring community! Wish all of us to become front-end experts! :art:
-<<<<<<< HEAD
+ HEAD
 
 
 # Hey there!
