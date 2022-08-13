@@ -1,3 +1,7 @@
+# Hello there!
+
+And good luck!
+
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 ___
