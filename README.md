@@ -3928,3 +3928,6 @@ My name is Kris!
 # HI there!
 My name is Yurii.
 
+## Hello Kottans community!!!
+Happy coding!
+![cat](./assets/images/cat_coding.jpg)
