@@ -21,7 +21,6 @@ ___
 * сейчас для меня все в новинку. Сам __Git__ - является для меня чем-то новым,неизведанным. Но все же, допустим команда __git init__, команда с помощью которой я научился создавать репозиторий на своем компьютере
 * удивила команда __git cherry-pick__
 * __git init, git clone, git status__ - их, и многие другие я буду точно использовать в будущем
-# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ﻿## Hi Kottans!&#128521;
 
@@ -3894,6 +3893,9 @@ also known as
 cat .git/config
 is a useful command by the way
 
+## Hello, Kottans!
+My name is Iryna
+
 Hi everyone, my name is Olga!
 My repository:
 https://github.com/controlia/mock-repo.git
@@ -3932,7 +3934,15 @@ My name is Vasyl!
 ## Hello, kottans!
 My name is Kris!
 
+## Hi there
+je m'appelle Fédir
+jk
+
+## Hello, Kottans
+My name is Dana. I'm happy to be here. [My repo](https://github.com/DanaSh3lley/kottans-frontend).
 
 # HI there!
 My name is Yurii.
 
+#Hello!!
+I am Svitlanka. I very glad to be here)))))
