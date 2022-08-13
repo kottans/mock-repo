@@ -3,8 +3,7 @@
 ___
 ## **Hi there!**
 Despite I've got only paws I'm looking forward to learn and try something new and interesting!
-
-<img src="https://github.com/lometari/mock-repo/raw/firstStep/gif/belovedCat.jpg" width="70%" margin="auto">
+![beloved white cat](./assets/images/belovedCat.jpg)
 
 Best wishes to all! Cat.
 ___
