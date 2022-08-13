@@ -3886,6 +3886,9 @@ also known as
 cat .git/config
 is a useful command by the way
 
+## Hello, Kottans!
+My name is Iryna
+
 Hi everyone, my name is Olga!
 My repository:
 https://github.com/controlia/mock-repo.git
