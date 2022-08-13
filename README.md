@@ -3937,7 +3937,24 @@ My name is Dana. I'm happy to be here. [My repo](https://github.com/DanaSh3lley/
 # HI there!
 My name is Yurii.
 
-## Всім привіт!Мене звати Віктор!!!Радий навчатися і працювати разом з Вами!!!
+## Hello!!!
+My name is Viktor!!!
+
+## Hello, kottans!
+My name is Elena! :)
+
+## Hello Kottans community!!!
+Happy coding!
+![cat](./assets/images/cat_coding.jpg)
 
 #Hello!!
 I am Svitlanka. I very glad to be here)))))
+
+
+# Hello everyone!
+My name is Dmytro Voloshko.
+
+I'm here to share, grow and get along with like-minded kottans and kittens.
+
+## Hello, kottans!
+My name is Vlad!
