@@ -1,3 +1,14 @@
+
+# kottans-frontend
+Hi all, my name is **Sergii**
+
+I am interested in :
+- Data Engineering 
+- Web Development (both _Front and Back-end Development_)
+
+Wishing everyone interesting and effective journey on this course.
+
+
 # Kottans-frontend
 ___
 _Всем привет, меня зовут Сергей, я из Украины и я только начинаю учить ___frontend___. В первую очередь я хочу поблагодарить вас за такую возможность, возможность пройти ваш курс бесплатно. Так же я извиняюсь за свой русский, если это не проблема, то я продолжу описывать свои уроки на русском, поскольку с украинским у меня не все так просто, а английский я только вот недавно начал изучать._
