@@ -7,6 +7,9 @@ Despite I've got only paws I'm looking forward to learn and try something new an
 
 Best wishes to all! Cat.
 ___
+## Hi there! 
+Thanks for this opportunity. 
+
 _Всем привет, меня зовут Сергей, я из Украины и я только начинаю учить ___frontend___. В первую очередь я хочу поблагодарить вас за такую возможность, возможность пройти ваш курс бесплатно. Так же я извиняюсь за свой русский, если это не проблема, то я продолжу описывать свои уроки на русском, поскольку с украинским у меня не все так просто, а английский я только вот недавно начал изучать._
 
 [Мой репозиторий](https://github.com/TMSakal/kottans-frontend.git)
@@ -3947,6 +3950,12 @@ My name is Dana. I'm happy to be here. [My repo](https://github.com/DanaSh3lley/
 # HI there!
 My name is Yurii.
 
+## Hello!!!
+My name is Viktor!!!
+
+## Hello, Kottans!
+My name is Viktoriia (https://github.com/ViktoriiaPavliukh)
+
 
 ## Hello, kottans!
 My name is Elena! :)
@@ -3969,3 +3978,6 @@ My name is Vlad!
 
 ## Hello, kottans!
 Hello, kottans!
+
+## Hello Everyone!
+Happy to be here:)
