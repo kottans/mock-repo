@@ -2,7 +2,7 @@
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ___
-#Добрий день, everybody!
+# Добрий день, everybody!
 Всім гарного настрою і натхнення.
 
 ___
