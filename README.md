@@ -1,6 +1,14 @@
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+ 
+#Hi kottans
+
+I am Artem my repo [repository](git@github.com:YershovArt/kottans-frontend.git).
+Thank you!!
+
+﻿## Hi Kottans!&#128521;
+
 ___
 # Добрий день, everybody!
 Всім гарного настрою і натхнення.
@@ -48,6 +56,7 @@ And good luck!
 
 My name is Vova and I'm happy to be here!
 
+ 
 
 My name is **Yevhen**.
 
@@ -110,6 +119,10 @@ I'm Ivan. I wanna learn a lot of useful and interesting information from these c
 
 Hello! My name is Evgen. I have previously taken web front-end development courses,
  I hope to learn something interesting from these courses
+ 
+
+
+ 
 
 #HI!!!!
 
@@ -617,7 +630,8 @@ The first request will be in the form of a course. It was necessary to independe
 <br/>
 <br/><br/>
 <br/>
-<img width="600" height="700" src="https://github.com/OGBeas222/C-1/blob/main/kottans.jpg" alt="" title="cat engineer">
+<img width="600" height="700" src="https://github.com/OGBeas222/C-1/blob/
+/kottans.jpg" alt="" title="cat engineer">
 
 ## Hi everyone 🙃
 
@@ -3908,9 +3922,12 @@ Hi, everyone. My name is Kostia!
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 ## Whoever reading this, I wish you luck)
+ 
+
 
 # Hello!
 My name is Diana. I'm happy to be here!
+ 
 
 ## (=◉ᆽ◉=) .git/config
 also known as
