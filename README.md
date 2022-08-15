@@ -52,6 +52,10 @@ _And thanks to your team for this great work and this wonderful course!_
 
 ##good afternoon))
 
+# Hi All
+i`m Eugene
+And i new student kottans
+
 # Hi there!
 
 # Hi Kottans!
