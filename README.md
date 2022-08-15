@@ -8,6 +8,17 @@ My name is Serhii, and i glad to be part of Kottans community!
 ## Hi there!
 Thanks for this opportunity.
 
+Bonsoir les Chats 
+
+## :sparkles: Hey Kottans! :sparkles:
+
+[I'm](https://github.com/maxpetruk) delighted to join the community! 
+
+=(^.^)=
+
+:love_letter::heart::smile_cat::muscle::man_technologist:
+## Hi there! 
+
 _Всем привет, меня зовут Сергей, я из Украины и я только начинаю учить ___frontend___. В первую очередь я хочу поблагодарить вас за такую возможность, возможность пройти ваш курс бесплатно. Так же я извиняюсь за свой русский, если это не проблема, то я продолжу описывать свои уроки на русском, поскольку с украинским у меня не все так просто, а английский я только вот недавно начал изучать._
 
 [Мой репозиторий](https://github.com/TMSakal/kottans-frontend.git)
@@ -47,6 +58,10 @@ _And thanks to your team for this great work and this wonderful course!_
 ![cute kitty](https://www.dougsartgallery.com/images/ASCII-cat-kitten-1-mmmm.gif)
 
 ##good afternoon))
+
+# Hi All
+i`m Eugene
+And i new student kottans
 
 # Hi there!
 
