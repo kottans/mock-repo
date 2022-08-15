@@ -1,3 +1,12 @@
+## Hi All!
+My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
+I work as a Test automation engineer and automate api requests. But now finally desided to switch to FE development.
+
+With a first GitBasics capter I finally started with basics. Now I have a better understanding how git works and which advantages does it have.
+Happy to be here.
+Wish everyone a nice Front End development journey!
+:blue_heart: :yellow_heart: 
+
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
