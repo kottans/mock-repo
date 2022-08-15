@@ -3936,14 +3936,17 @@ My name is Vlad!
 ## Hello, kottans!
 Hello, kottans!
 
-## Hello Everyone!
+## Hello Everyone!git@github.com:kottans/mock-repo.git
 Happy to be here:)
+
+## Привітик, kottans :smiley_cat:!
+Мене звати Таня. Дякую, kottans :smiley_cat: , за можливість навчання безкоштовно та ще й в цікавому форматі. Дуже сподобалася програмка  learngitbranching.js.org :fire:. Маю надію, що далі тільки цікавіше.                           
+Бажаю усім натхнення і терпіння у вивченні матеріалу :muscle:!   
 
 ## Hello, Kottans
 My name is Andrii. I'm happy to be here. [My repo](https://github.com/alladinchik/kottans-frontend).
 
-##
-Hello 😃
+## Hello 😃
 
 Learning is very interesting. There are difficult tasks, but after you complete them, your mood rises.
 
