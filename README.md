@@ -1,3 +1,15 @@
+# Kottans-frontend
+# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
+# kottans-frontend
+Hi all, my name is **Sergii**
+
+I am interested in :
+- Data Engineering 
+- Web Development (both _Front and Back-end Development_)
+
+Wishing everyone interesting and effective journey on this course.
+
 ## Hi All!
 My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
 I work as a Test automation engineer and automate api requests. But now finally desided to switch to FE development.
@@ -7,10 +19,6 @@ Happy to be here.
 Wish everyone a nice Front End development journey!
 :blue_heart: :yellow_heart: 
 
-# Kottans-frontend
-# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
-
- 
 #Hi kottans
 
 I am Artem my repo [repository](git@github.com:YershovArt/kottans-frontend.git).
