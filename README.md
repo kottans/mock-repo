@@ -3948,6 +3948,9 @@ Hello, kottans!
 ## Hello Everyone!git@github.com:kottans/mock-repo.git
 Happy to be here:)
 
+## Hello Everyone!
+My name is Oles. I very glad to be here!
+
 ## Привітик, kottans :smiley_cat:!
 Мене звати Таня. Дякую, kottans :smiley_cat: , за можливість навчання безкоштовно та ще й в цікавому форматі. Дуже сподобалася програмка  learngitbranching.js.org :fire:. Маю надію, що далі тільки цікавіше.                           
 Бажаю усім натхнення і терпіння у вивченні матеріалу :muscle:!   
