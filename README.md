@@ -1,6 +1,6 @@
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
-___
+Bonsoir les Chats 
 
 ## :sparkles: Hey Kottans! :sparkles:
 
