@@ -10,6 +10,12 @@ Thank you!!
 ﻿## Hi Kottans!&#128521;
 
 ___
+# Hello world!
+
+Всім привіт! Я Саша(Олександра). Буду рада навчитися новому і стати частиною комьюуніті.
+[Мій репозиторій](https://github.com/dvorova-oleksandra/kottans-frontend)
+
+___
 # Добрий день, everybody!
 Всім гарного настрою і натхнення.
 
