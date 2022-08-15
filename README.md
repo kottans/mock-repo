@@ -3,7 +3,7 @@
 
 Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
 ![](6kn.gif)
-=======
+
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
@@ -3984,4 +3984,4 @@ So I will definitely use Linux in the future.
 
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
->>>>>>> 5239d568852b27aa8f4b9b660ed42afb82d82ec5
+
