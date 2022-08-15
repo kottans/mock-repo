@@ -2,6 +2,13 @@
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 ___
 
+## :sparkles: Hey Kottans! :sparkles:
+
+[I'm](https://github.com/maxpetruk) delighted to join the community! 
+
+=(^.^)=
+
+:love_letter::heart::smile_cat::muscle::man_technologist:
 ## Hi there! 
 Thanks for this opportunity. 
 
