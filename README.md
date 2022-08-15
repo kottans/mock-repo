@@ -1,5 +1,10 @@
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
+___
+# Добрий день, everybody!
+Всім гарного настрою і натхнення.
+
 ___
 ## Hi Kottans! :smile_cat:
 My name is Serhii, and i glad to be part of Kottans community!
