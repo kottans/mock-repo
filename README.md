@@ -1,6 +1,9 @@
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+## Hello Everyone!
+My name is Illia, happy be there with you all, hope you will succeed :)
+
 # kottans-frontend
 Hi all, my name is **Sergii**
 
@@ -3978,6 +3981,3 @@ So I will definitely use Linux in the future.
 
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
-
-## Hello Everyone!
-My name is Illia, happy be there with you all, hope you will succeed :)
