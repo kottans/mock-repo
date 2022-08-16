@@ -1,6 +1,12 @@
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+___
+## Hi kottans!
+I`m Yuliia from Dnipro city.
+[Мій репозиторій](https://github.com/JuliaLuccio/kottans-frontend)
+***Thank you for this opportunity to learn!***
+___
 # kottans-frontend
 Hi all, my name is **Sergii**
 
@@ -9,7 +15,7 @@ I am interested in :
 - Web Development (both _Front and Back-end Development_)
 
 Wishing everyone interesting and effective journey on this course.
-
+___
 ## Hi All!
 My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
 I work as a Test automation engineer and automate api requests. But now finally desided to switch to FE development.
@@ -18,13 +24,13 @@ With a first GitBasics capter I finally started with basics. Now I have a better
 Happy to be here.
 Wish everyone a nice Front End development journey!
 :blue_heart: :yellow_heart: 
-
-#Hi kottans
+___
+# Hi kottans
 
 I am Artem my repo [repository](git@github.com:YershovArt/kottans-frontend.git).
 Thank you!!
 
-﻿## Hi Kottans!&#128521;
+## Hi Kottans!&#128521;
 
 ___
 # Hello world!
