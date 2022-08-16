@@ -9,6 +9,8 @@ I am interested in :
 - Web Development (both _Front and Back-end Development_)
 
 Wishing everyone interesting and effective journey on this course.
+#Hi, this is my second comment,
+I am very happy that it is possibl to add it through linux
 
 ## Hi All!
 My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
