@@ -3978,3 +3978,7 @@ So I will definitely use Linux in the future.
 
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
+
+# _Hello everyone, good and successful studies!_ #
+
+___
