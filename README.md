@@ -1,6 +1,11 @@
 # Kottans-frontend
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
+**Hi, i`m Maryna** <img src="paw.png" width="35">
+
+Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
+![](6kn.gif)
+
 # kottans-frontend
 Hi all, my name is **Sergii**
 
@@ -8,7 +13,11 @@ I am interested in :
 - Data Engineering 
 - Web Development (both _Front and Back-end Development_)
 
+___
+
 Wishing everyone interesting and effective journey on this course.
+#Hi, this is my second comment,
+I am very happy that it is possibl to add it through linux
 
 ## Hi All!
 My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
@@ -3953,6 +3962,18 @@ My name is Vlad!
 ## Hello, kottans!
 Hello, kottans!
 
+# kottans-frontend
+**Hello**   
+
+My name is Kate :wink:  
+Thanks for your course.  
+Git is new for me but I begin to understand how it works, thanks to you 😃  
+A lot of new information/ The most intresting is [Learning git branching](https://learngitbranching.js.org/)   
+
+ ![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R1vbjJquxCZce8yEncdFhoAk1d-bECwGlw&usqp=CAU)   
+ 
+ [Link](https://github.com/Batiunka/kottans-frontend) to my repo  
+
 ## Hello Everyone!git@github.com:kottans/mock-repo.git
 Happy to be here:)
 
@@ -3979,7 +4000,9 @@ So I will definitely use Linux in the future.
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
 
-
 ## Hello everybody.
 
 My name's Oleg. I hope I'll get good knowledge here. I wish you good luck.
+
+## Hello, Everyone!
+My name is Valerii!
