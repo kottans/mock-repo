@@ -10,6 +10,25 @@ I am interested in :
 
 Wishing everyone interesting and effective journey on this course.
 
+
+# Hi everyone!!! 
+
+My name Aleksandr and i start my way in Frontend development (i have little expirience).
+
+I have repo with my web first web-site in another account keep the link: https://github.com/Shalind0r/swd  
+
+I used HTML for page markup, BEM methodology for naming classes, CSS for giving the appearance of pages and  
+animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease of development,
+JavaScript for providing interactivity to elements and js plugin Swiper for creating slider in fourth page.
+Web-site have fully responsive and cross browser.  
+
+If you want test my work follow the link: https://shalind0r.github.io/swd/index.html  
+
+Now check meme about JavaScript:  
+
+![meme-js](./assets/images/js-meme.jpg)
+
+
 ## Hi All!
 My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
 I work as a Test automation engineer and automate api requests. But now finally desided to switch to FE development.
@@ -3978,20 +3997,3 @@ So I will definitely use Linux in the future.
 
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
-
-## Hi everyone!!! 
-
-My name Aleksandr and i start my way in Frontend development (i have little expirience).
-
-I have repo with my web first web-site in another account keep the link: https://github.com/Shalind0r/swd  
-
-I used HTML for page markup, BEM methodology for naming classes, CSS for giving the appearance of pages and  
-animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease of development,
-JavaScript for providing interactivity to elements and js plugin Swiper for creating slider in fourth page.
-Web-site have fully responsive and cross browser.  
-
-If you want test my work follow the link: https://shalind0r.github.io/swd/index.html  
-
-Now check meme about JavaScript:  
-
-![meme-js](./assets/images/js-meme.jpg)
