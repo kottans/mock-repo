@@ -4000,5 +4000,9 @@ So I will definitely use Linux in the future.
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
 
+## Hello everybody.
+
+My name's Oleg. I hope I'll get good knowledge here. I wish you good luck.
+
 ## Hello, Everyone!
 My name is Valerii!
