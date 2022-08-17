@@ -1,11 +1,10 @@
+# Kottans-frontend
+# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 **Hi, i`m Maryna** <img src="paw.png" width="35">
 
 Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
 ![](6kn.gif)
-
-# Kottans-frontend
-# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 # kottans-frontend
 Hi all, my name is **Sergii**
