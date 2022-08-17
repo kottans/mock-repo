@@ -16,6 +16,8 @@ I am interested in :
 ___
 
 Wishing everyone interesting and effective journey on this course.
+#Hi, this is my second comment,
+I am very happy that it is possibl to add it through linux
 
 ## Hi All!
 My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
