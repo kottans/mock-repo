@@ -3955,6 +3955,18 @@ My name is Vlad!
 ## Hello, kottans!
 Hello, kottans!
 
+# kottans-frontend
+**Hello**   
+
+My name is Kate :wink:  
+Thanks for your course.  
+Git is new for me but I begin to understand how it works, thanks to you 😃  
+A lot of new information/ The most intresting is [Learning git branching](https://learngitbranching.js.org/)   
+
+ ![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R1vbjJquxCZce8yEncdFhoAk1d-bECwGlw&usqp=CAU)   
+ 
+ [Link](https://github.com/Batiunka/kottans-frontend) to my repo  
+
 ## Hello Everyone!git@github.com:kottans/mock-repo.git
 Happy to be here:)
 
