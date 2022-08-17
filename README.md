@@ -2,6 +2,13 @@
 # Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ___
+## Hello Kottans
+
+My name's Volodymyr and I'm happy to study with all of you guys :)
+[This is my repo for this course](https://github.com/franchukv/kottans-frontend)
+___
+
+___
 ## Hi kottans!
 I`m Yuliia from Dnipro city.
 [Мій репозиторій](https://github.com/JuliaLuccio/kottans-frontend)
