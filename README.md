@@ -1,5 +1,19 @@
 # Kottans-frontend
-# Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
+This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
+[backend](https://github.com/Kottans/backend),
+and [git](https://github.com/Kottans/git-course) courses.
+You can try sending pull-requests to this repository proposing a change.
+The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
+
+Tell other kottans a couple of words and add a fancy picture.
+
+Try it! It’s fun, we promise :)
+
+**Please, add your greetings at the end of file.**
+
+By the way, creating issues is fun too!
 
 ___
 ## Hi kottans!
@@ -39,7 +53,7 @@ Wish everyone a nice Front End development journey!
 ___
 # Hi kottans
 
-I am Artem my repo [repository](git@github.com:YershovArt/kottans-frontend.git).
+I am Artem my repo [repository](https://github.com/YershovArt/kottans-frontend).
 Thank you!!
 
 ## Hi Kottans!&#128521;
@@ -459,7 +473,7 @@ Welcome my repo. [Here it is](https://github.com/ivanb24/mock-repo.git), by the 
 
 Here is my [repo](https://github.com/zhenyakornilov/kottans-frontend).
 
-I discovered this course on [dou.ua](dou.ua).
+I discovered this course on [dou.ua](https://dou.ua).
 I am here to improve my frontend knowledges and just for fun too!
 
 P.S. I'm not going to upload any images here so I hope you wont't clone the repo as long as I did 🙃.
@@ -633,29 +647,11 @@ I'm Olena. I’m excited to join the kottans community. First of all, I wanna th
 
 ### GIT
 
-![Introduction Sequence](./assets/images/git1.png)
-
-![Push&Pull](i./assets/images/git2.png)
-
-
 ![My kottans](./assets/images/Sebek.jpeg)
+
 **My disobedient kottans**
 
 ## Hi, I'm Anfisa! I'm from Kharkiv. What is about u?
-
-This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
-[backend](https://github.com/Kottans/backend),
-and [git](https://github.com/Kottans/git-course) courses.
-You can try sending pull-requests to this repository proposing a change.
-The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
-
-Tell other kottans a couple of words and add a fancy picture.
-
-Try it! It’s fun, we promise :)
-
-**Please, add your greetings at the end of file.**
-
-By the way, creating issues is fun too!
 
 ![Screenshot](gif/jump.gif)
 
@@ -2252,7 +2248,7 @@ Here are so many different cats in this Readme.md. Of course, it is pretty much 
 
 # Hello everyone! xD
 
-Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
+Hello. My name is [Victor](https://github.com/mustbefail/). Glad to join the Marophon.
 
 # Hi guys!
 
@@ -2297,7 +2293,7 @@ I'm Kyrylo, I have always dreamed of programming and this a great opportunity fo
 
 ## What's up Kottans!
 
-My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+My name is [Alex](https://github.com/usides) and I want to be a dev-cat.
 ![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
 
 ---
@@ -2594,9 +2590,9 @@ Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
 I wish you all to succeed in this course!
 :smile_cat:
 [Github](https://github.com/ganushkevychv)
-[LinkedIn](www.linkedin.com/in/vladyslav-ganushkevych)
+[LinkedIn](https://www.linkedin.com/in/vladyslav-ganushkevych)
 [Portfolio](https://vladyslav-ganushkevych.netlify.app/)
-![CAT](assets/images/PngItem_30125.png)
+![CAT](./assets/images/PngItem_30125.png)
 
 ---
 
@@ -3171,7 +3167,7 @@ I'm am a new Kottans student. I'm very exited to learn Frontend.
 
 Hi everyone.
 
-## Hello there! My name is [Bohdan](www.github.com/Rokoboongee) and im study front-end
+## Hello there! My name is [Bohdan](https://github.com/Rokoboongee) and im study front-end
 
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
 I'm first time working with GitHub, its so fresh & cool expirience!!!
@@ -3659,7 +3655,7 @@ Here is the [link] to my repo on GitHub (https://github.com/ksevld/kottans-front
 
 I'm Alexandr, that's my [repo](https://github.com/iSefero)
 
-![](/assets//images/catWorking.jpg)
+![](./assets/images/catWorking.jpg)
 
 ***Don't work hard, work intelligence***
 
@@ -3832,7 +3828,7 @@ My  [repository](https://github.com/KsanaSal).
 ## Hello Kottans!
 
 My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to join kottans community!
-![img](../assets/images/Masja.png)
+![img](./assets/images/Masja.png)
 
 ## Hello, Kottans!
 My name is Helen (https://github.com/Alissy27)
@@ -3926,7 +3922,7 @@ My name is Elena! :)
 
 ## Hello Kottans community!!!
 Happy coding!
-![cat](./assets/images/cat_coding.jpg)
+![cat](./assets/images/cat_coding.jpeg)
 
 #Hello!!
 I am Svitlanka. I very glad to be here)))))
@@ -3990,3 +3986,8 @@ My name's Oleg. I hope I'll get good knowledge here. I wish you good luck.
 
 ## Hello, Everyone!
 My name is Valerii!
+
+## Greetings!
+
+My name is Serhii. 
+Does anyone loves archery and choppers the same as I do? :)
