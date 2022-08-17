@@ -65,9 +65,14 @@ ___
 [Мій репозиторій](https://github.com/dvorova-oleksandra/kottans-frontend)
 
 ___
+## **Hi there!**
+Despite I've got only paws I'm looking forward to learn and try something new and interesting!
+![beloved white cat](./assets/images/belovedCat.jpg)
+
+Best wishes to all! Cat.
+___
 # Добрий день, everybody!
 Всім гарного настрою і натхнення.
-
 ___
 ## Hi Kottans! :smile_cat:
 My name is Serhii, and i glad to be part of Kottans community!
@@ -85,8 +90,9 @@ Bonsoir les Chats
 =(^.^)=
 
 :love_letter::heart::smile_cat::muscle::man_technologist:
-## Hi there! 
 
+## Hi there! 
+___
 _Всем привет, меня зовут Сергей, я из Украины и я только начинаю учить ___frontend___. В первую очередь я хочу поблагодарить вас за такую возможность, возможность пройти ваш курс бесплатно. Так же я извиняюсь за свой русский, если это не проблема, то я продолжу описывать свои уроки на русском, поскольку с украинским у меня не все так просто, а английский я только вот недавно начал изучать._
 
 [Мой репозиторий](https://github.com/TMSakal/kottans-frontend.git)
