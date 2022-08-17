@@ -3851,8 +3851,6 @@ Hi, everyone. My name is Kostia!
 
 ## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
 ## Whoever reading this, I wish you luck)
- 
-
 
 # Hello!
 My name is Diana. I'm happy to be here!
@@ -3909,6 +3907,12 @@ My name is Dana. I'm happy to be here. [My repo](https://github.com/DanaSh3lley/
 
 # HI there!
 My name is Yurii.
+
+# Hello Kottans!
+
+My name is Volodya.
+My repo [Repository for Kottans Front-End]https://github.com/twenty2119/kottans-frontend.git
+I hope to pass stage 1 and change my life with the help of programming!!!
 
 ## Hello!!!
 My name is Viktor!!!
