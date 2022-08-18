@@ -15,6 +15,32 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
+---
+## Hi kottans, my name is Andrii.
+I'm late, but I hope, I'll can study with you!
+All the best!
+___
+## Hi everyone!!!
+
+My name Aleksandr and i start my way in Frontend development (i have little expirience).
+
+I have repo with my web first web-site in another account keep the link: [My repo](https://shalind0r.github.io/swd/index.html)
+
+I used HTML for page markup, BEM methodology for naming classes, CSS for giving the appearance of pages and
+animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease of development, JavaScript for providing interactivity to elements and js plugin Swiper for creating slider in fourth page. Web-site have fully responsive and cross browser.
+
+If you want test my work follow the link: [My website](https://shalind0r.github.io/swd/index.html)
+
+Now check meme about JavaScript:  
+
+![js-meme](./assets/images/js-meme.jpg)
+___
+## Hello Kottans
+
+My name's Volodymyr and I'm happy to study with all of you guys :)
+[This is my repo for this course](https://github.com/franchukv/kottans-frontend)
+___
+
 ___
 ## Hi kottans!
 I`m Yuliia from Dnipro city.
@@ -26,6 +52,15 @@ ___
 
 Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
 ![](6kn.gif)
+
+## Hello Everyone!
+My name is Illia, happy be there with you all, hope you will succeed :)
+
+###My first GIT project
+__Hi everyone.__
+My name is Serhii. It's my attemp to practise Git skills after course. 
+___
+Don't judge me strictly please
 
 # kottans-frontend
 Hi all, my name is **Sergii**
@@ -3982,6 +4017,10 @@ So I will definitely use Linux in the future.
 
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
+
+## Hello, kottans!
+My name is Maksym. I'm really happy to be here!
+[My repository](https://github.com/MaksymYuzva)
 
 ## Hello, Kottans
 My name is Bohdan. I'm happy to be here. [My repo](https://github.com/Bohdantq/mock-repo).
