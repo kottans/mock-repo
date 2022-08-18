@@ -15,6 +15,10 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
+---
+## Hi kottans, my name is Andrii.
+I'm late, but I hope, I'll can study with you!
+All the best!
 ___
 ## Hi kottans!
 I`m Yuliia from Dnipro city.
