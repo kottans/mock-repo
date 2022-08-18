@@ -27,6 +27,9 @@ ___
 Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
 ![](6kn.gif)
 
+## Hello Everyone!
+My name is Illia, happy be there with you all, hope you will succeed :)
+
 # kottans-frontend
 Hi all, my name is **Sergii**
 
