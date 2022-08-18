@@ -35,6 +35,13 @@ Now check meme about JavaScript:
 
 ![js-meme](./assets/images/js-meme.jpg)
 ___
+## Hello Kottans
+
+My name's Volodymyr and I'm happy to study with all of you guys :)
+[This is my repo for this course](https://github.com/franchukv/kottans-frontend)
+___
+
+___
 ## Hi kottans!
 I`m Yuliia from Dnipro city.
 [Мій репозиторій](https://github.com/JuliaLuccio/kottans-frontend)
