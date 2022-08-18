@@ -4039,3 +4039,8 @@ My name is Valerii!
 
 My name is Serhii. 
 Does anyone loves archery and choppers the same as I do? :)
+
+## Добрий день everybody!
+
+My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
+![Kitten](./assets/images/cat-Mini.jpg)
