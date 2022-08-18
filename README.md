@@ -20,6 +20,21 @@ By the way, creating issues is fun too!
 I'm late, but I hope, I'll can study with you!
 All the best!
 ___
+## Hi everyone!!!
+
+My name Aleksandr and i start my way in Frontend development (i have little expirience).
+
+I have repo with my web first web-site in another account keep the link: [My repo](https://shalind0r.github.io/swd/index.html)
+
+I used HTML for page markup, BEM methodology for naming classes, CSS for giving the appearance of pages and
+animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease of development, JavaScript for providing interactivity to elements and js plugin Swiper for creating slider in fourth page. Web-site have fully responsive and cross browser.
+
+If you want test my work follow the link: [My website](https://shalind0r.github.io/swd/index.html)
+
+Now check meme about JavaScript:  
+
+![js-meme](./assets/images/js-meme.jpg)
+___
 ## Hi kottans!
 I`m Yuliia from Dnipro city.
 [Мій репозиторій](https://github.com/JuliaLuccio/kottans-frontend)
