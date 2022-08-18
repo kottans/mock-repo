@@ -30,6 +30,12 @@ Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
 ## Hello Everyone!
 My name is Illia, happy be there with you all, hope you will succeed :)
 
+###My first GIT project
+__Hi everyone.__
+My name is Serhii. It's my attemp to practise Git skills after course. 
+___
+Don't judge me strictly please
+
 # kottans-frontend
 Hi all, my name is **Sergii**
 
