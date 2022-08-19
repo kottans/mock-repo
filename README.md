@@ -3930,3 +3930,11 @@ My name is Kris!
 
 # HI there!
 My name is Yurii.
+
+## Linux CLI, and HTTP
+![Linux CLI](./task_linux_cli/linux_mod1.png)
+![Linux CLI](./task_linux_cli/linux_mod2.png)
+![Linux CLI](./task_linux_cli/linux_mod3.png)
+![Linux CLI](./task_linux_cli/linux_mod4.png)
+Всім привіт!
+Я вперше познайомилась із Linux. Матеріал для вивчення для мене новий, але все зрозуміло. Дякую за таку хорошу підбірку матеріалу. 
