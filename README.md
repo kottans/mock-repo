@@ -15,6 +15,32 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
+---
+## Hi kottans, my name is Andrii.
+I'm late, but I hope, I'll can study with you!
+All the best!
+___
+## Hi everyone!!!
+
+My name Aleksandr and i start my way in Frontend development (i have little expirience).
+
+I have repo with my web first web-site in another account keep the link: [My repo](https://shalind0r.github.io/swd/index.html)
+
+I used HTML for page markup, BEM methodology for naming classes, CSS for giving the appearance of pages and
+animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease of development, JavaScript for providing interactivity to elements and js plugin Swiper for creating slider in fourth page. Web-site have fully responsive and cross browser.
+
+If you want test my work follow the link: [My website](https://shalind0r.github.io/swd/index.html)
+
+Now check meme about JavaScript:  
+
+![js-meme](./assets/images/js-meme.jpg)
+___
+## Hello Kottans
+
+My name's Volodymyr and I'm happy to study with all of you guys :)
+[This is my repo for this course](https://github.com/franchukv/kottans-frontend)
+___
+
 ___
 ## Hi kottans!
 I`m Yuliia from Dnipro city.
@@ -26,6 +52,15 @@ ___
 
 Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
 ![](6kn.gif)
+
+## Hello Everyone!
+My name is Illia, happy be there with you all, hope you will succeed :)
+
+###My first GIT project
+__Hi everyone.__
+My name is Serhii. It's my attemp to practise Git skills after course. 
+___
+Don't judge me strictly please
 
 # kottans-frontend
 Hi all, my name is **Sergii**
@@ -65,9 +100,14 @@ ___
 [Мій репозиторій](https://github.com/dvorova-oleksandra/kottans-frontend)
 
 ___
+## **Hi there!**
+Despite I've got only paws I'm looking forward to learn and try something new and interesting!
+![beloved white cat](./assets/images/belovedCat.jpg)
+
+Best wishes to all! Cat.
+___
 # Добрий день, everybody!
 Всім гарного настрою і натхнення.
-
 ___
 ## Hi Kottans! :smile_cat:
 My name is Serhii, and i glad to be part of Kottans community!
@@ -85,8 +125,9 @@ Bonsoir les Chats
 =(^.^)=
 
 :love_letter::heart::smile_cat::muscle::man_technologist:
-## Hi there! 
 
+## Hi there! 
+___
 _Всем привет, меня зовут Сергей, я из Украины и я только начинаю учить ___frontend___. В первую очередь я хочу поблагодарить вас за такую возможность, возможность пройти ваш курс бесплатно. Так же я извиняюсь за свой русский, если это не проблема, то я продолжу описывать свои уроки на русском, поскольку с украинским у меня не все так просто, а английский я только вот недавно начал изучать._
 
 [Мой репозиторий](https://github.com/TMSakal/kottans-frontend.git)
@@ -3977,6 +4018,10 @@ So I will definitely use Linux in the future.
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
 
+## Hello, kottans!
+My name is Maksym. I'm really happy to be here!
+[My repository](https://github.com/MaksymYuzva)
+
 ## Hello, Kottans
 My name is Bohdan. I'm happy to be here. [My repo](https://github.com/Bohdantq/mock-repo).
 
@@ -3994,6 +4039,11 @@ My name is Valerii!
 
 My name is Serhii. 
 Does anyone loves archery and choppers the same as I do? :)
+
+## Добрий день everybody!
+
+My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
+![Kitten](./assets/images/cat-Mini.jpg)
 
 ## Hello, Kottans
 My name is Alex.
