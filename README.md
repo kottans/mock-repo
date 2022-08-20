@@ -4064,3 +4064,12 @@ My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my
 
 ## Hello, Kottans
 My name is Alex.
+
+
+___
+
+## hey, kottans (and other pets)!
+
+    :flushed: 
+  :point_right: :point_left:
+  my [readme](https://github.com/Yaroslav-Ms/kottans-frontend)
