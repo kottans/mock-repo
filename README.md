@@ -1,3 +1,16 @@
+## It's so good to be here and see all your smiling faces! :blue_heart::yellow_heart: 
+
+```javascript
+let user {
+  name: "julia-online",
+  friendshipIsOn: true,
+  sayHi: function() {
+    alert( Hiya Kottans! );
+  }
+}
+```
+### First, just click on [ this link ](https://github.com/julia-online) - it's a way to get acquainted :smile_cat:
+
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
