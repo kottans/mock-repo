@@ -4018,6 +4018,10 @@ So I will definitely use Linux in the future.
 Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
 
+# _Hello everyone, good and successful studies!_ #
+
+___
+
 ## Hello, kottans!
 My name is Maksym. I'm really happy to be here!
 [My repository](https://github.com/MaksymYuzva)
@@ -4045,6 +4049,9 @@ Does anyone loves archery and choppers the same as I do? :)
 My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
 ![Kitten](./assets/images/cat-Mini.jpg)
 
+
 ## Hi! i'm Andre! 
 ![Screenshot-image-link](./assets/images/Bandit.jpg) 
 
+## Hello, Kottans
+My name is Alex.
