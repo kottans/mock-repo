@@ -2,14 +2,14 @@
 
 ```javascript
 let user {
-  name: "julia-online",
+  name: "julia-online ",
   friendshipIsOn: true,
   sayHi: function() {
     alert( Hiya Kottans! );
   }
 }
 ```
-### First, just click on [ this link ](https://github.com/julia-online) - it's a way to get acquainted :smile_cat:
+### First, just click on [ this link ](https://github.com/Kottans/mock-repo) - it's a way to get acquainted :smile_cat:
 
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
@@ -28,14 +28,7 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
----
-## Hi kottans, my name is Andrii.
-I'm late, but I hope, I'll can study with you!
-All the best!
-___
-## Hi everyone!!!
 
-My name Aleksandr and i start my way in Frontend development (i have little expirience).
 
 I have repo with my web first web-site in another account keep the link: [My repo](https://shalind0r.github.io/swd/index.html)
 
@@ -4064,3 +4057,7 @@ My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my
 
 ## Hello, Kottans
 My name is Alex.
+
+## Hi kottans, my name is Irena from LVIV
+I'm late, but I hope, I'll can study with you!
+All the best!
