@@ -4073,3 +4073,13 @@ ___
     :flushed: 
   :point_right: :point_left:
   my [readme](https://github.com/Yaroslav-Ms/kottans-frontend)
+
+-----
+## Greetings to everyone! (./assets/images/low_bow.jpg)
+Please to join your community.
+
+My name is Volodymyr, and I don't have any experience at coding. So I hope I'll figure it out.
+
+Wish luck to everyone.
+
+------
