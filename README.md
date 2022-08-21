@@ -4083,3 +4083,7 @@ My name is Volodymyr, and I don't have any experience at coding. So I hope I'll 
 Wish luck to everyone.
 
 ------
+
+## Hello to all in the Kottans family! 
+I am Vika and [here's my repo](https://github.com/lisovamavka/kottans-frontend)! :cat:
+___
