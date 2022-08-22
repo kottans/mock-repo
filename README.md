@@ -1,3 +1,6 @@
+# Kottans-frontend
+## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
 ## It's so good to be here and see all your smiling faces! :blue_heart::yellow_heart: 
 
 ```javascript
@@ -10,9 +13,6 @@ let user {
 }
 ```
 ### First, just click on [ this link ](https://github.com/julia-online) - it's a way to get acquainted :smile_cat:
-
-# Kottans-frontend
-## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
 [backend](https://github.com/Kottans/backend),
@@ -4083,3 +4083,10 @@ My name is Volodymyr, and I don't have any experience at coding. So I hope I'll 
 Wish luck to everyone.
 
 ------
+
+## Hello to all in the Kottans family! 
+I am Vika and [here's my repo](https://github.com/lisovamavka/kottans-frontend)! :cat:
+___
+
+## Hello, kottans!
+My name is Vlad!
