@@ -4087,3 +4087,6 @@ Wish luck to everyone.
 ## Hello to all in the Kottans family! 
 I am Vika and [here's my repo](https://github.com/lisovamavka/kottans-frontend)! :cat:
 ___
+
+## Hello, kottans!
+My name is Vlad!
