@@ -1,3 +1,6 @@
+# git & git hub
+## I'm making a pool request for the second time, I hope I did everything right this time
+
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
