@@ -4099,7 +4099,6 @@ I want to share my impressions about the learned material. Initially, when I sta
 ## Вечір в хату:)
 
 I am Dmytro and I am glad that I am here:) It's pleasure to study here! Thanks 4 all:)
-
 =========================================
 P.S. Here is my kottans [repo]:
 =========================================
