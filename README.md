@@ -4095,3 +4095,12 @@ My name is Vlad!
 
 My name is Stasya and I happy to join you
 I want to share my impressions about the learned material. Initially, when I started watching the first video, I was frustrated because I couldn’t understand anything, I expected to hear how to write code, and they began to explain what Git is. Since I am new to this field, it was difficult for me to get up to speed. It took me a long time to look through the courses, complete the assignments, and eventually master this topic. I really liked the courses: accessible, understandable, convenient. Now I understand what GIt and GitHub are, and I understand that writing good and clean code is great, but you also need to be able to work with this code and together with the team.
+
+## Hello everybody.
+
+My name is Jack. Just Jack.
+I starting learning this course.
+I thanks for got experience in Git (especially Git commands), it's so interesting.
+[My repo](https://github.com/JCodeW/mock-repo)
+
+---
