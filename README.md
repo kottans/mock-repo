@@ -48,6 +48,13 @@ Now check meme about JavaScript:
 
 ![js-meme](./assets/images/js-meme.jpg)
 ___
+
+## Hello Kottans
+
+I'm Sofiya
+
+___
+
 ## Hello Kottans
 
 My name's Volodymyr and I'm happy to study with all of you guys :)
