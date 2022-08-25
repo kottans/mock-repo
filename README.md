@@ -4124,3 +4124,5 @@ https://github.com/lushpen/kottans-frontend
 ## Hello, Kottans!
 My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/marynatovtyn/kottans-frontend) :)
 
+## Hi, Kottans!
+My name is Nadia. [My repo](https://github.com/nadia-hope).
