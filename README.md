@@ -4103,6 +4103,16 @@ My name is Vlad!
 My name is Stasya and I happy to join you
 I want to share my impressions about the learned material. Initially, when I started watching the first video, I was frustrated because I couldn’t understand anything, I expected to hear how to write code, and they began to explain what Git is. Since I am new to this field, it was difficult for me to get up to speed. It took me a long time to look through the courses, complete the assignments, and eventually master this topic. I really liked the courses: accessible, understandable, convenient. Now I understand what GIt and GitHub are, and I understand that writing good and clean code is great, but you also need to be able to work with this code and together with the team.
 
+
+## Hello everybody.
+
+My name is Jack. Just Jack.
+I starting learning this course.
+I thanks for got experience in Git (especially Git commands), it's so interesting.
+[My repo](https://github.com/JCodeW/mock-repo)
+
+---
+
 ## Вечір в хату:)
 
 I am Dmytro and I am glad that I am here:) It's pleasure to study here! Thanks 4 all:)
@@ -4114,7 +4124,9 @@ https://github.com/lushpen/kottans-frontend
 ## Hello, Kottans!
 My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/marynatovtyn/kottans-frontend) :)
 
-
 ## Hello, guys!🌴
 
 Мене звати Вікторія. Рада приймати участь в цьому курсі! Усім нам бажаю успіхів! [my repo](hhttps://github.com/Victhri/kottans-frontend)🇺🇦
+
+## Hi, Kottans!
+My name is Nadia. [My repo](https://github.com/nadia-hope).
