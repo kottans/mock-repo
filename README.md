@@ -4113,3 +4113,8 @@ https://github.com/lushpen/kottans-frontend
 
 ## Hello, Kottans!
 My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/marynatovtyn/kottans-frontend) :)
+
+
+## Hello, guys!🌴
+
+Мене звати Вікторія. Рада приймати участь в цьому курсі! Усім нам бажаю успіхів! [my repo](hhttps://github.com/Victhri/kottans-frontend)🇺🇦
