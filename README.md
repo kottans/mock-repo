@@ -4135,4 +4135,4 @@ My name is Nadia. [My repo](https://github.com/nadia-hope).
 My name is Vika! Good luck everyone!
 P.S. That is my cat :cat Цезарь
 
-![Caesar](assets/image/Caesar.jpg)
+![Caesar](assets/images/Caesar.jpg)
