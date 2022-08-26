@@ -5,7 +5,7 @@
 
 ```javascript
 let user {
-  name: "julia-online",
+  name: "julia-online ",
   friendshipIsOn: true,
   sayHi: function() {
     alert( Hiya Kottans! );
@@ -4085,7 +4085,9 @@ My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my
 ## Hello, Kottans
 My name is Alex.
 
-
+## Hi kottans, my name is Irena from LVIV
+I'm late, but I hope, I'll can study with you!
+All the best!
 ___
 
 ## hey, kottans (and other pets)!
