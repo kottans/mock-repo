@@ -4132,5 +4132,10 @@ My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/maryna
 ## Hi, Kottans!
 My name is Nadia. [My repo](https://github.com/nadia-hope).
 
-
 ## Hello world!
+
+## Hi, Kottans!
+My name is Vika! Good luck everyone!
+P.S. That is my cat :cat Цезарь
+
+![Caesar](assets/images/Caesar.jpg)
