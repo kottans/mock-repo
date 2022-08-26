@@ -3878,6 +3878,8 @@ My  [repository](https://github.com/LiliaBilous)
 
 #Hello. My name Vlad, I'm glad taking this course)))
 
+## Hello, my name is Bogdan and I study Git
+
 ## Hello. My name is Oleksandr.
 [Oleksandr](https://github.com/sai7602)
 
@@ -3918,6 +3920,13 @@ also known as
 cat .git/config
 is a useful command by the way
 
+
+
+## Hello, my name is Bogdan and I study Git
+
+
+
+
 ## Hello, Kottans!
 My name is Iryna
 
@@ -3954,6 +3963,8 @@ My name is Vasyl!
 
 ## Hello, kottans!
 My name is Kris!
+
+
 
 ## Hi there
 je m'appelle Fédir
@@ -4000,6 +4011,9 @@ My name is Vlad!
 ## Hello, kottans!
 Hello, kottans!
 
+## Hello Everyone!
+Happy to be here:)
+
 # kottans-frontend
 **Hello**   
 
@@ -4039,7 +4053,6 @@ Thank you very much for the opportunity to study.
 Good luck with your studies  to everyone.👌
 
 # _Hello everyone, good and successful studies!_ #
-
 ___
 
 ## Hello, kottans!
