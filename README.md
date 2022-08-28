@@ -4088,7 +4088,6 @@ My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my
 
 ## Hello, Kottans
 My name is Alex.
-<<<<<<< HEAD
 
 ## Hi kottans, my name is Irena from LVIV
 I'm late, but I hope, I'll can study with you!
