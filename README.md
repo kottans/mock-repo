@@ -4088,6 +4088,10 @@ Does anyone loves archery and choppers the same as I do? :)
 My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
 ![Kitten](./assets/images/cat-Mini.jpg)
 
+
+## Hi! i'm Andre! 
+![Screenshot-image-link](./assets/images/Bandit.jpg) 
+
 ## Hello, Kottans
 My name is Alex.
 
