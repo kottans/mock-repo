@@ -4164,3 +4164,22 @@ My name is Vika! Good luck everyone!
 P.S. That is my cat :cat Цезарь
 
 ![Caesar](assets/images/Caesar.jpg)
+
+## Here was Vadim
+This line is 4169, here is a cat for you guys
+                  _
+                                | \
+                                | |
+                                | |
+           |\                   | |
+          /, ~\                / /
+         X     `-.....-------./ /
+          ~-. ~  ~              |
+             \             /    |
+              \  /_     ___\   /
+              | /\ ~~~~~   \ |
+              | | \        || |
+              | |\ \       || )
+             (_/ (_/      ((_/
+and shot of my real cat mia
+![mia](assets\images\PXL_20220807_103903323.jpg)
