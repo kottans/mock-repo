@@ -4174,3 +4174,7 @@ I am very happy for learning in this frontend course! Thanks for mentors of this
 My name is Tania. [My repo](https://github.com/TaniaIva)
 
 Hello! My name is Oksana. I'm glad to welcome you and wish you all good luck! (https://github.com/Nik3264/kottans-frontend)
+
+##Hi Kottans :smile_cat:
+
+I'm Vlad (aka Michigan28). Very glad to be here! :)
