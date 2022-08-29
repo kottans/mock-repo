@@ -4088,6 +4088,10 @@ Does anyone loves archery and choppers the same as I do? :)
 My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
 ![Kitten](./assets/images/cat-Mini.jpg)
 
+
+## Hi! i'm Andre! 
+![Screenshot-image-link](./assets/images/Bandit.jpg) 
+
 ## Hello, Kottans
 My name is Alex.
 
@@ -4162,6 +4166,9 @@ P.S. That is my cat :cat Цезарь
 ![Caesar](assets/images/Caesar.jpg)
 
 ## Hi, Kottans!
+
 Hello everyone! My name is Vlad. My repo: https://github.com/InkoVlad/kottans-frontend
 
 I am very happy for learning in this frontend course! Thanks for mentors of this course!
+
+My name is Tania. [My repo](https://github.com/TaniaIva)
