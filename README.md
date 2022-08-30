@@ -4185,7 +4185,6 @@ I'm Vlad (aka Michigan28). Very glad to be here! :)
 
 ## Hi
 My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
-
 ___
 ## Hello everyone. 
 My name is Daria Yurko, I am from Kriviy Rih. 
