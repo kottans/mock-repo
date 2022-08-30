@@ -4180,3 +4180,8 @@ Hello! My name is Oksana. I'm glad to welcome you and wish you all good luck! (h
 I'm Vlad (aka Michigan28). Very glad to be here! :)
 
 ## Hi !
+
+## Hi, Kottans:)
+My name is Kate. Glad to be here and happy coding!
+
+
