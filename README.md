@@ -1,10 +1,3 @@
-# Hi kottans! I'm Oleh.
-I'm starting late, but I'll catch up with you.
-[My repository](https://github.com/mulskyi/kottans-frontend)
-
-I will be glad for advice and communication.
-# Good luck!
-
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
@@ -40,6 +33,13 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
+---
+# Hi kottans! I'm Oleh.
+I'm starting late, but I'll catch up with you.
+[My repository](https://github.com/mulskyi/kottans-frontend)
+
+I will be glad for advice and communication.
+# Good luck!
 ---
 ## Hi kottans, my name is Andrii.
 I'm late, but I hope, I'll can study with you!
