@@ -4190,6 +4190,6 @@ My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
 
 ## Here was Vadim
 This line is 4192, here is my cat for you guys who scrolled to here
-![mia](assets\images\PXL_20220807_103903323.jpg)
+![mia](assets/images/PXL_20220807_103903323.jpg)
 and [my repo](https://github.com/GramenCeleritas/kottans-frontend)
 Have a nice day
