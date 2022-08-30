@@ -4189,21 +4189,7 @@ I'm Vlad (aka Michigan28). Very glad to be here! :)
 My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
 
 ## Here was Vadim
-This line is 4192, here is a cat for you guys
-                  _
-                                | \
-                                | |
-                                | |
-           |\                   | |
-          /, ~\                / /
-         X     `-.....-------./ /
-          ~-. ~  ~              |
-             \             /    |
-              \  /_     ___\   /
-              | /\ ~~~~~   \ |
-              | | \        || |
-              | |\ \       || )
-             (_/ (_/      ((_/
-and shot of my real cat mia
+This line is 4192, here is my cat for you guys who scrolled to here
 ![mia](assets\images\PXL_20220807_103903323.jpg)
-and my [repo](https://github.com/GramenCeleritas/kottans-frontend)
+and [my repo](https://github.com/GramenCeleritas/kottans-frontend)
+Have a nice day
