@@ -1,3 +1,9 @@
+# Hi kottans! I'm Oleh.
+I'm starting late, but I'll catch up with you.
+[My repository](https://github.com/mulskyi/kottans-frontend)
+
+I will be glad for advice and communication.
+# Good luck!
 
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
