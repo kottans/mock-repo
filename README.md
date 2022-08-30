@@ -1,3 +1,249 @@
+
+# Kottans-frontend
+## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+
+---
+# Git & github
+## I'm making a pool request for the second time, I hope I did everything right this time
+---
+
+## It's so good to be here and see all your smiling faces! :blue_heart::yellow_heart: 
+
+```javascript
+let user {
+  name: "julia-online ",
+  friendshipIsOn: true,
+  sayHi: function() {
+    alert( Hiya Kottans! );
+  }
+}
+```
+### First, just click on [ this link ](https://github.com/julia-online) - it's a way to get acquainted :smile_cat:
+
+This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
+[backend](https://github.com/Kottans/backend),
+and [git](https://github.com/Kottans/git-course) courses.
+You can try sending pull-requests to this repository proposing a change.
+The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
+
+Tell other kottans a couple of words and add a fancy picture.
+
+Try it! It’s fun, we promise :)
+
+**Please, add your greetings at the end of file.**
+
+By the way, creating issues is fun too!
+
+---
+## Hi kottans, my name is Andrii.
+I'm late, but I hope, I'll can study with you!
+All the best!
+___
+## Hi everyone!!!
+
+My name Aleksandr and i start my way in Frontend development (i have little expirience).
+
+I have repo with my web first web-site in another account keep the link: [My repo](https://shalind0r.github.io/swd/index.html)
+
+I used HTML for page markup, BEM methodology for naming classes, CSS for giving the appearance of pages and
+animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease of development, JavaScript for providing interactivity to elements and js plugin Swiper for creating slider in fourth page. Web-site have fully responsive and cross browser.
+
+If you want test my work follow the link: [My website](https://shalind0r.github.io/swd/index.html)
+
+Now check meme about JavaScript:  
+
+![js-meme](./assets/images/js-meme.jpg)
+___
+
+## Hello Kottans
+
+I'm Sofiya
+
+___
+
+## Hello Kottans
+
+My name's Volodymyr and I'm happy to study with all of you guys :)
+[This is my repo for this course](https://github.com/franchukv/kottans-frontend)
+___
+
+___
+## Hi kottans!
+I`m Yuliia from Dnipro city.
+[Мій репозиторій](https://github.com/JuliaLuccio/kottans-frontend)
+***Thank you for this opportunity to learn!***
+___
+
+**Hi, i`m Maryna** <img src="paw.png" width="35">
+
+Meow meow!! Meow, meow meow meow meow. Meow meow meow, meow meow!
+![](6kn.gif)
+
+## Hello Everyone!
+My name is Illia, happy be there with you all, hope you will succeed :)
+
+###My first GIT project
+__Hi everyone.__
+My name is Serhii. It's my attemp to practise Git skills after course. 
+___
+Don't judge me strictly please
+
+# kottans-frontend
+Hi all, my name is **Sergii**
+
+I am interested in :
+- Data Engineering 
+- Web Development (both _Front and Back-end Development_)
+
+___
+
+Wishing everyone interesting and effective journey on this course.
+___
+
+#Hi, this is my second comment,
+I am very happy that it is possibl to add it through linux
+
+## Hi All!
+My name is *Valeriia*. I've just joined to the course. Hope, that's not late.
+I work as a Test automation engineer and automate api requests. But now finally desided to switch to FE development.
+
+With a first GitBasics capter I finally started with basics. Now I have a better understanding how git works and which advantages does it have.
+Happy to be here.
+Wish everyone a nice Front End development journey!
+:blue_heart: :yellow_heart: 
+___
+# Hi kottans
+
+I am Artem my repo [repository](https://github.com/YershovArt/kottans-frontend).
+Thank you!!
+
+## Hi Kottans!&#128521;
+
+___
+# Hello world!
+
+Всім привіт! Я Саша(Олександра). Буду рада навчитися новому і стати частиною комьюуніті.
+[Мій репозиторій](https://github.com/dvorova-oleksandra/kottans-frontend)
+
+___
+## **Hi there!**
+Despite I've got only paws I'm looking forward to learn and try something new and interesting!
+![beloved white cat](./assets/images/belovedCat.jpg)
+
+Best wishes to all! Cat.
+___
+# Добрий день, everybody!
+Всім гарного настрою і натхнення.
+___
+## Hi Kottans! :smile_cat:
+My name is Serhii, and i glad to be part of Kottans community!
+=(^.^)=
+
+## Hi there!
+Thanks for this opportunity.
+
+Bonsoir les Chats 
+
+## :sparkles: Hey Kottans! :sparkles:
+
+[I'm](https://github.com/maxpetruk) delighted to join the community! 
+
+=(^.^)=
+
+:love_letter::heart::smile_cat::muscle::man_technologist:
+
+## Hi there! 
+___
+_Всем привет, меня зовут Сергей, я из Украины и я только начинаю учить ___frontend___. В первую очередь я хочу поблагодарить вас за такую возможность, возможность пройти ваш курс бесплатно. Так же я извиняюсь за свой русский, если это не проблема, то я продолжу описывать свои уроки на русском, поскольку с украинским у меня не все так просто, а английский я только вот недавно начал изучать._
+
+[Мой репозиторий](https://github.com/TMSakal/kottans-frontend.git)
+
+___P.S. Слава Україні - героям слава!___
+___
+Было очень интересно изучать __Git__ и __GitHub__.
+
+На видео курсах первой и второй недели __Coursera__, а так же на практических занятиях сайта [https://learngitbranching.js.org/](https://learngitbranching.js.org/) я узнал много интересного:
+
+* сейчас для меня все в новинку. Сам __Git__ - является для меня чем-то новым,неизведанным. Но все же, допустим команда __git init__, команда с помощью которой я научился создавать репозиторий на своем компьютере
+* удивила команда __git cherry-pick__
+* __git init, git clone, git status__ - их, и многие другие я буду точно использовать в будущем
+
+## Hi Kottans!&#128521;
+
+# Hello there!
+
+And good luck!
+
+### Hello Everyone!
+
+My name is Vova and I'm happy to be here!
+
+ 
+
+My name is **Yevhen**.
+
+_Thank you for this opportunity to be a part of this community and learn interesting stuff._
+_And thanks to your team for this great work and this wonderful course!_
+
+### This is my repo:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YevhenChementsov/kottans-frontend)
+
+### And this is ASCII art kitty for you &#128536;
+
+![cute kitty](https://www.dougsartgallery.com/images/ASCII-cat-kitten-1-mmmm.gif)
+
+##good afternoon))
+
+# Hi All
+i`m Eugene
+And i new student kottans
+
+# Hi there!
+
+# Hi Kottans!
+My name is Serhii. I am happy to be here))
+
+## Hello there!
+My name is Vlad. I'm really appreciate that kottans can help us with inrtoduction into frontend.
+
+## Hi there!
+
+I'm Valeriy.
+
+Here is my [repository](https://github.com/ValeriiZa/kottans-frontend).
+
+Good luck in your studies!
+
+
+Hi!
+My name is Kostiantyn Rakhmanov.
+Happy to be part of Kottans Community!
+
+Hello! I'm Olga.
+Github is a new theme for me.
+I hope to be able to solve the tasks in this level and move on to the next one!
+Good luck, have a good day, success in your studies, thank you Kottans!
+
+## :sparkles: Hello, Kottans! :sparkles:
+
+[I'm](https://github.com/galaxxyz) happy to join! And I wish everyone purrrfect code, cool cats!
+
+=(^.^)=
+
+:love_letter::heart::smile_cat::mechanical_arm::woman_technologist:
+
+# Wussup guys!
+I'm Ivan. I wanna learn a lot of useful and interesting information from these courses. Good luck everyone! This is [link](https://github.com/barinio/kottans-frontend.git) to my repo.
+
+
+# Hello Kottans!
+
+Hello! My name is Evgen. I have previously taken web front-end development courses,
+ I hope to learn something interesting from these courses
+
+#HI!!!!
+
 # Hello everyone!
 My name is Yevheniia. Happy to be here:)
 Good luck to all of you!
@@ -71,6 +317,9 @@ My name is Denis.
 
 I want to become Frontend Developer.
 
+# Hello everyone!
+My name is Alexey. I repeat the basic knowledge of the Front-end. Best wishes from Nikopol city!
+
 # Best wishes from Kharkiv!!!
 My name is Olexiy. I live in Ukraine,Kharkiv region. I am 31 old and I want to learn frontend development.
 
@@ -81,12 +330,12 @@ See you at work as FrontEnd Developer!
 
 
 ## HELLO, GAYS!
-<h1>HELLO, WORLD! My name is Tony</h1>
 
 # Hello kottans!
 My name is Vlad. Буде цікаво!
 
-<h2 align="center">Hi everyone! My name is Rostyslav</h2>
+#good afternoon)
+
 Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
 
@@ -98,9 +347,7 @@ I want to complete all tasks and go to Stage 1.
 [Link](https://github.com/kirill8210/kottans-frontend) to my repo on GitHub.
 
 #My cat is watching me))
-<p>
 ![Introduction Sequence](./assets/images/chester.jpg)
-</p>
 
 
 ﻿# Hey there!
@@ -133,16 +380,11 @@ Mit freundlichen Grüßen
 ## Hi there!
 Good luck everyone :raised_hands:
 
-
-
 # Hello Kottans!
-
 
 # Hey there!
 
 # Hi! My name is Aleks and [here is my repo](https://github.com/ShadePrima/kottans-frontend.git)!
-
-
 
 # Hello everybody!
 
@@ -152,14 +394,12 @@ I hope this project will be of interest to each of us.
 
 **Good luck to all! :)**
 
-
 # Hello KOTTANS!
 My name is Stas, I'm begginner , have some knowledge in HTML , CSS.
 I've a big wish to become frontend developer.
 My repo :(https://github.com/stass777/kottans-frontend)
 
 
-<h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 
 ## Hi guys!
@@ -257,7 +497,6 @@ My name is Natasha. This is [my repo](https://github.com/Nataliya-Petrenko/kotta
 I am Anton I hope you will be successful
 
 
-<h2 align="center">Hi everyone! My name is Rostyslav</h2>
 Glad to join this group. I wish you all the fulfillment of your desires and dreams.
 
 This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to my GitHub https://github.com/Ros1989
@@ -266,9 +505,7 @@ This is my repository(https://github.com/Ros1989/kottans-frontend). Subscribe to
 
 My name is Oleksandr and I am happy to study with all of you!
 
-<details><summary>there could be a picture</summary>
 ...but not this time
-</details>
 ---
 
 # Hey there!
@@ -295,13 +532,15 @@ Link to my repo [here](https://https://github.com/OlegPopovych/kottans-frontend)
 My name is Oleg. I'm switcher )). I'm glad to join the kottans community.
 Link to my repo [here](https://github.com/OlegPopovych/kottans-frontend).
 
+# Hello! guys!
+My name is Ivan. Glory to Ukraine!
+Welcome my repo. [Here it is](https://github.com/ivanb24/mock-repo.git), by the way.
+
 # Hello Kottans!
 
-**_My name is Yevhen_**<br />
-I'm 23 years old. Student. Musician.<br />
 Here is my [repo](https://github.com/zhenyakornilov/kottans-frontend).
 
-I discovered this course on [dou.ua](dou.ua).
+I discovered this course on [dou.ua](https://dou.ua).
 I am here to improve my frontend knowledges and just for fun too!
 
 P.S. I'm not going to upload any images here so I hope you wont't clone the repo as long as I did 🙃.
@@ -365,7 +604,6 @@ My name is Dmytro and it`s a big honour to study front-end with you!
 
 # Hello Kottans!
 
-<h3 align="center">Hi everyone! My name is Dmytro</h3>
 Pleased to meet all the members! I am glad that ITC.ua helped me to find out about this course. I wish everyone to get a lot of useful things here.
 
 You can see my repo [here](https://github.com/dmytro-botnarenko/kottans-frontend).
@@ -413,7 +651,6 @@ By no means look on my repo. [Here it is](https://github.com/natalia-artsiukh/ko
 
 # Hello kottans =(^.^)=, my name is Mykhailo :]
 
-Very happy to be part of your community. <br>
 ![alf](./assets/images/alf_cat.jpg)
 
 # Hi kottans! I'm Konstiantyn and i will work for you soon
@@ -442,7 +679,6 @@ I am Artem good luck
 
 My name is Dmytryj.
 [Link](https://github.com/DmytryjK/kottans-frontend) to my repo on GitHub.
-<img src="assets/images/mycat.png" alt="cat" style="width: 100%; height: 100%">
 
 # Hey cottans community, my name is Oleksandr.
 
@@ -458,18 +694,8 @@ This is [link](https://github.com/Dovahkiin1991/kottans-frontend) to my repo.
 
 This intro repo size over 200 MB now! fck gif dir.
 
-<h1 align="center">Hey, I'm Dima </h1>
-<p> Really glad to get together with ya'll , I'm sure that we can combine learning and having fun! </p>
-<a href=https://github.com/DinoDima666/kottans-frontend.git>Here's my GitHub repository</a>
-<p>And my smoll cat Sirius also excited!</p>
-<img src="assets/images/sirius.jpg"/>
-
-<h1 align="center">Hi! my name is Andrey </h1>
-<p> Pleased to meet you. </p>
 [my github profile](https://github.com/zadorogniyandrey)
 
-<h1 align="center">Hello, I'm Volodymyr </h1>
-<p> I'm glad to join the kottans community. Happy studying. </p>
 [github.com/vovan-zt/kottans-frontend](https://github.com/vovan-zt/kottans-frontend)
 
 # Hi! I'm Anna. I am incredibly excited to study with Kottans.
@@ -482,57 +708,17 @@ I'm happy to be with kottans
 
 The first request will be in the form of a course. It was necessary to independently review the theoretical material in the form of video and text material. The videos were short and very clear. This part was the easiest for me, because I was already theoretically familiar with this material. The second part was in the form of a simulator, which helped to practically master this knowledge. It was more difficult, the tasks became more difficult with each successive one, but it helped a lot to understand how everything works in practice. GIT knowledge will be 100% essential in real work environment in my opinion.
 
-<h2>hello there now. My name is Yura, and I amd a dinosaur</h2>
-
-
-<hr/>
-<p> <span>I am Alex.</span> I'm so glad to join the Kottans community! <br/> I am computer engineering student, looking for a new front-end knowledge and some friends : ) </p>
-<strong> Look at this engineer ☺</strong>
-<br/>
-<br/><br/>
-<br/>
-<img width="600" height="700" src="https://github.com/OGBeas222/C-1/blob/main/kottans.jpg" alt="" title="cat engineer">
-
 ## Hi everyone 🙃
 
 I'm Olena. I’m excited to join the kottans community. First of all, I wanna thank the organizers and developers for the opportunity to take this course. I hope I'll be able to complete all the tasks and continue my studies at the next levels.
 
 ### GIT
 
-<details><summary>Screenshot</summary>
-<p>
-
-![Introduction Sequence](./assets/images/git1.png)
-
-</p>
-</details>
-
-<details><summary>Screenshot</summary>
-<p>
-
-![Push&Pull](i./assets/images/git2.png)
-
-</p>
-</details>
-
 ![My kottans](./assets/images/Sebek.jpeg)
+
 **My disobedient kottans**
 
 ## Hi, I'm Anfisa! I'm from Kharkiv. What is about u?
-
-This is a training repository for Kottans [frontend](https://github.com/Kottans/frontend),
-[backend](https://github.com/Kottans/backend),
-and [git](https://github.com/Kottans/git-course) courses.
-You can try sending pull-requests to this repository proposing a change.
-The change can be anything you like, for example: fixing a typo in README.md. Consider this phrase, for example:
-
-Tell other kottans a couple of words and add a fancy picture.
-
-Try it! It’s fun, we promise :)
-
-**Please, add your greetings at the end of file.**
-
-By the way, creating issues is fun too!
 
 ![Screenshot](gif/jump.gif)
 
@@ -936,8 +1122,6 @@ Hello World! I'm Alexandr Nikandrov from Kiev.
 
 _It was an intentionally misspelled phrase_
 
-============================================
-
 ---
 
 # Hello Kottans!
@@ -985,13 +1169,9 @@ I'm Olena and I'm glad to become a part of this incredible community!
 
 ![cats](gif/cute-cat.gif)
 
-# <> May the Code be with us! </>
-
 Hello Kottans! Aspiring to join your community
 
 ---
-
-============================================
 
 ---
 
@@ -1003,17 +1183,10 @@ Ready to work hard and not to sleep at night
 
 ![](gif/hard-worker.gif)
 
-============================================
-
----
-
-============================================
-
 ---
 
 Hello, Kottans!
 Glad to be here)
-============================================
 
 # Hello, Kottans! How wonderful that I found you!
 
@@ -1043,8 +1216,6 @@ I want it to be a cat. Go! ![gopher](gif/catpher.png)
 ---
 
 - Holla everybody! =^.^=
-
-===============================================
 
 ---
 
@@ -1086,15 +1257,11 @@ I think it should be here.
 
 ---
 
-<Andrey, Odessa/>
-
 ---
 
 _first-time on the kottans pre-course:_
 
 ![first-time on the kottans pre-course](gif/first-time-kottans.gif)
-
-=======
 
 ## **Hello, guys! Want to start my path in Frontend.**
 
@@ -1213,8 +1380,6 @@ Happy to become a part of this great community!
 ## My name is Ivan.
 
 ## ![cat-forking](https://i.imgur.com/6eoCVvc.jpg)
-
-=======
 
 ## Hi, there!
 
@@ -1404,10 +1569,6 @@ I'm Anton from Kiev, nice to be part of Kottans community.
 
 ## kottans-frontendо from Mandzia Bohdan, Kyiv
 
-GitHub очень ценная штука, сохранение новых версий, внесение изменений, решение конфликтов реализовано очень чётко. Надеюсь использование данного ресурса в дальнейшем не вызовет у меня трудностей.<br>
-Данная отметка от Богдана г.Киев<br>
-<img src="https://github.com/Orlandis/kottans-frontend/blob/master/bobcat.jpg" width="225" height="225"/>
-
 ---
 
 ## Hello community :D
@@ -1449,8 +1610,6 @@ I am Vlad from Kyiv, and I'm excited to enroll in this frontend course :D
 ## Hello everyone :)
 
 I'm Tania. Nice to join you!
-
-=======
 
 ## Hello!
 
@@ -1539,21 +1698,12 @@ Thank you for your community!
 
 # Hello, everyone!
 
-<br>
-<b>Are you ready for a new experience?</b>
-
-<img height="500px" src="https://scontent.fiev13-1.fna.fbcdn.net/v/t1.0-9/48396361_1408634322606304_8205743904742440960_n.jpg?_nc_cat=101&_nc_ht=scontent.fiev13-1.fna&oh=f9029932c5a24eaee0053846e819eda8&oe=5CD4E635">
-<br>
-
 # Hi, Kottans-Frontend Club!
 
-<br>
 Nice to meet you! I'm Peter. Thank you for opportunity to learn this course and to communicate with others.
 I have interested Udacity git course especially for building excelent concept map of Git.
 I have enjoyed course *try.githab.io* for studying materials, such as *learning git
 branching* with graphical view of git commits as a tree, *github learning lab* with interactive activities.
-<br>
-
 # Hi Kottans!
 
 I'm Sviat from Kyiv. I like sphinxes.
@@ -1566,8 +1716,6 @@ Would be great to join you!
 ## Hello everybody!
 
 I'm Artem from Kyiv, Ukraine.
-<i>Nice to meet all of you! And thanks for good opportunity to kwon something new.</i>
-<img src="https://99px.ru/sstorage/86/2015/10/image_860210151148355628755.gif" alt="Черно-белый полосатый кот виляет хвостом" oncontextmenu="return false">
 
 Hello, everyone!
 Thank you for such great courses!!)
@@ -1580,7 +1728,6 @@ I'm Vladyslav. I'm from Kyiv
 ## Hi!
 
 My name is Yulia. Nice to meet you, guys!
-<br />
 ![cat](https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif)
 
 # Hi there!
@@ -1591,7 +1738,6 @@ Nice to join you.
 ## Hello!
 
 I'm Evgeny. I'm from Kyiv
-<br />
 ![spacecat](https://i.imgur.com/5cNY70b.png)
 
 ## Hi!
@@ -1761,7 +1907,6 @@ I'm Irina. I hope to be part of the Kottans family.
 # Hi, kottans!
 
 I'm doggan :) and my name is Jack Loki. Nice to meet you!
-<img style="align: left;" alt="cat? O_o" src="gif/jack_loki.jpg">
 
 # Hello, kottans!
 
@@ -1771,8 +1916,6 @@ I'm Viktoriia, I will study frontend with Kottans!
 
 My name is Roman!
 Thank you for an excellent batch of recources.
-
-<img width="294" alt="Снимок экрана 2018-12-17 в 16 30 58" src="https://user-images.githubusercontent.com/11008299/57920078-da0f9480-78a2-11e9-9068-65ebb65cf53b.png">
 
 ## Hi Kottans!
 
@@ -1812,7 +1955,6 @@ In case anyone is from **Lviv**, let's keep in touch
 
 ---
 
-<pre>
    /\     /\
   {  `---'  }
   {  O   O  }
@@ -1825,8 +1967,6 @@ In case anyone is from **Lviv**, let's keep in touch
     \__/  /(_E     \__/
       (  /
        MM
-
- </pre>
 
 ---
 
@@ -2034,8 +2174,6 @@ Im Vlad https://github.com/Wizardiq
 
 # Hello Kottans!
 
-=======
-
 # Hello Kottans!
 
 # Hi))
@@ -2079,15 +2217,10 @@ I am [Max](https://github.com/ms76adf1). Nice to meet you, guys!
 
 # Nice to meet you!
 
-<details>
-  <summary>My name is...</summary>
-
 ### [Sergio!](https://github.com/ITKozak)
 
 All in all a great course!
 I can also add an additional resource for practice blind typing - [TypingStudy.com](https://www.typingstudy.com/)
-
-</details>
 
 # Hi, guys!
 
@@ -2182,7 +2315,7 @@ Here are so many different cats in this Readme.md. Of course, it is pretty much 
 
 # Hello everyone! xD
 
-Hello. My name is [Victor](github.com/mustbefail/). Glad to join the Marophon.
+Hello. My name is [Victor](https://github.com/mustbefail/). Glad to join the Marophon.
 
 # Hi guys!
 
@@ -2227,7 +2360,7 @@ I'm Kyrylo, I have always dreamed of programming and this a great opportunity fo
 
 ## What's up Kottans!
 
-My name is [Alex](https:/github.com/usides) and I want to be a dev-cat.
+My name is [Alex](https://github.com/usides) and I want to be a dev-cat.
 ![Image of DevCat](https://www.nexmo.com/wp-content/uploads/2016/08/dx-jamie-comic.jpg)
 
 ---
@@ -2524,9 +2657,9 @@ Good luck and best wishes, [Mykhailo](https://github.com/eve5ince).
 I wish you all to succeed in this course!
 :smile_cat:
 [Github](https://github.com/ganushkevychv)
-[LinkedIn](www.linkedin.com/in/vladyslav-ganushkevych)
+[LinkedIn](https://www.linkedin.com/in/vladyslav-ganushkevych)
 [Portfolio](https://vladyslav-ganushkevych.netlify.app/)
-![CAT](assets/images/PngItem_30125.png)
+![CAT](./assets/images/PngItem_30125.png)
 
 ---
 
@@ -2888,7 +3021,6 @@ I took an HTML&CSS course in Spalah IT School about five years ago. I stopped de
 
 I'm Ivan. I am glad to become one of the participants.
 [![Botan kottan](./assets/images/botan_cat.jpg)](https://github.com/SinchUK/kottans-frontend)
-=======
 
 ## Hello kottans!
 
@@ -3102,7 +3234,7 @@ I'm am a new Kottans student. I'm very exited to learn Frontend.
 
 Hi everyone.
 
-## Hello there! My name is [Bohdan](www.github.com/Rokoboongee) and im study front-end
+## Hello there! My name is [Bohdan](https://github.com/Rokoboongee) and im study front-end
 
 ![killer-cat-bites-the-dust](./assets/images/killer-kitty.webp)
 I'm first time working with GitHub, its so fresh & cool expirience!!!
@@ -3443,6 +3575,19 @@ My name is Eugene.
 
 I'm happy to be here!
 
+
+## Hello, Kottans!## :partying_face:
+i'm Tina.
+I started my coding adventure a year ago.
+Now I want to study it more deeply, because I want to work in this field
+
+:upside_down_face: Make fun in studying :blush:
+
+My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
+:kissing_cat:
+***meow***
+![nice cat-octopus](./assets/images/image-rendered.png)
+
 ## My name is Ksenia !
 Let's learn together
 [Ksenia](https://github.com/KseniaZahorodniuk)
@@ -3542,6 +3687,10 @@ Good luck friend and have a nice game!
 
 ![alt text](https://github.com/allozavrr/Screenshots/blob/main/The_Elder_Scrolls_III_-_Morrowind_-_Text_Logo.png "My love")
 
+
+# Hello everyone!
+I'm Max. And I enjoy learning new things!
+
 ## Hi everyone!
 
 My name is Liza and I'm happy to be here and to learn something new!
@@ -3558,11 +3707,22 @@ Have a good day, guys!!!!
 What's up, guys?
 
 
+# Hello kottans-frontend!
+
+My name is Vladimir, I'm glad to join this course.
+
+This is my first communication on github.
+
+Here is the [link] to my repo on GitHub (https://github.com/ksevld/kottans-frontend)
+
+> *I love dogs more, but I'm with you anyway.* :smile:
+
+
 ## Hi kottans community!
 
 I'm Alexandr, that's my [repo](https://github.com/iSefero)
 
-![](/assets//images/catWorking.jpg)
+![](./assets/images/catWorking.jpg)
 
 ***Don't work hard, work intelligence***
 
@@ -3634,7 +3794,6 @@ Here is the my Github. Click (https://github.com/DmitriyPavlov99/kottans-fronten
 My name is [Ignat](https://github.com/CivilBitc4) and I'm happy to join this community!Thank you for this opportunity to be a part of this community.
 I hope that I and all  Kottans will be able to achieve good results in studying)
 ![Kitten](./assets/images/my-cute-kitten.jpg)
------------------------------------
 
 
 Hi I'm Yuriy from Ukraine!
@@ -3665,8 +3824,8 @@ I studied the materials of the course Introduction to Git and GitHub on Coursera
 Before I used some basic Git's comands and know how to work with it locally and remotes, but on this course, I discovered some new topics:
 
  		* prehistory of creating VCS
- 		* detailed information about the basic Git workflow (when in each repository we have a Git directory, a working tree, and a staging area) 
- 		* pull requests. 
+ 		* detailed information about the basic Git workflow (when in each repository we have a Git directory, a working tree, and a staging area)
+ 		* pull requests.
 
 Then I had some practice in the learngitbranching.js.org (basis and Push & Pull - remote repositories in Git!). These tasks were very usefull to understanding how the git works.
 
@@ -3696,12 +3855,15 @@ My name is Andriy. I love Javascript!
 I'm [Andrii Babushko](https://github.com/AndriiBabushko). I am glad that I am with kottans! I love all you <3
 
 
+## Hi, Kottans! My name is Yurii. I'm very glad to be a part of the community!
+
+
 ## Hey! Strength and patience to all!
 
 
 ## Hello. My name is Tetiana. I am glad to join you
 
-## Hello! <br>
+## Hello! 
 My name is **Yevhen**. I'm glad to join you. It is my third time to try pass kottans. I'm persistent. So let's go!
 
 ## Hi! my name is Yevhen.
@@ -3714,8 +3876,18 @@ My  [repository](https://github.com/lussi-gubska).
 ### :wave: Hi there )
 I'm [Martha](https://github.com/martthaa) and I'm glad to study with you.
 
+#Hi there, my name is Lilya.
+"Rome wasn’t built in a day" and  I'm ready to study hard and with fun)))
+My  [repository](https://github.com/LiliaBilous)
 
 ## Hello. My name is Nazarii. I am glad to join you
+
+#Hello. My name Vlad, I'm glad taking this course)))
+
+## Hello, my name is Bogdan and I study Git
+
+## Hello. My name is Oleksandr.
+[Oleksandr](https://github.com/sai7602)
 
 ## Hi, Everybody!
 My name Oksana.
@@ -3723,3 +3895,295 @@ My  [repository](https://github.com/KsanaSal).
 
 ## Dobriy den', Everybody!
 I'm [Ivashiby](https://github.com/Ivashiby) and it's my first experience with Git :-D I'm glad to study with Kottans.
+
+## Hello Kottans!
+
+My name is [Zarema](https://github.com/ZaremaK/kottans-frontend). I'm glad to join kottans community!
+![img](./assets/images/Masja.png)
+
+## Hello, Kottans!
+My name is Helen (https://github.com/Alissy27)
+
+
+## Hello world! :D
+
+## Hi, Kottans!
+### I'm Valentyn.
+My  [Repository for Kottans Front-End](https://github.com/Chotogde/kottans-frontend).
+:round_pushpin: don't forget to `cd mock-repo` in concole after cloning rerpository kottans/mock-repo :sweat_smile:
+
+
+## Hi, Kottans!
+Hi, everyone. My name is Kostia!
+
+## Hello, my name is Alina! Glad to be here with everyone. Thanks Kottans for such a cool course
+## Whoever reading this, I wish you luck)
+
+# Hello!
+My name is Diana. I'm happy to be here!
+ 
+
+## (=◉ᆽ◉=) .git/config
+also known as
+cat .git/config
+is a useful command by the way
+
+
+
+## Hello, my name is Bogdan and I study Git
+
+
+
+
+## Hello, Kottans!
+My name is Iryna
+
+Hi everyone, my name is Olga!
+My repository:
+https://github.com/controlia/mock-repo.git
+https://github.com/controlia/kottans-frontend.git
+
+## Hello, Kottans!
+Hello, everyone. My name is Misha!
+
+## Hi
+Test
+
+## Hello there!
+My name is Natalia and I'm happy to become a part of kottans community
+
+#Hello World!
+> I am **Olexii Bulhakov** and [this](https://github.com/bulhakovolexii/kottans-frontend) is a diary of my studies with Kottans. I wish you good luck and inspiration!
+
+## Hello Kottans! 😸
+
+My name is 🍩 LordPonchik 🍩.
+My repo [Repository for Kottans Front-End](https://github.com/lordponchik/kottans-frontend)
+
+# Hello, Kottans and everyone!
+I am Yaroslav and this is my [repository for Kottans](https://github.com/YaroslavZagreb/kottans-frontend)
+## Cats say us good luck and have fun!
+[cats](./assets/images/relaxcats.jpg)
+
+## Hello everyone!
+
+My name is Vasyl!
+
+## Hello, kottans!
+My name is Kris!
+
+
+
+## Hi there
+je m'appelle Fédir
+jk
+
+## Hello, Kottans
+My name is Dana. I'm happy to be here. [My repo](https://github.com/DanaSh3lley/kottans-frontend).
+
+# HI there!
+My name is Yurii.
+
+# Hello Kottans!
+
+My name is Volodya.
+My repo [Repository for Kottans Front-End]https://github.com/twenty2119/kottans-frontend.git
+I hope to pass stage 1 and change my life with the help of programming!!!
+
+## Hello!!!
+My name is Viktor!!!
+
+## Hello, Kottans!
+My name is Viktoriia (https://github.com/ViktoriiaPavliukh)
+
+
+## Hello, kottans!
+My name is Elena! :)
+
+## Hello Kottans community!!!
+Happy coding!
+![cat](./assets/images/cat_coding.jpeg)
+
+#Hello!!
+I am Svitlanka. I very glad to be here)))))
+
+
+# Hello everyone!
+My name is Dmytro Voloshko.
+
+I'm here to share, grow and get along with like-minded kottans and kittens.
+
+## Hello, kottans!
+My name is Vlad!
+
+## Hello, kottans!
+Hello, kottans!
+
+## Hello Everyone!
+Happy to be here:)
+
+# kottans-frontend
+**Hello**   
+
+My name is Kate :wink:  
+Thanks for your course.  
+Git is new for me but I begin to understand how it works, thanks to you 😃  
+A lot of new information/ The most intresting is [Learning git branching](https://learngitbranching.js.org/)   
+
+ ![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R1vbjJquxCZce8yEncdFhoAk1d-bECwGlw&usqp=CAU)   
+ 
+ [Link](https://github.com/Batiunka/kottans-frontend) to my repo  
+
+## Hello Everyone!git@github.com:kottans/mock-repo.git
+Happy to be here:)
+
+## Hello Everyone!
+My name is Oles. I very glad to be here!
+
+## Привітик, kottans :smiley_cat:!
+Мене звати Таня. Дякую, kottans :smiley_cat: , за можливість навчання безкоштовно та ще й в цікавому форматі. Дуже сподобалася програмка  learngitbranching.js.org :fire:. Маю надію, що далі тільки цікавіше.                           
+Бажаю усім натхнення і терпіння у вивченні матеріалу :muscle:!   
+
+## Hello, Kottans
+My name is Andrii. I'm happy to be here. [My repo](https://github.com/alladinchik/kottans-frontend).
+
+## Hello 😃
+
+Learning is very interesting. There are difficult tasks, but after you complete them, your mood rises.
+
+Git was completely new to me.)
+
+On the courses, I was surprised by the fact that it is possible to clone repositories. I was also surprised by how the Putty program works
+
+So I will definitely use Linux in the future.
+
+Thank you very much for the opportunity to study.
+Good luck with your studies  to everyone.👌
+
+# _Hello everyone, good and successful studies!_ #
+___
+
+## Hello, kottans!
+My name is Maksym. I'm really happy to be here!
+[My repository](https://github.com/MaksymYuzva)
+
+## Hello, Kottans
+My name is Bohdan. I'm happy to be here. [My repo](https://github.com/Bohdantq/mock-repo).
+
+## Hello!
+My name is Sasha. I very glad to be here! My repo https://github.com/thunderpussy1/kottans-frontend .
+
+## Hello everybody.
+
+My name's Oleg. I hope I'll get good knowledge here. I wish you good luck.
+
+## Hello, Everyone!
+My name is Valerii!
+
+## Greetings!
+
+My name is Serhii. 
+Does anyone loves archery and choppers the same as I do? :)
+
+## Добрий день everybody!
+
+My name is [Kostiantyn](https://github.com/rukhlovka)! And this is my cat and my hands when I was learning Git.
+![Kitten](./assets/images/cat-Mini.jpg)
+
+
+## Hi! i'm Andre! 
+![Screenshot-image-link](./assets/images/Bandit.jpg) 
+
+## Hello, Kottans
+My name is Alex.
+
+## Hi kottans, my name is Irena from LVIV
+I'm late, but I hope, I'll can study with you!
+All the best!
+___
+
+## hey, kottans (and other pets)!
+
+    :flushed: 
+  :point_right: :point_left:
+  my [readme](https://github.com/Yaroslav-Ms/kottans-frontend)
+
+-----
+## Greetings to everyone! (./assets/images/low_bow.jpg)
+Please to join your community.
+
+My name is Volodymyr, and I don't have any experience at coding. So I hope I'll figure it out.
+
+Wish luck to everyone.
+
+------
+
+## Hello to all in the Kottans family! 
+I am Vika and [here's my repo](https://github.com/lisovamavka/kottans-frontend)! :cat:
+___
+
+## Hello, kottans!
+My name is Vlad!
+
+## Hello, everyone :)
+
+My name is Stasya and I happy to join you
+I want to share my impressions about the learned material. Initially, when I started watching the first video, I was frustrated because I couldn’t understand anything, I expected to hear how to write code, and they began to explain what Git is. Since I am new to this field, it was difficult for me to get up to speed. It took me a long time to look through the courses, complete the assignments, and eventually master this topic. I really liked the courses: accessible, understandable, convenient. Now I understand what GIt and GitHub are, and I understand that writing good and clean code is great, but you also need to be able to work with this code and together with the team.
+
+
+## Hello everybody.
+
+My name is Jack. Just Jack.
+I starting learning this course.
+I thanks for got experience in Git (especially Git commands), it's so interesting.
+[My repo](https://github.com/JCodeW/mock-repo)
+
+---
+
+## Вечір в хату:)
+
+I am Dmytro and I am glad that I am here:) It's pleasure to study here! Thanks 4 all:)
+
+P.S. Here is my kottans [repo]:
+
+https://github.com/lushpen/kottans-frontend
+
+## Hello, Kottans!
+My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/marynatovtyn/kottans-frontend) :)
+
+
+## Hello, guys!🌴
+
+Мене звати Вікторія. Рада приймати участь в цьому курсі! Усім нам бажаю успіхів! [my repo](hhttps://github.com/Victhri/kottans-frontend)🇺🇦
+
+## Hi, Kottans!
+My name is Nadia. [My repo](https://github.com/nadia-hope).
+
+## Hello world!
+
+## Hi, Kottans!
+My name is Vika! Good luck everyone!
+P.S. That is my cat :cat Цезарь
+
+![Caesar](assets/images/Caesar.jpg)
+
+## Hi, Kottans!
+
+Hello everyone! My name is Vlad. My repo: https://github.com/InkoVlad/kottans-frontend
+
+I am very happy for learning in this frontend course! Thanks for mentors of this course!
+
+My name is Tania. [My repo](https://github.com/TaniaIva)
+
+Hello! My name is Oksana. I'm glad to welcome you and wish you all good luck! (https://github.com/Nik3264/kottans-frontend)
+
+## Hi Kottans :smile_cat:
+
+I'm Vlad (aka Michigan28). Very glad to be here! :)
+
+## Hi !
+
+## Hi
+My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
+
+## Add something for PR
