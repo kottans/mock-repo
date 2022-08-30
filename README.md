@@ -3893,6 +3893,8 @@ My  [repository](https://github.com/LiliaBilous)
 My name Oksana.
 My  [repository](https://github.com/KsanaSal).
 
+## Dobriy den', Everybody!
+I'm [Ivashiby](https://github.com/Ivashiby) and it's my first experience with Git :-D I'm glad to study with Kottans.
 
 ## Hello Kottans!
 
