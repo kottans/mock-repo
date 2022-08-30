@@ -3893,6 +3893,8 @@ My  [repository](https://github.com/LiliaBilous)
 My name Oksana.
 My  [repository](https://github.com/KsanaSal).
 
+## Dobriy den', Everybody!
+I'm [Ivashiby](https://github.com/Ivashiby) and it's my first experience with Git :-D I'm glad to study with Kottans.
 
 ## Hello Kottans!
 
@@ -4175,13 +4177,20 @@ My name is Tania. [My repo](https://github.com/TaniaIva)
 
 Hello! My name is Oksana. I'm glad to welcome you and wish you all good luck! (https://github.com/Nik3264/kottans-frontend)
 
-##Hi Kottans :smile_cat:
+## Hi Kottans :smile_cat:
 
 I'm Vlad (aka Michigan28). Very glad to be here! :)
 
 ## Hi !
 
+
 ## Hi, Kottans:)
 My name is Kate. Glad to be here and happy coding!
 
+
+
+## Hi
+My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
+
+## Add something for PR
 
