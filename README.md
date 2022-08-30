@@ -4186,4 +4186,11 @@ I'm Vlad (aka Michigan28). Very glad to be here! :)
 ## Hi
 My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
 
-## Add something for PR
+___
+## Hello everyone. 
+My name is Daria Yurko, I am from Kriviy Rih. 
+
+And this is my first step to frontend learning. I hope I can catch up with you in this course. And thanks to Kottans for the opportunity to learn with you all. 
+
+Link to my [repository](https://github.com/DariaYurko/kottans-frontend).
+___
