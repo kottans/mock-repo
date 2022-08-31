@@ -4194,5 +4194,11 @@ My name is Kate. Glad to be here and happy coding!
 
 ## Hi
 My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
+___
+## Hello everyone. 
+My name is Daria Yurko, I am from Kriviy Rih. 
 
-## Add something for PR
+And this is my first step to frontend learning. I hope I can catch up with you in this course. And thanks to Kottans for the opportunity to learn with you all. 
+
+Link to my [repository](https://github.com/DariaYurko/kottans-frontend).
+___
