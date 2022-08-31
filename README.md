@@ -1,4 +1,3 @@
-
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
@@ -39,6 +38,13 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
+---
+# Hi kottans! I'm Oleh.
+I'm starting late, but I'll catch up with you.
+[My repository](https://github.com/mulskyi/kottans-frontend)
+
+I will be glad for advice and communication.
+# Good luck!
 ---
 ## Hi kottans, my name is Andrii.
 I'm late, but I hope, I'll can study with you!
@@ -3898,6 +3904,8 @@ My  [repository](https://github.com/LiliaBilous)
 My name Oksana.
 My  [repository](https://github.com/KsanaSal).
 
+## Dobriy den', Everybody!
+I'm [Ivashiby](https://github.com/Ivashiby) and it's my first experience with Git :-D I'm glad to study with Kottans.
 
 ## Hello Kottans!
 
@@ -4180,8 +4188,22 @@ My name is Tania. [My repo](https://github.com/TaniaIva)
 
 Hello! My name is Oksana. I'm glad to welcome you and wish you all good luck! (https://github.com/Nik3264/kottans-frontend)
 
-##Hi Kottans :smile_cat:
+## Hi Kottans :smile_cat:
 
 I'm Vlad (aka Michigan28). Very glad to be here! :)
 
 ## Hi !
+
+## Hi, Kottans:)
+My name is Kate. Glad to be here and happy coding!
+
+## Hi
+My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
+___
+## Hello everyone. 
+My name is Daria Yurko, I am from Kriviy Rih. 
+
+And this is my first step to frontend learning. I hope I can catch up with you in this course. And thanks to Kottans for the opportunity to learn with you all. 
+
+Link to my [repository](https://github.com/DariaYurko/kottans-frontend).
+___
