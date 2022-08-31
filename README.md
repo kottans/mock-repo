@@ -1,4 +1,3 @@
-
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
@@ -34,6 +33,13 @@ Try it! It’s fun, we promise :)
 
 By the way, creating issues is fun too!
 
+---
+# Hi kottans! I'm Oleh.
+I'm starting late, but I'll catch up with you.
+[My repository](https://github.com/mulskyi/kottans-frontend)
+
+I will be glad for advice and communication.
+# Good luck!
 ---
 ## Hi kottans, my name is Andrii.
 I'm late, but I hope, I'll can study with you!
@@ -4183,14 +4189,10 @@ I'm Vlad (aka Michigan28). Very glad to be here! :)
 
 ## Hi !
 
-
 ## Hi, Kottans:)
 My name is Kate. Glad to be here and happy coding!
-
-
 
 ## Hi
 My name is Veronika. [My repo](https://github.com/nkondd/kottans-frontend).
 
 ## Add something for PR
-
