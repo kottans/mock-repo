@@ -2,6 +2,11 @@
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ---
+
+### Hi everyone :)
+My name is Alexander and I'm looking forward to study with all of you
+
+---
 # Git & github
 ## I'm making a pool request for the second time, I hope I did everything right this time
 ---
