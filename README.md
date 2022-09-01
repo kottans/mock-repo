@@ -39,6 +39,9 @@ Try it! It’s fun, we promise :)
 By the way, creating issues is fun too!
 
 ---
+# Here's Alex
+Let's start and good luck for all!
+
 # Hi Guys!
 Did you know? That a real programmer's cat should be able to debug your project while you sleep.
 And here is the question. Either you are not a programmer yet, or 2 useless sloths live with you? 🙀😼
