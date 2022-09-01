@@ -1,3 +1,11 @@
+# Nice to meet you
+
+My name is Daniil. Congratulate everyone with the beginning of new study year! Also prepare yourself to September, the third - it's too close already...
+
+[My repository](https://github.com/daniil-bodryagin/kottans-frontend)
+
+---
+
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
