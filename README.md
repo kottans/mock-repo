@@ -2,6 +2,13 @@
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 
 ---
+
+## Hi there!
+Ihor_gw is here :)
+
+![cat_7](./assets/images/cat_7.png)
+
+---
 # Git & github
 ## I'm making a pool request for the second time, I hope I did everything right this time
 ---
