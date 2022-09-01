@@ -34,6 +34,10 @@ Try it! It’s fun, we promise :)
 By the way, creating issues is fun too!
 
 ---
+# Hi Guys!
+Did you know? That a real programmer's cat should be able to debug your project while you sleep.
+And here is the question. Either you are not a programmer yet, or 2 useless sloths live with you? 🙀😼
+
 # Hi kottans! I'm Oleh.
 I'm starting late, but I'll catch up with you.
 [My repository](https://github.com/mulskyi/kottans-frontend)
