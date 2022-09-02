@@ -8,9 +8,14 @@ I am happy to be a part of this wonderful project and thank you for this opportu
 
 ---
 
+## Hi there!
+Ihor_gw is here :)
+
+![cat_7](./assets/images/cat_7.png)
+
+---
 ### Hi everyone :)
 My name is Alexander and I'm looking forward to study with all of you
-
 ---
 # Git & github
 ## I'm making a pool request for the second time, I hope I did everything right this time
