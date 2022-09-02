@@ -1,7 +1,7 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 ---
-##Dobriy den everybody. Im Vasyl, from Spain.
+# Dobriy den everybody. Im Vasyl, from Spain.
 
 ---
 # Hi there! 
