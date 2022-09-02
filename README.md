@@ -1,7 +1,9 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 ---
+##Dobriy den everybody. Im Vasyl, from Spain.
 
+---
 # Hi there! 
 My name is Andrew.
 I am happy to be a part of this wonderful project and thank you for this opportunity!
