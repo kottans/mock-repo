@@ -4245,3 +4245,8 @@ And this is my first step to frontend learning. I hope I can catch up with you i
 
 Link to my [repository](https://github.com/DariaYurko/kottans-frontend).
 ___
+
+## Hello Kottans
+
+My name Taras. I want to learn frontend
+Link to my [repository](https://github.com/Shadovhhd/mock-repo.git).
