@@ -4250,3 +4250,9 @@ ___
 
 My name Taras. I want to learn frontend
 Link to my [repository](https://github.com/Shadovhhd/mock-repo.git).
+
+## Hello everyone
+
+My name Sergii. I am from Kharkiv.
+I am happy for learning in this frontend course!
+Link to my [repository](https://github.com/GavryshSergii/mock-repo.git).
