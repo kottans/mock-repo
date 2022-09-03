@@ -1,6 +1,15 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
 ---
+
+# Nice to meet you
+
+My name is Daniil. Congratulate everyone with the beginning of new study year! Also prepare yourself to September, the third - it has come...
+
+[My repository](https://github.com/daniil-bodryagin/kottans-frontend)
+
+---
+
 # Dobriy den everybody. Im Vasyl, from Spain.
 
 -----
@@ -18,12 +27,14 @@ I am happy to be a part of this wonderful project and thank you for this opportu
 
 ---
 
+=======
 ## Hi there!
 Ihor_gw is here :)
 
 ![cat_7](./assets/images/cat_7.png)
 
 ---
+
 ### Hi everyone :)
 My name is Alexander and I'm looking forward to study with all of you
 ---
