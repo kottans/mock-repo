@@ -1,6 +1,5 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
-
 ---
 
 # Nice to meet you
@@ -11,9 +10,30 @@ My name is Daniil. Congratulate everyone with the beginning of new study year! A
 
 ---
 
+# Dobriy den everybody. Im Vasyl, from Spain.
+
+-----
+# Here's Alex)
+Let's start and good luck to all!
+-----
+
+---
+# Hi there! 
+My name is Andrew.
+I am happy to be a part of this wonderful project and thank you for this opportunity!
+
+---
+
+=======
+## Hi there!
+Ihor_gw is here :)
+
+![cat_7](./assets/images/cat_7.png)
+
+---
+
 ### Hi everyone :)
 My name is Alexander and I'm looking forward to study with all of you
-
 ---
 # Git & github
 ## I'm making a pool request for the second time, I hope I did everything right this time
@@ -47,6 +67,9 @@ Try it! It’s fun, we promise :)
 By the way, creating issues is fun too!
 
 ---
+# Here's Alex
+Let's start and good luck for all!
+
 # Hi Guys!
 Did you know? That a real programmer's cat should be able to debug your project while you sleep.
 And here is the question. Either you are not a programmer yet, or 2 useless sloths live with you? 🙀😼
