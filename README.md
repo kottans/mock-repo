@@ -27,7 +27,6 @@ I am happy to be a part of this wonderful project and thank you for this opportu
 
 ---
 
-=======
 ## Hi there!
 Ihor_gw is here :)
 
@@ -4252,6 +4251,12 @@ My name Taras. I want to learn frontend
 Link to my [repository](https://github.com/Shadovhhd/mock-repo.git).
 
 ## Hello everyone
+https://www.airbnb.com/rooms/33818523?adults=2&location=Krakow%2C%20Poland&check_in=2022-09-10&check_out=2022-10-06&federated_search_id=1b2e71b0-df71-47d7-bd81-8a956f7baf4b&source_impression_id=p3_1662296668_aW%2BTXklZkQIfL9Sa&modal=PHOTO_TOUR_SCROLLABLE
+## Here was Vadim
+This line is 4192, here is my cat for you guys who scrolled to here
+![mia](assets/images/PXL_20220807_103903323.jpg)
+and [my repo](https://github.com/GramenCeleritas/kottans-frontend)
+Have a nice day
 
 My name Sergii. I am from Kharkiv.
 I am happy for learning in this frontend course!
