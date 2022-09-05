@@ -1,5 +1,5 @@
 # Kottans-frontend
-## Help with your first commit -> [discord](https://discord.gg/k5zS4XmH)
+## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
 
 # Nice to meet you
