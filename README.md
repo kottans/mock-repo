@@ -4261,3 +4261,8 @@ Have a nice day
 My name Sergii. I am from Kharkiv.
 I am happy for learning in this frontend course!
 Link to my [repository](https://github.com/GavryshSergii/mock-repo.git).
+
+Hi, Kottans!
+My name is Alyona and I like to be part of the kottans students-team! Thanks for the opportunity!
+Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
+
