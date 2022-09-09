@@ -4266,3 +4266,8 @@ Hi, Kottans!
 My name is Alyona and I like to be part of the kottans students-team! Thanks for the opportunity!
 Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
 
+___
+
+## Greetings :wave: to all! 
+My name is Oliia. Thanks to the [Kottans community](https://kottans.org/) for this well-thought course!
+Here is my [repository](https://github.com/semkivolya/kottans-frontend).
