@@ -4274,3 +4274,10 @@ Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
 ## Greetings :wave: to all! 
 My name is Oliia. Thanks to the [Kottans community](https://kottans.org/) for this well-thought course!
 Here is my [repository](https://github.com/semkivolya/kottans-frontend).
+
+## Hello!
+
+My name is [Yurii](https://github.com/merowing).
+
+This is my second try to get an offer.
+![SadCat](./assets/images/sad-cat.jpg)
