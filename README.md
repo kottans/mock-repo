@@ -4270,6 +4270,11 @@ Hi, Kottans!
 My name is Alyona and I like to be part of the kottans students-team! Thanks for the opportunity!
 Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
 
+My name is Rost. I am from Kharkiv, but now I live in Poltava
+![my cat](.assets/images/pusha.jpg)
+My [repo] - (https://github.com/R0st/mock-repo)
+Good luck!
+
 Hello everybody!
 My name is Yevhen. My repository is [https://github.com/bar-ea/kottans-frontend](https://github.com/bar-ea/kottans-frontend). Nice to meet you.
 
