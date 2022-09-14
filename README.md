@@ -4293,5 +4293,8 @@ My name is [Yurii](https://github.com/merowing).
 This is my second try to get an offer.
 ![SadCat](./assets/images/sad-cat.jpg)
 
+# ¯\_(ツ)_/¯
+Hello everyone! My name's Oleksii. Nice to meet you!
+
 ## Hi
 My name's Anna.
