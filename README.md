@@ -4298,3 +4298,9 @@ This is my second try to get an offer.
 My name is [Dimond](https://github.com/dd44it). Thanks to the [Kottans community](https://kottans.org/) for great opportunity to study web development!
 
 ![SadCat](./assets/images/chilly-sem.jpg)
+
+# ¯\_(ツ)_/¯
+Hello everyone! My name's Oleksii. Nice to meet you!
+
+## Hi
+My name's Anna.
