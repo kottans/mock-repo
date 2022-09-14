@@ -4293,6 +4293,12 @@ My name is [Yurii](https://github.com/merowing).
 This is my second try to get an offer.
 ![SadCat](./assets/images/sad-cat.jpg)
 
+## Hello fellas!
+
+My name is [Dimond](https://github.com/dd44it). Thanks to the [Kottans community](https://kottans.org/) for great opportunity to study web development!
+
+![SadCat](./assets/images/chilly-sem.jpg)
+
 # ¯\_(ツ)_/¯
 Hello everyone! My name's Oleksii. Nice to meet you!
 
