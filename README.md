@@ -4274,8 +4274,6 @@ My name is Rost. I am from Kharkiv, but now I live in Poltava
 ![my cat](./assets/images/pusha.jpg)
 My [repo] - (https://github.com/R0st/mock-repo)
 Good luck!
-<<<<<<< HEAD
-=======
 
 Hello everybody!
 My name is Yevhen. My repository is [https://github.com/bar-ea/kottans-frontend](https://github.com/bar-ea/kottans-frontend). Nice to meet you.
