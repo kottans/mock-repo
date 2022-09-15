@@ -423,7 +423,8 @@ Mit freundlichen Grüßen
 
 
 # Hello Kottans!
-
+# Hi All!
+Good day. 10/10 for the initial training material I went through in this training course. Previously, I worked a little with the Git version control system, but before going through the training materials, it was, frankly, extremely confusing. Theoretically, everything has become much clearer, but we will further consolidate everything in practice.
 
 ## Hi there!
 Good luck everyone :raised_hands:
@@ -4070,6 +4071,9 @@ Hello, kottans!
 ## Hello Everyone!
 Happy to be here:)
 
+## Hello Everybody
+My name is Dima, aka 4ayokk.
+
 # kottans-frontend
 **Hello**   
 
@@ -4267,5 +4271,6 @@ My name is Alyona and I like to be part of the kottans students-team! Thanks for
 Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
 
 My name is Rost. I am from Kharkiv, but now I live in Poltava
+![my cat](./assets/images/pusha.jpg)
 My repo - https://github.com/R0st/mock-repo
 Good luck!
