@@ -9,6 +9,8 @@
 I'm Yulia from Kyiv. I'm starting my coding journey. Wishing you all best of luck!
 [My repo](https://github.com/yuliaMasliak/kottans-frontend)
 
+---
+
 # Nice to meet you
 
 My name is Daniil. Congratulate everyone with the beginning of new study year! Also prepare yourself to September, the third - it has come...
@@ -3693,8 +3695,8 @@ Now I want to study it more deeply, because I want to work in this field
 :upside_down_face: Make fun in studying :blush:
 
 My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
-:kissing_cat:
-**_meow_**
+:kissing*cat:
+\*\*\_meow*\*\*
 ![nice cat-octopus](./assets/images/image-rendered.png)
 
 ## My name is Ksenia !
@@ -4308,11 +4310,16 @@ https://github.com/lushpen/kottans-frontend
 
 ## Hello, Kottans!
 
+<<<<<<< HEAD
 My name is Maryna. I'm happy to join. Here's [my repo](https://github.com/marynatovtyn/kottans-frontend) :)
+
+=======
+
+> > > > > > > master
 
 ## Hello, guys!🌴
 
-Мене звати Вікторія. Рада приймати участь в цьому курсі! Усім нам бажаю успіхів! [my repo](hhttps://github.com/Victhri/kottans-frontend)🇺🇦
+Мене звати Вікторія. Рада приймати участь в цьому курсі! Усім нам бажаю успіхів! [my repo](https://github.com/Victhri/kottans-frontend)🇺🇦
 
 ## Hi, Kottans!
 
@@ -4387,6 +4394,8 @@ Hi, Kottans!
 My name is Alyona and I like to be part of the kottans students-team! Thanks for the opportunity!
 Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
 
+##Hi, everyone! I'm Diana. Wish you all the best!
+
 My name is Rost. I am from Kharkiv, but now I live in Poltava
 ![my cat](.assets/images/pusha.jpg)
 My [repo] - (https://github.com/R0st/mock-repo)
@@ -4408,3 +4417,17 @@ My name is [Yurii](https://github.com/merowing).
 
 This is my second try to get an offer.
 ![SadCat](./assets/images/sad-cat.jpg)
+
+## Hello fellas!
+
+My name is [Dimond](https://github.com/dd44it). Thanks to the [Kottans community](https://kottans.org/) for great opportunity to study web development!
+
+![SadCat](./assets/images/chilly-sem.jpg)
+
+# ¯\_(ツ)\_/¯
+
+Hello everyone! My name's Oleksii. Nice to meet you!
+
+## Hi
+
+My name's Anna.
