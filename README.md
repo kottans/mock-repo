@@ -1,7 +1,11 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
+# Hi! Happy to join kottans!
 
+I'm Yulia from Kyiv. I'm starting my coding journey. Wishing you all best of luck!
+
+---
 # Nice to meet you
 
 My name is Daniil. Congratulate everyone with the beginning of new study year! Also prepare yourself to September, the third - it has come...
