@@ -3694,8 +3694,8 @@ Now I want to study it more deeply, because I want to work in this field
 :upside_down_face: Make fun in studying :blush:
 
 My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
-:kissing_cat:
-**_meow_**
+:kissing*cat:
+\*\*\_meow*\*\*
 ![nice cat-octopus](./assets/images/image-rendered.png)
 
 ## My name is Ksenia !
@@ -4425,6 +4425,12 @@ Hello everyone! My name's Oleksii. Nice to meet you!
 ## Hi
 
 My name's Anna.
+
+## Hello, kottans!
+
+I'm Ira ^-^
+
+I'm glad to be here. I didn't work with Git so tight, so almost everything was new and difficult for me but I nailed it :) The coolest thing that I liked is learngitbranching.js.org . This is a good interactive program for learning git commands, I had a lot of fun using it.
 
 ## Hello!
 
