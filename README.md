@@ -4303,3 +4303,9 @@ Hello everyone! My name's Oleksii. Nice to meet you!
 
 ## Hi
 My name's Anna.
+
+____________________________________________
+## Hello, kottans!
+I'm Ira ^-^
+
+I'm glad to be here. I didn't work with Git so tight, so almost everything was new and difficult for me but I nailed it :) The coolest thing that I liked is learngitbranching.js.org . This is a good interactive program for learning git commands, I had a lot of fun using it.  
