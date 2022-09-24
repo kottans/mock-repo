@@ -4323,3 +4323,6 @@ I'm glad to be here. I didn't work with Git so tight, so almost everything was n
 
 ## Hello!
 I'm Anna. Thank you for the opportunity to participate in such a cool project.
+
+## Hi!
+My name's Serafim. Nice to meet you!
