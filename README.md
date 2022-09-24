@@ -1,6 +1,13 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
+# Hello here!
+
+I'm Olha from Kryvyi Rih.
+
+Nice to meet everyone.
+
+---
 # Hi! Happy to join kottans!
 
 I'm Yulia from Kyiv. I'm starting my coding journey. Wishing you all best of luck!
@@ -102,7 +109,7 @@ animation of elements, SASS preprocessor in SCSS syntax for speeding up and ease
 
 If you want test my work follow the link: [My website](https://shalind0r.github.io/swd/index.html)
 
-Now check meme about JavaScript:  
+Now check meme about JavaScript:
 
 ![js-meme](./assets/images/js-meme.jpg)
 ___
@@ -4079,16 +4086,16 @@ Happy to be here:)
 My name is Dima, aka 4ayokk.
 
 # kottans-frontend
-**Hello**   
+**Hello**
 
-My name is Kate :wink:  
-Thanks for your course.  
-Git is new for me but I begin to understand how it works, thanks to you 😃  
-A lot of new information/ The most intresting is [Learning git branching](https://learngitbranching.js.org/)   
+My name is Kate :wink:
+Thanks for your course.
+Git is new for me but I begin to understand how it works, thanks to you 😃
+A lot of new information/ The most intresting is [Learning git branching](https://learngitbranching.js.org/)
 
- ![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R1vbjJquxCZce8yEncdFhoAk1d-bECwGlw&usqp=CAU)   
+ ![this is an image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1R1vbjJquxCZce8yEncdFhoAk1d-bECwGlw&usqp=CAU)
 
- [Link](https://github.com/Batiunka/kottans-frontend) to my repo  
+ [Link](https://github.com/Batiunka/kottans-frontend) to my repo
 
 ## Hello Everyone!git@github.com:kottans/mock-repo.git
 Happy to be here:)
@@ -4097,8 +4104,8 @@ Happy to be here:)
 My name is Oles. I very glad to be here!
 
 ## Привітик, kottans :smiley_cat:!
-Мене звати Таня. Дякую, kottans :smiley_cat: , за можливість навчання безкоштовно та ще й в цікавому форматі. Дуже сподобалася програмка  learngitbranching.js.org :fire:. Маю надію, що далі тільки цікавіше.                           
-Бажаю усім натхнення і терпіння у вивченні матеріалу :muscle:!   
+Мене звати Таня. Дякую, kottans :smiley_cat: , за можливість навчання безкоштовно та ще й в цікавому форматі. Дуже сподобалася програмка  learngitbranching.js.org :fire:. Маю надію, що далі тільки цікавіше.
+Бажаю усім натхнення і терпіння у вивченні матеріалу :muscle:!
 
 ## Hello, Kottans
 My name is Andrii. I'm happy to be here. [My repo](https://github.com/alladinchik/kottans-frontend).
@@ -4285,7 +4292,7 @@ My name is Yevhen. My repository is [https://github.com/bar-ea/kottans-frontend]
 
 ## Hello World
 
-## Greetings :wave: to all! 
+## Greetings :wave: to all!
 My name is Oliia. Thanks to the [Kottans community](https://kottans.org/) for this well-thought course!
 Here is my [repository](https://github.com/semkivolya/kottans-frontend).
 
