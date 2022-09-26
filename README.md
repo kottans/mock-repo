@@ -4334,3 +4334,7 @@ My name's Kyryl. Nice to meet you!
 
 ## Hello everybody!
 My name is Yevhen/ Let's do it!!!
+
+
+## Hello, kottans!
+My name is Eugene and I'm glad to join this course
