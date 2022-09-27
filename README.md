@@ -1,7 +1,8 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
-# Hello here!
+<!-- That's my first pull request -->
+# Hello here! 
 
 I'm Olha from Kryvyi Rih.
 
