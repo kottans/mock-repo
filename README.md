@@ -4461,3 +4461,7 @@ My name's Kyryl. Nice to meet you!
 ## Hello everybody!
 
 My name is Yevhen/ Let's do it!!!
+
+## Hi!
+My name is Dana. In my opinion, this introductory course is very interesting and rich. I wish you all success!
+
