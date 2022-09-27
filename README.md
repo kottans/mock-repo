@@ -1,3 +1,4 @@
+![на торт 2](https://user-images.githubusercontent.com/114451330/192404570-73c3fdea-ee50-4286-97e8-dfd82da937fc.png)
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
