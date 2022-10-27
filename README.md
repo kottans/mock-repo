@@ -1,6 +1,12 @@
 # Kottans-frontend
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
+# Holla!
+
+I`m Pavlo!
+
+Glory to Ukraine!
+---
 # Hello here!
 
 I'm Olha from Kryvyi Rih.
