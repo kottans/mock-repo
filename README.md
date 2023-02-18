@@ -1,6 +1,21 @@
 # Kottans-frontend
+---
+ 
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
+
+# Hi!
+I'm Natalia from Kharkov. [My repository](https://github.com/natata-tutorial/kottans-frontend.git)
+
+      /\_/\
+    =(/\./\)=
+     (")_(")
+
+----------
+I am happy to be a part of this project! Thank you))
+
+---
+
 # Hello here!
 
 I'm Olha from Kryvyi Rih.
