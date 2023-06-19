@@ -2107,7 +2107,7 @@ In case anyone is from **Lviv**, let's keep in touch
   {  O   O  }
   ~~>  V  <~~
    \  \|/  /
-    `-----'\_\_
+   \_\_
 / \ `^\_
 { }\ |\_\_ W
 | \_/ |/ / \_\_( )
@@ -3722,8 +3722,8 @@ Now I want to study it more deeply, because I want to work in this field
 :upside_down_face: Make fun in studying :blush:
 
 My trening [repo](https://github.com/TinaBond/kottans-frontend-08-2022) :tada:
-:kissing_cat:
-**_meow_**
+:kissing*cat:
+\*\*\_meow*\*\*
 ![nice cat-octopus](./assets/images/image-rendered.png)
 
 ## My name is Ksenia !
