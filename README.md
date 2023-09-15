@@ -4371,3 +4371,8 @@ I wish you a good day;)
 # Всім привіт! Я Арсен з Дрогобича!
 
 Дуже дякую за подану інформацію і підтримку в чаті! Працюємо!
+
+# Hello great team!
+
+I'm Iryna.
+Thank you for the opportunity to study interesting and useful course material. And I wish you success.
