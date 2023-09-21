@@ -4376,3 +4376,8 @@ I wish you a good day;)
 
 I'm Iryna.
 Thank you for the opportunity to study interesting and useful course material. And I wish you success.
+
+# It was not easy to read all the previous greetings, but i managed to :3
+
+I'm Andrii
+I appreciate this opportunity and will try my best.
