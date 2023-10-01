@@ -4279,8 +4279,11 @@ ___
 My name Taras. I want to learn frontend
 Link to my [repository](https://github.com/Shadovhhd/mock-repo.git).
 
+---
 ## Hello everyone
 https://www.airbnb.com/rooms/33818523?adults=2&location=Krakow%2C%20Poland&check_in=2022-09-10&check_out=2022-10-06&federated_search_id=1b2e71b0-df71-47d7-bd81-8a956f7baf4b&source_impression_id=p3_1662296668_aW%2BTXklZkQIfL9Sa&modal=PHOTO_TOUR_SCROLLABLE
+
+---
 ## Here was Vadim
 This line is 4192, here is my cat for you guys who scrolled to here
 ![mia](assets/images/PXL_20220807_103903323.jpg)
@@ -4295,7 +4298,8 @@ Hi, Kottans!
 My name is Alyona and I like to be part of the kottans students-team! Thanks for the opportunity!
 Link to my [repository](https://github.com/bordun2022/kottans-frontend.git).
 
-##Hi, everyone! I'm Diana. Wish you all the best!
+---
+## Hi, everyone! I'm Diana. Wish you all the best!
 
 My name is Rost. I am from Kharkiv, but now I live in Poltava
 ![my cat](.assets/images/pusha.jpg)
@@ -4305,12 +4309,15 @@ Good luck!
 Hello everybody!
 My name is Yevhen. My repository is [https://github.com/bar-ea/kottans-frontend](https://github.com/bar-ea/kottans-frontend). Nice to meet you.
 
+---
 ## Hello World
 
+---
 ## Greetings :wave: to all!
 My name is Oliia. Thanks to the [Kottans community](https://kottans.org/) for this well-thought course!
 Here is my [repository](https://github.com/semkivolya/kottans-frontend).
 
+---
 ## Hello!
 
 My name is [Yurii](https://github.com/merowing).
@@ -4318,41 +4325,48 @@ My name is [Yurii](https://github.com/merowing).
 This is my second try to get an offer.
 ![SadCat](./assets/images/sad-cat.jpg)
 
+---
 ## Hello fellas!
 
 My name is [Dimond](https://github.com/dd44it). Thanks to the [Kottans community](https://kottans.org/) for great opportunity to study web development!
 
 ![SadCat](./assets/images/chilly-sem.jpg)
 
+---
 # ¯\_(ツ)_/¯
 Hello everyone! My name's Oleksii. Nice to meet you!
 
+---
 ## Hi
 My name's Anna.
 
-____________________________________________
+---
 ## Hello, kottans!
 I'm Ira ^-^
 
 I'm glad to be here. I didn't work with Git so tight, so almost everything was new and difficult for me but I nailed it :) The coolest thing that I liked is learngitbranching.js.org . This is a good interactive program for learning git commands, I had a lot of fun using it.  
 
+---
 ## Hello!
 I'm Anna. Thank you for the opportunity to participate in such a cool project.
 
+---
 ## Hi!
 My name's Serafim. Nice to meet you!
 
-
+---
 ## Hello!
 My name's Kyryl. Nice to meet you!
 
-
+---
 ## Hello everybody!
 My name is Yevhen/ Let's do it!!!
 
+---
 ## Hi!
 My name is Dana. In my opinion, this introductory course is very interesting and rich. I wish you all success!
 
+---
 # Dobryi Den Every body.
 My name is Valerii. #465533 And i'm glad to be here.
 
@@ -4372,11 +4386,13 @@ I wish you a good day;)
 
 Дуже дякую за подану інформацію і підтримку в чаті! Працюємо!
 
+---
 # Hello great team!
 
 I'm Iryna.
 Thank you for the opportunity to study interesting and useful course material. And I wish you success.
 
+---
 # It was not easy to read all the previous greetings, but i managed to :3
 
 I'm Andrii
