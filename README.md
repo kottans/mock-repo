@@ -4397,3 +4397,8 @@ Thank you for the opportunity to study interesting and useful course material. A
 
 I'm Andrii
 I appreciate this opportunity and will try my best.
+
+--- 
+# Привіт всім! 
+
+Розпочинаю цей шлях, буду радий новим знайомств.
