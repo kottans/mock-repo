@@ -1,9 +1,11 @@
 # Kottans-frontend
 ---
- 
+
 ## Help with your first commit -> [discord](https://discord.gg/CqHKGU8vry)
 ---
-
+# Hi!
+I am Volodymyr.
+Greetings to all!
 # Hi!
 I'm Natalia from Kharkov. [My repository](https://github.com/natata-tutorial/kottans-frontend.git)
 
@@ -4398,7 +4400,7 @@ Thank you for the opportunity to study interesting and useful course material. A
 I'm Andrii
 I appreciate this opportunity and will try my best.
 
---- 
-# Привіт всім! 
+---
+# Привіт всім!
 
 Розпочинаю цей шлях, буду радий новим знайомств.
