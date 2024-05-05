@@ -4404,3 +4404,11 @@ I appreciate this opportunity and will try my best.
 # Привіт всім!
 
 Розпочинаю цей шлях, буду радий новим знайомств.
+
+# Hi!
+I'm Vlad, nice to meet you
+
+      /\_/\
+    =(/\./\)=
+     (")_(")
+       
